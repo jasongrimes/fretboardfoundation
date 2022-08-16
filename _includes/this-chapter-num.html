@@ -1,0 +1,7 @@
+{% for chapter in site.chapters -%}
+  {% if chapter.id == page.id -%}
+    {{ forloop.index -}}
+    {% break %}
+  {% endif %}
+{% endfor -%}
+

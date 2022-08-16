@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Fretboard Foundation
 
 You can use the [editor on GitHub](https://github.com/jasongrimes/ff-next/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
