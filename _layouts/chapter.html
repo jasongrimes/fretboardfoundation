@@ -41,28 +41,42 @@
 
           {%- include body.html -%}
 
-          {% if chapter_prev %}
-            {% include assign-chapter-vars.html chapter=chapter_prev %}
-            <a href="{{site.baseurl}}{{chapter_url}}" class="chapter-pager chapter-prev" aria-label="Previous page: {{chapter_label}}">
-              <i class="fa fa-angle-left"></i>
-              Previous
-              {% if part_label %}- {{ part_label }}{% endif %}
-              <br/>
-              {% if chapter_num %}Chapter {{ chapter_num }}.{% endif %}
-              {{ chapter_label }}
-            </a>
-          {% endif %}
+          {% if chapter_prev or chapter_next %}
+            <div class="chapter-pager">
+            {% if chapter_prev %}
+              {% include assign-chapter-vars.html chapter=chapter_prev %}
+              <a href="{{site.baseurl}}{{chapter_url}}" class="chapter-prev {% unless chapter_next %}pager-unique{% endunless %}" aria-label="Previous page: {{chapter_label}}">
+                <div class="pager-arrow">
+                  <i class="fa fa-arrow-left"></i>
+                </div>
+                <div class="pager-labels">
+                  <div class="part">
+                    {% if part_label %}{{ part_label }} -{% endif %}
+                    Previous
+                  </div>
+                  {% if chapter_num %}Chapter {{ chapter_num }}:{% endif %}
+                  {{ chapter_label }}
+                </div>
+              </a>
+            {% endif %}
 
-          {% if chapter_next %}
-            {% include assign-chapter-vars.html chapter=chapter_next %}
-            <a href="{{site.baseurl}}{{chapter_url}}" class="chapter-pager chapter-next" aria-label="Next page: {{chapter_label}}">
-              <i class="fa fa-angle-right"></i>
-              Next
-              {% if part_label %}- {{ part_label }}{% endif %}
-              <br/>
-              {% if chapter_num %}Chapter {{ chapter_num }}.{% endif %}
-              {{ chapter_label }}
-            </a>
+            {% if chapter_next %}
+              {% include assign-chapter-vars.html chapter=chapter_next %}
+              <a href="{{site.baseurl}}{{chapter_url}}" class="chapter-next {% unless chapter_prev %}pager-unique{% endunless %}" aria-label="Next page: {{chapter_label}}">
+                <div class="pager-arrow">
+                  <i class="fa fa-arrow-right"></i>
+                </div>
+                <div class="pager-labels">
+                  <div class="part">
+                    Next
+                    {% if part_label %}- {{ part_label }}{% endif %}
+                  </div>
+                  {% if chapter_num %}Chapter {{ chapter_num }}:{% endif %}
+                  {{ chapter_label }}
+                </div>
+              </a>
+            {% endif %}
+            </div> <!-- .chapter-pager -->
           {% endif %}
 
           <!--

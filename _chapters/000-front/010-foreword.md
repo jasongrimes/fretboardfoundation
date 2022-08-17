@@ -3,6 +3,7 @@ title: Foreword
 slug: foreword
 ---
 
+[My link](/)
 
 {% include assign-chapter-vars.html chapter=page %}
 This page:
