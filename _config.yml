@@ -39,12 +39,35 @@ exclude:
   - _drafts
 
 collections:
-#  pages:
-#    output: true
-#    permalink: /:collection/:path/
   chapters:
     output: true
-    permalink: /:slug:output_ext
+  front:
+    output: true
+  back:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "chapters"
+    values:
+      layout: "chapter"
+      permalink: /:slug:output_ext
+  -
+    scope:
+      path: ""
+      type: "front"
+    values:
+      layout: "chapter"
+      permalink: /:slug:output_ext
+  -
+    scope:
+      path: ""
+      type: "back"
+    values:
+      layout: "chapter"
+      permalink: /:slug:output_ext
 
 #page_width: 800px
 

@@ -1,0 +1,94 @@
+<div class="book-summary">
+  <nav role="navigation">
+    <div id="book-search-input" role="search">
+      <input type="text" placeholder="Type to search" />
+    </div>
+    <div id="book-search-input-link" role="search">
+      <a href="{{site.baseurl}}/assets/search.html">Click to Search</a>
+    </div>
+    <ul class="summary">
+      {% if page.url == "/index.html" or page.url == "/" %}
+        <li class="chapter active" data-level="1.1" data-path="{{site.baseurl}}">
+      {% else %}
+        <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}">
+      {% endif %}
+        <a href="{{site.baseurl}}/">
+          {{ site.title | escape }}
+        </a>
+      </li>
+
+      <li class="divider"></li>
+
+      {% for collection in site.collections %}
+        <!-- <p>{{ collection.label }}</p> -->
+        {% if collection.output %}
+          {% if collection.label == "posts" %}
+            {% assign chapters = site[collection.label] | reverse %}
+          {% else %}
+            {% assign chapters = site[collection.label] %}
+          {% endif %}
+
+          {% assign partnum = 0 %}
+          {% assign chapternum = 0 %}
+          {% assign lastpart = "" %}
+          {% for post in chapters %}
+            {% comment %}
+              Determine part and chapter numbers
+            {% endcomment %}
+            {% assign printpart = false %}
+            {% assign printchapternum = false %}
+            {% assign part = "" %}
+
+            {% assign pathparts = post.path | split: "/" %}
+            {% if pathparts.size > 2 %}
+              {% assign part = post.path | split: "/" | slice: 1 | first %}
+              {% assign partindex = part | split: "-" | first %}
+              {% if partindex != "000" %}
+                {% assign partlabel = part | split: "-" | shift | join: " " | capitalize %}
+                {% assign chapternum = chapternum | plus: 1 %}
+                {% assign printchapternum = true %}
+                {% if part != lastpart %}
+                  {% assign partnum = partnum | plus: 1 %}
+                  {% assign printpart = true %}
+                {% endif %}
+              {% endif %}
+            {% endif %}
+            {% assign lastpart = part %}
+
+            {% if printpart %}
+              <li class="header">Part {{ partnum }}: {{ partlabel }}</li>
+            {% endif %}
+
+            {% if page.url == post.url %}
+              <li class="chapter active" data-level="1.2" data-path="{{site.baseurl}}{{post.url}}">
+            {% else %}
+              <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}{{post.url}}">
+            {% endif %}
+            <a href="{{site.baseurl}}{{post.url}}">
+              {% if printchapternum %}{{ chapternum }}.{% endif %}
+              {{ post.title | escape }}
+            </a>
+            {% if site.toc.enabled %}
+              {% if page.url == post.url %}
+                {% include toc.html html=content h_min=site.toc.h_min h_max=site.toc.h_max %}
+              {% endif %}
+            {% endif %}
+            </li>
+          {% endfor %}
+
+          {% if chapters.size > 0 %}
+            <li class="divider"></li>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+
+      <!--
+      <li>
+        <a href="https://github.com/sighingnow/jekyll-gitbook/fork" target="blank" class="gitbook-link">
+          Fork it Now!
+        </a>
+      </li>
+      -->
+    </ul>
+  </nav>
+</div>
