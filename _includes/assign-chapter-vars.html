@@ -2,7 +2,7 @@
 {% assign chapter_label = nil %}
 {% assign part_num = nil %}
 {% assign part_label = nil %}
-{% assign part = nil %}
+{% assign part_folder = nil %}
 {% assign part_unnumbered = false %}
 
 {% if include.chapter and include.chapter.collection == "chapters" %}
@@ -14,7 +14,7 @@
 
     {% unless part_unnumbered %}
       {% assign _chapternum = _chapternum | plus: 1 %}
-      {% if part != _lastpart %}
+      {% if part_folder != _lastpart %}
         {% assign _partnum = _partnum | plus: 1 %}
       {% endif %}
     {% endunless %}
@@ -28,6 +28,6 @@
       {% break %}
     {% endif %}
 
-    {% assign _lastpart = part %}
+    {% assign _lastpart = part_folder %}
   {% endfor %}
 {% endif %}
