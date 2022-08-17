@@ -1,0 +1,33 @@
+{% assign chapter_num = nil %}
+{% assign chapter_label = nil %}
+{% assign part_num = nil %}
+{% assign part_label = nil %}
+{% assign part = nil %}
+{% assign part_unnumbered = false %}
+
+{% if include.chapter and include.chapter.collection == "chapters" %}
+  {% assign _partnum = 0 %}
+  {% assign _chapternum = 0 %}
+  {% assign _lastpart = "" %}
+  {% for _chapter in site.chapters %}
+    {% include assign-part-vars-lite.html page=_chapter %}
+
+    {% unless part_unnumbered %}
+      {% assign _chapternum = _chapternum | plus: 1 %}
+      {% if part != _lastpart %}
+        {% assign _partnum = _partnum | plus: 1 %}
+      {% endif %}
+    {% endunless %}
+
+    {% if _chapter.id == include.chapter.id %}
+      {% assign chapter_label = _chapter.title %}
+      {% unless part_unnumbered %}
+        {% assign part_num = _partnum %}
+        {% assign chapter_num = _chapternum %}
+      {% endunless %}
+      {% break %}
+    {% endif %}
+
+    {% assign _lastpart = part %}
+  {% endfor %}
+{% endif %}

@@ -6,9 +6,37 @@ slug: dummy
 
 ## Here's a heading
 
-Chapter {% include this-chapter-num.html %}.
 
-`page.path` {{ page.path }}
+{% include assign-chapter-vars.html chapter=page %}
+This page:
+
+    {% if part_label %}Part {{ part_num }}: {{ part_label }}{% endif %}
+    {% if chapter_num %}Chapter {{ chapter_num }}.{% endif %} {{ chapter_label }}
+    
+
+{% include assign-chapter-vars.html chapter=page.previous %}
+Previous page:
+
+    {% if part_label %}Part {{ part_num }}: {{ part_label }}{% endif %}
+    {% if chapter_num %}Chapter {{ chapter_num }}.{% endif %} {{ chapter_label }}
+    
+{% include assign-chapter-vars.html chapter=page.next %}
+Next page:
+
+    {% if part_label %}Part {{ part_num }}: {{ part_label }}{% endif %}
+    <a href="{{ page.next.url }}">{% if chapter_num %}Chapter {{ chapter_num }}.{% endif %} {{ chapter_label }}</a>
+
+{% include assign-chapter-vars.html chapter=site.chapters.first %}
+First page:
+
+    {% if part_label %}Part {{ part_num }}: "{{ part_label }}"{% endif %}
+    {% if chapter_num %}Chapter {{ chapter_num }}.{% endif %} {{ chapter_label }}
+
+{% include assign-chapter-vars.html chapter=site.chapters.last %}
+Last page:
+
+    {% if part_label %}Part {{ part_num }}: "{{ part_label }}"{% endif %}
+    {% if chapter_num %}Chapter {{ chapter_num }}.{% endif %} {{ chapter_label }}
 
 {% assign parts = page.path | split: "/" %}
 `parts` {{ parts | inspect }}

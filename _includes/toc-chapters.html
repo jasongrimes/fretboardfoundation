@@ -6,7 +6,10 @@
     <div id="book-search-input-link" role="search">
       <a href="{{site.baseurl}}/assets/search.html">Click to Search</a>
     </div>
+
     <ul class="summary">
+
+      <!-- Home page -->
       {% if page.url == "/index.html" or page.url == "/" %}
         <li class="chapter active" data-level="1.1" data-path="{{site.baseurl}}">
       {% else %}
@@ -19,6 +22,7 @@
 
       <li class="divider"></li>
 
+      <!-- Chapters -->
       {% for collection in site.collections %}
         <!-- <p>{{ collection.label }}</p> -->
         {% if collection.output %}
@@ -31,45 +35,33 @@
           {% assign partnum = 0 %}
           {% assign chapternum = 0 %}
           {% assign lastpart = "" %}
-          {% for post in chapters %}
-            {% comment %}
-              Determine part and chapter numbers
-            {% endcomment %}
-            {% assign printpart = false %}
-            {% assign printchapternum = false %}
-            {% assign part = "" %}
-
-            {% assign pathparts = post.path | split: "/" %}
-            {% if pathparts.size > 2 %}
-              {% assign part = post.path | split: "/" | slice: 1 | first %}
-              {% assign partindex = part | split: "-" | first %}
-              {% if partindex != "000" %}
-                {% assign partlabel = part | split: "-" | shift | join: " " | capitalize %}
-                {% assign chapternum = chapternum | plus: 1 %}
-                {% assign printchapternum = true %}
-                {% if part != lastpart %}
-                  {% assign partnum = partnum | plus: 1 %}
-                  {% assign printpart = true %}
-                {% endif %}
+          {% for chapter in chapters %}
+            {% assign newpart = false %}
+            {% include assign-part-vars-lite.html page=chapter %}
+            {% unless part_unnumbered %}
+              {% assign chapternum = chapternum | plus: 1 %}
+              {% if part != lastpart %}
+                {% assign partnum = partnum | plus: 1 %}
+                {% assign newpart = true %}
               {% endif %}
-            {% endif %}
+            {% endunless %}
             {% assign lastpart = part %}
 
-            {% if printpart %}
-              <li class="header">Part {{ partnum }}: {{ partlabel }}</li>
+            {% if newpart and part_label %}
+              <li class="header">Part {{ partnum }}: {{ part_label }}</li>
             {% endif %}
 
-            {% if page.url == post.url %}
-              <li class="chapter active" data-level="1.2" data-path="{{site.baseurl}}{{post.url}}">
+            {% if page.url == chapter.url %}
+              <li class="chapter active" data-level="1.2" data-path="{{site.baseurl}}{{chapter.url}}">
             {% else %}
-              <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}{{post.url}}">
+              <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}{{chapter.url}}">
             {% endif %}
-            <a href="{{site.baseurl}}{{post.url}}">
-              {% if printchapternum %}{{ chapternum }}.{% endif %}
-              {{ post.title | escape }}
+            <a href="{{site.baseurl}}{{chapter.url}}">
+              {% unless part_unnumbered %}{{ chapternum }}.{% endunless %}
+              {{ chapter.title | escape }}
             </a>
             {% if site.toc.enabled %}
-              {% if page.url == post.url %}
+              {% if page.url == chapter.url %}
                 {% include toc.html html=content h_min=site.toc.h_min h_max=site.toc.h_max %}
               {% endif %}
             {% endif %}

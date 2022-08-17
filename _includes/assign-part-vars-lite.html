@@ -1,0 +1,16 @@
+{% assign part = nil %}
+{% assign part_label = nil %}
+{% assign part_unnumbered = false %}
+
+{% if include.page and include.page.collection == "chapters" %}
+  {% assign part = include.page.path | split: "/" | slice: 1 | first %}
+{% endif %}
+
+{% if part %}
+  {% assign _partindex = part | split: "-" | first %}
+  {% if _partindex == "000" %}
+    {% assign part_unnumbered = true %}
+  {% else %}
+    {% assign part_label = part | split: "-" | shift | join: " " | capitalize %}
+  {% endif %}
+{% endif %}
