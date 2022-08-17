@@ -42,7 +42,7 @@
           {%- include body.html -%}
 
           {% if chapter_prev or chapter_next %}
-            <div class="chapter-pager">
+            <div class="chapter-pager page-inner">
             {% if chapter_prev %}
               {% include assign-chapter-vars.html chapter=chapter_prev %}
               <a href="{{site.baseurl}}{{chapter_url}}" class="chapter-prev {% unless chapter_next %}pager-unique{% endunless %}" aria-label="Previous page: {{chapter_label}}">
