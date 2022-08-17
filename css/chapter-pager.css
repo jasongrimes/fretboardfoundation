@@ -1,0 +1,8 @@
+
+.chapter-pager {
+    display: inline-block;
+    width: 50%;
+}
+.chapter-next {
+    float: right;
+}

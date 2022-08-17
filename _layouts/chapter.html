@@ -4,14 +4,19 @@
 
     {%- include head.html -%}
 
-    {% if page.previous %}
-      <link rel="prev" href="{{site.baseurl}}{{page.previous.url}}" />
+    <link rel="stylesheet" href="{{site.baseurl}}/css/chapter-pager.css">
+
+
+    {% include assign-chapter-vars.html chapter=page %}
+
+    {% if chapter_prev %}
+      <link rel="prev" href="{{site.baseurl}}{{chapter_prev.url}}" />
     {% else %}
       <link rel="prev" href="{{site.baseurl}}/" />
     {% endif %}
 
-    {% if page.next %}
-      <link rel="next" href="{{site.baseurl}}{{page.next.url}}" />
+    {% if chapter_next %}
+      <link rel="next" href="{{site.baseurl}}{{chapter_next.url}}" />
     {% endif %}
   </head>
   <body>
@@ -36,23 +41,49 @@
 
           {%- include body.html -%}
 
+          {% if chapter_prev %}
+            {% include assign-chapter-vars.html chapter=chapter_prev %}
+            <a href="{{site.baseurl}}{{chapter_url}}" class="chapter-pager chapter-prev" aria-label="Previous page: {{chapter_label}}">
+              <i class="fa fa-angle-left"></i>
+              Previous
+              {% if part_label %}- {{ part_label }}{% endif %}
+              <br/>
+              {% if chapter_num %}Chapter {{ chapter_num }}.{% endif %}
+              {{ chapter_label }}
+            </a>
+          {% endif %}
+
+          {% if chapter_next %}
+            {% include assign-chapter-vars.html chapter=chapter_next %}
+            <a href="{{site.baseurl}}{{chapter_url}}" class="chapter-pager chapter-next" aria-label="Next page: {{chapter_label}}">
+              <i class="fa fa-angle-right"></i>
+              Next
+              {% if part_label %}- {{ part_label }}{% endif %}
+              <br/>
+              {% if chapter_num %}Chapter {{ chapter_num }}.{% endif %}
+              {{ chapter_label }}
+            </a>
+          {% endif %}
+
+          <!--
           {% if page.previous %}
-          <a href="{{site.baseurl}}{{page.previous.url}}" class="navigation navigation-prev navigation-unique" aria-label="Previous page: {{page.previous.title}}">
+          <a href="{{site.baseurl}}{{page.previous.url}}" class="chapter-pager navigation navigation-prev navigation-unique" aria-label="Previous page: {{page.previous.title}}">
             <i class="fa fa-angle-left"></i>
           </a>
           {% else %}
             {% if page.url != "/index.html" and page.url != "/" %}
-              <a href="{{site.baseurl}}/" class="navigation navigation-prev navigation-unique" aria-label="Previous page: {{site.title}}">
+              <a href="{{site.baseurl}}/" class="chapter-pager navigation navigation-prev navigation-unique" aria-label="Previous page: {{site.title}}">
                 <i class="fa fa-angle-left"></i>
               </a>
             {% endif %}
           {% endif %}
 
           {% if page.next %}
-          <a href="{{site.baseurl}}{{page.next.url}}" class="navigation navigation-next navigation-unique" aria-label="Next page: {{page.next.title}}">
+          <a href="{{site.baseurl}}{{page.next.url}}" class="chapter-pager navigatiob navigation-next navigation-unique" aria-label="Next page: {{page.next.title}}">
             <i class="fa fa-angle-right"></i>
           </a>
           {% endif %}
+          -->
         </div>
       </div>
 
