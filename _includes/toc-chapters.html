@@ -23,64 +23,51 @@
       <li class="divider"></li>
 
       <!-- Chapters -->
-      {% for collection in site.collections %}
-        <!-- <p>{{ collection.label }}</p> -->
-        {% if collection.output %}
-          {% if collection.label == "posts" %}
-            {% assign chapters = site[collection.label] | reverse %}
-          {% else %}
-            {% assign chapters = site[collection.label] %}
+      {% assign part_num = 0 %}
+      {% assign chapter_num = 0 %}
+      {% assign prevpart = "" %}
+      {% for chapter in site.chapters %}
+        {% assign is_new_part = false %}
+        {% include assign-part-vars-lite.html page=chapter %}
+        {% unless part_unnumbered %}
+          {% assign chapter_num = chapter_num | plus: 1 %}
+          {% if part_folder != prevpart %}
+            {% assign part_num = part_num | plus: 1 %}
+            {% assign is_new_part = true %}
           {% endif %}
+        {% endunless %}
+        {% assign prevpart = part_folder %}
 
-          {% assign partnum = 0 %}
-          {% assign chapternum = 0 %}
-          {% assign lastpart = "" %}
-          {% for chapter in chapters %}
-            {% assign newpart = false %}
-            {% include assign-part-vars-lite.html page=chapter %}
-            {% unless part_unnumbered %}
-              {% assign chapternum = chapternum | plus: 1 %}
-              {% if part != lastpart %}
-                {% assign partnum = partnum | plus: 1 %}
-                {% assign newpart = true %}
-              {% endif %}
-            {% endunless %}
-            {% assign lastpart = part %}
+        {% if is_new_part and part_label %}
+          <li class="header">Part {{ part_num }}: {{ part_label }}</li>
+        {% endif %}
 
-            {% if newpart and part_label %}
-              <li class="header">Part {{ partnum }}: {{ part_label }}</li>
-            {% endif %}
-
-            {% if page.url == chapter.url %}
-              <li class="chapter active" data-level="1.2" data-path="{{site.baseurl}}{{chapter.url}}">
-            {% else %}
-              <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}{{chapter.url}}">
-            {% endif %}
-            <a href="{{site.baseurl}}{{chapter.url}}">
-              {% unless part_unnumbered %}{{ chapternum }}.{% endunless %}
-              {{ chapter.title | escape }}
-            </a>
-            {% if site.toc.enabled %}
-              {% if page.url == chapter.url %}
-                {% include toc.html html=content h_min=site.toc.h_min h_max=site.toc.h_max %}
-              {% endif %}
-            {% endif %}
-            </li>
-          {% endfor %}
-
-          {% if chapters.size > 0 %}
-            <li class="divider"></li>
+        {% if page.url == chapter.url %}
+          <li class="chapter active" data-level="1.2" data-path="{{site.baseurl}}{{chapter.url}}">
+        {% else %}
+          <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}{{chapter.url}}">
+        {% endif %}
+        <a href="{{site.baseurl}}{{chapter.url}}">
+          {% unless part_unnumbered %}{{ chapter_num }}.{% endunless %}
+          {{ chapter.title | escape }}
+        </a>
+        {% if site.toc.enabled %}
+          {% if page.url == chapter.url %}
+            {% include toc.html html=content h_min=site.toc.h_min h_max=site.toc.h_max %}
           {% endif %}
         {% endif %}
+        </li>
       {% endfor %}
 
-      <!--
-      <li>
-        <a href="https://github.com/sighingnow/jekyll-gitbook/fork" target="blank" class="gitbook-link">
-          Fork it Now!
-        </a>
-      </li>
-      -->
+      {% if site.chapters.size > 0 %}
+        <li class="divider"></li>
+      {% endif %}
+
+      {% for item in site.data.nav %}
+        <li class="{% if item.url == page.url %}active{% endif %}">
+          <a href="{{ item.url }}" class="gitbook-link">{{ item.title }}</a>
+        </li>
+      {% endfor %}
     </ul>
   </nav>
 </div>

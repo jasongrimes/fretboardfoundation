@@ -1,15 +1,32 @@
 {% assign chapter_num = nil %}
 {% assign chapter_label = nil %}
+{% assign chapter_url = nil %}
 {% assign part_num = nil %}
 {% assign part_label = nil %}
 {% assign part_folder = nil %}
 {% assign part_unnumbered = false %}
+{% if include.chapter.id == page.id %}
+  {% assign chapter_prev = nil %}
+  {% assign chapter_next = nil %}
+{% endif %}
 
 {% if include.chapter and include.chapter.collection == "chapters" %}
   {% assign _partnum = 0 %}
   {% assign _chapternum = 0 %}
-  {% assign _lastpart = "" %}
+  {% assign _lastpart = nil %}
+  {% assign _found = false %}
+  {% if include.chapter.id == page.id %}
+    {% assign _prevchapter = nil %}
+  {% endif %}
+
   {% for _chapter in site.chapters %}
+    {% if _found %}
+      {% if include.chapter.id == page.id %}
+        {% assign chapter_next = _chapter %}
+      {% endif %}
+      {% break %}
+    {% endif %}
+
     {% include assign-part-vars-lite.html page=_chapter %}
 
     {% unless part_unnumbered %}
@@ -20,14 +37,21 @@
     {% endunless %}
 
     {% if _chapter.id == include.chapter.id %}
+      {% assign _found = true %}
       {% assign chapter_label = _chapter.title %}
+      {% assign chapter_url = _chapter.url %}
+      {% if include.chapter.id == page.id %}
+        {% assign chapter_prev = _prevchapter %}
+      {% endif %}
       {% unless part_unnumbered %}
         {% assign part_num = _partnum %}
         {% assign chapter_num = _chapternum %}
       {% endunless %}
-      {% break %}
     {% endif %}
 
     {% assign _lastpart = part_folder %}
+    {% if include.chapter.id == page.id %}
+      {% assign _prevchapter = _chapter %}
+    {% endif %}
   {% endfor %}
 {% endif %}
