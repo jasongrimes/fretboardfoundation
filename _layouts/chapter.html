@@ -4,9 +4,6 @@
 
     {%- include head.html -%}
 
-    <link rel="stylesheet" href="{{site.baseurl}}/css/chapter-pager.css">
-
-
     {% include assign-chapter-vars.html chapter=page %}
 
     {% if chapter_prev %}
@@ -28,12 +25,15 @@
         <div class="book-header" role="navigation">
           <!-- Title -->
           <h1>
+            <a href="/" >{{ site.title | escape }}</a>
+            <!--
             <i class="fa fa-circle-o-notch fa-spin"></i>
             {% if page.title %}
             <a href="." >{{ page.title | escape }}</a>
             {% else %}
             <a href="." >{{ site.title | escape }}</a>
             {% endif %}
+            -->
           </h1>
         </div>
 

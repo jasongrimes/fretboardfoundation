@@ -13,7 +13,7 @@ toc:
   h_max: 3
 
 # customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
-favicon_path: /assets/gitbook/images/favicon.ico
+favicon_path: assets/gitbook/images/favicon.ico
 
 #page_width: 800px
 
@@ -53,6 +53,8 @@ github_edit:
   enabled: true
   base_url: https://github.com/jasongrimes/ff-next/edit/main/
 
+extra_css:
+    - css/chapterbook.css
 
 defaults:
   -
