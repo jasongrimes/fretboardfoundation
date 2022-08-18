@@ -41,8 +41,11 @@
 
           {%- include body.html -%}
 
+
+          <div class="body-inner-footer" style="max-width: 800px; padding: 20px 15px 40px 15px; margin: 0 auto;">
+
           {% if chapter_prev or chapter_next %}
-            <div class="chapter-pager page-inner">
+            <div class="chapter-pager">
             {% if chapter_prev %}
               {% include assign-chapter-vars.html chapter=chapter_prev %}
               <a href="{{site.baseurl}}{{chapter_url}}" class="chapter-prev {% unless chapter_next %}pager-unique{% endunless %}" aria-label="Previous page: {{chapter_label}}">
@@ -76,30 +79,27 @@
                 </div>
               </a>
             {% endif %}
+              <div style="clear: both;"></div>
             </div> <!-- .chapter-pager -->
           {% endif %}
 
-          <!--
-          {% if page.previous %}
-          <a href="{{site.baseurl}}{{page.previous.url}}" class="chapter-pager navigation navigation-prev navigation-unique" aria-label="Previous page: {{page.previous.title}}">
-            <i class="fa fa-angle-left"></i>
-          </a>
-          {% else %}
-            {% if page.url != "/index.html" and page.url != "/" %}
-              <a href="{{site.baseurl}}/" class="chapter-pager navigation navigation-prev navigation-unique" aria-label="Previous page: {{site.title}}">
-                <i class="fa fa-angle-left"></i>
+
+          {% if site.github_edit.enabled %}
+            <div style="border-top: 1px solid #ccc; margin-top: 24px; padding-top: 24px; text-align: center; width: 100%;">
+              <a href="{{ site.github_edit.base_url }}{{ page.path }}" target="_blank" title="Edit on GitHub">
+                <i class="fa fa-github" style="color: #999; font-size: 18px;"></i>
               </a>
-            {% endif %}
+            </div>
           {% endif %}
 
-          {% if page.next %}
-          <a href="{{site.baseurl}}{{page.next.url}}" class="chapter-pager navigatiob navigation-next navigation-unique" aria-label="Next page: {{page.next.title}}">
-            <i class="fa fa-angle-right"></i>
-          </a>
-          {% endif %}
-          -->
-        </div>
-      </div>
+
+          </div> <!-- .body-inner-footer -->
+
+
+        </div> <!-- .body-inner -->
+      </div> <!-- .book -->
+
+
 
       <script>
         var gitbook = gitbook || [];
@@ -108,6 +108,7 @@
         });
       </script>
     </div>
+
 
     {%- include footer.html -%}
 

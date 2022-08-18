@@ -1,6 +1,6 @@
 
 .chapter-pager {
-    margin: 24px 0px;
+    margin-top: 24px;
 }
 .chapter-pager a {
     padding: 15px;
@@ -9,7 +9,6 @@
     float: left;
     width: 100%;
     color: inherit;
-    margin-bottom: 10px;
     height: 70px;
     white-space: nowrap;
     overflow: hidden;
@@ -18,6 +17,9 @@
 }
 .chapter-pager a.chapter-next {
     float: right;
+}
+.chapter-pager a.chapter-prev {
+    margin-bottom: 10px;
 }
 .chapter-pager a:hover {
     color: #4183c4;

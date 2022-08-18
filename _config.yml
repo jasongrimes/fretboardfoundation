@@ -15,6 +15,13 @@ toc:
 # customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
 favicon_path: /assets/gitbook/images/favicon.ico
 
+#page_width: 800px
+
+destination:      ./_site
+incremental:      false
+regenerate:       true
+
+
 # markdown render engine.
 markdown:         kramdown
 kramdown:
@@ -41,10 +48,11 @@ exclude:
 collections:
   chapters:
     output: true
-  front:
-    output: true
-  back:
-    output: true
+
+github_edit:
+  enabled: true
+  base_url: https://github.com/jasongrimes/ff-next/edit/main/
+
 
 defaults:
   -
@@ -68,10 +76,4 @@ defaults:
     values:
       layout: "chapter"
       permalink: /:slug:output_ext
-
-#page_width: 800px
-
-destination:      ./_site
-incremental:      false
-regenerate:       true
 
