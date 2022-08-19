@@ -1,0 +1,5 @@
+---
+title: Ergonomics
+slug: ergonomics
+---
+

@@ -1,6 +1,6 @@
 ---
-title: Playing by ear
+title: Anyone can improvise
 slug: playing-by-ear
 ---
 
-todo
+

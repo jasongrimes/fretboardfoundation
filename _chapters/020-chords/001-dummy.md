@@ -2,6 +2,7 @@
 layout: chapter
 title: Dummy chapter
 slug: dummy
+published: false
 ---
 
 ## Here's a heading
