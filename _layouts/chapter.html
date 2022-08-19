@@ -37,7 +37,7 @@
           </h1>
         </div>
 
-        <div class="body-inner">
+        <div class="body-inner chapter">
 
           {%- include body.html -%}
 
@@ -87,14 +87,24 @@
           </div> <!-- .chapter-pager -->
           {% endif %}
 
+          <div class="chapter-footer">
+            {% assign latest_year = "now" | date: "%Y" %}
+            {% if site.copyright.link_slug %}<a href="{{ site.baseurl }}{{ site.copyright.link_slug }}">{% endif %}
+            Copyright
+              &copy;
+              {% if site.copyright.start_year and site.copyright.start_year != latest_year %}{{ site.copyright.start_year}}-{% endif %}{{ latest_year }}
+              {{ site.author }}
+            {% if site.copyright.link_slug %}</a>{% endif %}
 
-          {% if site.github_edit.enabled %}
-            <div style="border-top: 1px solid #ccc; margin-top: 24px; padding-top: 24px; text-align: center; width: 100%;">
-              <a href="{{ site.github_edit.base_url }}{{ page.path }}" target="_blank" title="Edit on GitHub">
-                <i class="fa fa-github" style="color: #999; font-size: 18px;"></i>
-              </a>
-            </div>
-          {% endif %}
+            {% if site.github_edit.enabled %}
+              <p>
+                <a href="{{ site.github_edit.base_url }}{{ page.path }}" target="_blank" title="Edit on GitHub">
+                  <i class="fa fa-github"></i>
+                </a>
+              </p>
+            {% endif %}
+
+          </div>
 
           </div><!-- .page-inner -->
         </div> <!-- .body-inner -->

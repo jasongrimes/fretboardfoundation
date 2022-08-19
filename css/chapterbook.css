@@ -32,6 +32,7 @@
 .book.color-theme-1 .chapter-pager a {
   border-color: #70421480;
 }
+
 .book.color-theme-1 .chapter-pager a:hover {
   border-color: #000;
   color: #000;
@@ -81,4 +82,25 @@
 h1 + .page-subtitle {
   margin-top: -30px;
   margin-bottom: 30px;
+}
+
+.chapter-footer {
+  border-top: 1px solid #999;
+  margin-top: 24px;
+  padding-top: 24px;
+  text-align: center;
+  opacity: 0.6;
+}
+.chapter-footer a {
+  color: inherit;
+  opacity: 1;
+}
+.chapter-footer a:hover {
+  text-decoration: underline;
+}
+.chapter-footer .fa-github {
+  font-size: 18px;
+}
+.book.color-theme-1 .chapter-footer {
+  border-color: #70421480;
 }

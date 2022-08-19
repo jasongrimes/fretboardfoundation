@@ -45,9 +45,13 @@ markdown_ext:     markdown,mkdown,mkdn,mkd,md
 exclude:
   - _drafts
 
-collections:
-  chapters:
-    output: true
+#
+# Chapterbook config
+#
+
+copyright:
+  start_year: 2021
+  link_slug: copyright
 
 github_edit:
   enabled: true
@@ -55,6 +59,10 @@ github_edit:
 
 extra_css:
     - css/chapterbook.css
+
+collections:
+  chapters:
+    output: true
 
 defaults:
   -
