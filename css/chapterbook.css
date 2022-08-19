@@ -38,8 +38,8 @@
 }
 .chapter-pager .fa {
   opacity: 0.5;
-  font-size: 24px;
-  margin-top: 8px;
+  /*font-size: 24px;*/
+  margin-top: 10px;
 }
 .chapter-pager .chapter-prev .pager-arrow {
   float: left;
@@ -61,8 +61,8 @@
 .book.color-theme-1 .chapter-pager .pager-labels .part {
   color: #70421480;
 }
-.chapter-pager .pager-labels .chapter-num {
-  opacity: 0.5;
+.chapter-pager .pager-labels .chapter-label {
+
 }
 
 .chapter-pager .chapter-next .pager-arrow {

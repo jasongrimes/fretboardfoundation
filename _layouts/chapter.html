@@ -57,8 +57,10 @@
                     {% if part_label %}{{ part_label }} -{% endif %}
                     Previous
                   </div>
-                  {% if chapter_num %}Chapter {{ chapter_num }}:{% endif %}
-                  {{ chapter_label }}
+                  <div class="chapter-label">
+                    {% if chapter_num %}Chapter {{ chapter_num }}:{% endif %}
+                    {{ chapter_label }}
+                  </div>
                 </div>
               </a>
             {% endif %}
@@ -74,8 +76,10 @@
                     Next
                     {% if part_label %}- {{ part_label }}{% endif %}
                   </div>
-                  {% if chapter_num %}Chapter {{ chapter_num }}:{% endif %}
-                  {{ chapter_label }}
+                  <div class="chapter-label">
+                    {% if chapter_num %}Chapter {{ chapter_num }}:{% endif %}
+                    {{ chapter_label }}
+                  </div>
                 </div>
               </a>
             {% endif %}

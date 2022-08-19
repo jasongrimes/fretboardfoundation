@@ -8,7 +8,7 @@
 
 {% if part_folder %}
   {% assign _partindex = part_folder | split: "-" | first %}
-  {% if _partindex == "000" %}
+  {% if _partindex == "000" or _partindex == "999" %}
     {% assign part_unnumbered = true %}
   {% else %}
     {% assign part_label = part_folder | split: "-" | shift | join: " " | capitalize %}
