@@ -42,13 +42,13 @@
           {%- include body.html -%}
 
 
-          <div class="body-inner-footer" style="max-width: 800px; padding: 20px 15px 40px 15px; margin: 0 auto;">
+          <div class="page-inner">
 
           {% if chapter_prev or chapter_next %}
             <div class="chapter-pager">
             {% if chapter_prev %}
               {% include assign-chapter-vars.html chapter=chapter_prev %}
-              <a href="{{site.baseurl}}{{chapter_url}}" class="chapter-prev {% unless chapter_next %}pager-unique{% endunless %}" aria-label="Previous page: {{chapter_label}}">
+              <a href="{{site.baseurl}}{{chapter_url}}" class="chapter-prev {% unless chapter_next %}pager-unique{% endunless %}" aria-label="Previous page: {{chapter_label}}"  data-level="1.1" data-path="{{site.baseurl}}{{chapter.url}}">
                 <div class="pager-arrow">
                   <i class="fa fa-arrow-left"></i>
                 </div>
@@ -79,8 +79,8 @@
                 </div>
               </a>
             {% endif %}
-              <div style="clear: both;"></div>
-            </div> <!-- .chapter-pager -->
+            <div style="clear: both;"></div>
+          </div> <!-- .chapter-pager -->
           {% endif %}
 
 
@@ -92,10 +92,7 @@
             </div>
           {% endif %}
 
-
-          </div> <!-- .body-inner-footer -->
-
-
+          </div><!-- .page-inner -->
         </div> <!-- .body-inner -->
       </div> <!-- .book -->
 

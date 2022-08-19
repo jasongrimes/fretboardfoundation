@@ -1,23 +1,23 @@
 <div class="book-summary">
   <nav role="navigation">
+    <!--
     <div id="book-search-input" role="search">
       <input type="text" placeholder="Type to search" />
     </div>
     <div id="book-search-input-link" role="search">
       <a href="{{site.baseurl}}/assets/search.html">Click to Search</a>
     </div>
+    -->
 
     <ul class="summary">
-
-      <!-- Home page -->
-      {% if page.url == "/index.html" or page.url == "/" %}
-        <li class="chapter active" data-level="1.1" data-path="{{site.baseurl}}">
-      {% else %}
-        <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}">
-      {% endif %}
-        <a href="{{site.baseurl}}/">
+      <li style="margin-top: 7px;">
+        <a href="{{site.baseurl}}/" style="font-size: 16px; font-weight: bold; float: left;">
           {{ site.title | escape }}
         </a>
+        <a href="#" onClick="$('.book').removeClass('with-summary');" style="float: right; opacity: 0.6;">
+          <i class="fa fa-times"></i>
+        </a>
+        <div style="clear: both;"></div>
       </li>
 
       <li class="divider"></li>
