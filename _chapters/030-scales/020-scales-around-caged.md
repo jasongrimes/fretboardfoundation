@@ -1,5 +1,5 @@
 ---
-title: Anchoring around CAGED shapes
+title: Anchoring around CAGED
 slug: scales-around-caged
 ---
 

@@ -1,6 +1,5 @@
 ---
-title: Playing on a single string
+title: Play on a single string
 slug: single-string
 ---
 
-.

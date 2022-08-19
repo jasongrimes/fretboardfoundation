@@ -1,0 +1,4 @@
+---
+title: Appendix II. Reading music for guitar
+slug: appendix-guitar-staff
+---

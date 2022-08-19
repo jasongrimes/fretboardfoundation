@@ -1,5 +1,5 @@
 ---
-title: Ergonomics
+title: Fretboard ergonomics
 slug: ergonomics
 ---
 

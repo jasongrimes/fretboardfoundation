@@ -1,5 +1,5 @@
 ---
-title: The major scale
+title: Practicing the major scale
 slug: major-scale
 ---
 

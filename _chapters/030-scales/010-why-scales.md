@@ -1,4 +1,4 @@
 ---
-title: Why scales?
+title: The utility of scales
 slug: why-scales
 ---
