@@ -3,10 +3,11 @@
 .book-body .body-inner {
   bottom: auto;
 }
+*/
 .page-inner {
   padding-top: 0px;
+  padding-bottom: 0px;
 }
-*/
 .book-summary {
   padding-bottom: 30px;
 }
