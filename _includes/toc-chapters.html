@@ -69,7 +69,7 @@
       {% endif %}
 
       {% for item in site.data.nav %}
-        <li class="{% if item.url == page.url %}active{% endif %}">
+        <li class="{% if item.url == page.url %}active{% endif %}" data-path="{{ site.baseurl }}{{ item.url }}">
           <a href="{{site.baseurl}}{{item.url}}" class="">{{ item.label }}</a>
         </li>
       {% endfor %}

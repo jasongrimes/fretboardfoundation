@@ -140,7 +140,7 @@ ul.toc-chapters-full.show-drafts {
 .toc-chapters-full.show-drafts li.chapter::before {
   content: "\f046";
   font: normal normal normal 14px/1 FontAwesome;
-  opacity: 0.2;
+  opacity: 0.5;
   position: absolute;
   left: -20px;
   top: 5px;
