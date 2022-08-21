@@ -31,6 +31,12 @@
 .sidebar-top a {
   color: inherit;
 }
+@media (max-width: 600px) {
+  .sidebar-top {
+    width: calc(100% - 60px);
+  }
+}
+
 .header-chapter-num {
 }
 .header-chapter-num + h1 {
