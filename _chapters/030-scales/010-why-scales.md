@@ -1,4 +1,4 @@
 ---
-title: The utility of scales
+title: What scales are good for
 slug: why-scales
 ---
