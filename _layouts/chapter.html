@@ -24,8 +24,8 @@
 
       <div class="book-body">
         <div class="book-header" role="navigation">
-          <!-- Title -->
           <h1>
+            {% if page.url != "/" %}
             <a href="/" >{{ site.title | escape }}</a>
             <!--
             <i class="fa fa-circle-o-notch fa-spin"></i>
@@ -35,6 +35,7 @@
             <a href="." >{{ site.title | escape }}</a>
             {% endif %}
             -->
+            {% endif %}
           </h1>
         </div>
 
@@ -123,27 +124,10 @@
     {%- include footer.html -%}
 
     <script>
-      /*
-      $(window).on("load", function() {
-        console.log('JG window load'); // JG
-        // $('.book-body').scrollTop(0); // JG
-      });
-      console.log(gitbook);
-      gitbook.events.on('start', function() { console.log('JG gitbook start')});
-      gitbook.events.on('page.change', function() {
-        console.log('JG gitbook page.change')
-        console.log('JG .book-body.scrollTop(0)')
-        $('.book-body').scrollTop(0); // JG
-        setTimeout(function() {
-          console.log('JG setTimeout .book-body.scrollTop(0)');
-          $('.book-body').scrollTop(0);
-        }, 100)
-      });
-      */
       // Crazy hack needed to have top of page stop scrolling a little bit out of view in Safari
       gitbook.events.on('page.change', function() {
         setTimeout(function() {
-          console.log('JG setTimeout .book-body.scrollTop(0)');
+          // console.log('JG setTimeout .book-body.scrollTop(0)');
           $('.book-body').scrollTop(0);
         }, 100)
       });
