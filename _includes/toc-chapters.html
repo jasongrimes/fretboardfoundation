@@ -8,9 +8,19 @@
       <a href="{{site.baseurl}}/assets/search.html">Click to Search</a>
     </div>
     -->
+      <div class="sidebar-top">
+        <a href="{{site.baseurl}}/">
+          {{ site.title | escape }}
+        </a>
+        <a href="#" onClick="$('.book').removeClass('with-summary');" style="float: right; opacity: 0.6;">
+          <i class="fa fa-times"></i>
+        </a>
+        <div style="clear: both;"></div>
+      </div>
 
     <ul class="summary">
-      <li style="margin-top: 7px;">
+      <!--
+      <li style="margin-top: 7px;" data-path="{{site.baseurl}}/">
         <a href="{{site.baseurl}}/" style="font-size: 16px; font-weight: bold; float: left;">
           {{ site.title | escape }}
         </a>
@@ -19,8 +29,8 @@
         </a>
         <div style="clear: both;"></div>
       </li>
-
       <li class="divider"></li>
+      -->
 
       <!-- Chapters -->
       {% assign part_num = 0 %}

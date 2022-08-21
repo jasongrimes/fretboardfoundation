@@ -10,6 +10,15 @@
 
   <div class="page-inner">
     <section class="normal markdown-section">
+      {% if page.collection == "chapters" %}
+        {% include assign-chapter-vars.html chapter=page %}
+        {% if chapter_num %}
+          <span></span>
+          <div class="header-chapter-num">
+            Chapter {{ chapter_num}}.
+          </div>
+        {% endif %}
+      {% endif %}
       {% if page.title %}
         <h1 id="{{ page.id }}">{{ page.title | escape }}</h1>
       {% endif %}
