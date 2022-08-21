@@ -26,15 +26,7 @@
         <div class="book-header" role="navigation">
           <h1>
             {% if page.url != "/" %}
-            <a href="/" >{{ site.title | escape }}</a>
-            <!--
-            <i class="fa fa-circle-o-notch fa-spin"></i>
-            {% if page.title %}
-            <a href="." >{{ page.title | escape }}</a>
-            {% else %}
-            <a href="." >{{ site.title | escape }}</a>
-            {% endif %}
-            -->
+              <a href="{{site.baseurl}}/" >{{ site.title | escape }}</a>
             {% endif %}
           </h1>
         </div>
