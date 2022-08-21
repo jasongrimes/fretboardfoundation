@@ -79,7 +79,8 @@
       {% endif %}
 
       {% for item in site.data.nav %}
-        <li class="{% if item.url == page.url %}active{% endif %}" data-path="{{ site.baseurl }}{{ item.url }}">
+        <li class="chapter {% if item.url == page.url %}active{% endif %}" data-path="{{ site.baseurl }}{{ item.url }}" data-level="1.1">
+        <!-- <li class="chapter {% if item.url == page.url %}active{% endif %}"> -->
           <a href="{{site.baseurl}}{{item.url}}" class="">{{ item.label }}</a>
         </li>
       {% endfor %}
