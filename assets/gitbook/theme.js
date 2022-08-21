@@ -4741,7 +4741,6 @@
           });
         }
         function o() {
-          return;
           r(["right"], function (e) {
             a.goNext();
           }),
@@ -4902,6 +4901,7 @@
           var e, t;
           (e = parseInt(T(".body-inner").css("width"), 10)), (t = parseInt(T(".page-wrapper").css("width"), 10)), T(".navigation-next").css("margin-right", e - t + "px");
           var n = r();
+          // console.log('About to n.scroll(f)', n); // JG
           n.unbind("scroll"), n.scroll(f);
         }
         function d(e) {
@@ -4919,7 +4919,10 @@
               var n = k.resolve(window.location.pathname, t);
               return window.location.pathname == n;
             })),
+            // w.length > 1 ? console.log('About to scroll', i, f) : console.log('Setting C', w.first());
             w.length > 1 ? i.scroll(f) : (C = w.first());
+          // console.log(e, 'About to scrolltop ', i); // JG
+          // i.scrollTop(0); // JG
         }
         function g(e) {
           return 0 === e.button;
@@ -4955,8 +4958,8 @@
             T(document).on("click", ".summary [data-path] a", v),
             T(document).on("click", ".page-inner a", v),
             T(window).resize(h),
-            // d(!1);
-            d(true); // JG: Override to fix wrong initial scroll on direct link. Not sure what else this will break. This is related to navigation init. Search for goPrev and goNext
+            d(!1);
+            // d(true); // JG: Override to fix wrong initial scroll on direct link. Not sure what else this will break. This is related to navigation init. Search for goPrev and goNext
         }
         var w,
           C,
@@ -5014,7 +5017,7 @@
       },
       { "./platform": 14, jquery: 1 },
     ],
-    16: [
+    16: [ // toolbar init? -JG
       function (e, t, n) {
         function r() {
           return "btn-" + g++;
@@ -5084,6 +5087,8 @@
           g = 0;
         h.events.on("page.change", function () {
           l();
+          // console.log('calling .book-body.scrollTop(0)'); // JG
+          // $('.book-body').scrollTop(0); // JG
         }),
           (t.exports = { createButton: s, removeButton: c, removeButtons: f });
       },
