@@ -4,6 +4,6 @@ title: Fretboard Foundation
 subtitle: For intermediate guitarists building toward mastery.
 ---
 
-[Start reading](preface).
+[Start reading](toc).
 
 
