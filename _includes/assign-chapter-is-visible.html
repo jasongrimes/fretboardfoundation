@@ -1,0 +1,11 @@
+{% assign chapter_is_visible = true %}
+{% assign chapter_is_draft = false %}
+
+{% assign _chapterindex = include.chapter.path | split: "/" | last | split: "-" | first %}
+{% assign _chapterindex_ext = _chapterindex | split: "." | last %}
+{% if _chapterindex_ext == "draft" %}
+  {% assign chapter_is_draft = true %}
+  {% if site.always_hide_draft_chapters or jekyll.environment == "production" %}
+    {% assign chapter_is_visible = false %}
+  {% endif %}
+{% endif %}

@@ -2,6 +2,9 @@
 .book-body .body-inner {
   bottom: auto;
 }
+.book-summary {
+  padding-bottom: 30px;
+}
 
 .chapter-pager {
   margin-top: 24px;
@@ -63,7 +66,7 @@
   color: #70421480;
 }
 .chapter-pager .pager-labels .chapter-label {
-
+  padding-top: 3px;
 }
 
 .chapter-pager .chapter-next .pager-arrow {
@@ -103,4 +106,52 @@ h1 + .page-subtitle {
 }
 .book.color-theme-1 .chapter-footer {
   border-color: #70421480;
+}
+.back-to-top {
+  z-index: 1;
+}
+ul.toc-chapters-full {
+  list-style: none;
+  padding-left: 0px;
+}
+ul.toc-chapters-full.show-drafts {
+  padding-left: 20px;
+}
+.toc-chapters-full ul {
+  list-style: none;
+  padding-left: 20px;
+}
+.toc-chapters-full a {
+  display: inline-block;
+}
+.toc-chapters-full li.part {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+.toc-chapters-full .part-label {
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+.toc-chapters-full li.chapter {
+  margin-bottom: 10px;
+  line-height: 1.5;
+  position: relative;
+}
+.toc-chapters-full.show-drafts li.chapter::before {
+  content: "\f046";
+  font: normal normal normal 14px/1 FontAwesome;
+  opacity: 0.2;
+  position: absolute;
+  left: -20px;
+  top: 5px;
+}
+.toc-chapters-full.show-drafts li.chapter.draft::before {
+  content: "\f096";
+}
+.toc-chapters-full .chapter-num {
+  opacity: 0.5;
+}
+.toc-chapters-full .abstract {
+  color: #666;
+  font-style: italic;
 }

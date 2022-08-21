@@ -1,0 +1,71 @@
+
+<ul class="toc-chapters-full {% if include.show_drafts %}show-drafts{% endif %}">
+
+  {% assign part_num = 0 %}
+  {% assign chapter_num = 0 %}
+  {% assign prevpart = "" %}
+  {% assign in_nested_part = false %}
+  {% for chapter in site.chapters %}
+    {% if chapter.id == page.id %}
+      {% continue %}
+    {% endif %}
+
+    {% include assign-chapter-is-visible.html chapter=chapter %}
+    {% unless chapter_is_visible %}
+      {% unless include.show_drafts and chapter_is_draft %}
+        {% continue %}
+      {% endunless %}
+    {% endunless %}
+
+    {% include assign-part-vars-lite.html page=chapter %}
+
+    {% assign is_new_part = false %}
+    {% if part_folder and part_folder != prevpart %}
+      {% assign is_new_part = true %}
+    {% endif %}
+    {% assign prevpart = part_folder %}
+
+    {% unless part_unnumbered %}
+      {% assign chapter_num = chapter_num | plus: 1 %}
+      {% if is_new_part %}
+        {% assign part_num = part_num | plus: 1 %}
+      {% endif %}
+    {% endunless %}
+
+
+    {% if is_new_part and in_nested_part %}
+      </ul></li>
+      {% assign in_nested_part = false %}
+    {% endif %}
+
+    {% if is_new_part and part_label %}
+      <li class="part">
+        <div class="part-label">
+          Part {{ part_num }}: {{ part_label }}
+        </div>
+        <ul>
+        {% assign in_nested_part = true %}
+    {% endif %}
+
+    <li class="chapter {% if include.show_drafts %}{% if chapter_is_draft %}draft{% else %}not-draft{% endif %}{% endif %}"
+        data-level="1.1" data-path="{{site.baseurl}}{{chapter.url}}">
+      <a href="{{site.baseurl}}{{chapter.url}}">
+        <div class="chapter-label">
+          {% unless part_unnumbered %}
+            <span class="chapter-num">Chapter {{ chapter_num }}.</span>
+          {% endunless %}
+          {{ chapter.title  }}
+        </div>
+        {% if chapter.abstract %}
+          <div class="abstract">
+            {{ chapter.abstract }}
+          </div>
+        {% endif %}
+      </a>
+    </li>
+  {% endfor %}
+{% if in_nested_part %}
+  </ul></li>
+  {% assign in_nested_part = false %}
+{% endif %}
+</ul>

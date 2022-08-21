@@ -20,6 +20,11 @@
   {% endif %}
 
   {% for _chapter in site.chapters %}
+    {% include assign-chapter-is-visible.html chapter=_chapter %}
+    {% unless chapter_is_visible %}
+      {% continue %}
+    {% endunless %}
+
     {% if _found %}
       {% if include.chapter.id == page.id %}
         {% assign chapter_next = _chapter %}

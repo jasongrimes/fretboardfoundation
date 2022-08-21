@@ -40,7 +40,7 @@ markdown_ext:     markdown,mkdown,mkdn,mkd,md
 
 # Permalinks
 ##permalink:        /:categories/:year-:month-:day-:title:output_ext
-##permalink: /:slug:output_ext
+#permalink: /:slug:output_ext
 
 exclude:
   - _drafts
@@ -48,6 +48,12 @@ exclude:
 #
 # Chapterbook config
 #
+
+# Chapters can be hidden from navigation in production environments by adding ".draft" to the index at the start of their filename.
+# (For example, rename 010-introduction.md to 010.draft-introduction.md)
+# By default, these draft chapters are still visible in non-production environments.
+# Hide them in all environments by setting always_hide_draft_chapters to true.
+always_hide_draft_chapters: true
 
 copyright:
   start_year: 2021
@@ -63,6 +69,8 @@ extra_css:
 collections:
   chapters:
     output: true
+  pages:
+    output: true
 
 defaults:
   -
@@ -72,18 +80,3 @@ defaults:
     values:
       layout: "chapter"
       permalink: /:slug:output_ext
-  -
-    scope:
-      path: ""
-      type: "front"
-    values:
-      layout: "chapter"
-      permalink: /:slug:output_ext
-  -
-    scope:
-      path: ""
-      type: "back"
-    values:
-      layout: "chapter"
-      permalink: /:slug:output_ext
-

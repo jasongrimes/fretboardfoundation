@@ -1,2 +1,8 @@
-- title: About this site
-  url: /about.html
+#
+# Navigation elements that appear below the table of contents in the sidebar.
+#
+
+- label: About this site
+  url: /about
+- label: Draft outline
+  url: /outline

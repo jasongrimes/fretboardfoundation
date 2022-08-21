@@ -1,5 +1,5 @@
 ---
 title: About this site
-slug: about
+permalink: /about
 layout: chapter
 ---

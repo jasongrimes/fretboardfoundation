@@ -27,6 +27,11 @@
       {% assign chapter_num = 0 %}
       {% assign prevpart = "" %}
       {% for chapter in site.chapters %}
+        {% include assign-chapter-is-visible.html chapter=chapter %}
+        {% unless chapter_is_visible %}
+          {% continue %}
+        {% endunless %}
+
         {% assign is_new_part = false %}
         {% include assign-part-vars-lite.html page=chapter %}
         {% unless part_unnumbered %}
@@ -65,7 +70,7 @@
 
       {% for item in site.data.nav %}
         <li class="{% if item.url == page.url %}active{% endif %}">
-          <a href="{{ item.url }}" class="gitbook-link">{{ item.title }}</a>
+          <a href="{{ item.url}}" class="">{{ item.label }}</a>
         </li>
       {% endfor %}
     </ul>
