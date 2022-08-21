@@ -1,5 +1,6 @@
 ---
 title: Melody in one position 
 slug: melody-one-position
+abstract: Playing across the strings without moving your hand. 
 ---
 
