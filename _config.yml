@@ -4,8 +4,8 @@ title: Fretboard Foundation
 longtitle: Fretboard Foundation
 author: Jason Grimes
 email: jason@grimesit.com
-description: >
-  For intermediate guitarists building toward mastery.
+#description: >
+#  For intermediate guitarists building toward mastery.
 
 toc:
   enabled: true
@@ -44,6 +44,7 @@ markdown_ext:     markdown,mkdown,mkdn,mkd,md
 
 exclude:
   - _drafts
+  - .idea
 
 #
 # Chapterbook config
@@ -56,7 +57,7 @@ exclude:
 always_hide_draft_chapters: true
 
 copyright:
-  start_year: 2021
+  start_year: 2022
   link_slug: copyright
 
 github_edit:
