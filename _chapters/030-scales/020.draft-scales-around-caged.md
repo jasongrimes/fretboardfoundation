@@ -20,6 +20,5 @@ rather than using ambiguous terms like "form 1" or "position 5-2".
 
 The approach is simple enough. 
 When practing a scale,
-start with the first note of the scale on the root of one of the five CAGED chord shapes,
+start with the first note of the scale on the lowest root of one of the CAGED chord shapes,
 and find the notes across the strings without moving your hand out of position.
-Notice when a scale tone matches one of the chord tones.
