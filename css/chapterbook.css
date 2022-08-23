@@ -1,3 +1,6 @@
+.book.color-theme-1 a {
+  font-weight: bold;
+}
 .book-header h1 {
   display: block;
   opacity: 1;
@@ -173,6 +176,9 @@ ul.toc-chapters-full.show-drafts {
 }
 .toc-chapters-full a {
   display: inline-block;
+}
+.color-theme-1 .toc-chapters-full a {
+  font-weight: normal;
 }
 .toc-chapters-full a:hover {
   text-decoration: none;
