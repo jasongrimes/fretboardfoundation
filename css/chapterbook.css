@@ -174,6 +174,12 @@ ul.toc-chapters-full.show-drafts {
 .toc-chapters-full a {
   display: inline-block;
 }
+.toc-chapters-full a:hover {
+  text-decoration: none;
+}
+.toc-chapters-full a:hover .chapter-label {
+  text-decoration: underline;
+}
 .toc-chapters-full li.part {
   margin-top: 10px;
   margin-bottom: 5px;
