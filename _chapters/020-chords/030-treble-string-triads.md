@@ -60,6 +60,7 @@ abstract: Lightweight moveable chord shapes on the upper strings.
 
 ### Diminished triads
 
+
 {% include figure.html 
     caption="1st-string root diminished triad." 
     url="/assets/treble-triads/1-dim.svg" 
