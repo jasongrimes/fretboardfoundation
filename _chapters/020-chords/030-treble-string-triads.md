@@ -24,12 +24,11 @@ It’s easy to sprinkle them into melody lines,
 because there’s at least one chord shape with a root note on each treble string (which is where melodies are typically played).
 And they provide a simple starting place for the study and practice of harmony.
 
-In addition to the triads on the top-three strings, 
-a few alternate choices on the upper-middle strings (2-4) are included, 
-because in some cases they are more convenient to play. 
-
-Chord shapes for major, minor, and diminished triads are presented. 
-These are the basis for our study of harmony because they're the three types of chords found when harmonizing the major scale. 
+The list below includes the triads on the top-three strings.
+It also includes a few alternate choices on the upper-middle strings, 
+because in some cases they are more convenient to play.
+The list includes chord shapes for major, minor, and diminished triads,
+which are the basis for our study of harmony because they're the three types of chords found when harmonizing the major scale. 
 
 ### Major triads
 
@@ -117,9 +116,9 @@ When playing these chords,
 you'll need to mute the unused strings with a neighboring finger.
 That tends to be pretty natural to do with these shapes.
 
-To play a C major triad,
-pick one of the major chord shapes,
-and put the root note on C on the fretboard.
+The root note determines the name of the chord.
+For example, to play a C major triad,
+pick one of the major chord shapes and put the root note on C on the fretboard.
 To play C minor,
 use a minor chord shape,
 and so on.
@@ -129,8 +128,9 @@ like A minor,
 and play it in multiple different places on the fretboard with different voicings 
 (i.e. with the root on different strings).
 Notice where the different shapes are in relation to each other:
-for example, a 2nd-string root shape has a 1st-string root voicing immediately below it,
-and a 3rd-string root voicing immediately above it.
+the voicings move up the neck in order,
+with a 1st-string root shape followed by the 2nd-string root shape,
+followed by the 3rd-string root shape, followed by the 1st-string root shape, etc.
 Also notice the different sounds of the different voicings for the same chord.
 
 If you need help locating the note names on the fretboard,
