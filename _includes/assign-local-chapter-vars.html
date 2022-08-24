@@ -23,13 +23,6 @@
     {% assign _chapter_is_draft = chapter_is_draft %}
     {% assign _chapter_is_visible = chapter_is_visible %}
 
-    {% comment %}
-    {% assign _local_chapter_is_visible = chapter_is_visible %}
-    {% unless _local_chapter_is_visible %}
-      {% continue %}
-    {% endunless %}
-    {% endcomment %}
-
     {% if _found and _chapter_is_visible %}
       {% assign _local_chapter_next = _chapter %}
       {% break %}
@@ -54,6 +47,7 @@
       {% assign _local_chapter_label = _chapter.title %}
       {% assign _local_chapter_url = _chapter.url %}
       {% assign _local_chapter_prev = _prevchapter %}
+      {% assign _local_chapter_is_draft = _chapter_is_draft %}
 
       {% unless _local_chapter_part_unnumbered %}
         {% assign _local_chapter_part_num = _partnum %}
