@@ -6,6 +6,27 @@ abstract: Lightweight moveable chord shapes on the upper strings.
 
 *{{page.abstract}}*
 
+Guitar strings are numbered 1-6, 
+with string 1 the highest pitched (high E) and 6 the lowest (low E). 
+The “treble strings” generally refer to the top three strings (1-3).
+
+Minimal, moveable, 3-note triad chord shapes are found on each group of three consecutive strings (1-3, 2-4, 3-5, and 4-6). 
+
+It’s particularly useful to know the following 3-note triads. 
+They sound good in a lot of contexts. 
+They are easy to play and can be played quickly. 
+It’s straightforward to embellish them with bass notes or color tones when desired. 
+There’s at least one chord with a root note on each treble string (which is where melodies are typically played), 
+so it’s easy to sprinkle them into melody lines. 
+And they provide a simple basis for the study and practice of harmony.
+
+In addition to the triads on the top 3 strings, 
+a few alternate choices on the upper-middle strings (2-4) are included, 
+because in some cases they are more convenient to play. 
+
+Chord shapes for major, minor, and diminished triads are presented. 
+These are the basis for our study of harmony because they are the three types of chords found when harmonizing the major scale. 
+
 ### Major triads
 
 {% include figure.html 
@@ -86,3 +107,6 @@ abstract: Lightweight moveable chord shapes on the upper strings.
     class="chord row" 
 %}
 
+### Printable diagrams
+
+See the [Appendix](appendix-diagrams) for a printable page of these diagrams. 
