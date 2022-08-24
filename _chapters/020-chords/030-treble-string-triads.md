@@ -27,7 +27,7 @@ abstract: Lightweight moveable chord shapes on the upper strings.
 %}
 
 {% include figure.html 
-    caption="3rd-string root major triad." 
+    caption="Alternate 3rd-string root major triad." 
     url="/assets/treble-triads/3-maj-upmid.svg" 
     class="chord row" 
 %}
@@ -53,7 +53,7 @@ abstract: Lightweight moveable chord shapes on the upper strings.
 %}
 
 {% include figure.html 
-    caption="2nd-string root minor triad." 
+    caption="Alternate 2nd-string root minor triad." 
     url="/assets/treble-triads/2-min-upmid.svg" 
     class="chord row" 
 %}
@@ -81,7 +81,7 @@ abstract: Lightweight moveable chord shapes on the upper strings.
 %}
 
 {% include figure.html 
-    caption="3rd-string root diminished triad." 
+    caption="Alternate 3rd-string root diminished triad." 
     url="/assets/treble-triads/3-dim-upmid.svg" 
     class="chord row" 
 %}
