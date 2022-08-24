@@ -4,7 +4,6 @@ slug: caged-scales
 abstract: Mindfully practicing scales with the tonic on CAGED roots makes everything start to flow. 
 ---
 
-*{{page.abstract}}*
 
 Scales are typically taught in a variety of "forms" or "shapes",
 with different teachers using different forms having contradictory names.
