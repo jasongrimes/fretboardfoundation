@@ -1,6 +1,35 @@
-.book.color-theme-1 a {
+.color-callout-dark {
+  background-color: #eee;
+  border-color: #ccc;
+}
+.color-callout-light {
+  background-color: rgb(250, 250, 250);
+  border-color: #ccc;
+}
+/* Sepia theme */
+.book.color-theme-1 .color-callout-dark {
+  /*background-color: rgb(175, 167, 144);*/
+  background-color: rgb(196 187 163);
+  color: #111111;
+  border-color: #70421480;
+}
+.book.color-theme-1 .color-callout-light {
+  border-color: #70421480;
+}
+/* Midnight theme */
+.book.color-theme-2 .color-callout-dark {
+  background-color: #2d3143;
+  border-color: #666;
+}
+.book.color-theme-2 .color-callout-light {
+  border-color: #666;
+}
+
+
+.book.color-theme-1 .markdown-section a {
   font-weight: bold;
 }
+
 .book-header h1 {
   display: block;
   opacity: 1;
@@ -57,6 +86,14 @@
 }
 .header-chapter-num + h1 {
   margin-top: -10px !important;
+}
+
+.chapter-abstract {
+  background-color: #eee;
+  padding: 10px;
+  font-style: italic;
+  margin-top: -20px;
+  margin-bottom: 20px;
 }
 
 .chapter-pager {
@@ -177,7 +214,7 @@ ul.toc-chapters-full.show-drafts {
 .toc-chapters-full a {
   display: inline-block;
 }
-.color-theme-1 .toc-chapters-full a {
+.color-theme-1 .markdown-section .toc-chapters-full a {
   font-weight: normal;
 }
 .toc-chapters-full a:hover {
@@ -231,6 +268,8 @@ figure figcaption {
   line-height: 1.3;
   font-style: italic;
   background-color: #eee;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
 }
 figure.row {
   display: inline-block;
@@ -244,3 +283,7 @@ figure.row.of-4 {
   width: calc(25% - 20px);
 }
 */
+.hanging-indent p {
+  padding-left: 30px ;
+  text-indent: -30px ;
+}

@@ -1,0 +1,143 @@
+<!DOCTYPE HTML>
+<html lang="en" >
+  <head>
+
+    {%- include head.html -%}
+
+    {% if layout.include-chapter-pager %}
+      {% include assign-chapter-vars.html chapter=page %}
+
+      {% if chapter_prev %}
+        <link rel="prev" href="{{site.baseurl}}{{chapter_prev.url}}" />
+      {% else %}
+        <link rel="prev" href="{{site.baseurl}}/" />
+      {% endif %}
+
+      {% if chapter_next %}
+        <link rel="next" href="{{site.baseurl}}{{chapter_next.url}}" />
+      {% endif %}
+    {% endif %}
+
+  </head>
+  <body>
+    <div class="book">
+
+      {%- include toc-chapters.html -%}
+
+      <div class="book-body">
+        <div class="book-header" role="navigation">
+          <h1>
+            {% if page.url != "/" %}
+            <a href="{{site.baseurl}}/" >{{ site.title | escape }}</a>
+            {% endif %}
+          </h1>
+        </div>
+
+        <div class="body-inner">
+
+          <div class="page-wrapper" tabindex="-1" role="main">
+            <div class="page-inner">
+              <div id="book-search-results"><div class="search-noresults"><!-- maybe not needed? -->
+                <section class="normal markdown-section">
+                  {{ content }}
+                </section>
+              </div></div><!-- .book-search-results - maybe not needed? -->
+            </div>
+          </div>
+
+          {% if layout.include-chapter-pager %}
+          <div class="page-inner">
+            {% if chapter_prev or chapter_next %}
+              <div class="chapter-pager">
+                {% if chapter_prev %}
+                {% include assign-chapter-vars.html chapter=chapter_prev %}
+                <a href="{{site.baseurl}}{{chapter_url}}" class="chapter-prev {% unless chapter_next %}pager-unique{% endunless %}" aria-label="Previous page: {{chapter_label}}"  data-level="1.1" data-path="{{site.baseurl}}{{chapter.url}}">
+                  <div class="pager-arrow">
+                    <i class="fa fa-arrow-left"></i>
+                  </div>
+                  <div class="pager-labels">
+                    <div class="part">
+                      {% if part_label %}{{ part_label }} -{% endif %}
+                      Previous
+                    </div>
+                    <div class="chapter-label">
+                      {% if chapter_num %}Chapter {{ chapter_num }}:{% endif %}
+                      {{ chapter_label }}
+                    </div>
+                  </div>
+                </a>
+                {% endif %}
+
+                {% if chapter_next %}
+                {% include assign-chapter-vars.html chapter=chapter_next %}
+                <a href="{{site.baseurl}}{{chapter_url}}" class="chapter-next {% unless chapter_prev %}pager-unique{% endunless %}" aria-label="Next page: {{chapter_label}}">
+                  <div class="pager-arrow">
+                    <i class="fa fa-arrow-right"></i>
+                  </div>
+                  <div class="pager-labels">
+                    <div class="part">
+                      Next
+                      {% if part_label %}- {{ part_label }}{% endif %}
+                    </div>
+                    <div class="chapter-label">
+                      {% if chapter_num %}Chapter {{ chapter_num }}:{% endif %}
+                      {{ chapter_label }}
+                    </div>
+                  </div>
+                </a>
+                {% endif %}
+                <div style="clear: both;"></div>
+              </div> <!-- .chapter-pager -->
+              {% endif %}
+            {% endif %}
+
+
+            <div class="chapter-footer">
+              {% assign latest_year = "now" | date: "%Y" %}
+              {% capture copyright_start_year %}{{ site.copyright.start_year }}{% endcapture %}
+              {% if site.copyright.link_slug %}<a href="{{ site.baseurl }}/{{ site.copyright.link_slug }}">{% endif %}
+              Copyright
+              &copy;
+              {% if copyright_start_year and copyright_start_year != latest_year %}{{ copyright_start_year}}-{% endif %}{{ latest_year }}
+              {{ site.author }}
+              {% if site.copyright.link_slug %}</a>{% endif %}
+
+              {% if site.github_edit.enabled %}
+              <p>
+                <a href="{{ site.github_edit.base_url }}{{ page.path }}" target="_blank" title="Edit on GitHub">
+                  <i class="fa fa-github"></i>
+                </a>
+              </p>
+              {% endif %}
+            </div><!-- .chapter-footer -->
+
+          </div><!-- .page-inner -->
+        </div> <!-- .body-inner -->
+      </div> <!-- .book -->
+
+
+      <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+          gitbook.page.hasChanged({%- include metadata-post.json.tpl -%});
+        });
+      </script>
+    </div>
+
+
+    {%- include footer.html -%}
+
+    <script>
+      // Crazy hack needed to have top of page stop scrolling a little bit out of view in Safari
+      gitbook.events.on('page.change', function() {
+        setTimeout(function() {
+          // console.log('JG setTimeout .book-body.scrollTop(0)');
+          $('.book-body').scrollTop(0);
+        }, 100)
+      });
+    </script>
+
+
+  </body>
+</html>
+

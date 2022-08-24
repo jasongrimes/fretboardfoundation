@@ -1,5 +1,5 @@
 ---
-layout: chapter
+layout: home
 title: Fretboard Foundation
 subtitle: A practical grounding for intermediate guitarists building toward mastery.
 ---

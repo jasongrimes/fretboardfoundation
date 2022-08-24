@@ -20,7 +20,7 @@ Compliments of fretboardfoundation.com - &copy; Jason Grimes, 2002.
 
 Licensed under the Creative Commons Attribution-ShareAlike 4.0 International License http://creativecommons.org/licenses/by-sa/4.0/
 
-### Citation style
+### Adding references
  
 * [APA style](https://www.scribbr.com/citing-sources/citation-styles/#apa)
 * [APA citation generator](https://www.scribbr.com/apa-citation-generator/)
@@ -33,15 +33,20 @@ In-text example:
 
 [(Vincent, 2011)](references#vincent-2011)
 
-Reference example:
+Reference list:
+
+Use the `references-chapter` layout in the references chapter so that the citations are formatted with hanging indents.
+
+Include a link in the citation (like the ISBN search below), 
+and assign it an `id` attribute with `{:#my-id}` so the anchor links from in-text citations work.
 
 ```
 Vincent, R. (2011). *Three-Note Voicings and Beyond.* Sher Music Co.
-[ISBN search](https://en.wikipedia.org/wiki/Special:BookSources?isbn=1-883217-66-0)
+[ISBN search](https://en.wikipedia.org/wiki/Special:BookSources?isbn=1-883217-66-0){:#vincent-2011}
 ```
 
 Vincent, R. (2011). *Three-Note Voicings and Beyond.* Sher Music Co.
-[ISBN search](https://en.wikipedia.org/wiki/Special:BookSources?isbn=1-883217-66-0)
+[ISBN search](https://en.wikipedia.org/wiki/Special:BookSources?isbn=1-883217-66-0){:#vincent-2011}
 
 ## Legacy README:
 

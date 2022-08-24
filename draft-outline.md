@@ -1,7 +1,7 @@
 ---
 title: Draft outline
 permalink: /outline
-layout: chapter
+layout: page
 ---
 
 An outline of the chapters planned for this book.
