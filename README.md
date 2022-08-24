@@ -48,6 +48,10 @@ Vincent, R. (2011). *Three-Note Voicings and Beyond.* Sher Music Co.
 Vincent, R. (2011). *Three-Note Voicings and Beyond.* Sher Music Co.
 [ISBN search](https://en.wikipedia.org/wiki/Special:BookSources?isbn=1-883217-66-0){:#vincent-2011}
 
+### Style guide
+
+See [Journal of Music Theory Style Guide](https://www.dukeupress.edu/Assets/Downloads/JMT_sg.pdf)
+
 ## Legacy README:
 
 You can use the [editor on GitHub](https://github.com/jasongrimes/ff-next/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
