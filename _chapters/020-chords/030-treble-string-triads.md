@@ -10,7 +10,11 @@ Guitar strings are numbered 1-6,
 with string 1 the highest pitched (high E) and 6 the lowest (low E). 
 The “treble strings” generally refer to the top three strings (1-3).
 
-Minimal, moveable, 3-note triad chord shapes are found on each group of three consecutive strings (1-3, 2-4, 3-5, and 4-6). 
+Minimal, moveable, 3-note triad chord shapes are found on each group of three consecutive strings:
+the top three (1-3),
+upper-middle (2-4),
+lower-middle (3-5),
+and bottom three (4-6). 
 
 It’s particularly useful to know the following 3-note triads. 
 They sound good in a lot of contexts. 
@@ -56,25 +60,25 @@ These are the basis for our study of harmony because they are the three types of
 ### Minor triads
 
 {% include figure.html 
-    caption="1st-string root minor triad." 
+    caption="1st-string root minor triad on top three strings." 
     url="/assets/treble-triads/1-min.svg" 
     class="chord row" 
 %}
 
 {% include figure.html 
-    caption="2nd-string root minor triad." 
+    caption="2nd-string root minor triad on top three strings." 
     url="/assets/treble-triads/2-min.svg" 
     class="chord row" 
 %}
 
 {% include figure.html 
-    caption="3rd-string root minor triad." 
+    caption="3rd-string root minor triad on top three strings." 
     url="/assets/treble-triads/3-min.svg" 
     class="chord row" 
 %}
 
 {% include figure.html 
-    caption="Alternate 2nd-string root minor triad." 
+    caption="2nd-string root minor triad on upper-middle strings." 
     url="/assets/treble-triads/2-min-upmid.svg" 
     class="chord row" 
 %}
@@ -84,29 +88,31 @@ These are the basis for our study of harmony because they are the three types of
 
 
 {% include figure.html 
-    caption="1st-string root diminished triad." 
+    caption="1st-string root diminished triad on top three strings." 
     url="/assets/treble-triads/1-dim.svg" 
     class="chord row" 
 %}
 
 {% include figure.html 
-    caption="2nd-string root diminished triad." 
+    caption="2nd-string root diminished triad on top three strings." 
     url="/assets/treble-triads/2-dim.svg" 
     class="chord row" 
 %}
 
 {% include figure.html 
-    caption="3rd-string root diminished triad." 
+    caption="3rd-string root diminished triad on top three strings." 
     url="/assets/treble-triads/3-dim.svg" 
     class="chord row" 
 %}
 
 {% include figure.html 
-    caption="Alternate 3rd-string root diminished triad." 
+    caption="3rd-string root diminished triad on upper-middle strings." 
     url="/assets/treble-triads/3-dim-upmid.svg" 
     class="chord row" 
 %}
 
-### Printable diagrams
+### Related resources
 
 See the [Appendix](appendix-diagrams) for a printable page of these diagrams. 
+
+_Three-Note Voicings and Beyond_, by Randy Vincent, is an excellent resource about triad voicings (and much more). 
