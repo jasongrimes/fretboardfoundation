@@ -1,4 +1,4 @@
 ---
-title: Appendix I. Diagrams
+title: "Appendix I: Diagrams"
 slug: appendix-diagrams
 ---

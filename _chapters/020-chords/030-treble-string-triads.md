@@ -134,12 +134,12 @@ followed by the 3rd-string root shape, followed by the 1st-string root shape, et
 Also notice the different sounds of the different voicings for the same chord.
 
 If you need help locating the note names on the fretboard,
-see the chapter on [Note names and registers](note-names).
+see {% include chapter-link.html slug="note-names" %}.
 
 
 ### Related resources
 
-See the [Appendix](appendix-diagrams) for a printable page of these diagrams. 
+See {% include chapter-link.html slug="appendix-diagrams" %} for a printable page of these diagrams. 
 
 _Three-Note Voicings and Beyond_, by Randy Vincent [(Vincent, 2011)](references#vincent-2011), 
 is an excellent source of information about triad voicings (and much more). 

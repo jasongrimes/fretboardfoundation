@@ -1,0 +1,10 @@
+{%- capture _linklabel -%}
+  {% for _chapter in site.chapters %}
+    {% if _chapter.slug == include.slug %}
+      {% include assign-local-chapter-vars.html chapter=_chapter %}
+      {% unless include.hide-chapter-num or _local_chapter_part_unnumbered %}Chapter {{ _local_chapter_num }}: {% endunless -%}
+      {{ _local_chapter_label }}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+{%- endcapture -%}<a class="chapter-link" href="{{site.baseurl}}{{_local_chapter_url}}{% if include.anchor %}#{{ include.anchor }}{% endif %}">{{ _linklabel | strip }}</a>
