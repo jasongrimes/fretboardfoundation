@@ -1,0 +1,92 @@
+{% assign _local_chapter_id = include.chapter.id %}
+{% assign _local_chapter_num = nil %}
+{% assign _local_chapter_label = nil %}
+{% assign _local_chapter_url = nil %}
+{% assign _local_chapter_part_num = nil %}
+{% assign _local_chapter_part_label = nil %}
+{% assign _local_chapter_part_folder = nil %}
+{% assign _local_chapter_part_unnumbered = false %}
+{% assign _local_chapter_is_visible = nil %}
+{% assign _local_chapter_prev = nil %}
+{% assign _local_chapter_next = nil %}
+
+{% comment %}
+{% if include.chapter.id == page.id %}
+  {% assign chapter_prev = nil %}
+  {% assign chapter_next = nil %}
+{% endif %}
+{% endcomment %}
+
+{% if include.chapter and include.chapter.collection == "chapters" %}
+  {% assign _partnum = 0 %}
+  {% assign _chapternum = 0 %}
+  {% assign _lastpart = nil %}
+  {% assign _found = false %}
+  {% assign _prevchapter = nil %}
+
+  {% comment %}
+  {% if include.chapter.id == page.id %}
+    {% assign _prevchapter = nil %}
+  {% endif %}
+  {% endcomment %}
+
+  {% for _chapter in site.chapters %}
+    {% include assign-chapter-is-visible.html chapter=_chapter %}
+    {% assign _local_chapter_is_visible = chapter_is_visible %}
+    {% unless _local_chapter_is_visible %}
+      {% continue %}
+    {% endunless %}
+
+    {% if _found %}
+      {% assign _local_chapter_next = _chapter %}
+
+      {% comment %}
+      {% if include.chapter.id == page.id %}
+        {% assign chapter_next = _chapter %}
+      {% endif %}
+      {% endcomment %}
+
+      {% break %}
+    {% endif %}
+
+    {% include assign-part-vars-lite.html page=_chapter %}
+    {% assign _local_chapter_part_folder = part_folder %}
+    {% assign _local_chapter_part_label = part_label %}
+    {% assign _local_chapter_part_unnumbered = part_unnumbered %}
+
+    {% unless _local_chapter_part_unnumbered %}
+      {% assign _chapternum = _chapternum | plus: 1 %}
+      {% if _local_chapter_part_folder != _lastpart %}
+        {% assign _partnum = _partnum | plus: 1 %}
+      {% endif %}
+    {% endunless %}
+
+    {% if _chapter.id == include.chapter.id %}
+      {% assign _found = true %}
+      {% assign _local_chapter_label = _chapter.title %}
+      {% assign _local_chapter_url = _chapter.url %}
+      {% assign _local_chapter_prev = _prevchapter %}
+
+      {% comment %}
+      {% if include.chapter.id == page.id %}
+        {% assign chapter_prev = _prevchapter %}
+      {% endif %}
+      {% endcomment %}
+
+      {% unless _local_chapter_part_unnumbered %}
+        {% assign _local_chapter_part_num = _partnum %}
+        {% assign _local_chapter_num = _chapternum %}
+      {% endunless %}
+    {% endif %}
+
+    {% assign _lastpart = _local_chapter_part_folder %}
+    {% assign _prevchapter = _chapter %}
+
+    {% comment %}
+    {% if include.chapter.id == page.id %}
+      {% assign _prevchapter = _chapter %}
+    {% endif %}
+    {% endcomment %}
+
+  {% endfor %}
+{% endif %}

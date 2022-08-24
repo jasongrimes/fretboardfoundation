@@ -4,14 +4,15 @@ include-chapter-pager: true
 ---
 
 {% if page.collection == "chapters" %}
-  {% include assign-chapter-vars.html chapter=page %}
-  {% if chapter_num %}
+  {% include init-page-chapter-vars.html %}
+  {% if page_chapter_num %}
     <span></span>
     <div class="header-chapter-num">
-      Chapter {{ chapter_num}}.
+      Chapter {{ page_chapter_num}}.
     </div>
   {% endif %}
 {% endif %}
+
 {% if page.title %}
   <h1 id="{{ page.id }}" data-level="1.1" class="no_toc">{{ page.title | escape }}</h1>
 {% endif %}

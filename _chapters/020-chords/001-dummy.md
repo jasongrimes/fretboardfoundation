@@ -7,41 +7,41 @@ published: false
 
 ## Here's a heading
 
-{% include assign-chapter-vars.html chapter=page %}
+{% include init-page-chapter-vars.html %}
 This page:
 
-    {% if part_label %}Part {{ part_num }}: {{ part_label }}{% endif %}
-    {% if chapter_num %}Chapter {{ chapter_num }}.{% endif %} {{ chapter_label }}
+    {% if page_part_label %}Part {{ page_part_num }}: {{ page_part_label }}{% endif %}
+    {% if page_chapter_num %}Chapter {{ page_chapter_num }}.{% endif %} {{ page_chapter_label }}
     
-{% include assign-chapter-vars.html chapter=chapter_prev %}
+{% include assign-local-chapter-vars.html chapter=chapter_prev %}
 Previous chapter:
 
-    {% if part_label %}Part {{ part_num }}: {{ part_label }}{% endif %}
-    {% if chapter_num %}Chapter {{ chapter_num }}.{% endif %} {{ chapter_label }}
+    {% if _local_chapter_part_label %}Part {{ _local_chapter_part_num }}: {{ _local_chapter_part_label }}{% endif %}
+    {% if _local_chapter_num %}Chapter {{ _local_chapter_num }}.{% endif %} {{ _local_chapter_label }}
 
-{% include assign-chapter-vars.html chapter=page.previous %}
+{% include assign-local-chapter-vars.html chapter=page.previous %}
 Previous page:
 
-    {% if part_label %}Part {{ part_num }}: {{ part_label }}{% endif %}
-    {% if chapter_num %}Chapter {{ chapter_num }}.{% endif %} {{ chapter_label }}
+    {% if _local_chapter_part_label %}Part {{ _local_chapter_part_num }}: {{ _local_chapter_part_label }}{% endif %}
+    {% if _local_chapter_num %}Chapter {{ _local_chapter_num }}.{% endif %} {{ _local_chapter_label }}
     
-{% include assign-chapter-vars.html chapter=page.next %}
+{% include assign-local-chapter-vars.html chapter=page.next %}
 Next page:
 
-    {% if part_label %}Part {{ part_num }}: {{ part_label }}{% endif %}
-    <a href="{{ page.next.url }}">{% if chapter_num %}Chapter {{ chapter_num }}.{% endif %} {{ chapter_label }}</a>
+    {% if _local_chapter_part_label %}Part {{ _local_chapter_part_num }}: {{ _local_chapter_part_label }}{% endif %}
+    <a href="{{ _local_chapter_next.url }}">{% if _local_chapter_num %}Chapter {{ _local_chapter_num }}.{% endif %} {{ _local_chapter_label }}</a>
 
-{% include assign-chapter-vars.html chapter=site.chapters.first %}
+{% include assign-local-chapter-vars.html chapter=site.chapters.first %}
 First page:
 
-    {% if part_label %}Part {{ part_num }}: "{{ part_label }}"{% endif %}
-    {% if chapter_num %}Chapter {{ chapter_num }}.{% endif %} {{ chapter_label }}
+    {% if _local_chapter_part_label %}Part {{ _local_chapter_part_num }}: "{{ _local_chapter_part_label }}"{% endif %}
+    {% if _local_chapter_num %}Chapter {{ _local_chapter_num }}.{% endif %} {{ _local_chapter_label }}
 
-{% include assign-chapter-vars.html chapter=site.chapters.last %}
+{% include assign-local-chapter-vars.html chapter=site.chapters.last %}
 Last page:
 
-    {% if part_label %}Part {{ part_num }}: "{{ part_label }}"{% endif %}
-    {% if chapter_num %}Chapter {{ chapter_num }}.{% endif %} {{ chapter_label }}
+    {% if _local_chapter_part_label %}Part {{ _local_chapter_part_num }}: "{{ _local_chapter_part_label }}"{% endif %}
+    {% if _local_chapter_num %}Chapter {{ _local_chapter_num }}.{% endif %} {{ _local_chapter_label }}
 
 {% assign parts = page.path | split: "/" %}
 `parts` {{ parts | inspect }}
