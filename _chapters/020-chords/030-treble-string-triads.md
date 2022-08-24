@@ -16,13 +16,13 @@ upper-middle (2-4),
 lower-middle (3-5),
 and bottom-three (4-6). 
 
-It’s particularly useful to know the following three-note triad chord shapes.
+It’s particularly useful to know the following three-note triads with roots on the treble strings.
 They sound good in a lot of contexts, 
 they are easy to play and can be played quickly. 
 It’s straightforward to embellish them with bass notes or color tones when desired. 
 It’s easy to sprinkle them into melody lines,
 because there’s at least one chord shape with a root note on each treble string (which is where melodies are typically played).
-And they provide a simple basis for the study and practice of harmony.
+And they provide a simple starting place for the study and practice of harmony.
 
 In addition to the triads on the top-three strings, 
 a few alternate choices on the upper-middle strings (2-4) are included, 
@@ -34,19 +34,19 @@ These are the basis for our study of harmony because they're the three types of 
 ### Major triads
 
 {% include figure.html 
-    caption="1st-string root major triad on top three strings." 
+    caption="1st-string root major triad on top-three strings." 
     url="/assets/treble-triads/1-maj.svg" 
     class="chord row" 
 %}
 
 {% include figure.html 
-    caption="2nd-string root major triad on top three strings." 
+    caption="2nd-string root major triad on top-three strings." 
     url="/assets/treble-triads/2-maj.svg" 
     class="chord row" 
 %}
 
 {% include figure.html 
-    caption="3rd-string root major triad on top three strings." 
+    caption="3rd-string root major triad on top-three strings." 
     url="/assets/treble-triads/3-maj.svg" 
     class="chord row" 
 %}
@@ -60,19 +60,19 @@ These are the basis for our study of harmony because they're the three types of 
 ### Minor triads
 
 {% include figure.html 
-    caption="1st-string root minor triad on top three strings." 
+    caption="1st-string root minor triad on top-three strings." 
     url="/assets/treble-triads/1-min.svg" 
     class="chord row" 
 %}
 
 {% include figure.html 
-    caption="2nd-string root minor triad on top three strings." 
+    caption="2nd-string root minor triad on top-three strings." 
     url="/assets/treble-triads/2-min.svg" 
     class="chord row" 
 %}
 
 {% include figure.html 
-    caption="3rd-string root minor triad on top three strings." 
+    caption="3rd-string root minor triad on top-three strings." 
     url="/assets/treble-triads/3-min.svg" 
     class="chord row" 
 %}
@@ -88,19 +88,19 @@ These are the basis for our study of harmony because they're the three types of 
 
 
 {% include figure.html 
-    caption="1st-string root diminished triad on top three strings." 
+    caption="1st-string root diminished triad on top-three strings." 
     url="/assets/treble-triads/1-dim.svg" 
     class="chord row" 
 %}
 
 {% include figure.html 
-    caption="2nd-string root diminished triad on top three strings." 
+    caption="2nd-string root diminished triad on top-three strings." 
     url="/assets/treble-triads/2-dim.svg" 
     class="chord row" 
 %}
 
 {% include figure.html 
-    caption="3rd-string root diminished triad on top three strings." 
+    caption="3rd-string root diminished triad on top-three strings." 
     url="/assets/treble-triads/3-dim.svg" 
     class="chord row" 
 %}
@@ -142,4 +142,4 @@ see the chapter on [Note names and registers](note-names).
 See the [Appendix](appendix-diagrams) for a printable page of these diagrams. 
 
 _Three-Note Voicings and Beyond_, by Randy Vincent [(Vincent, 2011)](references#vincent-2011), 
-is an excellent resource about triad voicings (and much more). 
+is an excellent source of information about triad voicings (and much more). 
