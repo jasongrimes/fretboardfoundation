@@ -26,9 +26,10 @@ And they provide a simple starting place for the study and practice of harmony.
 
 The list below includes the triads on the top-three strings.
 It also includes a few alternate choices on the upper-middle strings, 
-because in some cases they are more convenient to play.
+because in some cases those are more convenient to play.
 The list includes chord shapes for major, minor, and diminished triads,
 which are the basis for our study of harmony because they're the three types of chords found when harmonizing the major scale. 
+The dots in the diagrams indicate the chord root note (R) and the intervals from the root. 
 
 ### Major triads
 
@@ -116,11 +117,12 @@ When playing these chords,
 you'll need to mute the unused strings with a neighboring finger.
 That tends to be pretty natural to do with these shapes.
 
-The root note determines the name of the chord.
+If it's not obvious,
+the root note determines the name of the chord.
 For example, to play a C major triad,
 pick one of the major chord shapes and put the root note on C on the fretboard.
 To play C minor,
-use a minor chord shape,
+use a minor chord shape with the root on C,
 and so on.
 
 One way to practice is to pick a chord,
