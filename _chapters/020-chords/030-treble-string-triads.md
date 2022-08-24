@@ -30,25 +30,25 @@ These are the basis for our study of harmony because they are the three types of
 ### Major triads
 
 {% include figure.html 
-    caption="1st-string root major triad." 
+    caption="1st-string root major triad on top 3 strings." 
     url="/assets/treble-triads/1-maj.svg" 
     class="chord row" 
 %}
 
 {% include figure.html 
-    caption="2nd-string root major triad." 
+    caption="2nd-string root major triad on top 3 strings." 
     url="/assets/treble-triads/2-maj.svg" 
     class="chord row" 
 %}
 
 {% include figure.html 
-    caption="3rd-string root major triad." 
+    caption="3rd-string root major triad on top 3 strings." 
     url="/assets/treble-triads/3-maj.svg" 
     class="chord row" 
 %}
 
 {% include figure.html 
-    caption="Alternate 3rd-string root major triad." 
+    caption="3rd-string root major triad on upper-middle strings." 
     url="/assets/treble-triads/3-maj-upmid.svg" 
     class="chord row" 
 %}
