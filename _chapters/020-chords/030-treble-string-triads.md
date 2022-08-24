@@ -47,16 +47,17 @@ abstract: Lightweight moveable chord shapes on the upper strings.
 %}
 
 {% include figure.html 
+    caption="3rd-string root minor triad." 
+    url="/assets/treble-triads/3-min.svg" 
+    class="chord row" 
+%}
+
+{% include figure.html 
     caption="2nd-string root minor triad." 
     url="/assets/treble-triads/2-min-upmid.svg" 
     class="chord row" 
 %}
 
-{% include figure.html 
-    caption="3rd-string root minor triad." 
-    url="/assets/treble-triads/3-min.svg" 
-    class="chord row" 
-%}
 
 ### Diminished triads
 
@@ -84,3 +85,4 @@ abstract: Lightweight moveable chord shapes on the upper strings.
     url="/assets/treble-triads/3-dim-upmid.svg" 
     class="chord row" 
 %}
+
