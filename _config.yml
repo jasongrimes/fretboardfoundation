@@ -66,6 +66,7 @@ github_edit:
 
 extra_css:
     - css/chapterbook.css
+    - css/fretboardfoundation.css
 
 collections:
   chapters:
