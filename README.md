@@ -14,7 +14,34 @@ See the [introduction page](introduction) for more information.
 See [this diagram][appendix-diagrams#foo].
 ```
 
+### Copyright notice for printable pages
 
+Compliments of fretboardfoundation.com - &copy; Jason Grimes, 2002. 
+
+Licensed under the Creative Commons Attribution-ShareAlike 4.0 International License http://creativecommons.org/licenses/by-sa/4.0/
+
+### Citation style
+ 
+* [APA style](https://www.scribbr.com/citing-sources/citation-styles/#apa)
+* [APA citation generator](https://www.scribbr.com/apa-citation-generator/)
+
+In-text example: 
+
+```
+[(Vincent, 2011)](references#vincent-2011)
+```
+
+[(Vincent, 2011)](references#vincent-2011)
+
+Reference example:
+
+```
+Vincent, R. (2011). *Three-Note Voicings and Beyond.* Sher Music Co.
+[ISBN search](https://en.wikipedia.org/wiki/Special:BookSources?isbn=1-883217-66-0)
+```
+
+Vincent, R. (2011). *Three-Note Voicings and Beyond.* Sher Music Co.
+[ISBN search](https://en.wikipedia.org/wiki/Special:BookSources?isbn=1-883217-66-0)
 
 ## Legacy README:
 
