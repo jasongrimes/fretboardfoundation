@@ -14,10 +14,10 @@ Moveable, three-note triad chord shapes are found on each group of three consecu
 the top-three (1-3),
 upper-middle (2-4),
 lower-middle (3-5),
-and bottom-three (4-6). 
+and bottom-three (4-6) strings. 
 
-It’s particularly useful to know the following three-note triads with roots on the treble strings.
-They sound good in a lot of contexts, 
+It’s particularly useful to know the "treble triads" presented in this chapter.
+They sound good in a lot of contexts; 
 they are easy to play and can be played quickly. 
 It’s straightforward to embellish them with bass notes or color tones when desired. 
 It’s easy to sprinkle them into melody lines,
@@ -27,8 +27,9 @@ And they provide a simple starting place for the study and practice of harmony.
 The list below includes the triads on the top-three strings.
 It also includes a few alternate choices on the upper-middle strings, 
 because in some cases those are more convenient to play.
-The list includes chord shapes for major, minor, and diminished triads,
-which are the basis for our study of harmony because they're the three types of chords found when harmonizing the major scale. 
+Shapes are presented for major, minor, and diminished triads. 
+These are the basis for our study of harmony,
+because they're the three types of chords found when harmonizing the major scale. 
 The dots in the diagrams indicate the chord root note (R) and the intervals from the root. 
 
 When playing these chords, 
