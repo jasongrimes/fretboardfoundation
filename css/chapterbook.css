@@ -1,6 +1,6 @@
 .book-body {
     scroll-padding-top: 75px;
-    scroll-behavior: smooth;
+    /*scroll-behavior: smooth;*/
 }
 .book.with-summary .book-body {
     scroll-padding-top: 0;
