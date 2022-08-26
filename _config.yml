@@ -54,7 +54,7 @@ exclude:
 # (For example, rename 010-introduction.md to 010.draft-introduction.md)
 # By default, these draft chapters are still visible in non-production environments.
 # Hide them in all environments by setting always_hide_draft_chapters to true.
-always_hide_draft_chapters: true
+always_hide_draft_chapters: false
 
 copyright:
   start_year: 2022

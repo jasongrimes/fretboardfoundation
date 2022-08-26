@@ -4948,6 +4948,7 @@
           e && p(e, !0);
         }
         function x() {
+          return; // JG: Why intercept all links with an AJAX call? I don't want that.
           T.ajaxSetup({ cache: !1 }),
             history.replaceState({ path: window.location.href }, ""),
             (window.onpopstate = function (e) {
@@ -4959,7 +4960,6 @@
             T(document).on("click", ".page-inner a", v),
             T(window).resize(h),
             d(!1);
-            // d(true); // JG: Override to fix wrong initial scroll on direct link. Not sure what else this will break. This is related to navigation init. Search for goPrev and goNext
         }
         var w,
           C,
