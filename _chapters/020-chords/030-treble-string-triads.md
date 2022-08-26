@@ -1,7 +1,7 @@
 ---
 title: Treble-string triads
 slug: treble-triads
-abstract: Lightweight moveable chord shapes on the upper strings.
+abstract: Lightweight moveable chord shapes on the upper strings. 
 ---
 
 Guitar strings are numbered 1-6, 
@@ -30,6 +30,18 @@ because in some cases those are more convenient to play.
 The list includes chord shapes for major, minor, and diminished triads,
 which are the basis for our study of harmony because they're the three types of chords found when harmonizing the major scale. 
 The dots in the diagrams indicate the chord root note (R) and the intervals from the root. 
+
+When playing these chords, 
+you'll need to mute the unused strings with a neighboring finger.
+That tends to be pretty natural to do with these shapes.
+
+If it's not obvious,
+the root note determines the name of the chord.
+For example, to play a C major triad,
+pick one of the major chord shapes and put the root note on C on the fretboard.
+To play C minor,
+use a minor chord shape with the root on C,
+and so on.
 
 ### Major triads
 
@@ -111,19 +123,7 @@ The dots in the diagrams indicate the chord root note (R) and the intervals from
     class="chord row" 
 %}
 
-### Playing these chords
-
-When playing these chords, 
-you'll need to mute the unused strings with a neighboring finger.
-That tends to be pretty natural to do with these shapes.
-
-If it's not obvious,
-the root note determines the name of the chord.
-For example, to play a C major triad,
-pick one of the major chord shapes and put the root note on C on the fretboard.
-To play C minor,
-use a minor chord shape with the root on C,
-and so on.
+### On the whole fretboard
 
 One way to practice is to pick a chord,
 like A minor,
