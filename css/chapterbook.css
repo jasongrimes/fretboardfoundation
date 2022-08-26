@@ -173,9 +173,10 @@
     padding-bottom: 30px;
     width: 315px;
     left: -315px;
+    margin-top: 50px;
 }
 .book-summary ul.summary {
-    margin-top: 60px;
+    margin-top: 10px;
 }
 /*
 .sidebar-top {
