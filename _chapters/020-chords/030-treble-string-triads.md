@@ -127,17 +127,35 @@ and so on.
 
 One way to practice is to pick a chord,
 like A minor,
-and play it in multiple different places on the fretboard with different voicings 
+and play it in multiple places on the fretboard with different voicings 
 (i.e. with the root on different strings).
+
 Notice where the different shapes are in relation to each other:
 the voicings move up the neck in order,
-with a 1st-string root shape followed by the 2nd-string root shape,
-followed by the 3rd-string root shape, followed by the 1st-string root shape, etc.
+with a 1st-string root shape followed by a 2nd-string root shape,
+followed by a 3rd-string root shape, followed by a 1st-string root shape, etc.
 Also notice the different sounds of the different voicings for the same chord.
 
 If you need help locating the note names on the fretboard,
 see {% include chapter-link.html slug="note-names" %}.
 
+{% include figure.html 
+    caption="Major treble triads on the whole fretboard." 
+    url="/assets/treble-triads/all-maj.svg" 
+    class="chord row" 
+%}
+
+{% include figure.html 
+    caption="Minor treble triads on the whole fretboard." 
+    url="/assets/treble-triads/all-min.svg" 
+    class="chord row" 
+%}
+
+{% include figure.html 
+    caption="Diminished treble triads on the whole fretboard." 
+    url="/assets/treble-triads/all-dim.svg" 
+    class="chord row" 
+%}
 
 ### Related resources
 
