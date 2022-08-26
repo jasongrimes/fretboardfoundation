@@ -27,8 +27,8 @@ And they provide a simple starting place for the study and practice of harmony.
 The list below includes the triads on the top-three strings.
 It also includes a few alternate choices on the upper-middle strings, 
 because in some cases those are more convenient to play.
-Shapes are presented for major, minor, and diminished triads. 
-These are the basis for our study of harmony,
+Shapes are presented for major, minor, and diminished triads, 
+which are the basis for our study of harmony
 because they're the three types of chords found when harmonizing the major scale. 
 The dots in the diagrams indicate the chord root note (R) and the intervals from the root. 
 
