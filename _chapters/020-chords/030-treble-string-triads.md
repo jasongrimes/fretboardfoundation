@@ -10,7 +10,7 @@ and the lowest-pitched (low E) as string 6.
 The “treble strings” are the three highest-pitched strings,
 and the "bass strings" are the three lowest-pitched strings.
 
-Moveable, three-note triad chords are found on each group of three consecutive strings:
+Moveable, three-note triad chord shapes are found on each group of three consecutive strings:
 the top-three (1-3),
 upper-middle (2-4),
 lower-middle (3-5),
