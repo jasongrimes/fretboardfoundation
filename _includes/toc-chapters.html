@@ -98,9 +98,9 @@
           {% endunless %}
           {{ chapter.title | escape }}
         </a>
-        {% if site.toc.enabled %}
+        {% if site.sidebar_toc.enabled %}
           {% if page.url == chapter.url %}
-            {% include toc.html html=content h_min=site.toc.h_min h_max=site.toc.h_max %}
+            {% include toc.html html=content h_min=site.sidebar_toc.h_min h_max=site.sidebar_toc.h_max %}
           {% endif %}
         {% endif %}
         </li>
