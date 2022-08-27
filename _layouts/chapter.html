@@ -3,8 +3,9 @@ layout: default
 include-chapter-pager: true
 ---
 
-{% if page.collection == "chapters" %}
-  {% include init-page-chapter-vars.html %}
+{% include build-chapter-nav.html %}
+
+{% if page_chapter %}
   {% unless page_part_unnumbered and page_chapter_num == nil %}
     <div class="header-chapter-num">
       {% unless page_part_unnumbered %}
@@ -52,3 +53,4 @@ include-chapter-pager: true
 
 {{ content }}
 
+{% include chapter-iterate-vars.html inspect="page" %}

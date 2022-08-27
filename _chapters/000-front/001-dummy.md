@@ -2,9 +2,23 @@
 layout: chapter
 title: Dummy chapter
 slug: dummy
-published: false
+published: true
 ---
 
+
+{% if "000" contains "." %}
+  Does contain
+{% else %}
+  Does not contain
+{% endif %}
+
+
+
+
+
+
+
+{% comment %}
 ## Here's a heading
 
 {% include init-page-chapter-vars.html %}
@@ -58,3 +72,5 @@ Last page:
 `part label` {{ parts.first | split: "-" | shift | join: " " | capitalize }}
 
 ## Another heading
+
+{%endcomment%}

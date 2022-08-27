@@ -1,9 +1,22 @@
 <!DOCTYPE HTML>
 <html lang="en" >
   <head>
+    {% include build-chapter-nav.html %}
 
     {%- include head.html -%}
 
+    {% if page_prev_chapter %}
+      <link rel="prev" href="{{site.baseurl}}{{page_prev_chapter.url}}" />
+    {% else %}
+      <link rel="prev" href="{{site.baseurl}}/" />
+    {% endif %}
+
+    {% if page_next_chapter %}
+      <link rel="next" href="{{site.baseurl}}{{page_next_chapter.url}}" />
+    {% endif %}
+
+
+    {% comment %}
     {% if layout.include-chapter-pager %}
       {% include init-page-chapter-vars.html %}
 
@@ -17,12 +30,13 @@
         <link rel="next" href="{{site.baseurl}}{{page_chapter_next.url}}" />
       {% endif %}
     {% endif %}
+    {% endcomment %}
 
   </head>
   <body>
     <div class="book">
 
-      {%- include toc-chapters.html -%}
+      {{ chapter-nav }}
 
       <div class="book-body">
         <div class="book-header" role="navigation">
@@ -35,63 +49,59 @@
           <div class="page-wrapper" tabindex="-1" role="main">
             <div class="page-inner">
                 <section class="normal markdown-section">
+
                   {{ content }}
                 </section>
 
                 {% if layout.include-chapter-pager %}
-                  {% include init-page-chapter-vars.html %}
 
-                  {% if page_chapter_prev or page_chapter_next %}
+                  {% if page_prev_chapter or page_next_chapter %}
                     <div class="chapter-pager">
-                      {% if page_chapter_prev %}
-                        {% include assign-local-chapter-vars.html chapter=page_chapter_prev %}
 
-                        <a href="{{site.baseurl}}{{_local_chapter_url}}"
-                           class="chapter-prev {% unless page_chapter_next %}pager-unique{% endunless %}"
-                           aria-label="Previous page: {{_local_chapter_label}}"
-                           data-level="1.1" data-path="{{site.baseurl}}{{_local_chapter_url}}">
+                      {% if page_prev_chapter %}
+                        <a href="{{site.baseurl}}{{ page_prev_chapter.url }}"
+                           class="chapter-prev {% unless page_next_chapter %}pager-unique{% endunless %}"
+                           aria-label="Previous page: {{ page_prev_chapter.title | escape }}"
+                           data-level="1.1" data-path="{{site.baseurl}}{{ page_prev_chapter.url }}">
                           <div class="pager-arrow">
                             <i class="fa fa-arrow-left"></i>
                           </div>
                           <div class="pager-labels">
                             <div class="part">
-                              {% if _local_chapter_part_label %}{{ _local_chapter_part_label }} -{% endif %}
+                              {% if page_prev_part_label %}{{ page_prev_part_label }} -{% endif %}
                               Previous
                             </div>
                             <div class="chapter-label">
-                              <!-- {% if _local_chapter_num %}Chapter {{ _local_chapter_num }}:{% endif %} -->
-                              {{ _local_chapter_label }}
+                              {{ page_prev_chapter.title | escape }}
                             </div>
                           </div>
                         </a>
                       {% endif %}
 
-                      {% if page_chapter_next %}
-                        {% include assign-local-chapter-vars.html chapter=page_chapter_next %}
-
-                        <a href="{{site.baseurl}}{{_local_chapter_url}}"
-                           class="chapter-next {% unless page_chapter_prev %}pager-unique{% endunless %}"
-                           aria-label="Next page: {{_local_chapter_label}}"
-                           data-level="1.1" data-path="{{site.baseurl}}{{_local_chapter_url}}">
+                      {% if page_next_chapter %}
+                        <a href="{{site.baseurl}}{{ page_next_chapter.url }}"
+                           class="chapter-next {% unless page_prev_chapter %}pager-unique{% endunless %}"
+                           aria-label="Next page: {{ page_next_chapter.title | escape }}"
+                           data-level="1.1" data-path="{{site.baseurl}}{{ page_next_chapter.url }}">
                           <div class="pager-arrow">
                             <i class="fa fa-arrow-right"></i>
                           </div>
                           <div class="pager-labels">
                             <div class="part">
                               Next
-                              {% if _local_chapter_part_label %}- {{ _local_chapter_part_label }}{% endif %}
+                              {% if page_next_part_label %}- {{ page_next_part_label }}{% endif %}
                             </div>
                             <div class="chapter-label">
-                              <!-- {% if _local_chapter_num %}Chapter {{ _local_chapter_num }}:{% endif %} -->
-                              {{ _local_chapter_label }}
+                              {{ page_next_chapter.title | escape }}
                             </div>
                           </div>
                         </a>
                       {% endif %}
 
                       <div style="clear: both;"></div>
-                    </div> <!-- .chapter-pager -->
+                    </div><!-- .chapter-pager -->
                   {% endif %}
+
                 {% endif %}
 
                 <div class="chapter-footer">
@@ -123,32 +133,10 @@
 
     <script>
         // var gitbook = gitbook || [];
-        console.log('Initializing gitbook ' + Date());
         gitbook.push(function() {
           gitbook.page.hasChanged({%- include gitbook-metadata.json.tpl -%});
         });
     </script>
-
-<!--
-    <script>
-      var gitbook = gitbook || [];
-      gitbook.push(function() {
-        gitbook.page.hasChanged({%- include metadata-post.json.tpl -%});
-      });
-    </script>
-  -->
-
-    <!--
-    <script>
-      // Crazy hack needed to have top of page stop scrolling a little bit out of view in Safari
-      gitbook.events.on('page.change', function() {
-        setTimeout(function() {
-          // console.log('JG setTimeout .book-body.scrollTop(0)');
-          $('.book-body').scrollTop(0);
-        }, 100)
-      });
-    </script>
-    -->
   </body>
 </html>
 

@@ -199,6 +199,9 @@
 .book-summary ul.summary {
     margin-top: 10px;
 }
+.chapter-summary li.draft {
+    opacity: 0.6;
+}
 /*
 .sidebar-top {
     background-color: white;
@@ -451,4 +454,7 @@ figure.row.of-4 {
 .hanging-indent p {
     padding-left: 30px ;
     text-indent: -30px ;
+}
+table.inspect-chapter-iterate-vars {
+    display: flex;
 }
