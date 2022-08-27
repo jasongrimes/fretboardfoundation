@@ -5,23 +5,30 @@ include-chapter-pager: true
 
 {% if page.collection == "chapters" %}
   {% include init-page-chapter-vars.html %}
-  {% unless page_part_unnumbered %}
-  <span></span>
-  <div class="header-chapter-num">
-    Part {{ page_part_num }}:
-    {{ page_part_label }} -
-    {% if page_chapter_num %}
-      Chapter {{ page_chapter_num}}.
-      {% if page_chapter_is_draft %}
-        (<i>Draft</i>)
+  {% unless page_part_unnumbered and page_chapter_num == nil %}
+    <div class="header-chapter-num">
+      {% unless page_part_unnumbered %}
+        <span class="part-label">
+          Part {{ page_part_num }}:
+          {{ page_part_label }} -
+        </span>
+      {% endunless %}
+      {% if page_chapter_num %}
+        Chapter {{ page_chapter_num}}.
       {% endif %}
-    {% endif %}
-  </div><!-- .header-chapter-num -->
+    </div><!-- .header-chapter-num -->
   {% endunless %}
 {% endif %}
 
 {% if page.title %}
   <h1 id="{{ page.id }}" data-level="1.1" class="no_toc">{{ page.title | escape }}</h1>
+{% endif %}
+
+{% if page_chapter_is_draft %}
+  <div class="color-callout-light with-border" style="padding: 5px; padding-left: 10px; margin-bottom: 20px;">
+    This chapter is a <b>draft</b>.
+    <a href="{{site.baseurl}}/outline">See the outline.</a>
+  </div>
 {% endif %}
 
 {% if page.abstract %}

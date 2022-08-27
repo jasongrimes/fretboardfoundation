@@ -127,19 +127,30 @@
     background-color: #eee;
     border-color: #ccc;
 }
+.color-callout-dark.with-border {
+    border: 1px solid #ccc;
+}
 .color-callout-light {
     background-color: rgb(250, 250, 250);
-    border-color: #ccc;
+    border-color: #eee;
+    color: #444;
 }
+.color-callout-light.with-border {
+    border: 1px solid #eee;
+}
+
 /* Sepia theme */
 .book.color-theme-1 .color-callout-dark {
-    /*background-color: rgb(175, 167, 144);*/
     background-color: rgb(196 187 163);
     color: #111111;
     border-color: #70421480;
 }
 .book.color-theme-1 .color-callout-light {
-    border-color: #70421480;
+    background-color: #ccbaa780;
+}
+.book.color-theme-1 .color-callout-light.with-border,
+.book.color-theme-1 .color-callout-dark.with-border {
+    border: 1px solid #70421480;
 }
 /* Midnight theme */
 .book.color-theme-2 .color-callout-dark {
@@ -147,12 +158,24 @@
     border-color: #666;
 }
 .book.color-theme-2 .color-callout-light {
+    /*background-color: #717585;*/
+    background-color: #e0e2ea;
     border-color: #666;
+    color: #333;
+}
+.book.color-theme-2 .color-callout-light.with-border,
+.book.color-theme-2 .color-callout-dark.with-border {
+    border: 1px solid #666;
 }
 
 
 .book.color-theme-1 .markdown-section a {
-    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+.book.color-theme-1 .markdown-section a:hover {
+    text-decoration: underline;
+    text-decoration-style: solid;
 }
 
 /*
@@ -166,7 +189,7 @@
     bottom: auto;
 }
 .page-inner {
-    padding-top: 0px;
+    padding-top: 10px;
     padding-bottom: 0px;
 }
 .book-summary {
@@ -210,17 +233,23 @@
 }
 */
 
-.header-chapter-num {
+.header-chapter-num .part-label {
+    text-transform: uppercase;
+    opacity: 0.7;
 }
 .header-chapter-num + h1 {
-    margin-top: -10px !important;
+    /* margin-top: -10px !important; */
+}
+.markdown-section h1 {
+    margin-top: 0;
+    line-height: 1.3;
+    margin-bottom: 0.5em;
 }
 
 .chapter-abstract {
     background-color: #eee;
     padding: 10px;
     font-style: italic;
-    margin-top: -20px;
     margin-bottom: 20px;
 }
 
@@ -364,10 +393,14 @@ ul.toc-chapters-full.show-drafts {
     line-height: 1.5;
     position: relative;
 }
+.book .toc-chapters-full li.chapter a,
+.book .toc-chapters-full li.chapter a:hover {
+    text-decoration: none;
+}
 .toc-chapters-full.show-drafts li.chapter::before {
     content: "\f046";
     font: normal normal normal 14px/1 FontAwesome;
-    opacity: 0.5;
+    opacity: 0.7;
     position: absolute;
     left: -20px;
     top: 5px;
