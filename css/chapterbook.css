@@ -169,11 +169,11 @@
 
 .book.color-theme-1 .markdown-section a {
     text-decoration: underline;
-    text-decoration-style: dotted;
+    text-decoration-style: solid;
 }
 .book.color-theme-1 .markdown-section a:hover {
     text-decoration: underline;
-    text-decoration-style: solid;
+    text-decoration-style: double;
 }
 
 /*
