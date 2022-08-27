@@ -37,5 +37,16 @@ include-chapter-pager: true
   </div>
 {% endif %}
 
+{% if site.in_chapter_toc.enabled %}
+  {% unless page.disable_toc %}
+    <div class="page-toc">
+      <div class="page-toc-heading">
+        In this chapter:
+      </div>
+      {% include toc.html html=content h_min=site.sidebar_toc.h_min h_max=site.sidebar_toc.h_max %}
+    </div>
+  {% endunless %}
+{% endif %}
+
 {{ content }}
 

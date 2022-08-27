@@ -7,11 +7,6 @@ email: jason@grimesit.com
 #description: >
 #  For intermediate guitarists building toward mastery.
 
-toc:
-  enabled: true
-  h_min: 1
-  h_max: 3
-
 # customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
 favicon_path: assets/gitbook/images/favicon.ico
 
@@ -47,7 +42,7 @@ exclude:
   - .idea
 
 #
-# Chapterbook config
+# Gitbookish config
 #
 
 # Chapters can be hidden from navigation by adding ".draft" to the index at the start of their filename.
@@ -56,6 +51,17 @@ exclude:
 # To make the drafts appear in the navigation in development environments,
 # set show_drafts_in_dev to true.
 show_drafts_in_dev: true
+
+sidebar_toc:
+  enabled: true
+  h_min: 1
+  h_max: 3
+
+# Override in chapter frontmatter with disable_toc: true
+in_chapter_toc:
+  enabled: true
+  h_min: 1
+  h_max: 3
 
 copyright:
   start_year: 2022
