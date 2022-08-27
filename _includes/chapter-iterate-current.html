@@ -66,7 +66,7 @@
     {% if i_chapter_is_draft %}
       {% assign i_chapter_num = "X" %}
     {% else %}
-      {% assign i_chapter_num = i_chapter_num | plus: 1 %}
+      {% assign i_chapter_num = i_last_numeric_chapter_num | plus: 1 %}
       {% assign i_last_numeric_chapter_num = i_chapter_num %}
     {% endif %}
     {% if i_part_folder != i_prev_part_folder %}

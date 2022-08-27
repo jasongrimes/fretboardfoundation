@@ -13,6 +13,23 @@
   {% assign i_prev_part_folder = i_part_folder %}
   {% assign i_prev_part_sort_index = i_part_sort_index %}
   {% assign i_prev_part_sort_index_ext = i_part_sort_index_ext %}
+
+  {% if i_chapter_is_visible %}
+    {% assign i_prev_visible_chapter = i_chapter %}
+    {% assign i_prev_visible_chapter_idx = i_chapter_idx %}
+    {% assign i_prev_visible_chapter_num = i_chapter_num %}
+    {% assign i_prev_visible_chapter_is_draft = i_chapter_is_draft %}
+    {% assign i_prev_visible_chapter_is_visible = i_chapter_is_visible %}
+    {% assign i_prev_visible_chapter_sort_index = i_chapter_sort_index %}
+    {% assign i_prev_visible_chapter_sort_index_ext = i_chapter_sort_index_ext %}
+    {% assign i_prev_visible_part_num = i_part_num %}
+    {% assign i_prev_visible_part_label = i_part_label %}
+    {% assign i_prev_visible_part_unnumbered = i_part_unnumbered %}
+    {% assign i_prev_visible_part_is_draft = i_part_is_draft %}
+    {% assign i_prev_visible_part_folder = i_part_folder %}
+    {% assign i_prev_visible_part_sort_index = i_part_sort_index %}
+    {% assign i_prev_visible_part_sort_index_ext = i_part_sort_index_ext %}
+  {% endif %}
 {% endif %}
 
 {% if include.set == "page" %}
@@ -31,20 +48,20 @@
   {% assign page_part_sort_index = i_part_sort_index %}
   {% assign page_part_sort_index_ext = i_part_sort_index_ext %}
 
-  {% assign page_prev_chapter = i_prev_chapter %}
-  {% assign page_prev_chapter_idx = i_prev_chapter_idx %}
-  {% assign page_prev_chapter_num = i_prev_chapter_num %}
-  {% assign page_prev_chapter_is_draft = i_prev_chapter_is_draft %}
-  {% assign page_prev_chapter_is_visible = i_prev_chapter_is_visible %}
-  {% assign page_prev_chapter_sort_index = i_prev_chapter_sort_index %}
-  {% assign page_prev_chapter_sort_index_ext = i_prev_chapter_sort_index_ext %}
-  {% assign page_prev_part_num = i_prev_part_num %}
-  {% assign page_prev_part_label = i_prev_part_label %}
-  {% assign page_prev_part_unnumbered = i_prev_part_unnumbered %}
-  {% assign page_prev_part_is_draft = i_prev_part_is_draft %}
-  {% assign page_prev_part_folder = i_prev_part_folder %}
-  {% assign page_prev_part_sort_index = i_prev_part_sort_index %}
-  {% assign page_prev_part_sort_index_ext = i_prev_part_sort_index_ext %}
+  {% assign page_prev_chapter = i_prev_visible_chapter %}
+  {% assign page_prev_chapter_idx = i_prev_visible_chapter_idx %}
+  {% assign page_prev_chapter_num = i_prev_visible_chapter_num %}
+  {% assign page_prev_chapter_is_draft = i_prev_visible_chapter_is_draft %}
+  {% assign page_prev_chapter_is_visible = i_prev_visible_chapter_is_visible %}
+  {% assign page_prev_chapter_sort_index = i_prev_visible_chapter_sort_index %}
+  {% assign page_prev_chapter_sort_index_ext = i_prev_visible_chapter_sort_index_ext %}
+  {% assign page_prev_part_num = i_prev_visible_part_num %}
+  {% assign page_prev_part_label = i_prev_visible_part_label %}
+  {% assign page_prev_part_unnumbered = i_prev_visible_part_unnumbered %}
+  {% assign page_prev_part_is_draft = i_prev_visible_part_is_draft %}
+  {% assign page_prev_part_folder = i_prev_visible_part_folder %}
+  {% assign page_prev_part_sort_index = i_prev_visible_part_sort_index %}
+  {% assign page_prev_part_sort_index_ext = i_prev_visible_part_sort_index_ext %}
 {% endif %}
 
 {% if include.set == "page_next" %}
@@ -80,6 +97,21 @@
   {% assign i_prev_part_folder = nil %}
   {% assign i_prev_part_sort_index = nil %}
   {% assign i_prev_part_sort_index_ext = nil %}
+
+  {% assign i_prev_visible_chapter = nil %}
+  {% assign i_prev_visible_chapter_idx = nil %}
+  {% assign i_prev_visible_chapter_num = nil %}
+  {% assign i_prev_visible_chapter_is_draft = nil %}
+  {% assign i_prev_visible_chapter_is_visible = nil %}
+  {% assign i_prev_visible_chapter_sort_index = nil %}
+  {% assign i_prev_visible_chapter_sort_index_ext = nil %}
+  {% assign i_prev_visible_part_num = nil %}
+  {% assign i_prev_visible_part_label = nil %}
+  {% assign i_prev_visible_part_unnumbered = nil %}
+  {% assign i_prev_visible_part_is_draft = nil %}
+  {% assign i_prev_visible_part_folder = nil %}
+  {% assign i_prev_visible_part_sort_index = nil %}
+  {% assign i_prev_visible_part_sort_index_ext = nil %}
 {% endif %}
 
 {% if include.unset == "current" or include.unset == "all-iterators" %}

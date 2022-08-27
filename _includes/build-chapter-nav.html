@@ -24,9 +24,10 @@
           {% endcomment %}
           {% if page.id == i_chapter.id %}
             {% include chapter-iterate-vars.html set="page" %}
-          {% endif %}
-          {% if page.id == i_prev_chapter.id %}
-            {% include chapter-iterate-vars.html set="page_next" %}
+          {% else %}
+            {% if page_chapter and page_next_chapter == nil and i_chapter_is_visible %}
+              {% include chapter-iterate-vars.html set="page_next" %}
+            {% endif %}
           {% endif %}
 
           {% unless i_chapter_is_visible %}
