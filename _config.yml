@@ -50,11 +50,12 @@ exclude:
 # Chapterbook config
 #
 
-# Chapters can be hidden from navigation in production environments by adding ".draft" to the index at the start of their filename.
+# Chapters can be hidden from navigation by adding ".draft" to the index at the start of their filename.
 # (For example, rename 010-introduction.md to 010.draft-introduction.md)
-# By default, these draft chapters are still visible in non-production environments.
-# Hide them in all environments by setting always_hide_draft_chapters to true.
-always_hide_draft_chapters: false
+#
+# To make the drafts appear in the navigation in development environments,
+# set show_drafts_in_dev to true.
+show_drafts_in_dev: false
 
 copyright:
   start_year: 2022

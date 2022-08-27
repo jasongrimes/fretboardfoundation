@@ -5,7 +5,7 @@
 {% assign _chapterindex_ext = _chapterindex | split: "." | last %}
 {% if _chapterindex_ext == "draft" %}
   {% assign chapter_is_draft = true %}
-  {% if site.always_hide_draft_chapters or jekyll.environment == "production" %}
+  {% unless jekyll.environment == "development" and site.show_drafts_in_dev %}
     {% assign chapter_is_visible = false %}
-  {% endif %}
+  {% endunless %}
 {% endif %}
