@@ -1,47 +1,48 @@
 <div class="book-summary">
   <nav role="navigation">
-    <!--
-    <div id="book-search-input" role="search">
-      <input type="text" placeholder="Type to search" />
-    </div>
-    <div id="book-search-input-link" role="search">
-      <a href="{{site.baseurl}}/assets/search.html">Click to Search</a>
-    </div>
-    -->
-    {% comment %}
-      <div class="sidebar-top">
-        <a href="{{site.baseurl}}/">
-          {{ site.title | escape }}
-        </a>
-        <div class="btn-close-sidebar">
-          <i class="fa fa-times"></i>
-        </div>
-        <div style="clear: both;"></div>
-      </div>
-    {%endcomment%}
-
     <ul class="summary">
-      {%comment%}
-      <!--
-      <li style="margin-top: 7px;" data-path="{{site.baseurl}}/">
-        <a href="{{site.baseurl}}/" style="font-size: 16px; font-weight: bold; float: left;">
-          {{ site.title | escape }}
-        </a>
-        <a href="#" onClick="$('.book').removeClass('with-summary');" style="float: right; opacity: 0.6;">
-          <i class="fa fa-times"></i>
-        </a>
-        <div style="clear: both;"></div>
-      </li>
-      <li class="divider"></li>
-      -->
 
-      <!--
-      <li>
-        {% include fontsettings.html %}
-      </li>
-      <li class="divider"></li>
-      -->
-      {%endcomment%}
+      {% comment %}
+      {% assign _prevpart = "" %}
+
+      {% for _chapter in site.chapters %}
+        {% include assign-local-chapter-vars.html chapter=_chapter %}
+
+        {% unless _local_chapter_is_visible %}
+          {% continue %}
+        {% endunless %}
+
+        {% assign _is_new_part = false %}
+        {% if _local_chapter_part_folder and _local_chapter_part_folder != _prevpart %}
+          {% assign _is_new_part = true %}
+        {% endif %}
+        {% assign _prevpart = _local_chapter_part_folder %}
+
+        {% if _is_new_part and _local_chapter_part_label %}
+          <li class="header">Part {{ _local_chapter_part_num }}: {{ _local_chapter_part_label }}</li>
+        {% endif %}
+
+        {% if page.url == _local_chapter_url %}
+          <li class="chapter active" data-level="1.2" data-path="{{site.baseurl}}{{_local_chapter_url}}">
+        {% else %}
+          <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}{{_local_chapter_url}}">
+        {% endif %}
+
+        <a href="{{site.baseurl}}{{_local_chapter_url}}">
+          {% unless _local_chapter_part_unnumbered %}{{ _local_chapter_num }}.{% endunless %}
+          {{ _local_chapter_label | escape }}
+        </a>
+
+        {% if site.toc.enabled %}
+          {% if page.url == _local_chapter_url %}
+            {% include toc.html html=content h_min=site.toc.h_min h_max=site.toc.h_max %}
+          {% endif %}
+        {% endif %}
+
+        </li>
+      {% endfor %}
+      {% endcomment %}
+
 
       <!-- Chapters -->
       {% assign part_num = 0 %}
@@ -56,7 +57,9 @@
         {% assign is_new_part = false %}
         {% include assign-part-vars-lite.html page=chapter %}
         {% unless part_unnumbered %}
-          {% assign chapter_num = chapter_num | plus: 1 %}
+          {% unless chapter_is_draft %}
+            {% assign chapter_num = chapter_num | plus: 1 %}
+          {% endunless %}
           {% if part_folder != prevpart %}
             {% assign part_num = part_num | plus: 1 %}
             {% assign is_new_part = true %}
@@ -74,7 +77,13 @@
           <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}{{chapter.url}}">
         {% endif %}
         <a href="{{site.baseurl}}{{chapter.url}}">
-          {% unless part_unnumbered %}{{ chapter_num }}.{% endunless %}
+          {% unless part_unnumbered %}
+            {% if chapter_is_draft %}
+              X.
+            {% else %}
+              {{ chapter_num }}.
+            {% endif %}
+          {% endunless %}
           {{ chapter.title | escape }}
         </a>
         {% if site.toc.enabled %}
@@ -95,6 +104,7 @@
           <a href="{{site.baseurl}}{{item.url}}" class="">{{ item.label }}</a>
         </li>
       {% endfor %}
+
     </ul>
   </nav>
 </div>
