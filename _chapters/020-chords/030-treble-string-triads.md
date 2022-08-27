@@ -24,18 +24,18 @@ It’s easy to sprinkle them into melody lines,
 because there’s at least one chord shape with a root note on each treble string (which is where melodies are typically played).
 And they provide a simple starting place for the study and practice of harmony.
 
-The list below includes the triads on the top-three strings.
-It also includes a few alternate choices on the upper-middle strings, 
-because in some cases those are more convenient to play.
-Shapes are presented for major, minor, and diminished triads, 
+Chord shapes are given for major, minor, and diminished triads, 
 which are the basis for our study of harmony
-because they're the three types of chords found when harmonizing the major scale. 
-The dots in the diagrams indicate the chord root note (R) and the intervals from the root. 
+because they're the three types of chords found when harmonizing the major scale.
+Included are the triads on the top-three strings,
+plus a few alternate choices on the upper-middle strings
+because in some cases those are more convenient to play.
 
+The dots in the diagrams indicate the chord root note (R) and the intervals from the root. 
 If it's not obvious,
 the root note determines the name of the chord.
 For example, to play a C major triad,
-pick one of the major chord shapes and put the root note on C on the fretboard.
+pick one of the major chord shapes and place the root note on C on the fretboard.
 To play C minor,
 use a minor chord shape with the root on C,
 and so on. (For help locating the note names on the fretboard,
