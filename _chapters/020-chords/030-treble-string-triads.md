@@ -1,7 +1,7 @@
 ---
 title: Treble-string triads
 slug: treble-triads
-abstract: Lightweight moveable chord shapes on the upper strings. 
+abstract: Lightweight movable chord shapes on the upper strings. 
 ---
 
 Guitar strings are numbered 1-6, 
@@ -10,7 +10,7 @@ and the lowest-pitched (low E) as string 6.
 The “treble strings” are the three highest-pitched strings,
 and the "bass strings" are the three lowest-pitched strings.
 
-Moveable, three-note triad chord shapes are found on each group of three consecutive strings:
+Movable, three-note triad chord shapes are found on each group of three consecutive strings:
 the top-three (1-3),
 upper-middle (2-4),
 lower-middle (3-5),
