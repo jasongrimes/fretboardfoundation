@@ -29,8 +29,8 @@
             {% include chapter-iterate-vars.html set="page_next" %}
           {% endif %}
 
-
           {% unless i_chapter_is_visible %}
+            {% include chapter-iterate-next.html %}
             {% continue %}
           {% endunless %}
 
@@ -59,7 +59,6 @@
           </li>
 
           {% include chapter-iterate-next.html %}
-
         {% endfor %}
 
       </ul>
