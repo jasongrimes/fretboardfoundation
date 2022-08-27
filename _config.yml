@@ -55,7 +55,7 @@ exclude:
 #
 # To make the drafts appear in the navigation in development environments,
 # set show_drafts_in_dev to true.
-show_drafts_in_dev: false
+show_drafts_in_dev: true
 
 copyright:
   start_year: 2022

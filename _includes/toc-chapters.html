@@ -1,6 +1,18 @@
 <div class="book-summary">
   <nav role="navigation">
     <ul class="summary">
+      {% if site.data.nav %}
+        {% for item in site.data.nav %}
+        <li class="chapter {% if item.url == page.url %}active{% endif %}" data-path="{{ site.baseurl }}{{ item.url }}" data-level="1.1">
+          <!-- <li class="chapter {% if item.url == page.url %}active{% endif %}"> -->
+          <a href="{{site.baseurl}}{{item.url}}" class="">{{ item.label }}</a>
+        </li>
+        {% endfor %}
+
+        <li class="divider"></li>
+      {% endif %}
+
+
 
       {% comment %}
       {% assign _prevpart = "" %}
@@ -94,16 +106,6 @@
         </li>
       {% endfor %}
 
-      {% if site.chapters.size > 0 %}
-        <li class="divider"></li>
-      {% endif %}
-
-      {% for item in site.data.nav %}
-        <li class="chapter {% if item.url == page.url %}active{% endif %}" data-path="{{ site.baseurl }}{{ item.url }}" data-level="1.1">
-        <!-- <li class="chapter {% if item.url == page.url %}active{% endif %}"> -->
-          <a href="{{site.baseurl}}{{item.url}}" class="">{{ item.label }}</a>
-        </li>
-      {% endfor %}
 
     </ul>
   </nav>

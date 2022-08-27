@@ -8,14 +8,12 @@
 .book.with-summary .book-body .body-inner {
     margin-top: 0;
 }
-/*
 .book.with-summary .book-header {
     border-right: 1px solid rgb(0,0,0,.07);
 }
 .book.with-summary.color-theme-2 .book-header {
     border-right: 1px solid #2d3143;
 }
-*/
 /*
 .book-summary .btn-close-sidebar {
     width: 50px;
