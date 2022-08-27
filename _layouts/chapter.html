@@ -37,15 +37,17 @@ include-chapter-pager: true
   </div>
 {% endif %}
 
-{% if site.in_chapter_toc.enabled %}
-  {% unless page.disable_toc %}
+{% if site.in_chapter_toc.enabled and page.disable_toc != true %}
+  {% capture in_chapter_toc %}{% include toc.html html=content h_min=site.sidebar_toc.h_min h_max=site.sidebar_toc.h_max %}{% endcapture %}
+  {% capture in_chapter_toc %}{{ in_chapter_toc | strip }}{% endcapture %}
+  {% if in_chapter_toc != "" %}
     <div class="page-toc">
       <div class="page-toc-heading">
         In this chapter:
+        {{ in_chapter_toc }}
       </div>
-      {% include toc.html html=content h_min=site.sidebar_toc.h_min h_max=site.sidebar_toc.h_max %}
     </div>
-  {% endunless %}
+  {% endif %}
 {% endif %}
 
 {{ content }}
