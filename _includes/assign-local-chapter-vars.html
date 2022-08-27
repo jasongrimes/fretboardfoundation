@@ -13,55 +13,59 @@
 
 {% if include.chapter and include.chapter.collection == "chapters" %}
   {% assign _partnum = 0 %}
-  {% assign _chapternum = 0 %}
-  {% assign _lastpart = nil %}
-  {% assign _found = false %}
-  {% assign _prevchapter = nil %}
+  {% assign __chapternum = 0 %}
+  {% assign __lastpart = nil %}
+  {% assign __found = false %}
+  {% assign __prevchapter = nil %}
 
-  {% for _chapter in site.chapters %}
-    {% include assign-chapter-is-visible.html chapter=_chapter %}
-    {% assign _chapter_is_draft = chapter_is_draft %}
-    {% assign _chapter_is_visible = chapter_is_visible %}
+  {% for __chapter in site.chapters %}
+    {% include assign-chapter-is-visible.html chapter=__chapter %}
+    {% assign __chapter_is_draft = chapter_is_draft %}
+    {% assign __chapter_is_visible = chapter_is_visible %}
 
-    {% if _found and _chapter_is_visible %}
-      {% assign _local_chapter_next = _chapter %}
+    {% if __found and __chapter_is_visible %}
+      {% assign _local_chapter_next = __chapter %}
       {% break %}
     {% endif %}
 
-    {% include assign-part-vars-lite.html page=_chapter %}
-    {% assign _local_chapter_part_folder = part_folder %}
-    {% assign _local_chapter_part_label = part_label %}
-    {% assign _local_chapter_part_unnumbered = part_unnumbered %}
+    {% include assign-part-vars-lite.html page=__chapter %}
+    {% assign __part_folder = part_folder %}
+    {% assign __part_label = part_label %}
+    {% assign __part_unnumbered = part_unnumbered %}
 
-    {% unless _local_chapter_part_unnumbered %}
-      {% unless _chapter_is_draft %}
-        {% assign _chapternum = _chapternum | plus: 1 %}
+    {% unless __part_unnumbered %}
+      {% unless __chapter_is_draft %}
+        {% assign __chapternum = __chapternum | plus: 1 %}
       {% endunless %}
-      {% if _local_chapter_part_folder != _lastpart %}
+      {% if __part_folder != __lastpart %}
         {% assign _partnum = _partnum | plus: 1 %}
       {% endif %}
     {% endunless %}
 
-    {% if _chapter.id == include.chapter.id %}
-      {% assign _found = true %}
-      {% assign _local_chapter_label = _chapter.title %}
-      {% assign _local_chapter_url = _chapter.url %}
-      {% assign _local_chapter_prev = _prevchapter %}
-      {% assign _local_chapter_is_draft = _chapter_is_draft %}
+    {% if __chapter.id == include.chapter.id %}
+      {% assign __found = true %}
+      {% assign _local_chapter_label = __chapter.title %}
+      {% assign _local_chapter_url = __chapter.url %}
+      {% assign _local_chapter_prev = __prevchapter %}
+      {% assign _local_chapter_is_draft = __chapter_is_draft %}
+      {% assign _local_chapter_is_visible = __chapter_is_visible %}
+      {% assign _local_chapter_part_folder = __part_folder %}
+      {% assign _local_chapter_part_label = __part_label %}
+      {% assign _local_chapter_part_unnumbered = __part_unnumbered %}
 
-      {% unless _local_chapter_part_unnumbered %}
+      {% unless __part_unnumbered %}
         {% assign _local_chapter_part_num = _partnum %}
-        {% if _chapter_is_draft %}
-          {% assign _local_chapter_num = "N" %}
+        {% if __chapter_is_draft %}
+          {% assign _local_chapter_num = "X" %}
         {% else %}
-          {% assign _local_chapter_num = _chapternum %}
+          {% assign _local_chapter_num = __chapternum %}
         {% endif %}
       {% endunless %}
     {% endif %}
 
-    {% assign _lastpart = _local_chapter_part_folder %}
-    {% if _chapter_is_visible %}
-      {% assign _prevchapter = _chapter %}
+    {% assign __lastpart = __part_folder %}
+    {% if __chapter_is_visible %}
+      {% assign __prevchapter = __chapter %}
     {% endif %}
 
   {% endfor %}

@@ -388,6 +388,9 @@ ul.toc-chapters-full.show-drafts {
     text-transform: uppercase;
     margin-bottom: 5px;
 }
+.toc-chapters-full.show-drafts .part-label {
+    margin-left: -20px;
+}
 .toc-chapters-full li.chapter {
     margin-bottom: 10px;
     line-height: 1.5;
@@ -407,6 +410,9 @@ ul.toc-chapters-full.show-drafts {
 }
 .toc-chapters-full.show-drafts li.chapter.draft::before {
     content: "\f096";
+}
+.toc-chapters-full.show-drafts ul li.chapter::before {
+    left: -40px;
 }
 .toc-chapters-full .chapter-num {
     opacity: 0.5;
