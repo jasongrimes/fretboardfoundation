@@ -48,25 +48,25 @@ and so on.
 
 {% include figure.html 
     caption="1st-string root major triad on top-three strings." 
-    url="/assets/treble-triads/1-maj.svg" 
+    url="/assets/figures/treble-triads/1-maj.svg" 
     class="chord row" 
 %}
 
 {% include figure.html 
     caption="2nd-string root major triad on top-three strings." 
-    url="/assets/treble-triads/2-maj.svg" 
+    url="/assets/figures/treble-triads/2-maj.svg" 
     class="chord row" 
 %}
 
 {% include figure.html 
     caption="3rd-string root major triad on top-three strings." 
-    url="/assets/treble-triads/3-maj.svg" 
+    url="/assets/figures/treble-triads/3-maj.svg" 
     class="chord row" 
 %}
 
 {% include figure.html 
     caption="3rd-string root major triad on upper-middle strings." 
-    url="/assets/treble-triads/3-maj-upmid.svg" 
+    url="/assets/figures/treble-triads/3-maj-upmid.svg" 
     class="chord row" 
 %}
 
@@ -74,25 +74,25 @@ and so on.
 
 {% include figure.html 
     caption="1st-string root minor triad on top-three strings." 
-    url="/assets/treble-triads/1-min.svg" 
+    url="/assets/figures/treble-triads/1-min.svg" 
     class="chord row" 
 %}
 
 {% include figure.html 
     caption="2nd-string root minor triad on top-three strings." 
-    url="/assets/treble-triads/2-min.svg" 
+    url="/assets/figures/treble-triads/2-min.svg" 
     class="chord row" 
 %}
 
 {% include figure.html 
     caption="3rd-string root minor triad on top-three strings." 
-    url="/assets/treble-triads/3-min.svg" 
+    url="/assets/figures/treble-triads/3-min.svg" 
     class="chord row" 
 %}
 
 {% include figure.html 
     caption="2nd-string root minor triad on upper-middle strings." 
-    url="/assets/treble-triads/2-min-upmid.svg" 
+    url="/assets/figures/treble-triads/2-min-upmid.svg" 
     class="chord row" 
 %}
 
@@ -102,25 +102,25 @@ and so on.
 
 {% include figure.html 
     caption="1st-string root diminished triad on top-three strings." 
-    url="/assets/treble-triads/1-dim.svg" 
+    url="/assets/figures/treble-triads/1-dim.svg" 
     class="chord row" 
 %}
 
 {% include figure.html 
     caption="2nd-string root diminished triad on top-three strings." 
-    url="/assets/treble-triads/2-dim.svg" 
+    url="/assets/figures/treble-triads/2-dim.svg" 
     class="chord row" 
 %}
 
 {% include figure.html 
     caption="3rd-string root diminished triad on top-three strings." 
-    url="/assets/treble-triads/3-dim.svg" 
+    url="/assets/figures/treble-triads/3-dim.svg" 
     class="chord row" 
 %}
 
 {% include figure.html 
     caption="3rd-string root diminished triad on upper-middle strings." 
-    url="/assets/treble-triads/3-dim-upmid.svg" 
+    url="/assets/figures/treble-triads/3-dim-upmid.svg" 
     class="chord row" 
 %}
 
@@ -142,19 +142,19 @@ see {% include chapter-link.html slug="note-names" %}.
 
 {% include figure.html 
     caption="Major treble triads on the whole fretboard." 
-    url="/assets/treble-triads/all-maj.svg" 
+    url="/assets/figures/treble-triads/all-maj.svg" 
     class="chord row" 
 %}
 
 {% include figure.html 
     caption="Minor treble triads on the whole fretboard." 
-    url="/assets/treble-triads/all-min.svg" 
+    url="/assets/figures/treble-triads/all-min.svg" 
     class="chord row" 
 %}
 
 {% include figure.html 
     caption="Diminished treble triads on the whole fretboard." 
-    url="/assets/treble-triads/all-dim.svg" 
+    url="/assets/figures/treble-triads/all-dim.svg" 
     class="chord row" 
 %}
 
