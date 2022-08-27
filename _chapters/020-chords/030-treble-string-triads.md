@@ -32,17 +32,18 @@ which are the basis for our study of harmony
 because they're the three types of chords found when harmonizing the major scale. 
 The dots in the diagrams indicate the chord root note (R) and the intervals from the root. 
 
-When playing these chords, 
-you'll need to mute the unused strings with a neighboring finger.
-That tends to be pretty natural to do with these shapes.
-
 If it's not obvious,
 the root note determines the name of the chord.
 For example, to play a C major triad,
 pick one of the major chord shapes and put the root note on C on the fretboard.
 To play C minor,
 use a minor chord shape with the root on C,
-and so on.
+and so on. (For help locating the note names on the fretboard,
+see {% include chapter-link.html slug="note-names" %}.)
+
+When playing these chords, 
+you'll need to mute the unused strings with a neighboring finger.
+That tends to be pretty natural to do with these shapes.
 
 ### Major triads
 
@@ -128,17 +129,13 @@ and so on.
 
 One way to practice is to pick a chord,
 like A minor,
-and play it in multiple places on the fretboard with different voicings 
-(i.e. with the root on different strings).
+and play it in multiple places on the fretboard.
 
 Notice where the different shapes are in relation to each other:
 the voicings move up the neck in order,
 with a 1st-string root shape followed by a 2nd-string root shape,
 followed by a 3rd-string root shape, followed by a 1st-string root shape, etc.
 Also notice the different sounds of the different voicings for the same chord.
-
-If you need help locating the note names on the fretboard,
-see {% include chapter-link.html slug="note-names" %}.
 
 {% include figure.html 
     caption="Major treble triads on the whole fretboard." 
