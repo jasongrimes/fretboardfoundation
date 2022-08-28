@@ -9,15 +9,8 @@
       {% continue %}
     {% endif %}
 
-    {% unless i_chapter_is_visible %}
-      {% unless include.show_drafts and i_chapter_is_draft %}
-        {% include chapter-iterate-next.html %}
-        {% continue %}
-      {% endunless %}
-    {% endunless %}
-
     {% assign _is_new_part = false %}
-    {% if i_part_folder != i_prev_part_folder %}
+      {% if i_part_folder != i_prev_part_folder %}
       {% assign _is_new_part = true %}
     {% endif %}
 
@@ -25,6 +18,14 @@
       </ul></li>
       {% assign _in_nested_part = false %}
     {% endif %}
+
+    {% unless i_chapter_is_visible %}
+      {% unless include.show_drafts and i_chapter_is_draft %}
+        {% include chapter-iterate-next.html %}
+        {% continue %}
+      {% endunless %}
+    {% endunless %}
+
 
     {% if _is_new_part and i_part_label %}
       <li class="part">
