@@ -1,6 +1,5 @@
 #
-# Navigation elements that appear below the table of contents in the sidebar.
-#
+# Navigation elements that appear at the top ov the sidebar 
 
 - label: About this site
   url: /about
