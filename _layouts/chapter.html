@@ -55,7 +55,7 @@ layout: default
 
   {{ content }}
 
-  {% include chapter-iterate-vars.html inspect="page" %}
+  {% comment %}{% include chapter-iterate-vars.html inspect="page" %}{% endcomment %}
 </section>
 
 {% if page_prev_chapter or page_next_chapter %}
