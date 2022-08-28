@@ -31,7 +31,7 @@ What’s the minimum information needed, and what’s the fastest way to learn i
 Obviously the answer depends in part on where we want to go.
 Our interests and our present circumstances will dictate our direction.
 But there are common foundational elements that are often required.
-This book aims to provide a practical way to acquire this foundation. 
+This book aims to provide a practical way to acquire that foundation. 
 
 ## Who this book is for
 
