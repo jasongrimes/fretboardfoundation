@@ -54,13 +54,13 @@ show_drafts_in_dev: false
 
 sidebar_toc:
   enabled: true
-  h_min: 1
+  h_min: 2
   h_max: 3
 
 # Override in chapter frontmatter with disable_toc: true
 in_chapter_toc:
   enabled: true
-  h_min: 1
+  h_min: 2
   h_max: 3
 
 copyright:

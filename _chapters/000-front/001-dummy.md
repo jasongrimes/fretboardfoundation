@@ -2,7 +2,7 @@
 layout: chapter
 title: Dummy chapter
 slug: dummy
-published: true
+published: false
 ---
 
 {% include chapter-vars.html slug="note-names" inspect=true withnum="chapter" %}

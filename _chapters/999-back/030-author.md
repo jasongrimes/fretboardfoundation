@@ -2,9 +2,10 @@
 title: About the author
 slug: author
 abstract: Jason Grimes is some guy who plays guitar.
+disable_toc: true
 ---
 
-# Jason Grimes, 2022 
+## Jason Grimes
 
 I have been playing guitar off and on for more than 30 years. 
 I’m self-taught and I like to do things my own way. 
