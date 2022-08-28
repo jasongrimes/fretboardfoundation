@@ -45,4 +45,5 @@ with a facility and a graceful freedom that allows you to express yourself creat
 and produce the sounds you hear inside yourself as directly and purely as possible. 
 
 If this describes you, welcome.
+I'm glad you're here.
 Please read on.
