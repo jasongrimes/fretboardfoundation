@@ -120,6 +120,10 @@
     }
     */
 }
+.book.color-theme-2 .book-summary ul.summary li a,
+.book.color-theme-2 .book-summary ul.summary li span {
+    font-weight: normal;
+}
 
 /* Override gitbook styles */
 @media (max-width: 600px) {
