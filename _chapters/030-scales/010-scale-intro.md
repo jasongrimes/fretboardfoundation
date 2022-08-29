@@ -8,13 +8,14 @@ abstract: Scales are for the brain, not the fingers. Don't play like a robot.
 
 A scale is an ordered collection of notes and the intervals between them.
 
-The notes in a scale are numbered in order from lowest pitch to highest. 
+The notes in a scale are numbered in order,
+from lowest pitch to highest. 
 These numbered notes are called “scale degrees”. 
 Scale degree numbers are often written with “hats”, 
 like this: 1&#x302;, 2&#x302;, etc. 
 The first degree of a scale (1&#x302;) is often called the “tonic”. 
 
-The intervals between scale degrees are described as “half steps” and “whole steps”. 
+The intervals between scale degrees are often described in terms of “half steps” and “whole steps”. 
 A “half step” is the smallest interval on the fretboard, 
 the distance between the notes on a string on either side of one fret 
 (a “semitone” or “minor second” interval). 
@@ -58,7 +59,7 @@ Mindless repetition of scales digs deep ruts of habit in our nervous system,
 which makes improvisation sound mechanical and boring. 
 It can be hard to avoid this trap. 
 
-## How to practice scales without sounding like a robot 
+## Practicing scales without sounding like a robot 
 
 To way to avoid sabotaging ourselves into sounding like a robot is to *always be mindful* when practicing scales. 
 We have to think about each note as we play it. 
