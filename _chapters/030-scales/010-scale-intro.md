@@ -15,12 +15,13 @@ Scale degree numbers are often written with “hats”,
 like this: 1&#x302;, 2&#x302;, 3&#x302;, etc. 
 The first degree of a scale (1&#x302;) is often called the “tonic”. 
 
-The intervals between scale degrees are often described in terms of “half steps” and “whole steps”. 
-A “half step” is the smallest interval on the fretboard, 
+The intervals between scale degrees are often described in terms of “half steps” and “whole steps”,
+or "tones" and "semitones". 
+A “half step” or "semitone" is the smallest interval on the fretboard, 
 the distance between the notes on either side of one fret on the same string
-(a “semitone” or “minor second” interval). 
-A “whole step” is two half steps, 
-a distance of two frets (a “tone” or “major second” interval).
+(a minor-second interval). 
+A “whole step” or "tone" is two half steps or semitones, 
+a distance of two frets (a “major second” interval).
 
 Most scales can be described by a formula that specifies the half steps and whole steps between scale degrees. 
 For example, the major scale formula can be written like this: 
@@ -29,12 +30,11 @@ a whole step to 3&#x302;,
 a half step to 4&#x302;,
 a whole step to 5&#x302;, etc.).
 
-Scales can also be described by the interval between each scale degree and the tonic. 
+Scales can also be described by the interval between scale degrees and the tonic. 
 For example, 
-the major scale is said to have a major third and a major seventh, 
-because the interval from 1&#x302; to 3&#x302; is a major third, 
-and the interval from 1&#x302; to 7&#x302; is a major seventh. 
-(This is so regardless of the fact that minor-third and minor-seventh intervals can also be found between other degrees of the major scale.)
+the major scale is said to have a major-third degree and a major-seventh degree, 
+because the interval from 1&#x302; to 3&#x302; is a major-third interval, 
+and the interval from 1&#x302; to 7&#x302; is a major-seventh interval.
 
 ## What scales are good for---and bad for
 
