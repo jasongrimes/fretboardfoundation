@@ -42,8 +42,8 @@ Every key and mode is derived from a scale,
 sometimes called its “parent scale”.
 The notes in the key are the notes of the scale, 
 and the chords in that key and their “harmonic function” are derived from the scale degrees. 
-The I chord is the chord with its root on the 1$#x302; scale degree, 
-the V chord has its root on the 5&#302;, and so on. 
+The I chord is the chord with its root on the 1&#x302; scale degree, 
+the V chord has its root on the 5&#x302;, and so on. 
 See {% include chapter-link.html slug="harmony-intro" %} for more information about how scales are “harmonized”. 
 
 Scales can be immensely helpful for understanding music *intellectually*. 
