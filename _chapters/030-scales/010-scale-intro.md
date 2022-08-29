@@ -30,8 +30,8 @@ a whole step to 5&#x302;, etc.).
 
 Scales can also be described by the interval between each scale degree and the tonic. 
 The major scale is described as having a major third and a major seventh, 
-because the interval from 1&#302; to 3&#302; is a major third, 
-and the interval from 1&#302; to 7&#302; is a major seventh. 
+because the interval from 1&#x302; to 3&#x302; is a major third, 
+and the interval from 1&#x302; to 7&#x302; is a major seventh. 
 (This is so regardless of the fact that minor-third intervals can also be found between other degrees of the major scale.)
 
 ## What scales are good for---and bad for
