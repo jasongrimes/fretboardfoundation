@@ -6,7 +6,7 @@ abstract: Scales are for the brain, not the fingers. Don't play like a robot.
 
 ## Scale definitions
 
-A scale is an ordered collection of notes and the intervals between them.
+A scale is an ordered collection of notes.
 
 The notes in a scale are numbered in order,
 from lowest pitch to highest. 
