@@ -3,3 +3,31 @@ title: About this site
 permalink: /about
 layout: page
 ---
+
+This site is a tool for creating and sharing a book I’m slowly writing:  
+_Fretboard Foundation: Practical building blocks for intermediate guitarists_.
+
+See the [preface](preface) for more about the book, 
+and the [author](author) page for more about me.
+
+The book is freely available on this website, 
+and will remain so after it is complete. 
+
+Though still in its early stages, 
+I hope that it already contains information that is helpful to the intended audience. 
+I aim for the book to be able to stand on its own as a useful resource during the entire writing process, 
+even without the support of yet-unfinished pages. 
+
+For a list of what’s available so far, 
+see the [table of contents](toc). 
+The [outline](outline) has details about what’s to come. 
+
+## The technology behind this site
+
+This website is rendered into static HTML with Jekyll via GitHub Pages.
+
+The Jekyll theme is a fork of Tao He’s clever and immensely helpful jekyll-gitbook theme, 
+which in turn is based on an early theme of Gitbook.
+
+I hacked poor jekyll-gitbook to bits in order to support my own personal tastes and workflow. 
+Eventually I would like to release these changes as a public theme that others can use with GitHub Pages. 
