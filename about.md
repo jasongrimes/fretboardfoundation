@@ -4,11 +4,11 @@ permalink: /about
 layout: page
 ---
 
-This site is a tool for creating and sharing a book I’m slowly writing:  
+This site is a tool for creating and sharing a book I’m slowly writing:
 _Fretboard Foundation: Practical building blocks for intermediate guitarists_.
 
 See the [preface](preface) for more about the book, 
-and the [author](author) page for more about me.
+and the [author page](author) for more about me.
 
 The book is freely available on this website, 
 and will remain so after it is complete. 
