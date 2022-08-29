@@ -11,7 +11,7 @@ A scale is an ordered collection of notes and the intervals between them.
 The notes in a scale are numbered in order from lowest pitch to highest. 
 These numbered notes are called “scale degrees”. 
 Scale degree numbers are often written with “hats”, 
-like this: 1&#x302;  2&#x302;, etc. 
+like this: 1&#x302;, 2&#x302;, etc. 
 The first degree of a scale (1&#x302;) is often called the “tonic”. 
 
 The intervals between scale degrees are described as “half steps” and “whole steps”. 
@@ -23,10 +23,10 @@ a distance of two frets (a “tone” or “major second” interval).
 
 Each scale can be defined as a formula that specifies the half steps and whole steps between scale degrees. 
 For example, the major scale formula can be written like this: 
-WWHWWWH (a whole step from 1 to 2, 
-a whole step to 3, 
-a half step to 4, 
-a whole step to 5, etc.).
+WWHWWWH (a whole step from 1&#x302; to 2&#x302;, 
+a whole step to 3&#x302;, 
+a half step to 4&#x302;,
+a whole step to 5&#x302;, etc.).
 
 Scales can also be described by the interval between each scale degree and the tonic. 
 The major scale is described as having a major third and a major seventh, 
