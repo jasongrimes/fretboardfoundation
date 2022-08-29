@@ -10,12 +10,12 @@ He's self-taught and likes to do things his own way.
 He enjoys improvising, studying, and analyzing things from multiple perspectives. 
 
 Having taken many long breaks from music over the years, 
-and then having to relearn everything when he returned,
-has given him some insight into the most practical things worth knowing about the guitar, 
+and then needing to relearn everything when he returned,
+he likes to think he has some insight into the most practical things worth knowing about the guitar, 
 and the fastest ways to learn them.
 
 He is a software developer by profession. 
-He considers himself fortunate to be able to do music for love, 
+He considers himself fortunate to be able to do music for love and
 not money---all art and no commerce. 
-His aim is to freely share anything he's learned about music
-with anyone in the world who might find it useful.
+His aim is to condense, clarify, and share freely
+anything he's learned about music that might be useful to others. 
