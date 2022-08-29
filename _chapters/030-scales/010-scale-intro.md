@@ -49,9 +49,9 @@ the "V chord" has its root on the 5&#x302;, and so on.
 See {% include chapter-link.html slug="harmony-intro" %} for more information about how scales are “harmonized”. 
 
 Scales can be immensely helpful for understanding music *intellectually*. 
-This understanding can guide our practice so that we intentionally develop useful habits and intuitions about sounds and how to produce them. 
-(Practice time is governed by intellect; 
-performance time is governed by habit and intuition.)
+Practice time is governed by intellect; 
+performance time is governed by habit and intuition.
+So an understanding of scales can guide our practice so that we intentionally develop useful habits and intuitions about sounds and how to produce them. 
 
 But practicing scales can also be dangerous. 
 The danger is that when scales are practiced by rote, 
@@ -62,7 +62,7 @@ It can be hard to avoid this trap.
 
 ## Practicing scales without sounding like a robot 
 
-To way to avoid sabotaging ourselves into sounding like a robot is to *always be mindful* when practicing scales. 
+Th way to avoid accidentally programming ourselves into scale-playing robots is to *always be mindful* when practicing scales. 
 We have to think about each note as we play it. 
 
 For example, what note is it? 
