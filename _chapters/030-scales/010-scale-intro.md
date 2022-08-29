@@ -62,10 +62,10 @@ It can be hard to avoid this trap.
 
 ## Practicing scales without sounding like a robot 
 
-Th way to avoid accidentally programming ourselves into scale-playing robots is to *always be mindful* when practicing scales. 
+The way to avoid accidentally programming ourselves into scale-playing robots is to *always be mindful* when practicing scales. 
 We have to think about each note as we play it. 
 
-For example, what note is it? 
+For example, which note is it? 
 Which scale degree? 
 What’s the interval from the tonic? 
 What’s the interval from the root of the chord? 
@@ -84,5 +84,5 @@ At performance time, with the analytical mind mostly turned off,
 our fingers are unleashed to repeat the habits that we’ve formed during practice. 
 And if the habits are deep, it’s surprising how fast we can execute them.
 
-The trick is to form the intended habits, 
+The trick is to form the intended habits during practice, 
 which sound good to our ear and which carefully exclude sloppiness and mistakes. 
