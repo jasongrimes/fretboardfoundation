@@ -15,13 +15,11 @@ Scale degree numbers are often written with “hats”,
 like this: 1&#x302;, 2&#x302;, 3&#x302;, etc. 
 The first degree of a scale (1&#x302;) is often called the “tonic”. 
 
-The intervals between scale degrees are often described in terms of “half steps” and “whole steps”,
-or "tones" and "semitones". 
-A “half step” or "semitone" is the smallest interval on the fretboard, 
-the distance between the notes on either side of one fret on the same string
-(a minor-second interval). 
-A “whole step” or "tone" is two half steps or semitones, 
-a distance of two frets (a “major second” interval).
+The intervals between scale degrees are often described in terms of “half steps” and “whole steps”. 
+A “half step” (aka "semitone" or "minor-second interval") is the smallest interval on the fretboard; 
+the distance between the notes on either side of one fret on the same string. 
+A “whole step” (aka "tone" or "major-second interval") is two half steps, 
+a distance of two frets.
 
 Most scales can be described by a formula that specifies the half steps and whole steps between scale degrees. 
 For example, the major scale formula can be written like this: 
