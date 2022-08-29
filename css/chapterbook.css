@@ -289,9 +289,9 @@
 }
 .chapter-pager a.chapter-next {
     float: right;
+    margin-bottom: 10px;
 }
 .chapter-pager a.chapter-prev {
-    margin-bottom: 10px;
 }
 .chapter-pager a:hover {
     color: #4183c4;
@@ -348,7 +348,7 @@
 }
 
 h1 + .page-subtitle {
-    margin-top: -30px;
+    margin-top: -10px;
     margin-bottom: 30px;
 }
 
