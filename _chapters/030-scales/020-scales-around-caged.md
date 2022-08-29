@@ -6,7 +6,7 @@ abstract: Mindfully practicing scales with the tonic on CAGED roots makes everyt
 
 
 Scales are typically taught in a variety of "forms" or "shapes",
-with different teachers using different forms having contradictory names.
+with different teachers using different forms having often contradictory names.
 
 This book focuses on scale forms based around CAGED chord shapes.
 This is practical because it integrates with the chords we are actually playing,
