@@ -12,17 +12,17 @@ The notes in a scale are numbered in order,
 from lowest pitch to highest. 
 These numbered notes are called “scale degrees”. 
 Scale degree numbers are often written with “hats”, 
-like this: 1&#x302;, 2&#x302;, etc. 
+like this: 1&#x302;, 2&#x302;, 3&#x302;, etc. 
 The first degree of a scale (1&#x302;) is often called the “tonic”. 
 
 The intervals between scale degrees are often described in terms of “half steps” and “whole steps”. 
 A “half step” is the smallest interval on the fretboard, 
-the distance between the notes on a string on either side of one fret 
+the distance between the notes on either side of one fret 
 (a “semitone” or “minor second” interval). 
 A “whole step” is two half steps, 
 a distance of two frets (a “tone” or “major second” interval).
 
-Each scale can be defined as a formula that specifies the half steps and whole steps between scale degrees. 
+Most scales can be defined with a formula that specifies the half steps and whole steps between scale degrees. 
 For example, the major scale formula can be written like this: 
 WWHWWWH (a whole step from 1&#x302; to 2&#x302;, 
 a whole step to 3&#x302;, 
