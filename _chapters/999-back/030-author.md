@@ -18,6 +18,6 @@ and the fastest ways to (re)learn them.
 
 I’m a software developer by trade. 
 I am fortunate to be able to do music for love, 
-not money—-all art and no commerce. 
+not money---all art and no commerce. 
 My aim is to freely share anything I’ve learned about music that might be useful, 
 with anyone in the world who might want it.
