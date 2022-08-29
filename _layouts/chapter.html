@@ -73,6 +73,7 @@ layout: default
         <div class="part">
           Next
           {% if page_next_part_label %}- {{ page_next_part_label }}{% endif %}
+          {%- if page_next_chapter_num %}: Chapter {{ page_next_chapter_num}}.{% endif %}
         </div>
         <div class="chapter-label">
           {{ page_next_chapter.title | escape }}
@@ -91,8 +92,9 @@ layout: default
       </div>
       <div class="pager-labels">
         <div class="part">
-          {% if page_prev_part_label %}{{ page_prev_part_label }} -{% endif %}
           Previous
+          {% if page_prev_part_label %}- {{ page_prev_part_label }}{% endif %}
+          {%- if page_prev_chapter_num %}: Chapter {{ page_prev_chapter_num}}.{% endif %}
         </div>
         <div class="chapter-label">
           {{ page_prev_chapter.title | escape }}
