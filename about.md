@@ -22,7 +22,7 @@ For a list of what’s available so far,
 see the [table of contents](toc). 
 The [outline](outline) has details about what’s to come. 
 
-## The technology behind this site
+## Technology behind this site
 
 This website is rendered into static HTML with [Jekyll](https://jekyllrb.com/) via [GitHub Pages](https://pages.github.com/).
 
