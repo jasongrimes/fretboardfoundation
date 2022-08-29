@@ -67,6 +67,8 @@ copyright:
   start_year: 2022
   link_slug: copyright
 
+privacy_link: /privacy
+
 github_edit:
   enabled: true
   base_url: https://github.com/jasongrimes/ff-next/edit/main/
