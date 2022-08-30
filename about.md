@@ -22,7 +22,7 @@ For a list of what’s available so far,
 see the [table of contents](toc). 
 The [outline](outline) has details about what’s to come. 
 
-## Technology behind this site
+## Technology
 
 This website is rendered into static HTML with [Jekyll](https://jekyllrb.com/) via [GitHub Pages](https://pages.github.com/).
 
@@ -31,3 +31,18 @@ which in turn is based on an early theme of [GitBook](https://www.gitbook.com/).
 
 I hacked poor jekyll-gitbook to bits in order to support my own personal tastes and workflow. 
 Eventually I would like to release these changes as a public theme that others can use with GitHub Pages. 
+
+## Contact
+
+**Please note:**
+I cannot promise to get back to you in any reasonable amount of time, if ever. 
+I sincerely don’t mean to be rude, 
+but that’s just the reality. 
+It’s best if we’re all prepared for it. 
+
+I *can* promise that any thoughtful correspondence will receive my attention eventually, 
+and maybe even a reply.
+
+Please set your expectations accordingly. 
+
+Correspondence about the book or this site should be directed to …
