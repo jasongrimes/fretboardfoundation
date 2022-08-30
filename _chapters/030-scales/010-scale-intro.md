@@ -17,11 +17,11 @@ The first degree of a scale (1&#x302;) is often called the “tonic”.
 
 The intervals between scale degrees are often described in terms of “half steps” and “whole steps”. 
 A “half step” is the smallest interval on the fretboard; 
-the distance between the notes on either side of one fret on the same string.
-A half step can also be called a "semitone" or "minor-second interval".
+the distance between the notes on a string on either side of one fret.
 A “whole step” is two half steps, 
 a distance of two frets.
-A whole step can also be called a "tone", "whole tone", or "major-second interval".
+A half step can also be called a "semitone" or "minor-second interval",
+and a whole step can also be called a "tone", "whole tone", or "major-second interval".
 
 Most scales can be described by a formula that specifies the half steps and whole steps between scale degrees. 
 For example, the major scale formula can be written like this: 
