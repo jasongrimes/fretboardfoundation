@@ -17,5 +17,4 @@ you can [opt out of Google Analytics](https://tools.google.com/dlpage/gaoptout/)
 
 This site’s web host, GitHub Pages, 
 performs standard web server logging (as does nearly every web host) for the purpose of maintaining their service. 
-These logs include user IP addresses. 
 See the [GitHub privacy policy](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement) for details. 
