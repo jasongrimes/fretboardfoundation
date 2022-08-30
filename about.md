@@ -45,4 +45,5 @@ and maybe even reply.
 
 Please set your expectations accordingly. 
 
-Correspondence about the book or this site should be directed to …
+Correspondence about the book or this site should be directed to
+[contact@fretboardfoundation.com](mailto:contact@fretboardfoundation.com).
