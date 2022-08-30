@@ -40,8 +40,8 @@ I sincerely don’t mean to be rude,
 but that’s just the reality. 
 It’s best if we’re all prepared for it. 
 
-I *can* promise that any thoughtful correspondence will receive my attention eventually, 
-and maybe even a reply.
+I *do* promise to give my attention eventually to any thoughtful correspondence I receive,
+and maybe even reply. 
 
 Please set your expectations accordingly. 
 
