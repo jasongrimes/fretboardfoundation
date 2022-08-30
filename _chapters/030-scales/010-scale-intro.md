@@ -40,7 +40,7 @@ and the interval from 1&#x302; to 7&#x302; is a major-seventh interval.
 
 Scales are the foundation of melody and harmony.
 
-Every key and mode is derived from a scale, 
+Every key is derived from a scale, 
 sometimes called its “parent scale”.
 The notes in the key are the notes of the scale, 
 and the chords in that key are derived from the scale degrees. 
