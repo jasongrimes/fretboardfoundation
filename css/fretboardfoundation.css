@@ -1,7 +1,6 @@
 figure.chord {
-    /*
-    max-width: 200px;
-    min-width: 100px;
-    */
     width: 150px;
+}
+figure.uke-chord {
+    width: 100px;
 }
