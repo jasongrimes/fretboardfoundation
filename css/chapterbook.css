@@ -1,9 +1,5 @@
-.markdown-section h1:first-of-type,
-.markdown-section h2:first-of-type,
-.markdown-section h3:first-of-type,
-.markdown-section h4:first-of-type,
-.markdown-section h5:first-of-type,
-.markdown-section h6:first-of-type {
+.markdown-section .chapter-abstract + h2,
+.markdown-section .page-toc + h2 {
     margin-top: 0;
 }
 .markdown-section h1,
