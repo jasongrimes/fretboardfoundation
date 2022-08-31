@@ -34,7 +34,7 @@ How strongly which harmonics are present is an essential aspect of [timbre](#tim
 - **interval**{:#interval}: The difference in [pitch](#pitch) between two [tones](#tone).
 
 - **modal**{:#modal}: Music which has the characteristics of a [mode](#mode).
-Also commonly used to refer to music based on one of the 5 diatonic [church modes](#church-mode) 
+Also commonly used to refer to music based on one of the 5 [diatonic modes](#diatonic-mode) 
 *other than* the Ionian (major) or Aeolian (minor).
 
 - **mode**{:#mode}: A type of scale which results from distilling a tonal vocabulary down to a set of individual tones,
