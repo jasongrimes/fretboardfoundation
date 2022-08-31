@@ -14,9 +14,9 @@ The book is freely available on this website,
 and will remain so after it is completed. 
 
 Though still in its early stages, 
-I hope that it already contains information that is helpful to the intended audience. 
+I hope it is already useful to the intended audience. 
 I aim for the book to be able to stand on its own as a useful resource during the entire writing process, 
-even without the support of yet-unfinished pages. 
+even without the support of pages yet to be written.
 
 For a list of what’s available so far, 
 see the [table of contents](toc). 
