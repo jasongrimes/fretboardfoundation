@@ -35,7 +35,7 @@ The guitar is one of the few Western instruments capable of producing microtones
 
 ## Chords
 
-A chord is a group of three or more notes sounded together.
+A chord is a group of two or more notes sounded together.
 
 Chords are constructed by "stacking thirds" 
 (in "tertian harmony" that is, which is the most common type of harmony in the Western world.
