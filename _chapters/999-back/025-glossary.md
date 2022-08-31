@@ -11,11 +11,6 @@ to which this book is indebted.
 In common usage,
 it can also refer to music that is [non-tonical](#non-tonical).
 
-- **church mode**{:#church-mode}: One of the seven, seven-note [diatonic](#diatonic) modes,
-rotating around the the same interval pattern but starting on different degrees.
-The church modes are named Ionian (the major scale), Dorian, Phrygian, Lydian, Mixolydian, Aeolian (the natural minor scale), and Locrian. 
-See {% include chapter-link.html slug="church-modes" %}.
-
 - **chromatic**{:#chromatic}: Notes outside of the [diatonic](#diatonic) [mode](#mode) or scale upon which a composition is based.
 
 - **diatonic**{:#diatonic}: Conforming to a sevent-note [mode](#mode) or scale which,
@@ -24,6 +19,13 @@ contains intervals of two half steps (semitones)
 and six whole steps (whole tones).
 Also used to refer to notes that are inside a diatonic mode,
 as opposed to [chromatic](#chromatic) notes which are outside the mode.
+
+- **diatonic mode**{:#diatonic-mode}: One of seven permutations of a [diatonic](#diatonic) scale,
+with each permutation starting on a different degree of the scale and wrapping around to the beginning as needed. 
+Starting with the Ionian mode (the major scale),
+the other diatonic modes are Dorian, 
+Phrygian, Lydian, Mixolydian, Aeolian (the natural minor scale), and Locrian. 
+See {% include chapter-link.html slug="diatonic-modes" %}.
 
 - **fundamental pitch**{:#fundamental-pitch}: A tone sung or played at a particular pitch consists of sound waves oscillating at a particular frequency (its fundamental pitch),
 but it also includes overtones or harmonics (aka partials) oscillating at integral multiples of the fundamental.
