@@ -13,7 +13,7 @@ it can also refer to music that is [non-tonical](#non-tonical).
 
 - **chromatic**{:#chromatic}: Notes outside of the [diatonic](#diatonic) [mode](#mode) or scale upon which a composition is based.
 
-- **diatonic**{:#diatonic}: Conforming to a sevent-note [mode](#mode) or scale which,
+- **diatonic**{:#diatonic}: Conforming to a seven-note [mode](#mode) or scale which,
 when arranged in ascending order with the initial note repeated at the octave,
 contains intervals of two half steps (semitones)
 and six whole steps (whole tones).
