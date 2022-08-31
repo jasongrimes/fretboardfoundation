@@ -8,7 +8,7 @@ abstract: A quick overview of the most practical bits of euroclassical harmony.
 
 - Tension and release, also expectation and surprise, also hero's journey (hero goes on an adventure, is victorious in a decisive crisis, and comes home transformed)
 
-## Intervals: the buildings blocks
+## Intervals: the building blocks
 
 - Intervals: Major scale formula
 
