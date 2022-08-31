@@ -39,7 +39,7 @@ abstract: A quick overview of the most practical bits of euroclassical harmony.
 
 - The theoretical tendency of certain chords to "want" to progress to other chords, or remain at rest. 
 - Euroclassical origin. Less used in modern and non-Western music, but still useful to understand.
-- harmonic functions (tonic, subdominant or pre-dominant, dominant)
+- harmonic functions (tonic, subdominant/pre-dominant, dominant)
 - V-I cadence and ii-V-I progression
 - chord families 
   - tonic: I and vi (some also include iii, I disagree)
