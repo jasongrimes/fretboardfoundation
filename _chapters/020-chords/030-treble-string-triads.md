@@ -12,10 +12,10 @@ and the lowest-pitched (low E) as string 6.
 So the treble strings are strings 1-3.
 
 Movable, three-note triad chord shapes are found on each group of three consecutive strings:
-the treble or top-three (1-3),
+the treble/top-three (1-3),
 upper-middle (2-4),
 lower-middle (3-5),
-and bass or bottom-three (4-6) strings. 
+and bass/bottom-three (4-6) strings. 
 
 It’s particularly useful to know the "treble triads" presented in this chapter.
 They sound good in a lot of contexts; 
