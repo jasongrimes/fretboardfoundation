@@ -29,6 +29,9 @@ WWHWWWH (a whole step from 1&#x302; to 2&#x302;,
 a whole step to 3&#x302;, 
 a half step to 4&#x302;,
 a whole step to 5&#x302;, etc.).
+Since there are whole steps between most scale degrees,
+the formula can be simplified by just specifying the location of the half steps.
+For example, the major scale has half steps between 3&#x302;--4&#x302; and 7&#x302;--1&#x302;.
 
 Scales can also be described by the interval between scale degrees and the tonic. 
 For example, 
@@ -38,20 +41,18 @@ and the interval from 1&#x302; to 7&#x302; is a major-seventh interval.
 
 ## What scales are good for---and bad for
 
-Scales are the foundation of melody and harmony.
+Scales are the foundation of harmony and melody.
 
 Every key is derived from a scale, 
 sometimes called its “parent scale”.
 The notes in the key are the notes of the scale, 
-and the chords in that key are derived from the scale degrees. 
-The "I chord" is the chord with its root on the 1&#x302; scale degree, 
-the "V chord" has its root on the 5&#x302;, and so on. 
-See {% include chapter-link.html slug="harmony-intro" %} for more information about how scales are harmonized. 
+and the chords in that key are constructed by "harmonizing" the scale.
+(See {% include chapter-link.html slug="harmony-intro" %} for information about how scales are harmonized.)
 
 Scales can be immensely helpful for understanding music *intellectually*. 
-Practice time is governed by intellect; 
-performance time is governed by habit and intuition.
-So an understanding of scales can guide our practice so that we intentionally develop useful habits and intuitions about sounds and how to produce them. 
+Because practice time is governed by intellect,
+and performance time is governed by habit and intuition,
+understanding scales can guide our practice so that we develop useful habits and intuitions about sounds and how to produce them. 
 
 But practicing scales can also be dangerous. 
 The danger is that when scales are practiced by rote, 
@@ -76,7 +77,7 @@ It’s not necessary to think about *all* of this for each note,
 but it’s critical to think about *something*; 
 to engage our brain and not just our fingers.
 
-This also means we have to slow down. 
+This also means we have to slow down when we practice scales. 
 There’s no time to think about each note if we’re shredding at top speed.
 Perhaps surprisingly, 
 practicing slowly and intentionally like this is actually the most effective way to develop speed. 
