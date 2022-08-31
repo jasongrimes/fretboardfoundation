@@ -22,7 +22,7 @@ as opposed to [chromatic](#chromatic) notes which are outside the mode.
 
 - **diatonic mode**{:#diatonic-mode}: One of seven permutations of a [diatonic](#diatonic) scale,
 with each permutation starting on a different degree of the scale and wrapping around to the beginning as needed. 
-Starting with the Ionian mode (the major scale),
+Starting with the first degree of the major scale (the Ionian mode),
 the other diatonic modes are Dorian, 
 Phrygian, Lydian, Mixolydian, Aeolian (the natural minor scale), and Locrian. 
 See {% include chapter-link.html slug="diatonic-modes" %}.
