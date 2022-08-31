@@ -17,18 +17,18 @@ abstract: A quick overview of the most practical bits of euroclassical harmony.
 - Naming: Number and quality
 - Major intervals are the same as the major scale degrees
 
+## Triad chords
+
+- Tertian harmony (stacking thirds). Common, but there are other kinds.
+- chord factors
+- Triad chord types and formulas (maj/min/dim/aug)
+
 ## Tonical (aka tonal) harmony
 
 - Music with a key center
 - Euroclassical origin. 
 - Common, but there are other kinds.
 - Tonic vs leading tone. Tension and release. 
-
-## Triad chords
-
-- Tertian harmony (stacking thirds). Common, but there are other kinds.
-- chord factors
-- Triad chord types and formulas (maj/min/dim/aug)
 
 ## Harmonizing a scale
 
