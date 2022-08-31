@@ -4,9 +4,9 @@
     <nav role="navigation">
       <ul class="summary chapter-summary">
 
-        {% if site.data.nav %}
-          {% for item in site.data.nav %}
-            <li class="chapter {% if item.url == page.url %}active{% endif %}" data-path="{{ site.baseurl }}{{ item.url }}" data-level="1.1">
+        {% if site.sidebar_nav_top %}
+          {% for item in site.sidebar_nav_top %}
+            <li class="chapter {% if item.url == page.url %}active{% endif %}">
               <a href="{{site.baseurl}}{{item.url}}" class="">{{ item.label }}</a>
             </li>
           {% endfor %}
@@ -40,9 +40,9 @@
           {% endif %}
 
           {% if page.url == i_chapter.url %}
-            <li class="chapter active" data-level="1.2" data-path="{{site.baseurl}}{{i_chapter.url}}">
+            <li class="chapter active">
           {% else %}
-            <li class="chapter {%if i_chapter_is_draft %}draft{%endif%}" data-level="1.1" data-path="{{site.baseurl}}{{i_chapter.url}}">
+            <li class="chapter {%if i_chapter_is_draft %}draft{%endif%}">
           {% endif %}
 
             <a href="{{site.baseurl}}{{i_chapter.url}}">
@@ -61,6 +61,15 @@
 
           {% include chapter-iterate-next.html %}
         {% endfor %}
+
+        {% if site.sidebar_nav_bottom %}
+          <li class="divider"></li>
+          {% for item in site.sidebar_nav_bottom %}
+            <li class="chapter {% if item.url == page.url %}active{% endif %}">
+              <a href="{{site.baseurl}}{{item.url}}" class="">{{ item.label }}</a>
+            </li>
+          {% endfor %}
+        {% endif %}
 
       </ul>
     </nav>

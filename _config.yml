@@ -52,12 +52,13 @@ exclude:
 # set show_drafts_in_dev to true.
 show_drafts_in_dev: false
 
+# Override in page front matter with disable_toc: true
 sidebar_toc:
   enabled: true
   h_min: 2
   h_max: 3
 
-# Override in chapter frontmatter with disable_toc: true
+# Override in page front matter with disable_toc: true
 in_chapter_toc:
   enabled: true
   h_min: 2
@@ -67,15 +68,32 @@ copyright:
   start_year: 2022
   link_slug: copyright
 
-privacy_link: /privacy
+bottom_nav:
+- label: Home
+  url: /
+- label: Contents
+  url: /toc
+- label: About
+  url: /about
+- label: Privacy
+  url: /privacy
+
+sidebar_nav_top:
+- label: About this site
+  url: /about
+- label: Draft outline
+  url: /outline
+
+sidebar_nav_bottom:
+- label: Privacy statement
+  url: /privacy
 
 github_edit:
   enabled: true
   base_url: https://github.com/jasongrimes/ff-next/edit/main/
 
 extra_css:
-    - css/chapterbook.css
-    - css/fretboardfoundation.css
+    - assets/fretboardfoundation.css
 
 collections:
   chapters:

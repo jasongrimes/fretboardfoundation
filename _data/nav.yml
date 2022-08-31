@@ -1,7 +1,0 @@
-#
-# Navigation elements that appear at the top ov the sidebar 
-
-- label: About this site
-  url: /about
-- label: Draft outline
-  url: /outline

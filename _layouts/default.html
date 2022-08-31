@@ -43,20 +43,23 @@
                 {{ site.author }}
                 {% if site.copyright.link_slug %}</a>{% endif %}
 
-                {% if site.privacy_link %}
-                <p>
-                  <a href="{{ site.baseurl }}{{ site.privacy_link }}">
-                    Privacy
-                  </a>
-                </p>
+                {% if site.bottom_nav %}
+                  <div class="bottom-nav">
+                    {% for item in site.bottom_nav %}
+                      {% unless forloop.first %} - {% endunless %}
+                      <a href="{{ site.baseurl }}{{ item.url }}">
+                        {{ item.label }}
+                      </a>
+                    {% endfor %}
+                  </div>
                 {% endif %}
 
                 {% if site.github_edit.enabled %}
-                  <p style="margin-top: 2em;">
+                  <div class="github-edit-link">
                     <a href="{{ site.github_edit.base_url }}{{ page.path }}" target="_blank" title="Edit on GitHub">
                       <i class="fa fa-github"></i>
                     </a>
-                  </p>
+                  </div>
                 {% endif %}
               </div><!-- .chapter-footer -->
 

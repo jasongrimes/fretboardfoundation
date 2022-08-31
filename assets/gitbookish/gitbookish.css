@@ -372,9 +372,17 @@ h1 + .page-subtitle {
 .book.color-theme-1 .chapter-footer {
     border-color: #70421480;
 }
+.bottom-nav {
+    margin-top: 1em;
+}
+.github-edit-link {
+    margin-top: 1.5em;
+}
+
 .back-to-top {
     z-index: 1;
 }
+
 ul.toc-chapters-full {
     list-style: none;
     padding-left: 0px;
