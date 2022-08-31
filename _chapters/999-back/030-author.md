@@ -1,7 +1,7 @@
 ---
 title: About the author
 slug: author
-abstract: Jason Grimes is some guy who plays guitar.
+abstract: Jason Grimes is just some guy who plays guitar.
 disable_toc: true
 ---
 
