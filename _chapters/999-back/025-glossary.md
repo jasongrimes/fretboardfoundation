@@ -3,7 +3,82 @@ title: Glossary
 slug: glossary
 ---
 
-- **tone**{:#tone}: A note with a discernible fundamental pitch. 
+Many of these definitions are taken verbatim from the well-reasoned terminology choices in Philip Tagg's 
+_Everyday Tonality II (towards a tonal theory of what most people hear)_ [(Tagg, 2018)](references#tagg-2018),
+to which this book is indebted.
+
+- **atonal**{:#atonal}: Music or other sounds without [tones](#tone).
+In common usage,
+it can also refer to music that is [non-tonical](#non-tonical).
+
+- **church mode**{:#church-mode}: One of the seven, seven-note [diatonic](#diatonic) modes,
+rotating around the the same interval pattern but starting on different degrees.
+The church modes are named Ionian (the major scale), Dorian, Phrygian, Lydian, Mixolydian, Aeolian (the natural minor scale), and Locrian. 
+See {% include chapter-link.html slug="church-modes" %}.
+
+- **chromatic**{:#chromatic}: Notes outside of the [diatonic](#diatonic) [mode](#mode) or scale upon which a composition is based.
+
+- **diatonic**{:#diatonic}: Conforming to a sevent-note [mode](#mode) or scale which,
+when arranged in ascending order with the initial note repeated at the octave,
+contains intervals of two half steps (semitones)
+and six whole steps (whole tones).
+Also used to refer to notes that are inside a diatonic mode,
+as opposed to [chromatic](#chromatic) notes which are outside the mode.
+
+- **fundamental pitch**{:#fundamental-pitch}: A tone sung or played at a particular pitch consists of sound waves oscillating at a particular frequency (its fundamental pitch),
+but it also includes overtones or harmonics (aka partials) oscillating at integral multiples of the fundamental.
+How strongly which harmonics are present is an essential aspect of [timbre](#timbre).
+
+- **interval**{:#interval}: The difference in [pitch](#pitch) between two [tones](#tone).
+
+- **modal**{:#modal}: Music which has the characteristics of a [mode](#mode).
+Also commonly used to refer to music based on one of the 5 diatonic [church modes](#church-mode) 
+*other than* the Ionian (major) or Aeolian (minor).
+
+- **mode**{:#mode}: A type of scale which results from distilling a tonal vocabulary down to a set of individual tones,
+normally arranged in ascending order and delimited by scale degree 1 (1&#x302;, the [tonic](#tonic)) at the bottom and top of one 
+[octave](#octave), coupled with a set of characteristic melodic and harmonic behaviors, motifs, and turns of phrase.
+
+- **non-tonical**{:#non-tonical}: Music without a [tonic](#tonic).
+
+- **note**{:#note}: Any single, discrete sound of finite duration in music.
+
+- **note name**{:#note-name}: The first seven letters of the English and German alphabets (A-G)
+along with accidentals (flat, sharp, etc.)
+used to designate [notes](#note) of previously and unequivocally determined fundamental pitch (like A at 440 Hz).
+
+- **octave**{:#octave}: The [interval](#interval) between one [pitch](#pitch) and another with double its frequency.
+Notes separated by octaves have the same [note name](#note-name) and [pitch class](#pitch-class).
+
+- **pitch**{:#pitch}: The aspect of a sound determined by the rate of vibrations producing it---its acoustic frequency.
+Frequency is measured in Hertz (Hz).
+
+- **pitch class**{:#pitch-class}: A set of all [pitches](#pitch) that are a whole number of [octaves](#octave) apart.
+For example, the pitch class C consists of all the Cs in all octaves.
+
+- **scale**{:#scale}: An ordered collection of [tones](#tone). 
+Similar to a [mode](#mode),
+but without mode's implication of characteristic musical applications.
+
+- **timbre**{:#timbre}: *(Pronounced /ˈtambər/)* aka "tone quality" or "tone color". A complex acoustic phenomenon allowing us to 
+distinguish between two [notes](#note), *[tonal](#tonal) or otherwise*, sounded at the same [pitch](#pitch) and volume.
+
+- **tonal**{:#tonal}: In common usage,
+"tonal" refers to music that has a [tonic](#tonic).
+Philip Tagg makes a convincing argument that this usage is chauvinistic and biased against tonal idioms not used in the euroclassical or jazz canons 
+[(Tagg, 2018, pp. 52--55)](references#tagg-2018),
+recommending the term "[tonical](#tonical)" for this purpose,
+and using "tonal" to refer to any music which has the properties of a [tone](#tone) 
+(including [modal](#modal) music, which is [non-tonical](#non-tonical) but not [atonal](#atonal)).
+This book generally follows these recommendations.
+
+- **tone**{:#tone}: A [note](#note) with an easily discernible fundamental [pitch](#pitch). 
+
+- **tonic**{:#tonic}: A noun meaning *keynote or reference pitch*. Its adjective is [tonical](#tonical) (recommended) 
+or [tonal](#tonal) (in common usage).
+
+- **tonical**{:#tonical}: Music that has a tonic. Compare [tonal](#tonal).
+
 
 
 

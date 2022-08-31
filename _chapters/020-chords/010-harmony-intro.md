@@ -15,7 +15,7 @@ abstract: A quick overview of the most practical bits of euroclassical harmony.
 Intervals are the distance between notes.
 More specifically, 
 intervals describe the difference in pitch between two tones
-(a tone is a note with a discernible fundamental pitch. See {% include chapter-link.html slug="glossary" %}.)
+(See {% include chapter-link.html slug="glossary" anchor="interval"%}.)
 
 In euroclassical music theory,
 and therefore in most Western music,
