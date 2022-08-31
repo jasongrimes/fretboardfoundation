@@ -11,7 +11,7 @@ See the [preface](preface) for more about the book,
 and the [author page](author) for more about me.
 
 The book is freely available on this website, 
-and will remain so after it is complete. 
+and will remain so after it is completed. 
 
 Though still in its early stages, 
 I hope that it already contains information that is helpful to the intended audience. 
