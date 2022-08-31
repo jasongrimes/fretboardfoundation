@@ -474,6 +474,7 @@ figure.row.of-4 {
   width: calc(25% - 20px);
 }
 */
+.references p,
 .hanging-indent p {
     padding-left: 30px ;
     text-indent: -30px ;

@@ -1,7 +1,8 @@
 ---
 title: References
 slug: references
-layout: references-chapter
+layout: chapter
+class: references
 ---
 
 Vincent, R. (2011). *Three-Note Voicings and Beyond.* Sher Music Co.
