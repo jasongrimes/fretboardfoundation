@@ -8,7 +8,7 @@ The “treble strings” on a guitar are the three highest-pitched strings.
 The three lowest-pitched are the "bass strings".
 Guitar strings are numbered 1-6, 
 with the highest-pitched (high E) as string 1,
-and the lowest-pitched (low E) as string 6.
+and the lowest-pitched as string 6.
 So the treble strings are strings 1-3.
 
 Movable, three-note triad chord shapes are found on each group of three consecutive strings:
@@ -22,24 +22,27 @@ They sound good in a lot of contexts;
 they are easy to play and can be played quickly. 
 It’s straightforward to embellish them with bass notes or color tones when desired. 
 It’s easy to sprinkle them into melody lines,
-because there’s at least one chord shape with a root note on each treble string (which is where melodies are typically played).
+because the root notes are on the treble strings where melodies are typically played.
 And they provide a simple starting place for the study and practice of harmony.
 
 Chord shapes are given for major, minor, and diminished triads, 
 which are the basis for our study of harmony
-because they're the three types of chords found when harmonizing the major scale.
-Included are the triads on the top-three strings,
+because they're the chords found when harmonizing the major scale.
+Shapes are distinguished by 
+(1) which string the root note is on,
+(2) the chord type (major, minor, or diminished),
+and (3) which set of strings is used (top-three or upper-middle).
+All the triads on the top-three strings are included,
 plus a few alternate choices on the upper-middle strings
 because in some cases those are more convenient to play.
 
 The dots in the diagrams indicate the chord root note (R) and the intervals from the root. 
-If it's not obvious,
-the root note determines the name of the chord.
+The root note determines the name of the chord.
 For example, to play a C major triad,
-pick one of the major chord shapes and place the root note on C on the fretboard.
+play one of the major chord shapes with the root note on C on the fretboard.
 To play C minor,
 use a minor chord shape with the root on C,
-and so on. (For help locating the note names on the fretboard,
+and so on. (For help locating the notes on the fretboard,
 see {% include chapter-link.html slug="note-names" %}.)
 
 When playing these chords, 
