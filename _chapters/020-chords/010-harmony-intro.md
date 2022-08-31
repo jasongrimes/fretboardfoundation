@@ -6,26 +6,43 @@ abstract: A quick overview of the most practical bits of euroclassical harmony.
 
 ## Emotion and story
 
-- Tension and release, also expectation and surprise, also hero's journey (hero goes on an adventure, is victorious in a decisive crisis, and comes home transformed)
+- Tension and release
+- expectation and surprise
+- hero's journey (hero goes on an adventure, is victorious in a decisive crisis, and comes home transformed)
 
 ## Intervals: the building blocks
 
-- Intervals: Major scale formula
+- Intervals are the distance between notes
+- Can express and evoke emotion
+- Naming: Number and quality
+- Major intervals are the same as the major scale degrees
 
 ## Tonical (aka tonal) harmony
 
-- Tonical (aka tonal) harmony, key center. Euroclassical origin. Common, but there are other kinds. Tonic vs leading tone. Tension and release. 
+- Music with a key center
+- Euroclassical origin. 
+- Common, but there are other kinds.
+- Tonic vs leading tone. Tension and release. 
 
 ## Triad chords
 
 - Tertian harmony (stacking thirds). Common, but there are other kinds.
-- Triad chord formulas, chord factors, maj/min/dim/aug
+- chord factors
+- Triad chord types and formulas (maj/min/dim/aug)
 
 ## Harmonizing a scale
 
-- Harmonizing a scale 
-- Nashville numbering
+- Building chords from scale degrees
+- Roman numeral numbering
 
-## Functional harmony
+## Harmonic function
 
-- Functional harmony and chord families (tonic, subdominant, dominant; home, away, returning)
+- The theoretical tendency of certain chords to "want" to progress to other chords, or remain at rest. 
+- Euroclassical origin. Less used in modern and non-Western music, but still useful to understand.
+- harmonic functions (tonic, subdominant or pre-dominant, dominant)
+- V-I cadence and ii-V-I progression
+- chord families 
+  - tonic: I and vi (some also include iii, I disagree)
+  - subdominant: IV and ii
+  - dominant: V and vii (sometimes iii or III)
+
