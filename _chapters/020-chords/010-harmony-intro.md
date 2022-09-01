@@ -39,7 +39,7 @@ because the ratio between the frequencies of the pitches separated by those inte
 The frequency ratio of an octave is 2:1---one pitch vibrates twice as fast as the other.
 A perfect fifth is 3:2, and a perfect forth is 4:3.)
 These integer intervals are more consonant to our ears.
-The remaining intervals get mathematically more complex,
+The other intervals get mathematically more complex,
 and more "dissonant" to the ear.
 The "tritone" (6 semitones) interval has a pitch frequency ratio of the square root of 2,
 which is a much more complex sound wave,
