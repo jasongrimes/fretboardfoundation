@@ -68,8 +68,11 @@ The following table shows the names of intervals based on how many semitones the
 | 1   | minor second (m2)   | C#/Db | b2    | flat two |
 | 2   | major second (M2)   | D     | 2     | two |
 | 3   | minor third (m3)    | D#/Eb | b3    | flat three |
-
 | 4   | major third (M3)    | E     | 3     | three, major three |
+| 5   | perfect fourth (P4) | F     | 4     | four |
+| 6   | tritone, diminished fifth (TT), augmented fourth | flat five |
+| 7   | perfect fifth (P5)  | G.    | 5     | five |
+
 
 
 </div>
