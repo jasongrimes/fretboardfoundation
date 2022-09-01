@@ -26,7 +26,7 @@ the greater the difference in pitch between them.
 
 An interval name like "major third" has two parts: quality ("major") and number ("third").
 
-The number (or numeric size) of an interval is the number of letter names from one note to the next in the musical alphabet.
+The number or numeric size of an interval is the number of letter names from one note to the next in the musical alphabet.
 For example, the interval from a C to a D is a second,
 from C to E is a third,
 and from C to G is a fifth.
