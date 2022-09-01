@@ -122,7 +122,7 @@ which suggests how consonant or dissonant the interval will sound
 
 <div class="table-wrapper" markdown="block">
 
-| Semi-tones | Interval   | Note from C | Short scale degree name | Scale degree name | Frequency ratio |
+| Semi-tones/ frets | Interval   | Note from C | Short scale degree name | Scale degree name | Frequency ratio/ dissonance |
 |:--:|:-------------------|:------:|:------:|:----------------------|:-----:|
 | 0  | unison (P1)        | C      | 1      | tonic, one            | 1:1   |
 | 1  | minor second (m2)  | C#/ Db | b2     | flat two              | 25:24 |
@@ -249,7 +249,6 @@ There are other types
 (like "quartal harmony", which is based on stacking fourths),
 but those are outside the scope of this book.
 
-
 ### Triad chords
 
 A "triad chord" is a three-note chord built by stacking thirds.
@@ -272,7 +271,6 @@ The interval from the third to the fifth is a major or minor third.
 
 ### Triad chord types
 
-
 There are four types (or "qualities") of triad,
 based on the chord factor intervals.
 
@@ -286,26 +284,164 @@ based on the chord factor intervals.
 
 </div>
 
-## Tonical (aka tonal) harmony
+## Harmonizing a scale
 
-- Music with a key center
-- Euroclassical origin. 
-- Common, but there are other kinds.
-- Tonic vs leading tone. Tension and release. 
+Harmonizing a scale refers to assembling the chords that are "native" to a given key or mode,
+by starting on each degree of the parent scale and stacking thirds to form a triad chord.
+The result is one chord for each degree in the scale.
 
-### Harmonizing a scale
+The chords will be of different types or quality based on the intervals in the scale.
+Chords are numbered with roman numerals matching the number of their scale degree.
+Uppercase roman numerals are used for major chords,
+and lowercase roman numerals are used for minor chords.
 
-- Building chords from scale degrees
-- Roman numeral numbering
+For example,
+the **major scale** has degrees 1-2-3-4-5-6-7.
 
-### Harmonic function
+Harmonizing the major scale gives the following chords:
 
-- The theoretical tendency of certain chords to "want" to progress to other chords, or remain at rest. 
-- Euroclassical origin. Less used in modern and non-Western music, but still useful to understand.
-- harmonic functions (tonic, subdominant/pre-dominant, dominant)
-- V-I cadence and ii-V-I progression
-- chord families 
-  - tonic: I and vi (some also include iii, I disagree)
-  - subdominant: IV and ii
-  - dominant: V and vii (sometimes iii or III)
+<div class="table-wrapper" markdown="block">
+
+| Chord        | Scale degrees | Chord factors | Chord type |
+|:------------:|:-------------:|:-------------:|:----------:|
+| **I**        | 1 3 5         | R 3 5         | major      |
+| **ii**       | 2 4 6         | R b3 5        | minor      |
+| **iii**      | 3 5 7         | R b3 5        | minor      |
+| **IV**       | 4 6 1         | R 3 5         | major      |
+| **V**        | 5 7 2         | R 3 5         | major      |
+| **vi**       | 6 1 3         | R b3 5        | minor      |
+| **vii&deg;** | 7 2 4         | R b3 b5       | diminished |
+
+</div>
+
+The **natural minor** scale has degrees 1-2-b3-4-5-b6-b7.
+
+Harmonizing the natural minor scale gives the following chords:
+
+<div class="table-wrapper" markdown="block">
+
+| Chord        | Scale degrees | Chord factors | Chord type |
+|:------------:|:-------------:|:-------------:|:----------:|
+| **i**        | 1 b3 5        | R b3 5        | minor      |
+| **ii&deg;**  | 2 4 b6        | R b3 b5       | diminished |
+| **III**      | b3 5 b7       | R b3 5        | major      |
+| **iv**       | 4 b6 1        | R b3 5        | minor      |
+| **v**        | 5 b72         | R b3 5        | minor      |
+| **VI**       | b6 1 b3       | R 3 5         | major      |
+| **VII**      | b7 2 4        | R 3 5         | major      |
+
+</div>
+
+This can be done to find chords for any scale or mode.
+
+## Harmonic function
+
+"Harmonic function" describes the theoretical tendency of certain chords to "want" to progress to other chords,
+or remain at rest.
+
+This approach originated in euroclassical music of the 18th and 19th centuries,
+and still heavily influences jazz music.
+It is less apparent in modern and non-Western music,
+but it can still be useful to understand.
+
+Before getting into the chord functions,
+it can be helpful to understand the concept of the "leading tone".
+
+### Leading tone
+
+The leading tone is the note of a scale that is one semitone below the tonic.
+
+As shown in the [interval table](#interval-table),
+the minor second interval between the leading tone and the tonic is very dissonant.  
+Most listeners will find it tense and wish for it to resolve somewhere more consonant.
+
+Western listeners tend to expect the 7 to be followed by the 1, based on past experience.
+If in most music we have heard in the past, C-D-E-F-G-A-B... has almost always been followed by another C,
+we will expect this because it's what always happens.
+(If that has not been our experience, expectations might be different.)
+
+This combination of tension and expectation results in "wanting" the dissonant leading tone to resolve to the consonant tonic.
+
+### Functions: tonic, subdominant, and dominant
+
+Chords can be grouped into three basic harmonic functions.
+
+* **Tonic**: Home, a place of stability
+* **Subdominant**: Away from home, but still stable.
+* **Dominant**: A place of tension, pulling toward home.
+
+Typically a harmonic sequence will start at home (a tonic),
+move away from it (to a subdominant),
+then to a place of tension (a dominant),
+before providing emotional release or resolution by returning home (to the tonic).
+
+This progression mirrors a classic storytelling arc.
+Compare it to the _Hero's Journey_ narrative archetype:
+1. The hero goes on an adventure (subdominant), 
+2. is victorious in a decisive crisis (dominant), and 
+3. comes home transformed (tonic).
+
+In a major key,
+the diatonic chords are typically given these functions:
+* Tonic: I, vi, iii
+* Subdominant: IV, ii
+* Dominant: V, vii
+
+One way to understand this is by comparing the intervals of the chords to the tonic.
+
+The "primary chords" I, IV, and V are the archetypes of the chord functions:
+* Tonic I (1-3-5) is home.
+* Subdominant IV (4-6-1) is away from home,
+  sharing only one note with the I,
+  but stable,
+  having no dissonant intervals with the I.
+* Dominant V (5-7-2) is dissonant,
+  because it has the leading tone (7).
+  Consequently we "want" it to resolve to the 1 (the root of the tonic).
+
+The remaining chords sort into functions by similarity:
+* Tonics vi (6-1-3) and iii (3-5-7) are close to home,
+  sharing two notes with the I.
+  (The iii does have the leading tone (7) however, 
+  so in some cases it may not work well as a tonic.)
+* Subdominant ii (2-4-6) is away from home,
+  sharing no notes with I and one note with vi and iii;
+  and it is close to the IV (sharing two notes with no dissonant intervals).
+* Dominant vii (7-2-4) is tense, with the leading tone as its root,
+  pulling to the 1.
+
+### V-I cadence
+
+A defining characteristic of most euroclassical and jazz music is the use of "cadences",
+standard chord movements that end a musical phrase and establish a key center.
+
+Cadences make use of the functions of the primary chords to establish their tension and resolution.
+The basic cadence is called an "authentic cadence",
+which moves from the V chord (the dominant) to the I chord (the tonic). 
+
+This chord movement in a descending fifth (or ascending fourth) is a standard aspect of jazz and euroclassical idioms.
+
+### ii-V-I progressions
+
+Jazz takes the cadential movement of descending fifths even further,
+by putting a ii chord in front of the V-I cadence.
+
+The ii is a perfect fifth above the V,
+so the ii-V-I cadence gives the effect of repeatedly falling by perfect fifths until we reach the tonic.
+
+In this context,
+the ii is said to be "preparing" the V,
+and it is referred to as having "pre-dominant" function.
+
+The ii-V-I is the most common chord progression in jazz music.
+
+Jazz arrangers typically don't stop there; 
+they also pepare the pre-dominant chord with another chord a fifth above it,
+and onward until the chord progressions are often based on a long series of descending fifths.
+Often they will alter the intermediate chords in the progression by making them dominant sevenths,
+to increase tension and propel the progression along to its final V-I cadence.
+
+
+
+
 
