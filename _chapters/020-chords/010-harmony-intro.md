@@ -26,6 +26,7 @@ and comes home transformed.
 
 Intervals are the basic building blocks of scales, melodies, and chords.
 They are responsible for the way music sounds and how it makes us feel. 
+
 An interval describes the difference in pitch between two tones. 
 A tone is a note with a discernible pitch,
 and pitch is the frequency at which a sound wave vibrates.
@@ -100,9 +101,10 @@ The following table shows the names of intervals based on how many semitones the
 A chord is a group of two or more notes sounded together.
 
 Chords are constructed by "stacking thirds" 
-(in "tertian harmony" that is, which is the most common type of harmony in the Western world.
-Other types of harmony exist,
-like "quartal",
+(in "tertian harmony" that is, 
+the most common type in Western music.
+There are others,
+like "quartal harmony",
 which is based on stacking fourths.)
 
 Stacking thirds refers to adding successive intervals of a third until the chord has as many notes as we want it to.
