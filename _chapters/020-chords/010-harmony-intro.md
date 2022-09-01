@@ -54,7 +54,11 @@ The following table shows the names of intervals based on how many semitones the
 
 <div class="table-wrapper" markdown="block">
 
-| note | semitones | interval | short | scale degree name |
+| note | semi-tones | interval            | short | scale degree name |
+| C    | 0          | unison              | 1     | tonic, one        |
+| C#   | 1          |                     | #1    |                   |
+| Db   | 1          | minor second (m2)   | b2    | flat two          |
+
 
 </div>
 
