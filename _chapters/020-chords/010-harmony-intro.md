@@ -13,8 +13,7 @@ abstract: A quick overview of the most practical bits of euroclassical harmony.
 ## Intervals: the building blocks
 
 Intervals are the basic building blocks of scales, melodies, and chords.
-They are responsible for the way music sounds and even the emotions it can evoke.
-
+They are responsible for the way music sounds and even how it makes us feel. 
 An interval describes the difference in pitch between two tones. 
 A tone is a note with a discernible pitch,
 and pitch is the frequency at which a sound wave vibrates.
@@ -38,13 +37,16 @@ because the ratio between the frequencies of the pitches separated by those inte
 (The frequency ratio of a unison is 1:1---the pitches vibrate at the same rate.
 The frequency ratio of an octave is 2:1---one pitch vibrates twice as fast as the other.
 A perfect fifth is 3:2, and a perfect forth is 4:3.)
-These integer intervals are more consonant to our ears.
-The other intervals get mathematically more complex,
+These integer ratio frequencies are more consonant to our ears. 
+Other intervals get mathematically more complex,
 and more "dissonant" to the ear.
-The "tritone" (6 semitones) interval has a pitch frequency ratio of the square root of 2,
-which is a much more complex sound wave,
-requiring more attention and brain processing.
-The tritone is widely heard as dissonant. 
+The 6-semitone "tritone" interval (TT), 
+which is widely heard as dissonant,
+has a pitch frequency ratio of the square root of 2. 
+This is a much more complex sound wave,
+requiring more attention and processing
+from our brains. 
+
 
 The quality of the remaining intervals are either "major" or "minor",
 which is determined by how many "semitones" they contain.
