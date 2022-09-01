@@ -6,9 +6,19 @@ abstract: A quick overview of the most practical bits of euroclassical harmony.
 
 ## Emotion and story
 
-- Tension and release
-- expectation and surprise
-- hero's journey (hero goes on an adventure, is victorious in a decisive crisis, and comes home transformed)
+"Tension and release" is a basic biological mechanism shared by, 
+perhaps, all of life. 
+Often for locomotion;
+it physically moves us.
+We naturally express these e-motional characteristics in our music.
+Tension and release is a fundamental component of euroclassical harmony. 
+
+- expectation and surprise, playing with expectations 
+
+Also note similarities to the _Hero's Journey_ narrative archetype:
+the hero goes on an adventure, 
+is victorious in a decisive crisis, 
+and comes home transformed.
 
 ## Intervals: the building blocks
 
