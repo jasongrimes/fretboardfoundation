@@ -62,10 +62,14 @@ The following table shows the names of intervals based on how many semitones the
 
 <div class="table-wrapper" markdown="block">
 
-| note from C | semi-tones | interval | short scale decree name | scale degree name |
-|:------------|:----------:|:--------:| |:---------------------:|------------------:|
-| C      | 0   | unison              | 1     | tonic, one |
-| C#/Db  | 1   | minor second (m2)   | b2    | flat two |
+| semi-tones | interval | note from C  | short scale decree name | scale degree name |
+|:------------|:-------:|:--------:| |:---------------------:|------------------:|
+| 0   | unison | C       | 1     | tonic, one |
+| 1   | minor second (m2)   | C#/Db | b2    | flat two |
+| 2   | major second (M2)   | D     | 2     | two |
+| 3   | minor third (m3)    | D#/Eb | b3    | flat three |
+
+| 4   | major third (M3)    | E     | 3     | three, major three |
 
 
 </div>
