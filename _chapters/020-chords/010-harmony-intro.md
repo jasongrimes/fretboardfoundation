@@ -24,9 +24,7 @@ and the higher the pitch sounds to our ears.
 The larger an interval is between two tones,
 the greater the difference in pitch between them.
 
-Interval names have two parts: quality and number.
-A "major third" interval has a "major" quality;
-a "minor seventh" has a "minor" quality; etc.
+An interval name like "major third" has two parts: quality ("major") and number ("third").
 
 The number (or numeric size) of an interval is the number of letter names from one note to the next in the musical alphabet.
 For example, the interval from a C to a D is a second,
