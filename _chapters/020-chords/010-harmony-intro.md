@@ -8,9 +8,9 @@ abstract: A quick overview of the most practical bits of euroclassical harmony.
 
 "Tension and release" is a basic biological mechanism shared by, 
 perhaps, all of life. 
-Often for locomotion;
+Often for locomotion---
 it physically moves us.
-We naturally express these e-motional instincts in our music.
+We naturally express these e-motional instincts in our stories and in our music.
 Tension and release is a fundamental component of euroclassical harmony. 
 
 - expectation and surprise, playing with expectations 
