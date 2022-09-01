@@ -52,9 +52,11 @@ a distance of two frets.
 
 The following table shows the names of intervals based on how many semitones they span.
 
+<div class="table-wrapper" markdown="block">
 
+| note | semitones | interval | short | scale degree name |
 
-
+</div>
 
 
 - Intervals are the distance between notes
