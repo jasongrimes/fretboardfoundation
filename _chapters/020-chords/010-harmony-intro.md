@@ -288,7 +288,7 @@ based on the chord factor intervals.
 
 </div>
 
-## Harmonizing a scale
+### Harmonizing a scale
 
 Harmonizing a scale refers to assembling the chords that are "native" to a given key or mode,
 by starting on each degree of the parent scale and stacking thirds to form a triad chord.
@@ -366,7 +366,7 @@ we will expect this because it's what always happens.
 
 This combination of tension and expectation results in "wanting" the dissonant leading tone to resolve to the consonant tonic.
 
-### Functions: tonic, subdominant, and dominant
+### Tonic, subdominant, and dominant
 
 Chords can be grouped into three basic harmonic functions.
 
@@ -425,7 +425,7 @@ which moves from the V chord (the dominant) to the I chord (the tonic).
 
 This chord movement in a descending fifth (or ascending fourth) is a standard aspect of jazz and euroclassical idioms.
 
-### ii-V-I progressions
+### Circle of fifths progressions
 
 Jazz takes the cadential movement of descending fifths even further,
 by putting a ii chord in front of the V-I cadence.
