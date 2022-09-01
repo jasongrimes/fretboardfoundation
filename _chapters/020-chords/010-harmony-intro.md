@@ -25,7 +25,7 @@ and comes home transformed.
 ## Intervals: the building blocks
 
 Intervals are the basic building blocks of scales, melodies, and chords.
-They are responsible for the way music sounds and even how it makes us feel. 
+They are responsible for the way music sounds and how it makes us feel. 
 An interval describes the difference in pitch between two tones. 
 A tone is a note with a discernible pitch,
 and pitch is the frequency at which a sound wave vibrates.
