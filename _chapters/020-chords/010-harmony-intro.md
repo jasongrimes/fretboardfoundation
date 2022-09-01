@@ -12,18 +12,47 @@ abstract: A quick overview of the most practical bits of euroclassical harmony.
 
 ## Intervals: the building blocks
 
-Intervals are the distance between notes.
-More specifically, 
-intervals describe the difference in pitch between two tones
-(See {% include chapter-link.html slug="glossary" anchor="interval"%}.)
+Intervals are the basic building blocks of scales, melodies, and chords.
+They are responsible for the way music sounds and even the emotions it can evoke.
 
-In euroclassical music theory,
-and therefore in most Western music,
-the smallest interval is a "semitone".
-A semitone is the difference in pitch between two notes on a guitar string on either side of the same fret.
-Intervals smaller than a semitone are also possible;
-these are called "microtones" and are common in Blues and non-Western musical traditions.
-The guitar is one of the few Western instruments capable of producing microtones (by bending strings).
+An interval describes the difference in pitch between two tones. 
+A tone is a note with a discernible pitch,
+and pitch is the frequency at which a sound wave vibrates.
+The higher the frequency,
+the faster the vibration,
+and the higher the pitch sounds to our ears.
+The larger an interval is between two tones,
+the greater the difference in pitch between them.
+
+Interval names have two parts: quality and number.
+A "major third" interval has a "major" quality;
+a "minor seventh" has a "minor" quality; etc.
+
+The number (or numeric size) of an interval is the number of letter names from one note to the next in the musical alphabet.
+For example, the interval from a C to a D is a second,
+from C to E is a third,
+and from C to G is a fifth.
+The interval from C to the next C above or below is called an "octave" (meaning 8),
+and from a note to itself is called a "unison" (meaning 1).
+
+The quality of "fourth", "fifth", "octave", and "unison" intervals are called "perfect",
+because the ratio between the frequencies of the pitches separated by those intervals is mathematically simple.
+(The frequency ratio of a unison is 1:1---the pitches vibrate at the same rate.
+The frequency ratio of an octave is 2:1---one pitch vibrates twice as fast as the other.
+A perfect fifth is 3:2, and a perfect forth is 4:3.)
+
+The quality of the remaining intervals are either "major" or "minor",
+which is determined by how many "semitones" they contain.
+
+A "semitone" is the smallest interval in most Western music.
+It's the difference between two notes on a guitar string on either side of one fret.
+Semitones are also called "half steps".
+A "tone" (or "whole tone" or "whole step") is two semitones,
+a distance of two frets.
+
+The following table shows the names of intervals based on how many semitones they span.
+
+
 
 
 
@@ -52,16 +81,16 @@ A "triad chord" is a three-note chord built by stacking thirds.
 Triads are the most common chords in Western music.
 
 The components of a chord are sometimes called "factors".
-The lowest factor in a chord is called the "root".
-The next factor is called the "third",
-which is a major-third or a minor-third interval above the root.
+The lowest factor in a chord is called the "root",
+and the next factor is called the "third",
+which is an interval of a major or minor third above the root.
 The last factor in a triad is called the "fifth",
-which is a major- or minor-third interval above the "third",
-and either a perfect fifth (most commonly)
+which either a perfect fifth (most commonly)
 or else an augmented or diminished fifth above the root.
+The interval from the third to the fifth is a major or minor third.
 
 There are four types or "qualities" of triad,
-based on the qualities of its factor intervals.
+based on the qualities of its intervals.
 
 <div class="table-wrapper" markdown="block">
 

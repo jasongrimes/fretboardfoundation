@@ -45,9 +45,9 @@ normally arranged in ascending order and delimited by scale degree 1 (1&#x302;, 
 
 - **note**{:#note}: Any single, discrete sound of finite duration in music.
 
-- **note name**{:#note-name}: The first seven letters of the English and German alphabets (A-G)
-along with accidentals (flat, sharp, etc.)
-used to designate [notes](#note) of previously and unequivocally determined fundamental pitch (like A at 440 Hz).
+- **note name**{:#note-name}: One of the first seven letters of the English alphabet (A-G)
+and any necessary accidental (flat or sharp)
+used to designate [notes](#note) of a standard fundamental pitch (like A at 440 Hz).
 
 - **octave**{:#octave}: The [interval](#interval) between one [pitch](#pitch) and another with double its frequency.
 Notes separated by octaves have the same [note name](#note-name) and [pitch class](#pitch-class).
