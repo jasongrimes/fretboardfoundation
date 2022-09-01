@@ -167,7 +167,10 @@ for more information.
 
 Intervals always describe the distance from the *lower to the higher* pitch.
 
-The distance from the *higher to the lower* pitch is *a different interval*.
+Somewhat counterintuitively,
+because we hear two notes an octave apart as the same note,
+the interval from the lower to the higher note is *different* than the interval from the higher to the lower note.
+The descending interval is an "inversion" of the ascending interval. 
 
 For example,
 the interval between C and E is a major third.
@@ -178,6 +181,7 @@ but the interval from E to C spans E-F-G-A-B-C.
 Similarly,
 the interval from C to F is a perfect fourth,
 and the interval from F to C is a perfect fifth.
+A perfect fourth inverts to a perfect fifth. 
 Therefore, moving "up a fourth" or "down a fifth" arrives at the same note (in a different octave).
 
 A simple formula for inverting an interval is to 
