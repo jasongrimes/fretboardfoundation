@@ -3,9 +3,9 @@ title: Glossary
 slug: glossary
 ---
 
-Many of these definitions are taken verbatim from the well-reasoned terminology choices in Philip Tagg's 
+Many of these definitions are taken nearly verbatim from the well-reasoned terminology choices in Philip Tagg's 
 _Everyday Tonality II (towards a tonal theory of what most people hear)_ [(Tagg, 2018)](references#tagg-2018),
-to which this book is indebted.
+to which this book is indebted. Errors and omissions are, of course, mine. 
 
 - **atonal**{:#atonal}: Music or other sounds without [tones](#tone).
 In common usage,
