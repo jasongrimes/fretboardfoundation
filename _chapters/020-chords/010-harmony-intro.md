@@ -142,11 +142,55 @@ which suggests how consonant or dissonant the interval will sound
 
 ### Finding intervals on the fretboard with the major scale
 
-- Major intervals are the same as the major scale degrees
+The easiest way to find any interval on the fretboard is to know the major scale on the fretboard.
+
+Every degree of the major scale is a major or perfect interval from the tonic.
+Degree 2&#x302; of the major scale is a major second from the tonic,
+degree 5&#x302; is a perfect fifth,
+degree 7&#x302; is a major seventh, and so on.
+
+For example, to find a major third interval on the fretboard,
+imagine the lower note is the tonic of a major scale,
+and find the 3&#x302;.
+
+To find a minor or diminished interval,
+just lower the corresponding major or perfect interval by one fret.
+For example,
+to find a minor seventh,
+find the major seventh (at degree 7&#x302;)
+and the minor seventh is the fret below it.
+
+See {% include chapter-link.html slug="major-scale" %} and {% include chapter-link.html slug="interval-scale" %}
+for more information.
 
 ### Inverting intervals
 
-### Consonant and dissonant intervals (frequency ratios)
+Intervals always describe the distance from the *lower to the higher* pitch.
+
+The distance from the *higher to the lower* pitch is *a different interval*.
+
+For example,
+the interval between C and E is a major third.
+But the interval from E to C is a *minor sixth*.
+This is because the interval from C to E spans C-D-E,
+but the interval from E to C spans E-F-G-A-B-C.
+
+Similarly,
+the interval from C to F is a perfect fourth,
+and the interval from F to C is a perfect fifth.
+Therefore, moving "up a fourth" or "down a fifth" arrives at the same note (in a different octave).
+
+A simple formula for inverting an interval is to 
+(1) invert the quality of the original interval (major to/from minor, augmented to/from diminished, perfect stays perfect);
+and (2) subtract the number of the original interval from 9.
+
+Therefore, 
+up a major third is the same as down a minor sixth,
+up a perfect fifth is the same as down a perfect fourth,
+up a minor seventh is the same as down a major second,
+and so on.
+
+### Understanding interval consonance and dissonance as frequency ratios
 
 When two pitches sound together,
 their sound waves overlap.
