@@ -13,7 +13,9 @@ it physically moves us.
 We naturally express these e-motional instincts in our stories and in our music.
 Tension and release is a fundamental component of euroclassical harmony. 
 
-- expectation and surprise, playing with expectations 
+When performers and listeners have shared cultural references,
+the performer can use harmonc tools to play with listeners' expectations.
+
 
 Also note similarities to the _Hero's Journey_ narrative archetype:
 the hero goes on an adventure, 
