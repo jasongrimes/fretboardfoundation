@@ -10,7 +10,7 @@ abstract: A quick overview of the most practical bits of euroclassical harmony.
 perhaps, all of life. 
 Often for locomotion;
 it physically moves us.
-We naturally express these e-motional characteristics in our music.
+We naturally express these e-motional instincts in our music.
 Tension and release is a fundamental component of euroclassical harmony. 
 
 - expectation and surprise, playing with expectations 
