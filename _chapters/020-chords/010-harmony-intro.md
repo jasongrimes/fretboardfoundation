@@ -452,6 +452,13 @@ which moves from the V chord (the dominant) to the I chord (the tonic).
 
 This chord movement in a descending fifth (or ascending fourth) is a standard aspect of jazz and euroclassical idioms.
 
+Listeners of these types of music have heard V-I cadences so often,
+they have formed an expectation that the V will often lead to the I. 
+This common expectation reinforces and enables the tricks of harmonic function. 
+On the other hand,
+listeners who have little experience of hearing music with V-I cadences will not have the same expectations,
+and will not have the same response to harmonic functions.  
+
 ### Circle of fifths progressions
 
 Jazz takes the cadential movement of descending fifths even further,
