@@ -35,9 +35,20 @@ Dissonant sounds are mathematically complex and harmonically tense.
 
 ### Expectation and surprise
 
-Tension and release can also be created by playing with listeners' expectations,
-developed through all the music they have previously heard,
-if the musician has a similar enough background to know what those expectations are.
+Tension and release can also be created by playing with listeners' expectations.
+
+All the music we have previously heard develops our expectations about music we will hear in the future.
+
+If we have a similar enough background to the listener to know what their expectations are,
+we can play with those expectations to provoke a response. 
+
+For example,
+we can choose to give them something they expect,
+provoking familiarity,
+give them something they didn't expect but are also familiar with,
+provoking surprise and hopefully delight,
+delay meeting their expectations, provoking tension,
+and so on. 
 
 ### The Hero's Journey
 
