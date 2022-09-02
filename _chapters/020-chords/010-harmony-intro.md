@@ -172,11 +172,11 @@ for more information.
 
 ### Inverting intervals
 
-"Ascending intervals" describe the distance from the *first to the second* note,
+"Ascending intervals" describe the distance from the *lower to the higher* pitch,
 and are often described as going "up",
 such as "up a (perfect) fourth".
 
-"Descending intervals" describe the distance from the *second to the first* note,
+"Descending intervals" describe the distance from the *higher to the lower* pitch,
 and are often described as going "down",
 such as "down a (perfect) fifth".
 
@@ -185,7 +185,7 @@ unless explicitly stated otherwise.
 
 Somewhat counterintuitively,
 because we hear two notes an octave apart as the same note,
-the interval from the first to the second note is *different* than the interval from the second to the first note.
+the interval from the lower to the higher pitch is *different* than the interval from the higher to the lower pitch.
 The descending interval is an "inversion" of the ascending interval. 
 
 For example,
