@@ -83,7 +83,7 @@ and from a note to itself is called a "unison" (meaning 1).
 #### Perfect intervals
 
 The qualities of fourth, fifth, octave, and unison intervals are called "perfect",
-because the sound waves of the pitches separated by those intervals vibrate together in an overlapping and mathematically simple way.
+because the sound waves of the pitches separated by those intervals vibrate together in an overlapping and mathematically elegant way.
 This makes them sound highly consonant. 
 
 #### Major, minor, augmented, and diminished intervals
