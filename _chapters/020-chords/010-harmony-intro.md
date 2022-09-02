@@ -94,17 +94,24 @@ which is determined by how many "semitones" they contain.
 Perfect intervals can also be raised or lowered by a semitone,
 changing their quality from perfect to "augmented" or "diminished".
 
-#### Semitones
+#### Semitone and tone
 
 A "semitone" is the smallest interval in most Western music.
 It's the difference between two notes on a guitar string on either side of one fret.
 Semitones are also called "half steps".
 
-A "tone" (or "whole tone" or "whole step") is two semitones,
-a distance of two frets.
-
 In Western music,
 there are twelve semitones in an octave.
+
+The term "tone", 
+when used as an interval name,
+means two semitones,
+a distance of two frets.
+Sometimes the terms "whole tone" or "whole step" are used instead. 
+
+Note that the term "tone" has other meanings as well,
+such as "any note with a discernible pitch".
+See ["tone" in the glossary](glossary#tone) for details. 
 
 ### Interval table
 
