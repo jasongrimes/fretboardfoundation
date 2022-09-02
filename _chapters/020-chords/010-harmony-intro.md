@@ -64,12 +64,12 @@ The higher the frequency,
 the faster the vibration,
 and the higher the pitch sounds to our ears.
 
-### Interval names (quality and number)
+### Interval names
 
 Intervals have names like "major third",
 comprised of two parts: "quality" (major) and "number" (third).
 
-### Interval numbers
+#### Interval numbers
 
 The number or numeric size of an interval is the number of letter names from one note to the next in the musical alphabet.
 
@@ -80,13 +80,13 @@ and from C to G is a fifth.
 The interval from C to the next C above or below is called an "octave" (meaning 8),
 and from a note to itself is called a "unison" (meaning 1).
 
-### Perfect intervals
+#### Perfect intervals
 
 The qualities of fourth, fifth, octave, and unison intervals are called "perfect",
 because the sound waves of the pitches separated by those intervals vibrate together in an overlapping and mathematically simple way.
 This makes them sound highly consonant. 
 
-### Major, minor, augmented, and diminished intervals
+#### Major, minor, augmented, and diminished intervals
 
 The quality of the remaining non-perfect intervals are called either "major" or "minor",
 which is determined by how many "semitones" they contain.
@@ -94,7 +94,7 @@ which is determined by how many "semitones" they contain.
 Perfect intervals can also be raised or lowered by a semitone,
 changing their quality from perfect to "augmented" or "diminished".
 
-### Semitones
+#### Semitones
 
 A "semitone" is the smallest interval in most Western music.
 It's the difference between two notes on a guitar string on either side of one fret.
@@ -194,7 +194,7 @@ up a perfect fifth is the same as down a perfect fourth,
 up a minor seventh is the same as down a major second,
 and so on.
 
-### Understanding interval consonance and dissonance as frequency ratios
+### Consonance, dissonance, and frequency ratios
 
 When two pitches sound together,
 their sound waves overlap.
@@ -253,12 +253,6 @@ There are other types
 (like "quartal harmony", which is based on stacking fourths),
 but those are outside the scope of this book.
 
-### Triad chords
-
-A "triad chord" is a three-note chord built by stacking thirds.
-
-Triads are the most common chords in Western music.
-
 ### Chord factors
 
 The components of a chord are sometimes called "factors".
@@ -273,7 +267,11 @@ which is either a perfect fifth (most commonly)
 or else an augmented or diminished fifth above the root.
 The interval from the third to the fifth is a major or minor third.
 
-### Triad chord types
+### Triad chords
+
+A "triad chord" is a three-note chord built by stacking thirds.
+
+Triads are the most common chords in Western music.
 
 There are four types (or "qualities") of triad,
 based on the chord factor intervals.
