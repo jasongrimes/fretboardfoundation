@@ -87,6 +87,8 @@ The number or numeric size of an interval is the number of letter names from one
 For example, the interval from a C to a D is a second,
 from C to E is a third,
 and from C to G is a fifth.
+The interval from C to A is a sixth,
+because the musical alphabet goes to G and then wraps around to A again. 
 
 The interval from C to the next C above or below is called an "octave" (meaning 8),
 and from a note to itself is called a "unison" (meaning 1).
