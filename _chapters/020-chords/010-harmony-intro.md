@@ -198,11 +198,11 @@ The chord type is determined by the intervals between its factors and the root.
 <div class="table-wrapper" markdown="block">
 
 | Chord type     | Intervals | Notes (on C) | Symbol (on C)         |
-|----------------|-----------|--------------|-----------------------|
-| **major**      | R 3 5     | C E G        | C, CM, Cmaj, C&Delta; |
-| **minor**      | R b3 5    | C Eb G       | Cm, Cmin, C-          |
-| **diminished** | R b3 b5   | C Eb Gb      | Cdim, C&deg;          |
-| **augmented**  | R 3 #5    | C E G#       | Caug, C+              |
+|----------------|-----------|:------------:|-----------------------|
+| **major**      | R 3 5     | C-E-G        | C, CM, Cmaj, C&Delta; |
+| **minor**      | R b3 5    | C-Eb-G       | Cm, Cmin, C-          |
+| **diminished** | R b3 b5   | C-Eb-Gb      | Cdim, C&deg;          |
+| **augmented**  | R 3 #5    | C-E-G#       | Caug, C+              |
 
 </div>
 
@@ -229,7 +229,7 @@ Harmonizing the major scale gives the following chords:
 <div class="table-wrapper" markdown="block">
 
 | Chord        | Scale degrees | In C  | Chord factors | Chord type | In C       |
-|:------------:|:-------------:|:-----:|:--------------|:----------:|:-----------|
+|:------------:|:-------------:|:-----:|:--------------|:----------:|:----------:|
 | **I**        | 1-3-5         | C-E-G | R 3 5         | major      | **C**      |
 | **ii**       | 2-4-6         | D-F-A | R b3 5        | minor      | **Dm**     |
 | **iii**      | 3-5-7         | E-G-B | R b3 5        | minor      | **Em**     |
@@ -300,7 +300,7 @@ Harmonizing the natural minor scale gives the following chords:
 <div class="table-wrapper" markdown="block">
 
 | Chord        | Scale degrees | In C     | Chord factors | Chord type | In C       |
-|:------------:|:-------------:|:--------:|:--------------|:----------:|:-----------|
+|:------------:|:-------------:|:--------:|:--------------|:----------:|:----------:|
 | **i**        | 1-b3-5        | C-Eb-G   | R b3 5        | minor      | **Cm**     |
 | **ii&deg;**  | 2-4-b6        | D-Fb-Ab  | R b3 b5       | diminished | **D&deg;** |
 | **III**      | b3-5-b7       | Eb-G-Bb  | R b3 5        | major      | **Eb**     |
