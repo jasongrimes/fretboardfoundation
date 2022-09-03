@@ -37,7 +37,7 @@ Dissonant sounds are mathematically complex and harmonically tense.
 
 Tension and release can also be created by playing with listeners' expectations.
 
-All the music we have previously heard develops our expectations about music we will hear in the future.
+All the music we have previously heard creates expectations about music we will hear in the future.
 
 If we have a similar enough background to the listener to know what their expectations are,
 we can play with those expectations to provoke a response. 
@@ -56,7 +56,7 @@ and so on.
 similar in some ways to the "hero's journey" narrative pattern
 which is common in myths and stories across many cultures.
 
-In both the hero's journey and in functional harmonic progressions,
+In both the hero's journey and in harmonic progressions,
 the hero goes on an adventure, 
 is victorious in a decisive crisis, 
 and comes home transformed.
@@ -124,13 +124,13 @@ means two semitones,
 a distance of two frets.
 Sometimes the terms "whole tone" or "whole step" are used instead. 
 
-Note that the term "tone" has other meanings as well,
+Be aware that the term "tone" has other meanings as well,
 such as "any note with a discernible pitch".
 See ["tone" in the glossary](glossary#tone) for details. 
 
 ### Interval table
 
-This following table shows the names of intervals based on how many semitones they contain.
+This table shows the names of intervals based on how many semitones they contain.
 The number of semitones can also be thought of as the number of frets the interval spans on one string.
 
 <div class="table-wrapper" markdown="block">
