@@ -29,7 +29,7 @@ it moves us emotionally as well.
 
 Tension and release are created with "consonant" and "dissonant" sounds.
 
-Consonant sounds are mathematically simple and harmonically relaxing. 
+Consonant sounds are mathematically simple and harmonically relaxed. 
 
 Dissonant sounds are mathematically complex and harmonically tense.
 
@@ -44,17 +44,19 @@ we can play with those expectations to provoke a response.
 
 For example,
 we can choose to give them something they expect,
-provoking familiarity,
+provoking familiarity;
 give them something they didn't expect but are also familiar with,
-provoking surprise and hopefully delight,
-delay meeting their expectations, provoking tension,
+provoking surprise and hopefully delight;
+delay meeting their expectations, provoking tension;
 and so on. 
 
-### The Hero's Journey
+### The hero's journey
 
-Additionally,
-"harmonic functions" can be used to tell a kind of story,
-similar in some ways to the _Hero's Journey_ narrative archetype:
+"Harmonic functions" can be used to tell a kind of story,
+similar in some ways to the "hero's journey" narrative pattern
+which is common in myths and stories across many cultures.
+
+In both the hero's journey and in functional harmonic progressions,
 the hero goes on an adventure, 
 is victorious in a decisive crisis, 
 and comes home transformed.
@@ -228,7 +230,7 @@ and so on.
 When two pitches sound together,
 their sound waves overlap.
 The more closely they overlap,
-the more consonant and harmonically relaxing they sound.
+the more consonant and harmonically relaxed they sound.
 The less they overlap,
 the more dissonant and harmonically tense they sound. 
 
@@ -278,23 +280,7 @@ Another way to think of stacking thirds is adding *every other* note in a scale.
 
 Building chords from stacked thirds is called "tertian harmony",
 which is the most common type of harmony in Western music.
-There are other types
-(like "quartal harmony", which is based on stacking fourths),
-but those are outside the scope of this book.
-
-### Chord factors
-
-The components of a chord are sometimes called "factors".
-
-The lowest factor in a chord is called the "root".
-
-The next factor is called the "third",
-which is an interval of a major or minor third above the root.
-
-The last factor in a triad is called the "fifth",
-which is either a perfect fifth (most commonly)
-or else an augmented or diminished fifth above the root.
-The interval from the third to the fifth is a major or minor third.
+(There are others, like "quartal harmony", which is based on stacking fourths.)
 
 ### Triad chords
 
@@ -302,12 +288,36 @@ A "triad chord" is a three-note chord built by stacking thirds.
 
 Triads are the most common chords in Western music.
 
-There are four types (or "qualities") of triad,
-based on the chord factor intervals.
+The three notes in a triad chord are called the "root",
+the "third", 
+and the "fifth" factors of the chord.
+
+The third is a major- or minor-third interval above the root.
+
+The fifth is a perfect fifth (usually) or else an augmented or diminished fifth above the root.
+The fifth is also a major- or minor-third interval above the third
+(which makes sense since the chord is built by stacking thirds).
+
+### Types of triad chord
+
+There are four types of triad chord,
+depending on the intervals between its notes.
 
 <div class="table-wrapper" markdown="block">
 
-| Triad quality  | Third interval        | Fifth interval (above third) above root |
+| Chord type     | Intervals |
+| **major**      | R 3 5     |
+| **minor**      | R b3 5    |
+| **augmented**  | R 3 #5    |
+| **diminished** | R b3 b5   |
+
+</div>
+
+Or more specifically:
+
+<div class="table-wrapper" markdown="block">
+
+| Chord type     | Third interval        | Fifth interval (above third) above root |
 | **major**      | M3                    | (m3) P5 |
 | **minor**      | m3                    | (M3) P5 |
 | **augmented**  | M3                    | (M3) #5 |
@@ -315,13 +325,15 @@ based on the chord factor intervals.
 
 </div>
 
+
 ### Harmonizing a scale
 
-Harmonizing a scale refers to assembling the chords that are "native" to a given key or mode,
+Harmonizing a scale refers to assembling the chords that belong to a given key or mode,
 by starting on each degree of the parent scale and stacking thirds to form a triad chord.
 The result is one chord for each degree in the scale.
 
-The chords will be of different types or quality based on the intervals in the scale.
+The chords will be of different types depending on how the scale degree intervals fall within the chord.
+
 Chords are numbered with roman numerals matching the number of their scale degree.
 Uppercase roman numerals are used for major chords,
 and lowercase roman numerals are used for minor chords.
@@ -344,6 +356,11 @@ Harmonizing the major scale gives the following chords:
 | **vii&deg;** | 7 2 4         | R b3 b5       | diminished |
 
 </div>
+
+The type of each chord type is determined from the intervals of its chord factors.
+Those intervals are determined by counting the number of semitones between the scale degrees
+(refer the [interval table](#interval-table)).
+
 
 The **natural minor** scale has degrees 1-2-b3-4-5-b6-b7.
 
@@ -407,7 +424,7 @@ then to a place of tension (a dominant),
 before providing emotional release or resolution by returning home (to the tonic).
 
 This progression mirrors a classic storytelling arc.
-Compare it to the _Hero's Journey_ narrative archetype:
+Compare it to the "hero's journey" narrative archetype:
 1. The hero goes on an adventure (subdominant), 
 2. is victorious in a decisive crisis (dominant), and 
 3. comes home transformed (tonic).
