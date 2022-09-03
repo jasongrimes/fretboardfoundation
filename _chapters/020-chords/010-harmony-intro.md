@@ -354,7 +354,7 @@ we will expect this because it's what always happens.
 
 This combination of tension and expectation results in "wanting" the dissonant leading tone to resolve to the consonant tonic.
 
-### Tonic, subdominant, and dominant
+### Tonic, subdominant, and dominant functions
 
 Chords can be grouped into three basic harmonic functions.
 
