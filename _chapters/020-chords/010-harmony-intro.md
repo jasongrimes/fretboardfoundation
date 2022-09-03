@@ -162,108 +162,6 @@ which suggests how consonant or dissonant the interval will sound
 
 </div>
 
-### Finding intervals on the fretboard with the major scale
-
-The easiest way to find any interval on the fretboard is to know the major scale on the fretboard.
-
-Every degree of the major scale is a major or perfect interval from the tonic.
-Degree 2&#x302; of the major scale is a major second from the tonic,
-degree 5&#x302; is a perfect fifth,
-degree 7&#x302; is a major seventh, and so on.
-
-For example, to find a major third interval on the fretboard,
-imagine the lower note is the tonic of a major scale,
-and find the 3&#x302;.
-
-To find a minor or diminished interval,
-just lower the corresponding major or perfect interval by one fret.
-For example,
-to find a minor seventh,
-find the major seventh (at degree 7&#x302;)
-and the minor seventh is the fret below it.
-
-See {% include chapter-link.html slug="major-scale" %} and {% include chapter-link.html slug="interval-scale" %}
-for more information.
-
-### Inverting intervals
-
-"Ascending intervals" describe the distance from the *lower to the higher* pitch,
-and are often described as going "up",
-such as "up a (perfect) fourth".
-
-"Descending intervals" describe the distance from the *higher to the lower* pitch,
-and are often described as going "down",
-such as "down a (perfect) fifth".
-
-Discussion of intervals usually refers to the ascending interval,
-unless explicitly stated otherwise. 
-
-Somewhat counterintuitively,
-because we hear two notes an octave apart as the same note,
-the interval from the lower to the higher pitch is *different* than the interval from the higher to the lower pitch.
-The descending interval is an "inversion" of the ascending interval. 
-
-For example,
-the interval between C and E is a major third.
-But the interval from E to C is a *minor sixth*.
-This is because the interval from C to E spans C-D-E,
-but the interval from E to C spans E-F-G-A-B-C.
-
-Similarly,
-the interval from C to F is a perfect fourth,
-and the interval from F to C is a perfect fifth.
-A perfect fourth inverts to a perfect fifth. 
-Therefore, moving "up a fourth" or "down a fifth" arrives at the same note (in a different octave).
-
-A simple formula for inverting an interval is to 
-(1) invert the quality of the original interval (major to/from minor, augmented to/from diminished, perfect stays perfect);
-and (2) subtract the number of the original interval from 9.
-
-Therefore, 
-up a major third is the same as down a minor sixth,
-up a perfect fifth is the same as down a perfect fourth,
-up a minor seventh is the same as down a major second,
-and so on.
-
-### Consonance, dissonance, and frequency ratios
-
-When two pitches sound together,
-their sound waves overlap.
-The more closely they overlap,
-the more consonant and harmonically relaxed they sound.
-The less they overlap,
-the more dissonant and harmonically tense they sound. 
-
-This overlap between sound waves can be measured by the ratio between the frequencies of the two pitches. 
-The more closely they overlap,
-the simpler the ratio. 
-
-In a unison interval,
-since the two pitches are the same,
-their sound waves oscillate at the same frequency. 
-The ratio between the frequencies is one-to-one (1:1).
-
-In an octave,
-one pitch vibrates twice as fast as the other.
-The pitch frequency ratio of an octave is therefore 2:1.
-
-The ratio of a perfect fifth is 3:2,
-and a perfect fourth is 4:3.
-
-Because these small-integer ratios are mathematically elegant,
-and because they sound particularly consonant to our ears,
-they are called perfect intervals.
-
-Other intervals get mathematically more complex,
-and therefore more dissonant.
-
-The "tritone" interval, 
-considered the most dissonant,
-has a pitch frequency ratio of the square root of 2. 
-
-These much more complex sound waves require more attention and processing from our brains,
-which may account for their perceived dissonance. 
-
 ## Chords
 
 Western harmony is expressed through chords.
@@ -298,30 +196,16 @@ The fifth is a perfect fifth (usually) or else an augmented or diminished fifth 
 The fifth is also a major- or minor-third interval above the third
 (which makes sense since the chord is built by stacking thirds).
 
-### Types of triad chord
-
-There are four types of triad chord,
-depending on the intervals between its notes.
+There are four types of triad chord.
+The chord type is determined by the intervals between its factors and the root.
 
 <div class="table-wrapper" markdown="block">
 
-| Chord type     | Intervals |
-| **major**      | R 3 5     |
-| **minor**      | R b3 5    |
-| **augmented**  | R 3 #5    |
-| **diminished** | R b3 b5   |
-
-</div>
-
-Or more specifically:
-
-<div class="table-wrapper" markdown="block">
-
-| Chord type     | Third interval        | Fifth interval (above third) above root |
-| **major**      | M3                    | (m3) P5 |
-| **minor**      | m3                    | (M3) P5 |
-| **augmented**  | M3                    | (M3) #5 |
-| **diminished** | m3                    | (m3) b5 |
+| Chord type     | Intervals | Notes (on C) | Symbol (on C)         |
+| **major**      | R 3 5     | C E G        | C, CM, Cmaj, C&Delta; |
+| **minor**      | R b3 5    | C Eb G       | Cm, Cmin, C-          |
+| **diminished** | R b3 b5   | C Eb Gb      | Cdim, C&deg;          |
+| **augmented**  | R 3 #5    | C E G#       | Caug, C+              |
 
 </div>
 
@@ -339,21 +223,21 @@ Uppercase roman numerals are used for major chords,
 and lowercase roman numerals are used for minor chords.
 
 For example,
-the **major scale** has degrees 1-2-3-4-5-6-7.
+the **major scale** has degrees 1-2-3-4-5-6-7 (in C: C-D-E-F-G-A-B).
 
 Harmonizing the major scale gives the following chords:
 
 <div class="table-wrapper" markdown="block">
 
-| Chord        | Scale degrees | Chord factors | Chord type |
-|:------------:|:-------------:|:-------------:|:----------:|
-| **I**        | 1 3 5         | R 3 5         | major      |
-| **ii**       | 2 4 6         | R b3 5        | minor      |
-| **iii**      | 3 5 7         | R b3 5        | minor      |
-| **IV**       | 4 6 1         | R 3 5         | major      |
-| **V**        | 5 7 2         | R 3 5         | major      |
-| **vi**       | 6 1 3         | R b3 5        | minor      |
-| **vii&deg;** | 7 2 4         | R b3 b5       | diminished |
+| Chord        | Scale degrees | In C  | Chord factors | Chord type | In C       |
+|:------------:|:-------------:|:-----:|:--------------|:----------:|:-----------|
+| **I**        | 1-3-5         | C-E-G | R 3 5         | major      | **C**      |
+| **ii**       | 2-4-6         | D-F-A | R b3 5        | minor      | **Dm**     |
+| **iii**      | 3-5-7         | E-G-B | R b3 5        | minor      | **Em**     |
+| **IV**       | 4-6-1         | F-A-C | R 3 5         | major      | **F**      |
+| **V**        | 5-7-2         | G-B-D | R 3 5         | major      | **G**      |
+| **vi**       | 6-1-3         | A-C-E | R b3 5        | minor      | **Am**     |
+| **vii&deg;** | 7-2-4         | B-D-F | R b3 b5       | diminished | **B&deg;** |
 
 </div>
 
@@ -362,25 +246,26 @@ Those intervals are determined by counting the number of semitones between the s
 (refer the [interval table](#interval-table)).
 
 
-The **natural minor** scale has degrees 1-2-b3-4-5-b6-b7.
+The **natural minor** scale has degrees 1-2-b3-4-5-b6-b7 (in C: C-D-Eb-F-G-Ab-Bb).
 
 Harmonizing the natural minor scale gives the following chords:
 
 <div class="table-wrapper" markdown="block">
 
-| Chord        | Scale degrees | Chord factors | Chord type |
-|:------------:|:-------------:|:-------------:|:----------:|
-| **i**        | 1 b3 5        | R b3 5        | minor      |
-| **ii&deg;**  | 2 4 b6        | R b3 b5       | diminished |
-| **III**      | b3 5 b7       | R b3 5        | major      |
-| **iv**       | 4 b6 1        | R b3 5        | minor      |
-| **v**        | 5 b72         | R b3 5        | minor      |
-| **VI**       | b6 1 b3       | R 3 5         | major      |
-| **VII**      | b7 2 4        | R 3 5         | major      |
+| Chord        | Scale degrees | In C     | Chord factors | Chord type | In C       |
+|:------------:|:-------------:|:--------:|:--------------|:----------:|:-----------|
+| **i**        | 1-b3-5        | C-Eb-G   | R b3 5        | minor      | **Cm**     |
+| **ii&deg;**  | 2-4-b6        | D-Fb-Ab  | R b3 b5       | diminished | **D&deg;** |
+| **III**      | b3-5-b7       | Eb-G-Bb  | R b3 5        | major      | **Eb**     |
+| **iv**       | 4-b6-1        | F-Ab-C   | R b3 5        | minor      | **Fm**     |
+| **v**        | 5-b7-2        | G-Bb-D   | R b3 5        | minor      | **Gm**     |
+| **VI**       | b6-1-b3       | Ab-C-Eb  | R 3 5         | major      | **Ab**     |
+| **VII**      | b7-2-4        | Bb-D-F   | R 3 5         | major      | **Bb**     |
 
 </div>
 
 This can be done to find chords for any scale or mode.
+
 
 ## Harmonic function
 
@@ -495,6 +380,110 @@ they also pepare the pre-dominant chord with another chord a fifth above it,
 and onward until the chord progressions are often based on a long series of descending fifths.
 Often they will alter the intermediate chords in the progression by making them dominant sevenths,
 to increase tension and propel the progression along to its final V-I cadence.
+
+## More about intervals
+
+### Finding intervals on the fretboard with the major scale
+
+The easiest way to find any interval on the fretboard is to know the major scale on the fretboard.
+
+Every degree of the major scale is a major or perfect interval from the tonic.
+Degree 2&#x302; of the major scale is a major second from the tonic,
+degree 5&#x302; is a perfect fifth,
+degree 7&#x302; is a major seventh, and so on.
+
+For example, to find a major third interval on the fretboard,
+imagine the lower note is the tonic of a major scale,
+and find the 3&#x302;.
+
+To find a minor or diminished interval,
+just lower the corresponding major or perfect interval by one fret.
+For example,
+to find a minor seventh,
+find the major seventh (at degree 7&#x302;)
+and the minor seventh is the fret below it.
+
+See {% include chapter-link.html slug="major-scale" %} and {% include chapter-link.html slug="interval-scale" %}
+for more information.
+
+### Inverting intervals
+
+"Ascending intervals" describe the distance from the *lower to the higher* pitch,
+and are often described as going "up",
+such as "up a (perfect) fourth".
+
+"Descending intervals" describe the distance from the *higher to the lower* pitch,
+and are often described as going "down",
+such as "down a (perfect) fifth".
+
+Discussion of intervals usually refers to the ascending interval,
+unless explicitly stated otherwise. 
+
+Somewhat counterintuitively,
+because we hear two notes an octave apart as the same note,
+the interval from the lower to the higher pitch is *different* than the interval from the higher to the lower pitch.
+The descending interval is an "inversion" of the ascending interval. 
+
+For example,
+the interval between C and E is a major third.
+But the interval from E to C is a *minor sixth*.
+This is because the interval from C to E spans C-D-E,
+but the interval from E to C spans E-F-G-A-B-C.
+
+Similarly,
+the interval from C to F is a perfect fourth,
+and the interval from F to C is a perfect fifth.
+A perfect fourth inverts to a perfect fifth. 
+Therefore, moving "up a fourth" or "down a fifth" arrives at the same note (in a different octave).
+
+A simple formula for inverting an interval is to 
+(1) invert the quality of the original interval (major to/from minor, augmented to/from diminished, perfect stays perfect);
+and (2) subtract the number of the original interval from 9.
+
+Therefore, 
+up a major third is the same as down a minor sixth,
+up a perfect fifth is the same as down a perfect fourth,
+up a minor seventh is the same as down a major second,
+and so on.
+
+### Consonance, dissonance, and frequency ratios
+
+When two pitches sound together,
+their sound waves overlap.
+The more closely they overlap,
+the more consonant and harmonically relaxed they sound.
+The less they overlap,
+the more dissonant and harmonically tense they sound. 
+
+This overlap between sound waves can be measured by the ratio between the frequencies of the two pitches. 
+The more closely they overlap,
+the simpler the ratio. 
+
+In a unison interval,
+since the two pitches are the same,
+their sound waves oscillate at the same frequency. 
+The ratio between the frequencies is one-to-one (1:1).
+
+In an octave,
+one pitch vibrates twice as fast as the other.
+The pitch frequency ratio of an octave is therefore 2:1.
+
+The ratio of a perfect fifth is 3:2,
+and a perfect fourth is 4:3.
+
+Because these small-integer ratios are mathematically elegant,
+and because they sound particularly consonant to our ears,
+they are called perfect intervals.
+
+Other intervals get mathematically more complex,
+and therefore more dissonant.
+
+The "tritone" interval, 
+considered the most dissonant,
+has a pitch frequency ratio of the square root of 2. 
+
+These much more complex sound waves require more attention and processing from our brains,
+which may account for their perceived dissonance. 
 
 
 
