@@ -73,7 +73,7 @@ For example, the pitch class C consists of all the Cs in all octaves.
 Similar to a [mode](#mode),
 but without mode's implication of characteristic musical applications.
 
-- **timbre**{:#timbre}: *(Pronounced /ˈtambər/)* aka "tone quality" or "tone color". A complex acoustic phenomenon allowing us to 
+- **timbre**{:#timbre}: *(pronounced /ˈtambər/)* aka "tone quality" or "tone color". A complex acoustic phenomenon allowing us to 
 distinguish between two [notes](#note), *[tonal](#tonal) or otherwise*, sounded at the same [pitch](#pitch) and volume.
 
 - **tonal**{:#tonal}: In common usage,
