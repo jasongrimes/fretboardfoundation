@@ -59,8 +59,8 @@ expressed as intervals from the fundamental.
 The first five overtones in the series are: octave, perfect fifth, octave, major third, perfect fifth.
 Notice that the first three distinct pitches in the overtone series form a major triad chord,
 which helps explain why it is the most common chord in Western music.
-The fifth is the most common (or dominant) overtone that sounds different from the fundamental,
-which is why the fifth degree of a major scale is called the "dominant".
+The fifth is the most common (or dominant) distinguishable overtone,
+which explains why the fifth degree of a major scale is called the "dominant".
 How strongly which harmonics are present in a given tone is an essential aspect of [timbre](#timbre).
 
 - **pitch**{:#pitch}: The aspect of a sound determined by the rate of vibrations producing it---its acoustic frequency.
