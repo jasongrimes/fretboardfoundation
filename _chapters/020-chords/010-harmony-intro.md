@@ -240,7 +240,7 @@ Harmonizing the major scale gives the following chords:
 
 </div>
 
-The type of each chord type is determined by the intervals of its chord factors.
+The type of each chord is determined by the intervals of its chord factors.
 
 #### Finding the intervals between factors
 
