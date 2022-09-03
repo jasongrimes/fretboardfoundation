@@ -16,7 +16,6 @@
     width: auto;
 }
 .book-body {
-    /*scroll-padding-top: 75px;*/
     position: relative;
     /*scroll-behavior: smooth;*/
 }
@@ -31,7 +30,7 @@ html {
     scroll-padding-top: 75px;
 }
 .book {
-    overflow: auto;
+    overflow: default;
 }
 /*
 .book {
@@ -57,7 +56,7 @@ html {
     }
     */
     .book.with-summary {
-        overflow: auto;
+        overflow: default;
     }
     .book.with-summary .book-body {
         transform: none;
