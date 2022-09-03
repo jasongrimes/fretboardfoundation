@@ -1,5 +1,6 @@
 
 $(function() {
+  /*
   $('.book').on('click', '.btn-close-sidebar', function() {
     $('.book').removeClass('with-summary');
   });
@@ -8,5 +9,13 @@ $(function() {
   });
   $('.book').on('click', '.btn-toggle-sidebar', function() {
     $('.book').toggleClass('with-summary');
+  });
+  */
+  // Close sidebar when clicking outside of it on mobile.
+  $('body').on('click', '.book.with-summary .body-inner', function() {
+    if ($(document).width() <= 600) {
+      $('.book').removeClass('with-summary');
+    }
+
   });
 });
