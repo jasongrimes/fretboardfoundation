@@ -42,24 +42,28 @@
             </div> <!-- .page-inner -->
           </div> <!-- .page-wrapper -->
         </div> <!-- .body-inner -->
-        <div class="chapter-footer">
-          {% assign latest_year = "now" | date: "%Y" %}
-          {% capture copyright_start_year %}{{ site.copyright.start_year }}{% endcapture %}
-          {% if site.copyright.link_slug %}<a href="{{ site.baseurl }}/{{ site.copyright.link_slug }}">{% endif %}
-          &copy;
-          {% if copyright_start_year and copyright_start_year != latest_year %}{{ copyright_start_year}}-{% endif %}{{ latest_year }}
-          {{ site.author }}
-          {% if site.copyright.link_slug %}</a>{% endif %}
-
+        <div class="page-footer">
           {% if site.bottom_nav %}
-          <div class="bottom-nav">
-            {% for item in site.bottom_nav %}
-            {% unless forloop.first %} - {% endunless %}
-            <a href="{{ site.baseurl }}{{ item.url }}">
-              {{ item.label }}
-            </a>
-            {% endfor %}
-          </div>
+            <div class="bottom-nav">
+              {% for item in site.bottom_nav %}
+                {% unless forloop.first %} - {% endunless %}
+                  <a href="{{ site.baseurl }}{{ item.url }}">
+                    {{ item.label }}
+                  </a>
+                {% endfor %}
+            </div>
+          {% endif %}
+
+          {% if site.copyright %}
+            <div class="copyright">
+              {% assign latest_year = "now" | date: "%Y" %}
+              {% capture copyright_start_year %}{{ site.copyright.start_year }}{% endcapture %}
+              {% if site.copyright.link_slug %}<a href="{{ site.baseurl }}/{{ site.copyright.link_slug }}">{% endif %}
+              &copy;
+              {% if copyright_start_year and copyright_start_year != latest_year %}{{ copyright_start_year}}-{% endif %}{{ latest_year }}
+              {{ site.author }}
+              {% if site.copyright.link_slug %}</a>{% endif %}
+            </div>
           {% endif %}
 
         </div><!-- .chapter-footer -->

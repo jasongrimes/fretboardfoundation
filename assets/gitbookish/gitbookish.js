@@ -12,7 +12,7 @@ $(function() {
   });
   */
   // Close sidebar when clicking outside of it on mobile.
-  $('body').on('click', '.book.with-summary .body-inner', function() {
+  $('body').on('click', '.book.with-summary .body-inner, .book.with-summary .page-footer', function() {
     if ($(document).width() <= 600) {
       $('.book').removeClass('with-summary');
     }
