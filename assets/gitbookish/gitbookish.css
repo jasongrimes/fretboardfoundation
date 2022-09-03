@@ -21,6 +21,7 @@
 .book-body {
     position: relative;
     overflow: hidden;
+    min-height: 100%;
     /*scroll-behavior: smooth;*/
 }
 .book-body .body-inner {
