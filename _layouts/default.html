@@ -23,6 +23,11 @@
 
       <div class="book-body">
         <div class="book-header" role="navigation">
+          {% if site.github_edit.enabled %}
+            <a href="{{ site.github_edit.base_url }}{{ page.path }}" target="_blank" title="Edit on GitHub" class="github-edit-link">
+              <i class="fa fa-github"></i>
+            </a>
+          {% endif %}
           <h1>
             <a href="{{site.baseurl}}/" >{{ site.title | escape }}</a>
           </h1>
@@ -54,13 +59,6 @@
                   </div>
                 {% endif %}
 
-                {% if site.github_edit.enabled %}
-                  <div class="github-edit-link">
-                    <a href="{{ site.github_edit.base_url }}{{ page.path }}" target="_blank" title="Edit on GitHub">
-                      <i class="fa fa-github"></i>
-                    </a>
-                  </div>
-                {% endif %}
               </div><!-- .chapter-footer -->
 
             </div> <!-- .page-inner -->
