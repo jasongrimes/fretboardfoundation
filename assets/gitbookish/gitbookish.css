@@ -31,7 +31,7 @@ html {
     scroll-padding-top: 75px;
 }
 .book {
-    overflow: default;
+    overflow: visible;
 }
 /*
 .book {
@@ -57,7 +57,7 @@ html {
     }
     */
     .book.with-summary {
-        overflow: default;
+        overflow: visible;
     }
     .book.with-summary .book-body {
         transform: none;
