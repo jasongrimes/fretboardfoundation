@@ -1,3 +1,6 @@
+* {
+    -webkit-touch-callout: default;
+}
 .markdown-section .chapter-abstract + h2,
 .markdown-section .page-toc + h2 {
     margin-top: 0;
