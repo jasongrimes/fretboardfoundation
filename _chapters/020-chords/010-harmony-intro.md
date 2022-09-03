@@ -324,15 +324,27 @@ and still heavily influences jazz music.
 It is less apparent in modern and non-Western music,
 but it can still be useful to understand.
 
-Before getting into the chord functions,
-it can be helpful to understand the concept of the "leading tone".
+### Euroclassical scale degree names
 
-### Leading tone
+Harmonic function terminology is based on the names given to the scale degrees in the euroclassical tradition.
+
+| Degree | Name         | Description |
+|:------:|:-------------|:------------|
+| 1      | Tonic        | Tonal center, key center |
+| 2      | Supertonic   | The degree above (super-) the tonic. |
+| 3      | Mediant      | Midway (medi-) between the tonic and dominant |
+| 4      | Subdominant  | Lower (sub-) dominant. A perfect fifth *below* the tonic. |
+| 5      | Dominant     | A perfect fifth above the tonic. The fifth is the most common (dominant) harmonic in the [overtone series](glossary#overtone-series). |
+| 6      | Submediant   | Lower (sub-) mediant, midway (medi-) between the tonic and the subdominant. |
+| b7     | Subtonic     | The note below (sub-) the tonic when it's a whole tone below, as in the natural minor scale. |
+| 7      | Leading tone | The note a semitone below the tonic, as in the major scale. It leads to the tonic. |
+
+### The leading tone
 
 The leading tone is the note of a scale that is one semitone below the tonic.
 
 As shown in the [interval table](#interval-table),
-the minor second interval between the leading tone and the tonic is very dissonant.  
+the minor second interval between the leading tone and the tonic is very dissonant.
 Most listeners will find it tense and wish for it to resolve somewhere more consonant.
 
 Western listeners tend to expect the 7 to be followed by the 1, based on past experience.

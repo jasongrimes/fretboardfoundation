@@ -27,9 +27,8 @@ the other diatonic modes are Dorian,
 Phrygian, Lydian, Mixolydian, Aeolian (the natural minor scale), and Locrian. 
 See {% include chapter-link.html slug="diatonic-modes" %}.
 
-- **fundamental pitch**{:#fundamental-pitch}: A tone sung or played at a particular pitch consists of sound waves oscillating at a particular frequency (its fundamental pitch),
-but it also includes overtones or harmonics (aka partials) oscillating at integral multiples of the fundamental.
-How strongly which harmonics are present is an essential aspect of [timbre](#timbre).
+- **fundamental pitch**{:#fundamental-pitch}: The lowest frequency (or "partial") of a sound wave (which also contains various "overtones" or "harmonics" at multiples above the fundamental frequency).
+See [overtone series](#overtone-series). 
 
 - **interval**{:#interval}: The difference in [pitch](#pitch) between two [tones](#tone).
 
@@ -51,6 +50,18 @@ used to designate [notes](#note) of a standard fundamental pitch (like A at 440 
 
 - **octave**{:#octave}: The [interval](#interval) between one [pitch](#pitch) and another with double its frequency.
 Notes separated by octaves have the same [note name](#note-name) and [pitch class](#pitch-class).
+
+- **overtone series**{:#overtone-series}: Aka "harmonic series".
+A tone sung or played at a particular pitch consists of sound waves oscillating at a particular frequency (its fundamental pitch),
+but it also includes overtones or harmonics (aka partials) oscillating at integral multiples of the fundamental.
+The overtone series is the sequence of these overtones, 
+expressed as intervals from the fundamental.
+The first five overtones in the series are: octave, perfect fifth, octave, major third, perfect fifth.
+Notice that the first three distinct pitches in the overtone series form a major triad chord,
+which helps explain why it is the most common chord in Western music.
+The fifth is the most common (or dominant) overtone that sounds different from the fundamental,
+which is why the fifth degree of a major scale is called the "dominant".
+How strongly which harmonics are present in a given tone is an essential aspect of [timbre](#timbre).
 
 - **pitch**{:#pitch}: The aspect of a sound determined by the rate of vibrations producing it---its acoustic frequency.
 Frequency is measured in Hertz (Hz).
