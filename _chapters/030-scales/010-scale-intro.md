@@ -6,13 +6,13 @@ abstract: Scales are for the brain, not the fingers. Don't play like a robot.
 
 ## Scale definitions
 
-A scale is an ordered collection of notes.
+A scale is an ordered collection of tones.
 
-The notes in a scale are numbered in order,
+The tones in a scale are numbered in order,
 from lowest pitch to highest. 
-These numbered notes are called “scale degrees”. 
+These numbers are called “scale degrees”. 
 Scale degree numbers are often written with “hats”, 
-like this: 1&#x302;, 2&#x302;, 3&#x302;, etc. 
+like this: 1&#x302;, 2&#x302;, 3&#x302;.... 
 The first degree of a scale (1&#x302;) is often called the “tonic”. 
 
 The intervals between scale degrees are often described in terms of “half steps” and “whole steps”. 
