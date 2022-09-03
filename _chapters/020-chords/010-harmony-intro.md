@@ -130,17 +130,8 @@ See ["tone" in the glossary](glossary#tone) for details.
 
 ### Interval table
 
-The following table shows the names of intervals based on how many semitones they span,
-from lower to upper pitch.
-
-The number of semitones can also be thought of as the number of frets between the two notes on one string.
-
-The table also shows the corresponding note of a C chromatic scale for reference,
-and the short and long names commonly used for the matching scale degrees.
-
-It also includes the frequency ratio to the tonic,
-which suggests how consonant or dissonant the interval will sound
-(bigger numbers are more complex and therefore more dissonant).
+This following table shows the names of intervals based on how many semitones they contain.
+The number of semitones can also be thought of as the number of frets the interval spans on one string.
 
 <div class="table-wrapper" markdown="block">
 
@@ -162,6 +153,14 @@ which suggests how consonant or dissonant the interval will sound
 
 </div>
 
+The table includes the corresponding note of a C chromatic scale for reference,
+and the short and long names commonly used for those scale degrees.
+
+It also includes the frequency ratio to the tonic,
+which suggests how consonant or dissonant the interval will sound
+(bigger numbers are more complex and therefore more dissonant).
+
+
 ## Chords
 
 Western harmony is expressed through chords.
@@ -182,18 +181,15 @@ which is the most common type of harmony in Western music.
 
 ### Triad chords
 
-A "triad chord" is a three-note chord built by stacking thirds.
-
+A "triad chord" is a three-note chord built by stacking thirds. 
 Triads are the most common chords in Western music.
 
 The three notes in a triad chord are called the "root",
 the "third", 
-and the "fifth" factors of the chord.
-
-The third is a major- or minor-third interval above the root.
-
-The fifth is a perfect fifth (usually) or else an augmented or diminished fifth above the root.
-The fifth is also a major- or minor-third interval above the third
+and the "fifth" factors of the chord. 
+The third factor is a major- or minor-third interval above the root. 
+The fifth factor is a perfect fifth (usually) or else a diminished or augmented fifth above the root.
+The fifth factor is also a major- or minor-third interval above the third
 (which makes sense since the chord is built by stacking thirds).
 
 There are four types of triad chord.
@@ -202,6 +198,7 @@ The chord type is determined by the intervals between its factors and the root.
 <div class="table-wrapper" markdown="block">
 
 | Chord type     | Intervals | Notes (on C) | Symbol (on C)         |
+|----------------|-----------|--------------|-----------------------|
 | **major**      | R 3 5     | C E G        | C, CM, Cmaj, C&Delta; |
 | **minor**      | R b3 5    | C Eb G       | Cm, Cmin, C-          |
 | **diminished** | R b3 b5   | C Eb Gb      | Cdim, C&deg;          |
@@ -222,6 +219,8 @@ Chords are numbered with roman numerals matching the number of their scale degre
 Uppercase roman numerals are used for major chords,
 and lowercase roman numerals are used for minor chords.
 
+#### Harmonizing the major scale
+
 For example,
 the **major scale** has degrees 1-2-3-4-5-6-7 (in C: C-D-E-F-G-A-B).
 
@@ -241,12 +240,60 @@ Harmonizing the major scale gives the following chords:
 
 </div>
 
-The type of each chord type is determined from the intervals of its chord factors.
-Those intervals are determined by counting the number of semitones between the scale degrees
-(refer the [interval table](#interval-table)).
+The type of each chord type is determined by the intervals of its chord factors.
 
+#### Finding the intervals between factors
 
-The **natural minor** scale has degrees 1-2-b3-4-5-b6-b7 (in C: C-D-Eb-F-G-Ab-Bb).
+The intervals of the chord factors can be determined by counting the number of semitones between the factors and the root.
+
+To find the chord factor intervals using the [interval table](#interval-table),
+look up the number of semitones in the factor's scale degree,
+and subtract the number of semitones in the root scale degree.
+If the number is negative,
+add 12 semitones 
+(because the chord spans the end of the scale into the next octave).
+The resulting difference is the number of semitones in the interval,
+which can then be looked up from the table.
+
+For example, the V chord has scale degrees 5&#x302;-7&#x302;-2&#x302;.
+(Scale degree numbers are sometimes written with "hats" (5&#x302;) when it adds clarity,
+to distinguish them from other numbers.)
+The chord's root is degree 5&#x302;,
+which is 7 semitones from the tonic.
+The chord's third factor is degree 7&#x302;,
+which is 11 semitones from the tonic.
+The interval between the root and third factors is 11-7=4 semitones,
+which is a major third.
+So the chord's third factor is a major third.
+
+The V chord's fifth factor is degree 2&#x302;,
+which is 2 semitones from the tonic.
+The interval between the root and fifth factors is 2-7=-5 semitones,
+which is a negative number because the chord spans the end of the scale into the next octave.
+Adding 12 semitones to account for the octave, -5+12=7 semitones,
+which is a perfect fifth.
+
+So the V chords factor intervals are R 3 5 (root, major third, perfect fifth).
+
+#### Harmony without math
+
+This all sounds a lot more complicated than it usually is in practice.
+
+For one thing,
+we normally just memorize the harmonized chord types.
+It's pretty easy to remember that in a major key the I, IV, and V are major,
+the ii, iii, and vi are minor,
+and the vii is diminished.
+
+It's also usually much easier to find intervals directly on the fretboard,
+rather than doing the math with the interval table.
+See the section on [finding intervals on the fretboard with the major scale](#finding-intervals-on-the-fretboard-with-the-major-scale) 
+later in this chapter.
+
+#### Harmonizing the natural minor scale
+
+As another example,
+the **natural minor** scale has degrees 1-2-b3-4-5-b6-b7 (in C: C-D-Eb-F-G-Ab-Bb).
 
 Harmonizing the natural minor scale gives the following chords:
 
@@ -264,8 +311,8 @@ Harmonizing the natural minor scale gives the following chords:
 
 </div>
 
-This can be done to find chords for any scale or mode.
-
+Note that minor *key* harmony is slightly more complicated than just harmonizing the natural minor scale.
+See {% include chapter-link.html slug="minor-harmony" %} for details.
 
 ## Harmonic function
 
