@@ -16,20 +16,83 @@
     width: auto;
 }
 .book-body {
-    scroll-padding-top: 75px;
+    /*scroll-padding-top: 75px;*/
+    position: relative;
     /*scroll-behavior: smooth;*/
 }
+.book-body .body-inner {
+    position: relative;
+}
 .book.with-summary .book-body {
-    scroll-padding-top: 0;
+    /*scroll-padding-top: 0;*/
+    margin-left: 320px;
+}
+html {
+    scroll-padding-top: 75px;
+}
+.book {
+    overflow: auto;
+}
+/*
+.book {
+    scroll-padding-top: 75px;
+}
+*/
+.book.with-summary {
+    /*scroll-padding-top: 0;*/
 }
 .book.with-summary .book-body .body-inner {
     margin-top: 0;
 }
+/* Override gitbook styles */
+@media (min-width: 600px) {
+    .book.with-summary .book-body {
+        left: 0;
+    }
+}
+@media (max-width: 600px) {
+    /*
+    .book-summary {
+        width: 315px;
+    }
+    */
+    .book.with-summary {
+        overflow: auto;
+    }
+    .book.with-summary .book-body {
+        transform: none;
+    }
+    .book.with-summary .body-inner {
+        width: calc(100% + 315px);
+    }
+}
+@media (max-width: 1240px) {
+    .book-body .body-inner {
+        position: relative;
+    }
+
+}
+
+
+
 .book.with-summary .book-header {
     border-right: 1px solid rgb(0,0,0,.07);
 }
 .book.with-summary.color-theme-2 .book-header {
     border-right: 1px solid #2d3143;
+}
+.book-summary {
+    padding-bottom: 30px;
+    width: 315px;
+    left: -315px;
+    margin-top: 50px;
+    position: fixed;
+}
+.book-summary ul.summary {
+    margin-top: 10px;
+}
+.chapter-summary li.draft {
+    opacity: 0.6;
 }
 /*
 .book-summary .btn-close-sidebar {
@@ -126,21 +189,6 @@
     font-weight: normal;
 }
 
-/* Override gitbook styles */
-@media (max-width: 600px) {
-    .book-summary {
-        width: 315px;
-    }
-    .book.with-summary .book-body {
-        transform: none;
-    }
-}
-@media (min-width: 600px) {
-    .book.with-summary .book-body {
-        left: 315px;
-    }
-}
-
 
 .color-callout-dark {
     background-color: #eee;
@@ -211,18 +259,6 @@
 .page-inner {
     padding-top: 10px;
     padding-bottom: 0px;
-}
-.book-summary {
-    padding-bottom: 30px;
-    width: 315px;
-    left: -315px;
-    margin-top: 50px;
-}
-.book-summary ul.summary {
-    margin-top: 10px;
-}
-.chapter-summary li.draft {
-    opacity: 0.6;
 }
 /*
 .sidebar-top {
