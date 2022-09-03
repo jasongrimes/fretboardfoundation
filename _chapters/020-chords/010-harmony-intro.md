@@ -209,8 +209,8 @@ The chord type is determined by the intervals between its factors and the root.
 
 ### Harmonizing a scale
 
-Harmonizing a scale refers to assembling the chords that belong to a given key or mode,
-by starting on each degree of the parent scale and stacking thirds to form a triad chord.
+Harmonizing a scale refers to assembling the chords that belong to a given key, scale, or mode,
+by starting on each degree of the scale and stacking thirds to form a triad chord.
 The result is one chord for each degree in the scale.
 
 The chords will be of different types depending on how the scale degree intervals fall within the chord.
