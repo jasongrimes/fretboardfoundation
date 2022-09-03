@@ -273,7 +273,7 @@ which is a negative number because the chord spans the end of the scale into the
 Adding 12 semitones to account for the octave, -5+12=7 semitones,
 which is a perfect fifth.
 
-So the V chords factor intervals are R 3 5 (root, major third, perfect fifth).
+So the V chord's factor intervals are R 3 5 (root, major third, perfect fifth).
 
 #### Harmony without math
 
