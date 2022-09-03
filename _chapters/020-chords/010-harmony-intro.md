@@ -356,7 +356,7 @@ then to a place of tension (a dominant),
 before providing emotional release or resolution by returning home (to the tonic).
 
 This progression mirrors a classic storytelling arc.
-Compare it to the "hero's journey" narrative archetype:
+Compare it to the "hero's journey" narrative pattern:
 1. The hero goes on an adventure (subdominant), 
 2. is victorious in a decisive crisis (dominant), and 
 3. comes home transformed (tonic).
