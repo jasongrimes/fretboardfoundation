@@ -87,6 +87,7 @@ html {
     left: -315px;
     margin-top: 50px;
     position: fixed;
+    z-index: 2;
 }
 .book-summary ul.summary {
     margin-top: 10px;
