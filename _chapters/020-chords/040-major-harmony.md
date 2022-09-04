@@ -192,9 +192,9 @@ it also contains the most common chord changes in most jazz music.
 The circle of fourths/fifths:  
 **I-IV-vii-iii-vi-ii-V-I**
 
-### Play songs in one position
+### Play songs in position
 
-Possibly the most useful way to practice these chords is to practice chord changes for songs we already know,
+Possibly the most useful way to practice these chords is to practice chord changes for major key songs we already know,
 without moving out of one position.
 
 This helps make the chords more real and less abstract,
