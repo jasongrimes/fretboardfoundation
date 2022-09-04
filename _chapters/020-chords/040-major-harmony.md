@@ -153,7 +153,7 @@ These three chords, called the "tonic", "subdominant", and "dominant" in eurocla
 are enough to create a full and rich chord progression.
 A surprising number of popular songs are composed of only these three primary chords.
 
-It's therefore helpful to practice various chord changes between the primary chords.
+It's therefore helpful to practice various chord changes with the primary chords.
 For example:  
 **I-IV-V-I**
 
