@@ -215,9 +215,9 @@ The result is one chord for each degree in the scale.
 
 The chords will be of different types depending on how the scale degree intervals fall within the chord.
 
-Chords are numbered with roman numerals matching the number of their scale degree.
-Uppercase roman numerals are used for major chords,
-and lowercase roman numerals are used for minor chords.
+Chords are numbered with Roman numerals matching the number of their scale degree.
+Uppercase Roman numerals are used for major chords,
+and lowercase Roman numerals are used for minor chords.
 
 #### Harmonizing the major scale
 
@@ -273,7 +273,9 @@ which is a negative number because the chord spans the end of the scale into the
 Adding 12 semitones to account for the octave, -5+12=7 semitones,
 which is a perfect fifth.
 
-So the V chord's factor intervals are R 3 5 (root, major third, perfect fifth).
+So the V chord's factor intervals are R 3 5 (root, major third, perfect fifth),
+which makes it a major chord,
+represented by an uppercase Roman numeral (V and not v). 
 
 #### Harmony without math
 
