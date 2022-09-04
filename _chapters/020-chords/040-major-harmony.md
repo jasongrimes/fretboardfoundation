@@ -137,8 +137,10 @@ When first getting familiar with the chords in a position,
 it's helpful to start by focusing on the underlying major scale,
 and playing the chord having a root on each scale degree in ascending or descending order.
 For example:  
-**I-ii-iii-IV-V-vi-vii-I**  (C-Dm-Em-F-G-Am-B&deg;-C)
+**I-ii-iii-IV-V-vi-vii-I**  
+(C-Dm-Em-F-G-Am-B&deg;-C)  
 **I-vii-vi-V-IV-iii-ii-I**
+(C-B&deg;-Am-G-F-Em-Dm-C)
 
 By knowing the major, minor, and diminished chord shapes,
 and knowing which type of chord has its root on each degree of the major scale,
