@@ -322,6 +322,12 @@ or the 7&#x302; (for a richer diminished triad) as desired.
 %}
 
 {% include figure.html
+    caption="V7 chord in major key with 2nd-string tonic."
+    url="/assets/figures/major-key-treble-triads/2-V7.svg" 
+    class="uke-chord row" 
+%}
+
+{% include figure.html
     caption="I chord in major key with 2nd-string tonic."
     url="/assets/figures/major-key-treble-triads/2-I.svg" 
     class="uke-chord row" 
