@@ -53,7 +53,7 @@ This means that all chords are found within the same span of four or five frets,
 so all chords can be played without moving our hand up or down the fretboard.
 
 This makes chord progressions easy to play,
-and helps us develop an intuitive understanding of how the chords relate to each other.
+and helps us develop an intuitive understanding of how the chord tones relate to each other.
 
 One useful way to specify fretboard positions is by which string contains the tonic.
 This section covers chords in position around a first-string tonic.
