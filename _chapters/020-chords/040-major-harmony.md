@@ -73,10 +73,10 @@ Here is the major scale with a first-string tonic, on the upper strings.
 We can assemble the diatonic chords using just those notes,
 all residing in position around the first-string tonic.
 
-The following diagrams show treble-string triads around the first-string tonic.
-Using these minimalist chords keeps things as simple as possible,
-freeing us to focus more on understanding harmony and less on the chord shapes.
-Later on, it won't be hard to fill out the treble triads with bass notes or full CAGED chord shapes as desired.
+The following diagrams show diatonic triads around the first-string tonic.
+Minimalist treble-string chord shapes are used for simplification,
+to allow more focus on harmony and less on chord shapes.
+If desired, it's straightforward to fill out the chord voicings with bass notes or full CAGED chord shapes.
 See {% include chapter-link.html slug="treble-triads" %} for details.
 
 The two lowest-pitched strings (5 and 6) have been left out of the diagrams in order to save space.
