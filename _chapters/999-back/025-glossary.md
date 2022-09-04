@@ -16,7 +16,7 @@ it can also refer to music that is [non-tonical](#non-tonical).
 - **diatonic**{:#diatonic}: Conforming to a seven-note [mode](#mode) or scale which,
 when arranged in ascending order with the initial note repeated at the octave,
 contains intervals of two half steps (semitones)
-and six whole steps (whole tones).
+and five whole steps (whole tones).
 Also used to refer to notes that are inside a diatonic mode,
 as opposed to [chromatic](#chromatic) notes which are outside the mode.
 
