@@ -139,7 +139,7 @@ and playing the chord having a root on each scale degree in ascending or descend
 For example:  
 **I-ii-iii-IV-V-vi-vii-I**  
 (C-Dm-Em-F-G-Am-B&deg;-C)  
-**I-vii-vi-V-IV-iii-ii-I**
+**I-vii-vi-V-IV-iii-ii-I**  
 (C-B&deg;-Am-G-F-Em-Dm-C)
 
 By knowing the major, minor, and diminished chord shapes,
