@@ -84,7 +84,7 @@ and leads to confusion by obscuring the fact that there are other ways of doing 
 Tagg suggests the term "[tonical](#tonical)" instead of "tonal" for this purpose,
 reserving "tonal" for "any music which has the properties of a [tone](#tone)"
 (including [modal](#modal) music, which may be [non-tonical](#non-tonical) but is not [atonal](#atonal)).
-This book generally follows these terminology suggestions.
+This book generally follows those terminology suggestions.
 
 - **tone**{:#tone}: A [note](#note) with an easily discernible fundamental [pitch](#pitch). 
 
