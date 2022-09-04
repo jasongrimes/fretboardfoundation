@@ -243,7 +243,7 @@ a perfect fifth,
 which is the dominant harmonic in the overtone series.
 
 In short, 
-the "dominant seventh" is the chord type of the "dominant" chord (V) with its "seventh" factor (V7). 
+the "dominant seventh" is the chord type of the "dominant" chord (V) when it includes its "seventh" factor (V7). 
 
 ### The diminished vii&deg;
 
