@@ -215,7 +215,7 @@ like this:
 
 Dominant seventh chords are tense,
 because they contain the highly dissonant tritone interval between their third and seventh factors
-(scale degrees 7&#x302; and 4&#x302; in the V chord).
+(scale degrees 7&#x302; and 4&#x302; in the V7 chord).
 The V chord also contains the leading tone (scale degree 7&#x302;),
 which "wants" to resolve to the 1&#x302; 
 (the tonic, the I chord)
