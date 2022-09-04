@@ -228,15 +228,15 @@ Harmonizing the major scale gives the following chords:
 
 <div class="table-wrapper" markdown="block">
 
-| Chord        | Scale degrees | In C  | Chord factors | Chord type | In C       |
-|:------------:|:-------------:|:-----:|:--------------|:----------:|:----------:|
-| **I**        | 1-3-5         | C-E-G | R 3 5         | major      | **C**      |
-| **ii**       | 2-4-6         | D-F-A | R b3 5        | minor      | **Dm**     |
-| **iii**      | 3-5-7         | E-G-B | R b3 5        | minor      | **Em**     |
-| **IV**       | 4-6-1         | F-A-C | R 3 5         | major      | **F**      |
-| **V**        | 5-7-2         | G-B-D | R 3 5         | major      | **G**      |
-| **vi**       | 6-1-3         | A-C-E | R b3 5        | minor      | **Am**     |
-| **vii&deg;** | 7-2-4         | B-D-F | R b3 b5       | diminished | **B&deg;** |
+| Chord        | In C       | Scale degrees | In C  | Chord factors | Chord type |
+|:------------:|:----------:|:-------------:|:-----:|:--------------|:----------:|
+| **I**        | **C**      | 1-3-5         | C-E-G | R 3 5         | major      |
+| **ii**       | **Dm**     | 2-4-6         | D-F-A | R b3 5        | minor      |
+| **iii**      | **Em**     | 3-5-7         | E-G-B | R b3 5        | minor      |
+| **IV**       | **F**      | 4-6-1         | F-A-C | R 3 5         | major      |
+| **V**        | **G**      | 5-7-2         | G-B-D | R 3 5         | major      |
+| **vi**       | **Am**     | 6-1-3         | A-C-E | R b3 5        | minor      |
+| **vii&deg;** | **B&deg;** | 7-2-4         | B-D-F | R b3 b5       | diminished |
 
 </div>
 
@@ -301,15 +301,15 @@ Harmonizing the natural minor scale gives the following chords:
 
 <div class="table-wrapper" markdown="block">
 
-| Chord        | Scale degrees | In C     | Chord factors | Chord type | In C       |
-|:------------:|:-------------:|:--------:|:--------------|:----------:|:----------:|
-| **i**        | 1-b3-5        | C-Eb-G   | R b3 5        | minor      | **Cm**     |
-| **ii&deg;**  | 2-4-b6        | D-Fb-Ab  | R b3 b5       | diminished | **D&deg;** |
-| **III**      | b3-5-b7       | Eb-G-Bb  | R b3 5        | major      | **Eb**     |
-| **iv**       | 4-b6-1        | F-Ab-C   | R b3 5        | minor      | **Fm**     |
-| **v**        | 5-b7-2        | G-Bb-D   | R b3 5        | minor      | **Gm**     |
-| **VI**       | b6-1-b3       | Ab-C-Eb  | R 3 5         | major      | **Ab**     |
-| **VII**      | b7-2-4        | Bb-D-F   | R 3 5         | major      | **Bb**     |
+| Chord        | In C       | Scale degrees | In C     | Chord factors | Chord type |
+|:------------:|:----------:|:-------------:|:--------:|:--------------|:----------:|
+| **i**        | **Cm**     | 1-b3-5        | C-Eb-G   | R b3 5        | minor      |
+| **ii&deg;**  | **D&deg;** | 2-4-b6        | D-Fb-Ab  | R b3 b5       | diminished |
+| **III**      | **Eb**     | b3-5-b7       | Eb-G-Bb  | R b3 5        | major      |
+| **iv**       | **Fm**     | 4-b6-1        | F-Ab-C   | R b3 5        | minor      |
+| **v**        | **Gm**     | 5-b7-2        | G-Bb-D   | R b3 5        | minor      |
+| **VI**       | **Ab**     | b6-1-b3       | Ab-C-Eb  | R 3 5         | major      |
+| **VII**      | **Bb**     | b7-2-4        | Bb-D-F   | R 3 5         | major      |
 
 </div>
 
@@ -382,26 +382,34 @@ the diatonic chords are typically given these functions:
 
 One way to understand this is by comparing the intervals of the chords to the tonic.
 
-The "primary chords" I, IV, and V are the archetypes of the chord functions:
+The harmonic functions are named after the root scale degree of the I, IV, and V chords.
+These are the "primary chords",
+and serve as archetypes of the chord functions.
+
 * Tonic I (1-3-5) is home.
+* Dominant V (5-7-2) is away from home,
+  sharing only one note in common with the I.
+  It is also dissonant,
+  because it has the leading tone (7&#x302;).
+  Consequently we "want" it to resolve to the 1&#x302; (the root of the tonic).
 * Subdominant IV (4-6-1) is away from home,
   sharing only one note with the I,
   but stable,
-  having no dissonant intervals with the I.
-* Dominant V (5-7-2) is dissonant,
-  because it has the leading tone (7).
-  Consequently we "want" it to resolve to the 1 (the root of the tonic).
-
+  being a major triad and having no leading tone.
+  
 The remaining chords sort into functions by similarity:
 * Tonics vi (6-1-3) and iii (3-5-7) are close to home,
   sharing two notes with the I.
   (The iii does have the leading tone (7) however, 
-  so in some cases it may not work well as a tonic.)
+  so in some cases it can act more as a dominant than a tonic.)
 * Subdominant ii (2-4-6) is away from home,
   sharing no notes with I and one note with vi and iii;
   and it is close to the IV (sharing two notes with no dissonant intervals).
-* Dominant vii (7-2-4) is tense, with the leading tone as its root,
-  pulling to the 1.
+* Dominant vii (7-2-4) is tense, 
+  containing a highly dissonant tritone interval between its root and diminished fifth
+  (the 7&#x302; and 4&#x302; scale degrees).
+  It has the leading tone as its root,
+  pulling to the tonic.
 
 ### V-I cadence
 
@@ -445,7 +453,7 @@ to increase tension and propel the progression along to its final V-I cadence.
 
 ### Finding intervals on the fretboard with the major scale
 
-The easiest way to find any interval on the fretboard is to know the major scale on the fretboard.
+The easiest way to find any interval on the fretboard is to memorize the major scale on the fretboard.
 
 Every degree of the major scale is a major or perfect interval from the tonic.
 Degree 2&#x302; of the major scale is a major second from the tonic,
