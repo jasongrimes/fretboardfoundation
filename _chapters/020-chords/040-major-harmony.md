@@ -129,7 +129,7 @@ The two lowest-pitched strings (5 and 6) have been left out of the diagrams in o
 
 ## Practicing these chords
 
-### Play them ascending and descending
+### Ascending and descending
 
 When first getting familiar with the chords in a position,
 it's helpful to start by focusing on the underlying major scale,
@@ -140,7 +140,7 @@ and knowing which type of chord has its root on each degree of the major scale,
 it's easy to assemble each chord on each scale degree,
 without having the whole position memorized.
 
-### Play the primary and secondary chords
+### Primary and secondary chords
 
 In a major key, the major chords (I, IV and V) are called "primary chords".
 
@@ -171,12 +171,12 @@ To practice them all together, in a repeating loop, try this:
 **ii-V...**  
 (repeat)
 
-### Play in the circle of fifths/fourths
+### Circle of fourths/fifths
 
 It can be helpful to practice chord changes in order of ascending fourths (aka descending fifths).
 It's a pleasant sounding chord progression that can cycle around endlessly.
 For those intending to play jazz,
-it's also the most common chord progression used in most jazz music.
+it also contains the most common chord changes in most jazz music.
 
 The circle of fifths/fourths progression:  
 **I-IV-vii-iii-vi-ii-V-I**
