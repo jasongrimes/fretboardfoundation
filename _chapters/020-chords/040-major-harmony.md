@@ -50,7 +50,7 @@ meaning the chords that are "in" the key.
 
 ## Chord shapes in one position
 
-It's very useful to be able to play all the chords in a key in one "position" on the fretboard.
+It's useful to be able to play all the chords in a key in one "position" on the fretboard.
 This means that all chords are found within the same span of four or five frets,
 so all chords can be played without moving our hand up or down the fretboard.
 
