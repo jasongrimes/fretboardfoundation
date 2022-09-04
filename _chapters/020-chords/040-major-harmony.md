@@ -223,9 +223,6 @@ according to theories of harmonic function.
 
 In other words,
 the V7 chord tends to pull urgently toward the I chord in Western harmony.
-Though many of the euroclassical theories of harmonic function don't apply very well to modern music,
-this progression from V7 to I is an exception.
-Movement from V7-I is common in much of Western music.
 
 The V is the only dominant seventh chord that occurs when harmonizing a major key.
 That's where the name "dominant seventh" comes from.
