@@ -72,8 +72,8 @@ We can assemble the diatonic chords using just those notes,
 all residing in position around the first-string tonic.
 
 The following diagrams show treble-string triads around the first-string tonic.
-These minimalist chords are used to keep things as simple as possible,
-so we can focus more on understanding major key harmony and less on the chord shapes.
+Using these minimalist chords keeps things as simple as possible,
+freeing us to focus more on understanding harmony and less on the chord shapes.
 Later on, it won't be hard to fill out the treble triads with bass notes or full CAGED chord shapes as desired.
 See {% include chapter-link.html slug="treble-triads" %} for details.
 
