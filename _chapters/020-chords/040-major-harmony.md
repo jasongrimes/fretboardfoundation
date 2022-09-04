@@ -57,11 +57,11 @@ so all chords can be played without moving the fretting hand up or down the guit
 This makes chord progressions easier to play,
 and helps us develop an intuitive understanding of how the chord tones relate to each other.
 
-One useful way to specify fretboard positions is by which string contains the tonic.
-This section covers chords in position around a first-string tonic.
+A useful way to identify fretboard positions is by specifying which string contains the tonic.
 
-Here is the major scale on the upper strings,
-with the tonic on the first string.
+The position around the first-string tonic will be presented first.
+
+Here is the major scale with a first-string tonic, on the upper strings.
 (See {% include chapter-link.html slug="major-scale" %} for details.)
 
 {% include figure.html 
