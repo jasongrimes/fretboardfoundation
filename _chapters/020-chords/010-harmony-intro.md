@@ -343,8 +343,7 @@ Harmonic function terminology is based on the names given to the scale degrees i
 
 The leading tone is the note of a scale that is one semitone below the tonic.
 
-As shown in the [interval table](#interval-table),
-the minor second interval between the leading tone and the tonic is very dissonant.
+The minor second interval between the leading tone and the tonic is very dissonant.
 Most listeners will find it tense and wish for it to resolve somewhere more consonant.
 
 Western listeners tend to expect the 7 to be followed by the 1, based on past experience.
