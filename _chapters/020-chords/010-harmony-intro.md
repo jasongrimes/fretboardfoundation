@@ -545,7 +545,7 @@ has a pitch frequency ratio of the square root of 2.
 These much more complex sound waves require more attention and processing from our brains,
 which may account for their perceived dissonance. 
 
-
+The frequency ratio of each interval is listed in the [interval table](#interval-table).
 
 
 
