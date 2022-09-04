@@ -15,6 +15,10 @@ Scale degree numbers are often written with “hats”,
 like this: 1&#x302;, 2&#x302;, 3&#x302;.... 
 The first degree of a scale (1&#x302;) is often called the “tonic”. 
 
+Most scales in Western music are "diatonic",
+which means they have seven notes (they're "heptatonic"),
+*and* some combination of five whole tones and two semitones between them.
+
 Most scales can be described by a formula that specifies the whole tones (T) and semitones (S) between scale degrees. 
 For example, the major scale formula can be written like this: 
 TTSTTTS (a whole tone from 1&#x302; to 2&#x302;, 
