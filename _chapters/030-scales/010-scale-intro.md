@@ -15,23 +15,19 @@ Scale degree numbers are often written with “hats”,
 like this: 1&#x302;, 2&#x302;, 3&#x302;.... 
 The first degree of a scale (1&#x302;) is often called the “tonic”. 
 
-The intervals between scale degrees are often described in terms of “half steps” and “whole steps”. 
-A “half step” is the smallest interval on the fretboard; 
-the distance between the notes on a string on either side of one fret.
-A “whole step” is two half steps, 
-a distance of two frets.
-A half step can also be called a "semitone" or "minor-second interval",
-and a whole step can also be called a "tone", "whole tone", or "major-second interval".
-
-Most scales can be described by a formula that specifies the half steps and whole steps between scale degrees. 
+Most scales can be described by a formula that specifies the whole tones (T) and semitones (S) between scale degrees. 
 For example, the major scale formula can be written like this: 
-WWHWWWH (a whole step from 1&#x302; to 2&#x302;, 
-a whole step to 3&#x302;, 
-a half step to 4&#x302;,
-a whole step to 5&#x302;, etc.).
-Since there are whole steps between most scale degrees,
-the formula can be simplified by just specifying the location of the half steps.
-For example, the major scale has half steps between 3&#x302;--4&#x302; and 7&#x302;--1&#x302;.
+TTSTTTS (a whole tone from 1&#x302; to 2&#x302;, 
+a whole tone to 3&#x302;, 
+a semitone to 4&#x302;,
+a whole tone to 5&#x302;,
+a whole tone to 6&#x302;,
+a whole tone to 7&#x302;,
+and a semitone back to the 1&#x302;).
+
+Since there are whole tones between most scale degrees,
+the formula can be simplified by just specifying the location of the semitones.
+For example, the major scale has semitones between 3&#x302;--4&#x302; and 7&#x302;--1&#x302;.
 
 Scales can also be described by the interval between scale degrees and the tonic. 
 For example, 
