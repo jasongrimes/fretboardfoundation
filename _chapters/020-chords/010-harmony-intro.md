@@ -336,7 +336,7 @@ Harmonic function terminology is based on the names given to the scale degrees i
 | 2      | Supertonic   | The degree above (super) the tonic. |
 | 3      | Mediant      | Midway (medi) between the tonic and dominant |
 | 4      | Subdominant  | Lower (sub) dominant. A perfect fifth *below* the tonic. |
-| 5      | Dominant     | A perfect fifth above the tonic. The fifth is the most common (dominant) harmonic in the [overtone series](glossary#overtone-series). |
+| 5      | Dominant     | A perfect fifth above the tonic. The fifth is the dominant harmonic (i.e. the most common) in the [overtone series](glossary#overtone-series). |
 | 6      | Submediant   | Lower (sub) mediant, midway (medi) between the tonic and the subdominant. |
 | b7     | Subtonic     | The note below (sub) the tonic when it's a whole tone below, as in the natural minor scale. |
 | 7      | Leading tone | The note a semitone below the tonic, as in the major scale. It leads to the tonic. |
