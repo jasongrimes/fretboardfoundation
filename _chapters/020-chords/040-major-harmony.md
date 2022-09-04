@@ -167,15 +167,15 @@ the ii as the subdominant (a perfect fifth below the vi),
 and the iii as the dominant (a perfect fifth above the vi).
 
 Example secondary chord progression:  
-**vi-ii-iii-vi**
+**vi-ii-iii-vi** (Am-Dm-Em-Am)
 
 To practice them all together, in a repeating loop, try this:
 
-**I-IV-I-V**  
-**I-V-vii-I**  
-**vi-ii-vi-iii**  
-**vi-iii-III-vi**  
-**ii-V...**  
+**I-IV-I-V** (C-F-C-G)  
+**I-V-vii-I** (C-G-B&deg;-C)  
+**vi-ii-vi-iii** (Am-Dm-Am-Em)  
+**vi-iii-III-vi** (Am-Em-E-Am)  
+**ii-V...** (Dm-G...)  
 (repeat)
 
 ### Circle of fourths/fifths
