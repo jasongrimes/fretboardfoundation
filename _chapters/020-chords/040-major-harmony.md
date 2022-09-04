@@ -137,7 +137,7 @@ When first getting familiar with the chords in a position,
 it's helpful to start by focusing on the underlying major scale,
 and playing the chord having a root on each scale degree in ascending or descending order.
 For example:  
-**I-ii-iii-IV-V-vi-vii-I**  
+**I-ii-iii-IV-V-vi-vii-I**  (C-Dm-Em-F-G-Am-B&deg;-C)
 **I-vii-vi-V-IV-iii-ii-I**
 
 By knowing the major, minor, and diminished chord shapes,
@@ -155,7 +155,7 @@ A surprising number of popular songs are composed of only these three primary ch
 
 It's therefore helpful to practice various chord changes with the primary chords.
 For example:  
-**I-IV-V-I**
+**I-IV-V-I** (C-F-G-C)
 
 The minor chords (vi, ii, and iii) are called "secondary chords".
 
