@@ -330,6 +330,8 @@ but it can still be useful to understand.
 
 Harmonic function terminology is based on the names given to the scale degrees in the euroclassical tradition.
 
+<div class="table-wrapper" markdown="block">
+
 | Degree | Name         | Description |
 |:------:|:-------------|:------------|
 | 1      | Tonic        | Tonal center, key center, note of final resolution. |
@@ -340,6 +342,8 @@ Harmonic function terminology is based on the names given to the scale degrees i
 | 6      | Submediant   | Lower (sub) mediant, midway (medi) between the tonic and the subdominant. |
 | b7     | Subtonic     | The note below (sub) the tonic when it's a whole tone below, as in the natural minor scale. |
 | 7      | Leading tone | The note a semitone below the tonic, as in the major scale. It leads to the tonic. |
+
+</div>
 
 ### The leading tone
 
