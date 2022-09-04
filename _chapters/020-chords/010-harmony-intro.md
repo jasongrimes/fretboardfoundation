@@ -109,7 +109,7 @@ which is determined by how many "semitones" they contain.
 Perfect intervals can also be raised or lowered by a semitone,
 changing their quality from perfect to "augmented" or "diminished".
 
-#### Semitone and tone
+#### Semitones and tones
 
 A "semitone" is the smallest interval in most Western music.
 It's the difference between two notes on a guitar string on either side of one fret.
