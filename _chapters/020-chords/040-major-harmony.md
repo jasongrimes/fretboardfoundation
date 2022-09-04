@@ -178,7 +178,7 @@ It's a pleasant sounding chord progression that can cycle around endlessly.
 For those intending to play jazz,
 it also contains the most common chord changes in most jazz music.
 
-The circle of fifths/fourths progression:  
+The circle of fourths/fifths:  
 **I-IV-vii-iii-vi-ii-V-I**
 
 ### Play songs in one position
