@@ -156,7 +156,7 @@ without having the whole position memorized.
 In a major key, the major chords (I, IV and V) are called "primary chords".
 
 These three chords, called the "tonic", "subdominant", and "dominant" in euroclassical terminology,
-are enough to create a full and rich chord progression.
+are enough to create a full and rich chord progression by themselves.
 A surprising number of popular songs are composed of only these three primary chords.
 
 It's therefore helpful to practice various chord changes with the primary chords.
