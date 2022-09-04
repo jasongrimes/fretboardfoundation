@@ -23,8 +23,8 @@ See ["tonal" in the glossary](glossary#tonal) for details.
 
 ## Chords in a major key
 
-As described in {% include chapter-link.html slug="harmony-intro" %},
-the chords in a major key are determined by harmonizing the major scale.
+The chords in a major key are determined by harmonizing the major scale.
+See {% include chapter-link.html slug="harmony-intro" %} for details.
 
 Notice that in a major key:
 - the **I**, **IV**, and **V** chords are always **major**,
