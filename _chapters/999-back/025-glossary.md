@@ -78,12 +78,13 @@ distinguish between two [notes](#note), *[tonal](#tonal) or otherwise*, sounded 
 
 - **tonal**{:#tonal}: In common usage,
 "tonal" refers to music that has a [tonic](#tonic).
-Philip Tagg makes a convincing argument that this usage is chauvinistic and biased against tonal idioms not used in the euroclassical or jazz canons 
-[(Tagg, 2018, pp. 52--55)](references#tagg-2018),
-recommending the term "[tonical](#tonical)" for this purpose,
-and using "tonal" to refer to any music which has the properties of a [tone](#tone) 
-(including [modal](#modal) music, which is [non-tonical](#non-tonical) but not [atonal](#atonal)).
-This book generally follows these recommendations.
+Philip Tagg makes a convincing argument that this usage is chauvinist and biased against tonal idioms not used in the euroclassical or jazz canons,
+and leads to confusion by obscuring the fact that there are other ways of doing things
+[(Tagg, 2018, pp. 52--55)](references#tagg-2018). 
+Tagg suggests the term "[tonical](#tonical)" instead of "tonal" for this purpose,
+reserving "tonal" for "any music which has the properties of a [tone](#tone)"
+(including [modal](#modal) music, which may be [non-tonical](#non-tonical) but is not [atonal](#atonal)).
+This book generally follows these terminology suggestions.
 
 - **tone**{:#tone}: A [note](#note) with an easily discernible fundamental [pitch](#pitch). 
 
