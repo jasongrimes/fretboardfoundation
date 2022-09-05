@@ -59,7 +59,7 @@ and helps us develop an intuitive understanding of how the chord tones relate to
 
 It also makes for smooth "voice leading",
 meaning the chord tones change only by small intervals from one chord to the next,
-as they would if composed for singing by a chorus of human voices.
+as they would if composed for singing by a choir of human voices.
 
 A useful way to identify fretboard positions is by specifying which string contains the tonic.
 
