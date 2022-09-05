@@ -5,7 +5,7 @@ abstract: Physical considerations for avoiding pain and minimizing effort.
 ---
 
 Before practicing  chord shapes,
-it's important to know some basic ergonomic principles so that we don't develop habits that lead to pain or difficulty over 
+it's important to know some basic ergonomic principles so that we don't develop habits that lead to pain or difficulty over time. 
 
 The basic ergonomic rule is this:
 **If something hurts,
