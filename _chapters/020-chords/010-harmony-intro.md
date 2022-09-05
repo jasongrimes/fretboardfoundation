@@ -182,9 +182,10 @@ There are others, like "quartal harmony", which is based on stacking fourths.
 
 ### Triad chords
 
-A "triad chord" is a three-note chord,
-built by stacking thirds. 
 Triads are the most common chords in Western music.
+
+A triad chord is a three-note chord,
+built by stacking thirds.
 
 The three notes in a triad chord are called the "root",
 the "third", 
