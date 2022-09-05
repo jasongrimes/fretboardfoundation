@@ -12,9 +12,9 @@ This book exists to fill a gap I find in guitar instructional material.
 There are countless resources available for beginners, 
 and there are excellent materials for advanced musicians with a solid background in theory and practice.
 But for those in-between, the “intermediate” guitarists, 
-it can be a long, hard slog to master the instrument well enough to be able to really express ourselves creatively. 
+it can be a long, hard slog to master the instrument well enough to be able to really express ourselves. 
 
-Most of the material targeting this group sorts into either jazz or euroclassical genres. 
+Most of the material aimed at this level sorts into either jazz or euroclassical genres. 
 Classical guitar instruction tends to focus on the precise reproduction of the composers’ intentions, 
 with little emphasis on improvisation or creativity. 
 Jazz digs deep into improvisation and music theory, 
