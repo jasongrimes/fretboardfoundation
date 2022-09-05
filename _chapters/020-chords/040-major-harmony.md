@@ -195,7 +195,7 @@ This example practice loop combines primary and secondary chords with transition
 **ii-V...** (Dm-G...) (turnaround)  
 (repeat)
 
-### Play songs in position
+### Playing songs in one position
 
 Possibly the most useful way to practice these chords is to practice chord changes for major key songs we already know,
 without moving out of one position.
