@@ -18,7 +18,7 @@ See [this diagram](appendix-diagrams#foo).
 
 &copy; Jason Grimes, 2022. https://fretboardfoundation.com 
 
-Licensed under CC BY-SA 4: http://creativecommons.org/licenses/by-sa/4.0/
+Licensed under CC BY-SA 4.0: http://creativecommons.org/licenses/by-sa/4.0/
 
 
 Creative Commons Attribution-ShareAlike 4.0 International License http://creativecommons.org/licenses/by-sa/4.0/
