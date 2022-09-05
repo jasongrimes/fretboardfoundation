@@ -190,6 +190,7 @@ built by stacking thirds.
 The three notes in a triad chord are called the "root",
 the "third", 
 and the "fifth" factors of the chord. 
+
 The third factor is a major- or minor-third interval above the root. 
 The fifth factor is a perfect fifth (usually) or else a diminished or augmented fifth above the root.
 The fifth factor is also a major- or minor-third interval above the third
