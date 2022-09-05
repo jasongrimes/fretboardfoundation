@@ -188,7 +188,7 @@ The circle of fourths/fifths:
 This example practice loop combines primary and secondary chords with transitions of descending fifths:
 
 **I-IV-I-V** (C-F-C-G)  
-**I-V-vii&deg;-I** (C-G-B&deg;-C)
+**I-V-vii&deg;-I** (C-G-B&deg;-C). 
 **IV-vii&deg;-iii-vi** (F-B&deg;-Em-Am) (bridge)  
 **vi-ii-vi-iii** (Am-Dm-Am-Em)  
 **vi-iii-III-vi** (Am-Em-EM-Am)  
