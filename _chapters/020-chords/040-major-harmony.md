@@ -338,6 +338,64 @@ or the 7&#x302; (for a richer diminished triad) as desired.
 
 ## Shapes around a third-string tonic
 
+{% include figure.html 
+    caption="Major scale on treble strings with 3rd-string tonic." 
+    url="/assets/figures/major-key-treble-triads/3-major-scale.svg" 
+    class="chord" 
+%}
 
+{% include figure.html
+    caption="I chord in major key with 3rd-string tonic."
+    url="/assets/figures/major-key-treble-triads/3-I.svg" 
+    class="uke-chord row" 
+%}
+
+{% include figure.html
+    caption="ii chord in major key with 3rd-string tonic."
+    url="/assets/figures/major-key-treble-triads/3-ii.svg" 
+    class="uke-chord row" 
+%}
+
+{% include figure.html
+    caption="iii chord in major key with 3rd-string tonic."
+    url="/assets/figures/major-key-treble-triads/3-iii.svg" 
+    class="uke-chord row" 
+%}
+
+{% include figure.html
+    caption="IV chord in major key with 3rd-string tonic."
+    url="/assets/figures/major-key-treble-triads/3-IV.svg" 
+    class="uke-chord row" 
+%}
+
+{% include figure.html
+    caption="V chord in major key with 3rd-string tonic."
+    url="/assets/figures/major-key-treble-triads/3-V.svg" 
+    class="uke-chord row" 
+%}
+
+{% include figure.html
+    caption="vi chord in major key with 3rd-string tonic."
+    url="/assets/figures/major-key-treble-triads/3-vi.svg" 
+    class="uke-chord row" 
+%}
+
+{% include figure.html
+    caption="vii chord in major key with 3rd-string tonic."
+    url="/assets/figures/major-key-treble-triads/3-vii.svg" 
+    class="uke-chord row" 
+%}
+
+{% include figure.html
+    caption="V7 chord in major key with 3rd-string tonic."
+    url="/assets/figures/major-key-treble-triads/3-V7.svg" 
+    class="uke-chord row" 
+%}
+
+{% include figure.html
+    caption="I chord in major key with 3rd-string tonic."
+    url="/assets/figures/major-key-treble-triads/3-I.svg" 
+    class="uke-chord row" 
+%}
 
 
