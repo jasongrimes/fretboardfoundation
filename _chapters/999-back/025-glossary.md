@@ -73,6 +73,12 @@ For example, the pitch class C consists of all the Cs in all octaves.
 Similar to a [mode](#mode),
 but without mode's implication of characteristic musical applications.
 
+- **semitone**{:#semitone}: The smallest interval in most Western music,
+and the smallest interval on a guitar fretboard:
+the distance across one fret between two notes on a guitar string. 
+Semitones are sometimes called “half steps”.
+In Western music, there are twelve semitones in an octave.
+
 - **timbre**{:#timbre}: *(pronounced /ˈtambər/)* aka "tone quality" or "tone color". A complex acoustic phenomenon allowing us to 
 distinguish between two [notes](#note), *[tonal](#tonal) or otherwise*, sounded at the same [pitch](#pitch) and volume.
 
@@ -86,7 +92,12 @@ reserving "tonal" for "any music which has the properties of a [tone](#tone)"
 (including [modal](#modal) music, which may be [non-tonical](#non-tonical) but is not [atonal](#atonal)).
 This book generally follows those terminology suggestions.
 
-- **tone**{:#tone}: A [note](#note) with an easily discernible fundamental [pitch](#pitch). 
+- **tone**{:#tone}: (1) A [note](#note) with an easily discernible fundamental [pitch](#pitch).
+(2) An interval of two [semitones](#semitone), aka "whole tone" or "whole step"; 
+a distance of two frets. 
+(3) Purity of expression, 
+as in "good tone", 
+"tone is in the fingers".
 
 - **tonic**{:#tonic}: A noun meaning *keynote or reference pitch*. Its adjective is [tonical](#tonical) (recommended) 
 or [tonal](#tonal) (in common usage).
