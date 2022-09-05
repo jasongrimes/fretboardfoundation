@@ -112,8 +112,10 @@ changing their quality from perfect to "augmented" or "diminished".
 #### Semitones and tones
 
 A "semitone" is the smallest interval in most Western music.
-It's the difference between two notes on a guitar string on either side of one fret.
-Semitones are also called "half steps".
+It's the smallest interval on a guitar fretboard,
+the distance across one fret
+between two notes on a guitar string. 
+Semitones are sometimes called "half steps".
 
 In Western music,
 there are twelve semitones in an octave.
