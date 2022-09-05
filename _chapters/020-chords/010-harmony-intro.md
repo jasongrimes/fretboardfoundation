@@ -300,7 +300,8 @@ later in this chapter.
 #### Harmonizing the natural minor scale
 
 As another example,
-the **natural minor** scale has degrees 1-2-b3-4-5-b6-b7 (in C: C-D-Eb-F-G-Ab-Bb).
+the **natural minor** scale has degrees  
+**1-2-b3-4-5-b6-b7** (C-D-Eb-F-G-Ab-Bb).
 
 Harmonizing the natural minor scale gives the following chords:
 
