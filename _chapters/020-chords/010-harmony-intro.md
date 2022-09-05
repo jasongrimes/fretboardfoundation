@@ -276,21 +276,6 @@ and the minor seventh is the fret below it.
 See {% include chapter-link.html slug="major-scale" %} and {% include chapter-link.html slug="interval-scale" %}
 for more information.
 
-#### Harmony without math
-
-This all sounds a lot more complicated than it usually is in practice.
-
-For one thing,
-we normally just memorize the harmonized chord types.
-It's pretty easy to remember that in a major key the I, IV, and V are major,
-the ii, iii, and vi are minor,
-and the vii is diminished.
-
-It's also usually much easier to find intervals directly on the fretboard,
-rather than doing the math with the interval table.
-See the section on [finding intervals on the fretboard with the major scale](#finding-intervals-on-the-fretboard-with-the-major-scale) 
-later in this chapter.
-
 #### Harmonizing the natural minor scale
 
 As another example,
