@@ -265,6 +265,8 @@ But notice that it contains almost exactly the same notes as the harmonically vi
 </div>
 
 The vii&deg; is essentially a "rootless" V7 chord.
+
+It contains the same tritone (between 7&#x302; and 4&#x302;) and leading tone (7&#x302;) of the V7. 
  
 As such it has nearly the same harmonic effect as the V7,
 and it is often exactly the right sound to drive a chord progression home. 
