@@ -380,9 +380,9 @@ Compare it to the "hero's journey" narrative pattern:
 
 In a major key,
 the diatonic chords are typically given these functions:
-* Tonic: I, vi, iii
-* Subdominant: IV, ii
-* Dominant: V, vii
+* **Tonic**: I, vi, iii
+* **Subdominant**: IV, ii
+* **Dominant**: V, vii
 
 One way to understand this is by comparing the intervals of the chords to the tonic.
 
