@@ -226,7 +226,8 @@ and lowercase Roman numerals are used for minor chords.
 #### Harmonizing the major scale
 
 For example,
-the **major scale** has degrees 1-2-3-4-5-6-7 (in C: C-D-E-F-G-A-B).
+the **major scale** has degrees  
+**1-2-3-4-5-6-7** (C-D-E-F-G-A-B).
 
 Harmonizing the major scale gives the following chords:
 
