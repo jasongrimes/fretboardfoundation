@@ -95,8 +95,9 @@ This book generally follows those terminology suggestions.
 - **tone**{:#tone}: (1) A [note](#note) with an easily discernible fundamental [pitch](#pitch).
 (2) An interval of two [semitones](#semitone), aka "whole tone" or "whole step"; 
 a distance of two frets. 
-(3) Purity of expression, 
-as in "good tone", 
+(3) Purity of expression,
+good [timbre](#timbre),
+as in "good tone" or 
 "tone is in the fingers".
 
 - **tonic**{:#tonic}: A noun meaning *keynote or reference pitch*. Its adjective is [tonical](#tonical) (recommended) 
