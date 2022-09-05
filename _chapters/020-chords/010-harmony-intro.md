@@ -527,7 +527,8 @@ the more dissonant and harmonically tense they sound.
 
 This overlap between sound waves can be measured by the ratio between the frequencies of the two pitches. 
 The more closely they overlap,
-the simpler the ratio. 
+the simpler the ratio.
+The frequency ratio of each interval is listed in the [interval table](#interval-table).
 
 In a unison interval,
 since the two pitches are the same,
@@ -555,5 +556,4 @@ has a pitch frequency ratio of the square root of 2.
 These much more complex sound waves require more attention and processing from our brains,
 which may account for their perceived dissonance. 
 
-The frequency ratio of each interval is listed in the [interval table](#interval-table).
 
