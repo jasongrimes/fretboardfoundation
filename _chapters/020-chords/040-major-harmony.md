@@ -395,7 +395,7 @@ or the 7&#x302; (for a richer diminished triad) as desired.
 {% include figure.html
     caption="I chord in major key with 3rd-string tonic."
     url="/assets/figures/major-key-triads/3-I.svg" 
-    class="uke-chord row" c
+    class="uke-chord row"
 %}
 
 
