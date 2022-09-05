@@ -249,38 +249,32 @@ The type of each chord is determined by the intervals of its chord factors.
 
 #### Finding the intervals between factors
 
-The intervals of the chord factors can be determined by counting the number of semitones between the factors and the root.
+Normally it is not necessary to calculate the intervals when harmonizing a scale.
+We can look them up, and eventually memorize the diatonic chord types for a scale. 
+It's straightforward to remember that in a major key the I, IV, and V are major,
+the ii, iii, and vi are minor,
+and the vii is diminished.
 
-To find the chord factor intervals using the [interval table](#interval-table),
-look up the number of semitones in the factor's scale degree,
-and subtract the number of semitones in the root scale degree.
-If the number is negative,
-add 12 semitones 
-(because the chord spans the end of the scale into the next octave).
-The resulting difference is the number of semitones in the interval,
-which can then be looked up from the table.
+The easiest way to find any interval on the fretboard is to memorize the major scale on the fretboard.
 
-For example, the V chord has scale degrees 5&#x302;-7&#x302;-2&#x302;.
-(Scale degree numbers are sometimes written with "hats" (5&#x302;) when it adds clarity,
-to distinguish them from other numbers.)
-The chord's root is degree 5&#x302;,
-which is 7 semitones from the tonic.
-The chord's third factor is degree 7&#x302;,
-which is 11 semitones from the tonic.
-The interval between the root and third factors is 11-7=4 semitones,
-which is a major third.
-So the chord's third factor is a major third.
+Every degree of the major scale is a major or perfect interval from the tonic.
+Degree 2&#x302; of the major scale is a major second from the tonic,
+degree 5&#x302; is a perfect fifth,
+degree 7&#x302; is a major seventh, and so on.
 
-The V chord's fifth factor is degree 2&#x302;,
-which is 2 semitones from the tonic.
-The interval between the root and fifth factors is 2-7=-5 semitones,
-which is a negative number because the chord spans the end of the scale into the next octave.
-Adding 12 semitones to account for the octave, -5+12=7 semitones,
-which is a perfect fifth.
+For example, to find a major third interval on the fretboard,
+imagine the lower note is the tonic of a major scale,
+and find the 3&#x302;.
 
-So the V chord's factor intervals are R 3 5 (root, major third, perfect fifth),
-which makes it a major chord,
-represented by an uppercase Roman numeral (V and not v). 
+To find a minor or diminished interval,
+just lower the corresponding major or perfect interval by one fret.
+For example,
+to find a minor seventh,
+find the major seventh (at degree 7&#x302;)
+and the minor seventh is the fret below it.
+
+See {% include chapter-link.html slug="major-scale" %} and {% include chapter-link.html slug="interval-scale" %}
+for more information.
 
 #### Harmony without math
 
@@ -461,29 +455,6 @@ to increase tension and propel the progression along to its final V-I cadence.
 
 ## More about intervals
 
-### Finding intervals on the fretboard with the major scale
-
-The easiest way to find any interval on the fretboard is to memorize the major scale on the fretboard.
-
-Every degree of the major scale is a major or perfect interval from the tonic.
-Degree 2&#x302; of the major scale is a major second from the tonic,
-degree 5&#x302; is a perfect fifth,
-degree 7&#x302; is a major seventh, and so on.
-
-For example, to find a major third interval on the fretboard,
-imagine the lower note is the tonic of a major scale,
-and find the 3&#x302;.
-
-To find a minor or diminished interval,
-just lower the corresponding major or perfect interval by one fret.
-For example,
-to find a minor seventh,
-find the major seventh (at degree 7&#x302;)
-and the minor seventh is the fret below it.
-
-See {% include chapter-link.html slug="major-scale" %} and {% include chapter-link.html slug="interval-scale" %}
-for more information.
-
 ### Inverting intervals
 
 "Ascending intervals" describe the distance from the *lower to the higher* pitch,
@@ -523,6 +494,42 @@ up a major third is the same as down a minor sixth,
 up a perfect fifth is the same as down a perfect fourth,
 up a minor seventh is the same as down a major second,
 and so on.
+
+### Interval arithmetic 
+
+The intervals of the chord factors can be determined by counting the number of semitones between the factors and the root.
+
+To find the chord factor intervals using the [interval table](#interval-table),
+look up the number of semitones in the factor's scale degree,
+and subtract the number of semitones in the root scale degree.
+If the number is negative,
+add 12 semitones 
+(because the chord spans the end of the scale into the next octave).
+The resulting difference is the number of semitones in the interval,
+which can then be looked up from the table.
+
+For example, the V chord has scale degrees 5&#x302;-7&#x302;-2&#x302;.
+(Scale degree numbers are sometimes written with "hats" (5&#x302;) when it adds clarity,
+to distinguish them from other numbers.)
+The chord's root is degree 5&#x302;,
+which is 7 semitones from the tonic.
+The chord's third factor is degree 7&#x302;,
+which is 11 semitones from the tonic.
+The interval between the root and third factors is 11-7=4 semitones,
+which is a major third.
+So the chord's third factor is a major third.
+
+The V chord's fifth factor is degree 2&#x302;,
+which is 2 semitones from the tonic.
+The interval between the root and fifth factors is 2-7=-5 semitones,
+which is a negative number because the chord spans the end of the scale into the next octave.
+Adding 12 semitones to account for the octave, -5+12=7 semitones,
+which is a perfect fifth.
+
+So the V chord's factor intervals are R 3 5 (root, major third, perfect fifth),
+which makes it a major chord,
+represented by an uppercase Roman numeral (V and not v). 
+
 
 ### Consonance, dissonance, and frequency ratios
 
@@ -564,6 +571,4 @@ These much more complex sound waves require more attention and processing from o
 which may account for their perceived dissonance. 
 
 The frequency ratio of each interval is listed in the [interval table](#interval-table).
-
-
 
