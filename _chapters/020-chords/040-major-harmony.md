@@ -141,9 +141,9 @@ When first getting familiar with the chords in a position,
 it's helpful to start by focusing on the underlying major scale,
 and playing the chord having a root on each scale degree in ascending or descending order.
 For example:  
-**I-ii-iii-IV-V-vi-vii-I**  
+**I-ii-iii-IV-V-vi-vii&deg;-I**  
 (C-Dm-Em-F-G-Am-B&deg;-C)  
-**I-vii-vi-V-IV-iii-ii-I**  
+**I-vii&deg;-vi-V-IV-iii-ii-I**  
 (C-B&deg;-Am-G-F-Em-Dm-C)
 
 By knowing the major, minor, and diminished chord shapes,
@@ -173,14 +173,6 @@ and the iii as the dominant (a perfect fifth above the vi).
 Example secondary chord progression:  
 **vi-ii-iii-vi** (Am-Dm-Em-Am)
 
-To practice them all together, in a repeating loop, try this:
-
-**I-IV-I-V** (C-F-C-G)  
-**I-V-vii-I** (C-G-B&deg;-C)  
-**vi-ii-vi-iii** (Am-Dm-Am-Em)  
-**vi-iii-III-vi** (Am-Em-E-Am)  
-**ii-V...** (Dm-G...)  
-(repeat)
 
 ### Circle of fourths/fifths
 
@@ -190,7 +182,18 @@ For those intending to play jazz,
 it also contains the most common chord changes in most jazz music.
 
 The circle of fourths/fifths:  
-**I-IV-vii-iii-vi-ii-V-I**
+**I-IV-vii&deg;-iii-vi-ii-V-I**  
+(C-F-B&deg;-Em-Am-Dm-G-I)
+
+This example practice loop combines primary and secondary chords with transitions of descending fifths:
+
+**I-IV-I-V** (C-F-C-G)  
+**I-V-vii&deg;-I** (C-G-B&deg;-C)
+**IV-vii&deg;-iii-vi** (F-B&deg;-Em-Am) (bridge)  
+**vi-ii-vi-iii** (Am-Dm-Am-Em)  
+**vi-iii-III-vi** (Am-Em-EM-Am)  
+**ii-V...** (Dm-G...) (turnaround)  
+(repeat)
 
 ### Play songs in position
 
