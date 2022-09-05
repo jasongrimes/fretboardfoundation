@@ -183,7 +183,7 @@ it also contains the most common chord changes in most jazz music.
 
 The circle of fourths/fifths:  
 **I-IV-vii&deg;-iii-vi-ii-V-I**  
-(C-F-B&deg;-Em-Am-Dm-G-I)
+(C-F-B&deg;-Em-Am-Dm-G-C)
 
 This example practice loop combines primary and secondary chords with transitions of descending fifths:
 
