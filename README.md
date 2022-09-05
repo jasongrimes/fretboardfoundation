@@ -11,14 +11,17 @@ Ex.:
 ```markdown
 See the [introduction page](introduction) for more information.
 
-See [this diagram][appendix-diagrams#foo].
+See [this diagram](appendix-diagrams#foo).
 ```
 
 ### Copyright notice for printable pages
 
-&copy; Jason Grimes, 2002. https://fretboardfoundation.com 
+&copy; Jason Grimes, 2022. https://fretboardfoundation.com 
 
-Licensed under the Creative Commons Attribution-ShareAlike 4.0 International License http://creativecommons.org/licenses/by-sa/4.0/
+Licensed under CC BY-SA 4: http://creativecommons.org/licenses/by-sa/4.0/
+
+
+Creative Commons Attribution-ShareAlike 4.0 International License http://creativecommons.org/licenses/by-sa/4.0/
 
 ### Adding references
  
