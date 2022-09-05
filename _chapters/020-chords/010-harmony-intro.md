@@ -45,9 +45,9 @@ we can play with those expectations to provoke a response.
 For example,
 we can choose to give them something they expect,
 provoking familiarity;
+delay meeting their expectations, provoking tension;
 give them something they didn't expect but are also familiar with,
 provoking surprise and hopefully delight;
-delay meeting their expectations, provoking tension;
 and so on. 
 
 ### The hero's journey
