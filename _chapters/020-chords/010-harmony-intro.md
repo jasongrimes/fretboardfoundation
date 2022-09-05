@@ -178,11 +178,12 @@ Another way to think of stacking thirds is adding *every other* note in a scale.
 
 Building chords from stacked thirds is called "tertian harmony",
 which is the most common type of harmony in Western music.
-(There are others, like "quartal harmony", which is based on stacking fourths.)
+There are others, like "quartal harmony", which is based on stacking fourths.
 
 ### Triad chords
 
-A "triad chord" is a three-note chord built by stacking thirds. 
+A "triad chord" is a three-note chord,
+built by stacking thirds. 
 Triads are the most common chords in Western music.
 
 The three notes in a triad chord are called the "root",
