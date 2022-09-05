@@ -131,8 +131,8 @@ See ["tone" in the glossary](glossary#tone) for details.
 
 ### Interval table
 
-This table shows the names of intervals based on how many semitones they contain.
-The number of semitones can also be thought of as the number of frets the interval spans on one string.
+This table shows the names of intervals based on how many semitones they contain,
+i.e. how many frets they span on one string.
 
 <div class="table-wrapper" markdown="block">
 
