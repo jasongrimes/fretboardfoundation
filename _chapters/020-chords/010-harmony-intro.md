@@ -390,26 +390,26 @@ The harmonic functions are named after the root scale degree of the I, IV, and V
 These are the "primary chords",
 and serve as archetypes of the chord functions.
 
-* Tonic I (1-3-5) is home.
-* Dominant V (5-7-2) is away from home,
+* **Tonic** I (1-3-5) is home.
+* **Subdominant** IV (4-6-1) is away from home,
+  sharing only one note with the I,
+  but stable,
+  being a major triad and having no leading tone.
+* **Dominant** V (5-7-2) is away from home,
   sharing only one note in common with the I.
   It is also dissonant,
   because it has the leading tone (7&#x302;).
   Consequently we "want" it to resolve to the 1&#x302; (the root of the tonic).
-* Subdominant IV (4-6-1) is away from home,
-  sharing only one note with the I,
-  but stable,
-  being a major triad and having no leading tone.
-  
+
 The remaining chords sort into functions by similarity:
-* Tonics vi (6-1-3) and iii (3-5-7) are close to home,
+* **Tonic** vi (6-1-3) and sometimes iii (3-5-7) are close to home,
   sharing two notes with the I.
   (The iii does have the leading tone (7) however, 
   so in some cases it can act more as a dominant than a tonic.)
-* Subdominant ii (2-4-6) is away from home,
+* **Subdominant** ii (2-4-6) is away from home,
   sharing no notes with I and one note with vi and iii;
   and it is close to the IV (sharing two notes with no dissonant intervals).
-* Dominant vii (7-2-4) is tense, 
+* **Dominant** vii&deg; (7-2-4) is tense, 
   containing a highly dissonant tritone interval between its root and diminished fifth
   (the 7&#x302; and 4&#x302; scale degrees).
   It has the leading tone as its root,
