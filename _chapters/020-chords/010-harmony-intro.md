@@ -283,6 +283,14 @@ and the minor seventh is the fret below it.
 See {% include chapter-link.html slug="major-scale" %} and {% include chapter-link.html slug="interval-scale" %}
 for more information.
 
+##### Use interval arithmetic
+
+The formal way to find the difference between two intervals 
+is to subtract the semitones of the first interval from the second,
+adjusting for the octave as needed.
+
+See [interval arithmetic](#interval-arithmetic) later in this chapter for details.  
+
 #### Harmonizing the natural minor scale
 
 As another example,
