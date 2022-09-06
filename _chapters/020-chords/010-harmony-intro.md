@@ -321,7 +321,7 @@ See {% include chapter-link.html slug="minor-harmony" %} for details.
 "Harmonic function" describes the theoretical tendency of certain chords to "want" to progress to other chords,
 or remain at rest.
 
-This approach originated in euroclassical music of the 18th and 19th centuries,
+This approach originated in euroclassical music in the 18th and 19th centuries,
 and still heavily influences jazz music.
 It is less apparent in modern and non-Western music,
 but it can still be useful to understand.
@@ -379,7 +379,7 @@ Compare it to the "hero's journey" narrative pattern:
 3. comes home transformed (tonic).
 
 In a major key,
-the diatonic chords are typically given these functions:
+the diatonic chords are generally assigned harmonic functions as follows:
 * **Tonic**: I, vi, iii
 * **Subdominant**: IV, ii
 * **Dominant**: V, vii
