@@ -15,7 +15,7 @@ They can be embellished with bass notes or color tones,
 or sprinkled into melody lines.
 
 Treble triads provide a simple starting place for the study of harmony.
-Major, minor, and diminished triads are presented, 
+Major, minor, and diminished shapes are given, 
 because they're the chords found when harmonizing the major scale.
 
 Dots in the diagrams indicate the chord root note (R) and the intervals from the root. 
@@ -154,7 +154,7 @@ upper-middle (2-4),
 lower-middle (3-5),
 and bottom-three (4-6) strings. 
 
-This chapter focused on the triads on top-three strings,
+This chapter focused on the triads on the top-three strings,
 plus a few alternate choices on the upper-middle strings
 because in some cases those are more convenient to play.
 Triads on the other strings are worth exploring as well.
