@@ -249,13 +249,20 @@ The type of each chord is determined by the intervals of its chord factors.
 
 #### Finding the intervals between factors
 
+##### Look them up
+
 Normally it is not necessary to calculate the intervals when harmonizing a scale.
-We can look them up, and eventually memorize the diatonic chord types for a scale. 
+
+We can look them up,
+for one thing,
+or eventually memorize the diatonic chord types for a scale. 
 It's straightforward to remember that in a major key the I, IV, and V are major,
 the ii, iii, and vi are minor,
 and the vii is diminished.
 
-The easiest way to find any interval on the fretboard is to memorize the major scale on the fretboard.
+##### Use the major scale intervals
+
+The easiest way to find any interval on the fretboard is to know the major scale on the fretboard.
 
 Every degree of the major scale is a major or perfect interval from the tonic.
 Degree 2&#x302; of the major scale is a major second from the tonic,
