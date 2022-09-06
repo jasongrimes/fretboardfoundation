@@ -90,7 +90,7 @@ and leads to confusion by obscuring the fact that there are other ways of doing 
 Tagg suggests the term "[tonical](#tonical)" instead of "tonal" for "music that has a [tonic](#tonic)",
 reserving "tonal" for "any music which has the properties of a [tone](#tone)"
 (including [modal](#modal) music, which may be [non-tonical](#non-tonical) but is not [atonal](#atonal)).
-This book generally agrees with those terminology suggestions.
+This book generally agrees with these terminology suggestions.
 
 - **tone**{:#tone}: (1) A [note](#note) with an easily discernible fundamental [pitch](#pitch).
 (2) An interval of two [semitones](#semitone), aka "whole tone" or "whole step"; 
