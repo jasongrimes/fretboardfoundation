@@ -268,8 +268,7 @@ Every degree of the major scale is a major or perfect interval from the tonic.
 Degree 2&#x302; of the major scale is a major second from the tonic,
 degree 5&#x302; is a perfect fifth,
 degree 7&#x302; is a major seventh, and so on.
-
-For example, to find a major third interval on the fretboard,
+To find a major third interval on the fretboard,
 imagine the lower note is the tonic of a major scale,
 and find the 3&#x302;.
 
