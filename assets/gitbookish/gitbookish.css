@@ -505,14 +505,14 @@ ul.toc-chapters-full.show-drafts {
     opacity: 0.5;
 }
 .toc-chapters-full .abstract {
-    color: #666;
+    color: #333;
     font-style: italic;
 }
 .color-theme-1 .toc-chapters-full .abstract {
-    color: #444;
+    color: inherit;
 }
 .color-theme-2 .toc-chapters-full .abstract {
-    color: #aaa;
+    color: #bdcadb;
 }
 figure {
     margin-right: 10px;
