@@ -154,12 +154,12 @@ i.e. how many frets they span on one string.
 
 </div>
 
-The table includes the corresponding note of a C chromatic scale for reference,
+The table shows the corresponding note of a C chromatic scale for reference,
 and the short and long names commonly used for those scale degrees.
 
-It also includes the frequency ratio to the tonic,
-which suggests how consonant or dissonant the interval will sound
-(bigger numbers are more complex and therefore more dissonant).
+The table also shows the dissonance of each interval,
+in terms of its frequency ratio to the tonic.
+Ratios with bigger numbers are more complex and therefore more dissonant.
 
 
 ## Chords
