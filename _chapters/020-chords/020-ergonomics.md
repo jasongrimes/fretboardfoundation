@@ -14,7 +14,7 @@ Do something else that doesn't hurt instead.
 
 Some tips:
 
-Keep fretting fingers and thumb bent as though holding a softball.
+Keep fretting fingers *and thumb* curled as though holding a softball.
 This prevents undue leverage from being applied to basal joints,
 which can eventually lead to pain.
 It also keeps fingers nimble and ready to move. 
