@@ -270,14 +270,8 @@ degree 5&#x302; is a perfect fifth,
 degree 7&#x302; is a major seventh, and so on.
 To find a major third interval on the fretboard,
 imagine the lower note is the tonic of a major scale,
-and find the 3&#x302;.
-
-To find a minor or diminished interval,
-just lower the corresponding major or perfect interval by one fret.
-For example,
-to find a minor seventh,
-find the major seventh (at degree 7&#x302;)
-and the minor seventh is the fret below it.
+and find the 3&#x302;. 
+The minor intervals are a fret below the major ones. 
 
 See {% include chapter-link.html slug="major-scale" %} and {% include chapter-link.html slug="interval-scale" %}
 for more information.
