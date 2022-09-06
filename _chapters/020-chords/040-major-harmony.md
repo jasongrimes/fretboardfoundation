@@ -10,7 +10,7 @@ The vast majority of songs in Western music are written in a major key.
 
 Songs in a major key use notes and chords derived from the major scale,
 with a special emphasis on the first scale degree:
-the "tonic" or "key center", the note the key is named for.
+the "tonic" or "keycenter", the note the key is named for.
 
 Major key compositions treat the tonic as home, 
 a point of reference and a point of rest,
