@@ -367,7 +367,7 @@ Chords can be grouped into three basic harmonic functions.
 * **Subdominant**: Away from home, but still stable.
 * **Dominant**: A place of tension, pulling toward home.
 
-Typically a harmonic sequence will start at home (a tonic),
+A harmonic sequence will often start at home (a tonic),
 move away from it (to a subdominant),
 then to a place of tension (a dominant),
 before providing emotional release or resolution by returning home (to the tonic).
