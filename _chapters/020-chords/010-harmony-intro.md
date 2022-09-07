@@ -194,7 +194,7 @@ The three notes in a triad chord are called
 the "root",
 the "third", 
 and the "fifth" factors of the chord,
-which are generic intervals of (some quality of) a third and a fifth.
+which are generic intervals of (some quality of) a third and a fifth from the root.
 The specific intervals determine the chord type.
 
 There are four types of triad chord.
@@ -211,7 +211,7 @@ The chord type is determined by the intervals between its factors and the root.
 
 </div>
 
-Notice that if the third factor is a major third, 
+If the third factor is a major third, 
 it is a major chord.
 If the third is a minor third, 
 it's a minor chord.
