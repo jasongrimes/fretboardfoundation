@@ -84,7 +84,7 @@ comprised of two parts: "quality" (major) and "number" (third).
 
 #### Interval numbers
 
-The number or numeric size of an interval is the number of letter names from one note to the next in the musical alphabet.
+The number of an interval is the number of letter names from one note to the next in the musical alphabet.
 
 For example, the interval from a C to a D is a second,
 from C to E is a third,
