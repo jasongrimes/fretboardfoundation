@@ -57,7 +57,6 @@ used to designate [notes](#note) of a standard fundamental pitch (like A at 440 
 
 - **octave**{:#octave}: The [interval](#interval) between one [pitch](#pitch) and another with double its frequency.
 Notes separated by octaves have the same [note name](#note-name) and [pitch class](#pitch-class).
-
 The octave relationship is a natural phenomenon that has been referred to as the "basic miracle of music," the use of which is "common in most musical systems.",
 [says Wikipedia](https://en.m.wikipedia.org/w/index.php?title=Octave&oldid=1093806072).
 
