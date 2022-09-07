@@ -75,7 +75,7 @@ but without mode's implication of characteristic musical applications.
 
 - **semitone**{:#semitone}: The smallest interval in most Western music,
 and the smallest interval on a guitar fretboard:
-the distance across one fret between two notes on a guitar string. 
+the distance across one fret on one string. 
 Semitones are sometimes called “half steps”.
 In Western music, there are twelve semitones in an octave.
 
