@@ -101,13 +101,10 @@ The qualities of fourth, fifth, octave, and unison intervals are called "perfect
 because the sound waves of the pitches separated by those intervals vibrate together in an overlapping and mathematically elegant way.
 This makes them sound highly consonant. 
 
-#### Major, minor, augmented, and diminished intervals
+#### Major and minor
 
-The quality of the remaining non-perfect intervals are called either "major" or "minor",
-which is determined by how many "semitones" they contain.
-
-Perfect intervals can also be raised or lowered by a semitone,
-changing their quality from perfect to "augmented" or "diminished".
+The quality of the remaining, non-perfect interval numbers are called "major" or "minor",
+which is determined by how many "semitones" or frets they span.
 
 #### Semitones, tones, and frets 
 
@@ -129,6 +126,11 @@ Sometimes the terms "whole tone" or "whole step" are used instead.
 Be aware that the term "tone" has other meanings as well,
 such as "any note with a discernible pitch".
 See ["tone" in the glossary](glossary#tone) for details. 
+
+#### Augmented and diminished intervals
+
+Perfect intervals can be raised or lowered by a semitone / fret,
+changing their quality from perfect to "augmented" (raised) or "diminished" (lowered).
 
 ### Interval table
 
