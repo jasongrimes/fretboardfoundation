@@ -190,14 +190,22 @@ Triads are the most common chords in Western music.
 A triad chord is a three-note chord,
 built by stacking thirds.
 
-The three notes in a triad chord are called the "root",
+The three notes in a triad chord are called 
+the "root",
 the "third", 
-and the "fifth" factors of the chord. 
+and the "fifth" factors of the chord,
+which are generic intervals of (some quality of) a third and a fifth.
+The specific interval between the third and the fifth determines what type of triad chord it is.
 
-The third factor is a major- or minor-third interval above the root. 
-The fifth factor is a perfect fifth (usually) or else a diminished or augmented fifth above the root.
-The fifth factor is also a major- or minor-third interval above the third
-(which makes sense since the chord is built by stacking thirds).
+If the third is a major third, 
+it is a major chord.
+If a minor third, 
+a minor chord.
+
+Stacking a major third on a minor third gives a perfect fifth.
+Stacking a minor third on a major third gives a perfect fifth.
+Stacking two minor thirds gives a tritone.  
+Stacking two major thirds gives augmented fifth. 
 
 There are four types of triad chord.
 The chord type is determined by the intervals between its factors and the root.
