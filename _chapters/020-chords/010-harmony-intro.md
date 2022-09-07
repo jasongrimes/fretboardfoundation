@@ -216,10 +216,10 @@ it is a major chord.
 If the third is a minor third, 
 it's a minor chord.
 
-Stacking a major third on a minor third gives a perfect fifth.
-Stacking a minor third on a major third gives a perfect fifth.
-Stacking two minor thirds gives a tritone.  
-Stacking two major thirds gives augmented fifth. 
+- Stacking a major third on a minor third gives a perfect fifth.
+- Stacking a minor third on a major third gives a perfect fifth.
+- Stacking two minor thirds gives a tritone.p
+- Stacking two major thirds gives an augmented fifth. 
 
 
 ### Harmonizing a scale
