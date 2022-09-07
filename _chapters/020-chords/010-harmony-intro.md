@@ -328,7 +328,7 @@ Such songs are said to be "in the key of" the tonic note.
 Sometimes a song changes key one or more times,
 to add interest.
 
-A song in one key can easily be played in another key,
+A song in one key can be played in another key,
 and it will sound the same to most listeners,
 except at an overall higher or lower pitch.
 Changing the key of a song is called "transposing" it to another key.
