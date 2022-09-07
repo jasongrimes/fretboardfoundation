@@ -109,12 +109,13 @@ which is determined by how many "semitones" they contain.
 Perfect intervals can also be raised or lowered by a semitone,
 changing their quality from perfect to "augmented" or "diminished".
 
-#### Semitones and tones
+#### Semitones, tones, and frets 
 
 A "semitone" is the smallest interval in most Western music.
 It's the smallest interval on a guitar fretboard,
 the distance across one fret on one string. 
-Semitones are sometimes called "half steps".
+Semitones are sometimes called "half steps",
+or (on guitar) "frets".
 
 In Western music,
 there are twelve semitones in an octave.
