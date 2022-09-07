@@ -48,7 +48,7 @@ meaning the chords that are "in" the key.
 
 </div>
 
-## Chord shapes in one position
+## Chords in position
 
 It's useful to be able to play all the chords in a key in one "position" on the fretboard.
 This means that all chords are found within the same span of four or five frets,
@@ -84,6 +84,8 @@ If desired, it's straightforward to fill out the chord voicings with bass notes 
 See {% include chapter-link.html slug="treble-triads" %} for details.
 
 The two lowest-pitched strings (5 and 6) have been left out of the diagrams in order to save space.
+
+## Shapes around a first-string tonic
 
 {% include figure.html
     caption="I chord in major key with 1st-string tonic."
