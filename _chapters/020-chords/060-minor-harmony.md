@@ -229,12 +229,8 @@ The primary chords in a minor key are the same as the secondary chords in its re
 and vice versa.
 
 |           | Primary chords         | Secondary chords      |
-| Minor key | i, iv, v  
-(Am, Dm, Em)  | bIII, bVI, bVII  
-(C, F, G) |
-| Major key | I, IV, V  
-(C, F, G)     | vi, ii, iii  
-(Am, Dm, Em)  |
+| Minor key | i, iv, v  (Am, Dm, Em)  | bIII, bVI, bVII (C, F, G) |
+| Major key | I, IV, V (C, F, G)     | vi, ii, iii (Am, Dm, Em)  |
 
 
 This example practice loop combines primary and secondary chords with cadences from relative major and minor scales,
