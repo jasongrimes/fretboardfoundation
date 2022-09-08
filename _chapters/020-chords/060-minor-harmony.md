@@ -219,7 +219,7 @@ we can start playing Am while thinking of the C major chords.
 To make it feel more like the minor key and less like the relative major,
 hang out around the vi (Am) to make it feel like home.
 Play III-vi cadences to help establish vi as the tonic (E-Am or E7-Am).
-Use the leading tone a semitone below the 6&#x302; (G#) in melody lines.
+Use the leading tone a semitone below the 6&#x302; (G#-A) in melody lines.
 
 ### Think in primary and secondary chords
 
