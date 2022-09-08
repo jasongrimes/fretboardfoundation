@@ -9,10 +9,9 @@ abstract: A practical approach to minor keys. Relative major and minor, plus the
 Minor keys are the dark counterparts of the brighter major keys.
 
 In Western music,
-minor keys tend to be thought of as sad and dark, 
-and major keys as happy and bright,
-though this is not universal even within euroclassical tradition,
-let alone non-Western and modern music.
+minor keys tend to be considered sad and dark, 
+and major keys happy and bright,
+though this is not universal.
 Minor keys include intervals not explored in the major keys,
 which can lend an air of mystery and sophistication.
 
