@@ -209,7 +209,7 @@ Compare these diatonic minor chords around a first-string tonic with their relat
 
 ## Practicing these chords
 
-### Think in relative major with dominant III
+### Think in relative major with a dominant III
 
 When first working with a minor key,
 it can be easiest to think in terms of a relative major key we are already familiar with.
