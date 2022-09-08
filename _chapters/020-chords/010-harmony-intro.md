@@ -80,7 +80,7 @@ and the higher the pitch sounds to our ears.
 ### Interval names
 
 Intervals have names like "major third",
-comprised of two parts: "quality" (major) and "number" (third).
+which are comprised of two parts: *quality* (major) and *number* (third).
 
 #### Interval numbers
 
