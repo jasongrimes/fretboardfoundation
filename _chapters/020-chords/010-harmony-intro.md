@@ -84,7 +84,7 @@ which are comprised of two parts: *quality* (major) and *number* (third).
 
 #### Interval numbers
 
-The number of an interval is the number of letter names from one note to the next in the musical alphabet.
+The *number* of an interval is the number of letter names from one note to the next in the musical alphabet.
 
 For example, the interval from a C to a D is a second,
 from C to E is a third,
@@ -97,13 +97,14 @@ and from a note to itself is called a "unison" (meaning 1).
 
 #### Perfect intervals
 
-The qualities of fourth, fifth, octave, and unison intervals are called "perfect",
+The *quality* of fourth, fifth, octave, and unison intervals are called "perfect",
 because the sound waves of the pitches separated by those intervals vibrate together in an overlapping and mathematically elegant way.
 This makes them sound highly consonant. 
 
 #### Major and minor
 
-The quality of the remaining, non-perfect interval numbers are called "major" or "minor",
+The *quality* of the remaining, 
+non-perfect interval numbers are called "major" or "minor",
 which is determined by how many "semitones" or frets they span.
 
 #### Semitones, tones, and frets 
