@@ -441,4 +441,77 @@ Compare these diatonic minor chords around a third-string tonic with their relat
 %}
 
 
+
 ## Shapes on the whole fretboard
+
+{% include figure.html
+    caption="i chord in minor key on whole fretboard"
+    url="/assets/figures/minor-key-triads/all-i.svg" 
+    class="uke-chord row" 
+%}
+
+{% include figure.html
+    caption="ii&deg; chord in minor key on whole fretboard."
+    url="/assets/figures/minor-key-triads/all-ii.svg" 
+    class="uke-chord row" 
+%}
+
+{% include figure.html
+    caption="bIII chord in minor key on whole fretboard."
+    url="/assets/figures/minor-key-triads/all-bIII.svg" 
+    class="uke-chord row" 
+%}
+
+{% include figure.html
+    caption="iv chord in minor key on whole fretboard."
+    url="/assets/figures/minor-key-triads/all-iv.svg" 
+    class="uke-chord row" 
+%}
+
+{% include figure.html
+    caption="v chord in minor key on whole fretboard."
+    url="/assets/figures/minor-key-triads/all-v.svg" 
+    class="uke-chord row" 
+%}
+
+{% include figure.html
+    caption="bVI chord in minor key on whole fretboard."
+    url="/assets/figures/minor-key-triads/all-bVI.svg" 
+    class="uke-chord row" 
+%}
+
+{% include figure.html
+    caption="bVII chord in minor key on whole fretboard."
+    url="/assets/figures/minor-key-triads/all-bVII.svg" 
+    class="uke-chord row" 
+%}
+
+{% include figure.html
+    caption="vii&deg; chord in minor key on whole fretboard."
+    url="/assets/figures/minor-key-triads/all-vii-dim.svg" 
+    class="uke-chord row" 
+%}
+
+{% include figure.html
+    caption="i chord in minor key on whole fretboard."
+    url="/assets/figures/minor-key-triads/all-i.svg" 
+    class="uke-chord row" 
+%}
+
+{% include figure.html
+    caption="V chord in minor key on whole fretboard."
+    url="/assets/figures/minor-key-triads/all-V-maj.svg" 
+    class="uke-chord row" 
+%}
+
+{% include figure.html
+    caption="V7 chord in minor key on whole fretboard."
+    url="/assets/figures/minor-key-triads/all-V7.svg" 
+    class="uke-chord row" 
+%}
+
+{% include figure.html
+    caption="i chord in minor key on whole fretboard."
+    url="/assets/figures/minor-key-triads/all-i.svg" 
+    class="uke-chord row" 
+%}
