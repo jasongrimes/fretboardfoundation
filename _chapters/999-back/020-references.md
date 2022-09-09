@@ -5,8 +5,11 @@ layout: chapter
 class: references
 ---
 
-Berg, C. (1997, March 4). *Mastering Guitar Technique: Process and Essence (Classic Guitar).* Mel Bay Publications, Inc.
+Berg, C. (1997). *Mastering Guitar Technique: Process and Essence (Classic Guitar).* Mel Bay Publications, Inc.
 [ISBN search](https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781610650588){:#berg-1997}
+
+Friedland, E. (1995). *Building Walking Bass Lines.* United States: Hal Leonard.
+[ISBN search](https://en.wikipedia.org/wiki/Special:BookSources?isbn=9780793542048){:#friedland-1995}
 
 Tagg, P. (2018). *Everyday Tonality II (towards a tonal theory of what most people hear).* Van Duuren Media.
 [ISBN search](https://en.wikipedia.org/wiki/Special:BookSources?isbn=978-0-9908068-0-6){:#tagg-2018}
