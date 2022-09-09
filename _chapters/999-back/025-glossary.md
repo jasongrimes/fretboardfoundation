@@ -95,7 +95,7 @@ distinguish between two [notes](#note), *[tonal](#tonal) or otherwise*, sounded 
 "tonal" refers to music that has a [tonic](#tonic).
 Philip Tagg makes a convincing argument that 
 this usage leads to confusion by obscuring the fact that there are other ways of doing things;
-and that it's chavanist and biased against tonal idioms not used in the euroclassical or jazz canons
+and that it's chauvanist and biased against tonal idioms not used in the euroclassical or jazz canons
 [(Tagg, 2018, pp. 52--55)](references#tagg-2018).
 It seems a bit offensive to call other types of music "not tonal", 
 akin to calling them "not music".
