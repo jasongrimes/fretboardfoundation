@@ -203,12 +203,12 @@ The chord type is determined by the intervals between its factors and the root.
 
 <div class="table-wrapper" markdown="block">
 
-| Chord type     | Symbol (on C)         | Intervals | Notes (on C) |
-|----------------|-----------------------|-----------|:------------:|
-| **major**      | C, CM, Cmaj, C&Delta; | R 3 5     | C-E-G        |
-| **minor**      | Cm, Cmin, C-          | R b3 5    | C-Eb-G       |
-| **diminished** | Cdim, C&deg;          | R b3 b5   | C-Eb-Gb      |
-| **augmented**  | Caug, C+              | R 3 #5    | C-E-G#       |
+| Chord type     | Intervals | Symbol (on C)         | Notes (on C) |
+|----------------|-----------|-----------------------|:------------:|
+| **major**      | R 3 5     | C, CM, Cmaj, C&Delta; | C-E-G        |
+| **minor**      | R b3 5    | Cm, Cmin, C-          | C-Eb-G       |
+| **diminished** | R b3 b5   | Cdim, C&deg;          | C-Eb-Gb      |
+| **augmented**  | R 3 #5    | Caug, C+              | C-E-G#       |
 
 </div>
 
