@@ -193,8 +193,8 @@ built by stacking thirds.
 
 The three notes in a triad chord are called 
 the "root",
-the "third", 
-and the "fifth" factors of the chord,
+"third", 
+and "fifth" factors of the chord,
 which are generic intervals of (some quality of) a third and a fifth from the root.
 The specific intervals determine the chord type.
 
