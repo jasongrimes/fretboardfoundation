@@ -332,7 +332,7 @@ to add interest.
 
 A song in one key can be played in another key,
 and it will sound the same to most listeners,
-except at an overall higher or lower pitch.
+but at an overall higher or lower pitch.
 Changing the key of a song is called "transposing" it to another key.
 
 Most Western music is in a major or minor key.
