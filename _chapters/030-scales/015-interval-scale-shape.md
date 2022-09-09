@@ -42,13 +42,13 @@ abstract: Use this awkward-to-play scale shape to reveal the internal logic of a
 
 <div>
 {% include figure.html
-    caption="Even-string tonic shape, left to right."
+    caption="Even-string tonic intervals, left to right."
     url="/assets/figures/interval-scale/intervals-6.svg"
     class="chord row"
 %}
 
 {% include figure.html
-    caption="Odd-string tonic shape, right to left."
+    caption="Odd-string tonic intervals, right to left."
     url="/assets/figures/interval-scale/intervals-5-rtl.svg"
     class="chord row"
 %}
