@@ -582,7 +582,7 @@ The ratio between the frequencies is one-to-one (1:1).
 
 In an octave,
 one pitch vibrates twice as fast as the other.
-The pitch frequency ratio of an octave is therefore 2:1.
+The pitch frequency ratio of an octave is therefore two-to-one (2:1).
 
 The ratio of a perfect fifth is 3:2,
 and a perfect fourth is 4:3.
