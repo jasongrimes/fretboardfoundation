@@ -75,13 +75,13 @@ and sixth and first strings (below).
 ## Bass lines
 
 Practice playing a bass note in a steady and consistent rhythm,
-in its own line that weaves in and out of the chords.
+in its own line that leads and complements the chords.
 
 Start by just playing the root note in the bass.
 
 Then make the bass line more interesting by adding in the fifth. 
 
-Then start to Smooth out the bass line by adding approach notes before the root and fifth---either 
+Smooth out the bass line by adding approach notes before the root and fifth---either 
 a chromatic note, scale tone, or chord tone immediately above or below the target note.
 
 The book *Building Walking Bass Lines*, 
