@@ -87,7 +87,7 @@ and called it "harmonic minor".
 The irresistible pull of the leading tone into the tonic is a seductive harmonic device,
 and it can sound particularly poignant in a minor key.
 
-Adding the leading tone to natural minor creates some new chords that can be used in cadences:  
+Adding the leading tone to natural minor creates some new chords that can be used in cadences:
 **dominant V** and 
 **diminished vii**.
 
