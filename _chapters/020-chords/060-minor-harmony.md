@@ -211,6 +211,10 @@ Compare these diatonic minor chords around a first-string tonic with their relat
 
 ## Practicing these chords
 
+### Play minor key songs in position
+
+One of the most effective ways to practice is to play minor key songs we already know using chords in a single position. 
+
 ### Think in relative major with a dominant III
 
 When first working with a minor key,
@@ -255,11 +259,6 @@ Use the leading tone in cadences with dominant V and diminished vii movements to
 
 It can be constructive to try flipping perspectives back and forth,
 thinking of a chord in context of both the minor and relative major scales.
-
-### Play minor key songs in position
-
-One of the most effective ways to practice is to play minor key songs we already know using chords in a single position. 
-
 
 ## Shapes in second-string tonic position
 
