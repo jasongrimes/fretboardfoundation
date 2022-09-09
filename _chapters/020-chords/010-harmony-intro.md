@@ -390,7 +390,7 @@ This combination of tension and expectation results in "wanting" the dissonant l
 This is the basic assumption of Western harmony:
 that the leading tone functions in this way for most listeners,
 pulling toward the tonic.
-The other harmonic functions are derived from the leading tone.
+The other harmonic functions are derived from this function of the leading tone.
 
 ### Tonic, subdominant, and dominant functions
 
