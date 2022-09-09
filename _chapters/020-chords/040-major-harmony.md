@@ -267,7 +267,7 @@ It’s easy to play,
 and easy to add a bass note of either the 5&#x302; (for a true V7 chord) 
 or the 7&#x302; (for a richer diminished triad) as desired.
  
-“Not practical”, indeed. 
+The diminished vii is rather practical after all. 
 
 ## Shapes around a second-string tonic
 
