@@ -212,15 +212,15 @@ The chord type is determined by the intervals between its factors and the root.
 
 </div>
 
-If the third factor is a major third, 
+If the third factor is a major third (4 semitones), 
 it is a major chord.
-If the third is a minor third, 
+If the third is a minor third (3 semitones), 
 it's a minor chord.
 
-- Stacking a major third on a minor third gives a perfect fifth.
-- Stacking a minor third on a major third gives a perfect fifth.
-- Stacking two minor thirds gives a tritone / diminished fifth. 
-- Stacking two major thirds gives an augmented fifth. 
+- Stacking a major third (4 semitones) on a minor third (3 semitones) gives a perfect fifth (7 semitones).
+- Stacking a minor third (3 semitones) on a major third (4 semitones) gives a perfect fifth (7 semitones).
+- Stacking two minor thirds (3 semitones) gives a tritone / diminished fifth (6 semitones). 
+- Stacking two major thirds (4 semitones) gives an augmented fifth (8 semitones). 
 
 
 ### Harmonizing a scale
