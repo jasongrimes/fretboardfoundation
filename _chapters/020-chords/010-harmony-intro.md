@@ -387,6 +387,11 @@ we will expect this because it's what always happens.
 
 This combination of tension and expectation results in "wanting" the dissonant leading tone to resolve to the consonant tonic.
 
+The basic assumption of Western harmony is that
+the leading tone functions in this way for most listeners,
+pulling toward the tonic.
+The other harmonic functions are derived from the leading tone.
+
 ### Tonic, subdominant, and dominant functions
 
 Chords can be grouped into three basic harmonic functions.
