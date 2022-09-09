@@ -225,7 +225,7 @@ it's a minor chord.
 
 ### Harmonizing a scale
 
-Harmonizing a scale refers to assembling the chords that belong to a given key, scale, or mode,
+Harmonizing a scale refers to assembling the chords that belong to a given scale, key, or mode,
 by starting on each degree of the scale and stacking thirds to form a triad chord.
 The result is one chord for each degree in the scale.
 
