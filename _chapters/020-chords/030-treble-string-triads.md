@@ -13,8 +13,14 @@ They sound good in a lot of contexts.
 They are easy to play and can be played quickly. 
 They can be embellished with bass notes or color tones,
 or sprinkled into melody lines.
+And they provide a simple starting place for the study of harmony.
 
-Treble triads provide a simple starting place for the study of harmony.
+Treble triads distill the core triad shapes out of all the possible CAGED shapes,
+reducing the number of shapes to learn.
+In other words, 
+it would take almost twice as long to learn harmony with the 5 CAGED shapes as with 3 triad shapes.
+
+
 Major, minor, and diminished shapes are given, 
 because they're the chords found when harmonizing the major scale.
 
