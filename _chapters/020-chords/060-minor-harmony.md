@@ -248,10 +248,10 @@ It's a way to practice the relative major and minor keys at the same time.
 ### Think in minor with a leading tone
 
 Once some familiarity with the chords is developed,
-it's time to practice them while thinking of the minor i chord as the tonic,
+start to practice them while thinking of the i minor chord as the tonic,
 and all chords and scale degrees oriented toward that.
 
-Using the leading tone in cadential movements to the tonic establishes the minor feel.
+Use the leading tone in cadences with dominant V and diminished vii movements to the tonic to establish the minor feel.
 
 It can be constructive to try flipping perspectives back and forth,
 thinking of a chord in context of both the minor and relative major scales.
