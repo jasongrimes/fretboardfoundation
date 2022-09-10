@@ -392,7 +392,7 @@ that the leading tone functions in this way for most listeners,
 pulling toward the tonic.
 The other harmonic functions are derived from this function of the leading tone.
 
-### Tonic, subdominant, and dominant functions
+### Tonic, subdominant, and dominant
 
 Chords can be grouped into three basic harmonic functions.
 
