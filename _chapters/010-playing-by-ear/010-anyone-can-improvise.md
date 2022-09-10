@@ -85,5 +85,5 @@ If we *don’t* feel this pull,
 we should try going two frets in either direction and see what happens.
 
 When accompanying other music,
-any differences in tuning and intonation can be covered over with "vibrato@. 
+any differences in tuning and intonation can be covered over with "vibrato". 
 A note doesn’t have to be perfectly in tune if it is passing through the in-tune pitch. 
