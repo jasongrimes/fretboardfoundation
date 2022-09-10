@@ -9,7 +9,7 @@ from the first moment we hold it.
 Even if we have no training; 
 even if we have never seen a guitar in our lives. 
 The guitar shows us how right away. 
-All that is needed is the will to create something beautiful, 
+All we need is the will to create something beautiful, 
 and an ear to listen.
 
 ## Why improvise
