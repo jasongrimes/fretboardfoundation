@@ -10,7 +10,7 @@ Mick Goodrick puts it beautifully.
 "Playing on a single string is absolutely the most logical place to begin on a guitar.
 Consider the following observations:
 
-* The simplest way to see notes is in a straight line.
+* "The simplest way to see notes is in a straight line.
 * A single string *is* a straight line.
 * On a single string, there is a direct relationship between interval distance and movement in space.
 * ...The problem of changing strings is eliminated.
