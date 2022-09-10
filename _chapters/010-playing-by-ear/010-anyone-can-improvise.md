@@ -6,9 +6,9 @@ abstract: Start with a single note, and listen. A few tricks can help, too.
 
 Anyone can make music on a guitar,
 from the first moment we hold it. 
-Even if we have no training; 
-even if we have never seen a guitar in our lives. 
-The guitar shows us how right away. 
+Even if we have no training,
+even if we have never seen a guitar in our lives,
+the guitar shows us how right away. 
 All we need is the will to create something beautiful, 
 and an ear to listen.
 
