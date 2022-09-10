@@ -17,7 +17,7 @@ and an ear to listen.
 It’s worth bearing in mind that the point of all of this is to create music.
 To create art, beauty, expression.
 
-An art form need not be mastered before creating the art. 
+An art form need not be mastered before creating art. 
 The reason for study and practice
 is the hope of making more beautiful music.
 The music is the point,
