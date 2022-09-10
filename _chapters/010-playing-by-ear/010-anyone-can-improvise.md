@@ -84,5 +84,6 @@ we can often feel it “pulling” to resolve.
 If we *don’t* feel this pull,
 we should try going two frets in either direction and see what happens.
 
-Vibrato is a good way to cover up tuning and intonation issues. 
-A string or note doesn’t have to  be perfectly in tune if it is vibrating back and forth above the in-tune pitch. 
+When accompanying other music,
+any differences in tuning and intonation can be covered over with "vibrato@. 
+A note doesn’t have to be perfectly in tune if it is passing through the in-tune pitch. 
