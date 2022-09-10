@@ -24,11 +24,11 @@ The same could be said for dynamics, articulations, and timbre."
 Playing on one string also has the effect that we don't have to worry about being in tune,
 to the extent that a string is always in tune with itself.
 
-We can always pick up any random stringed instrument in any random junk shop.
+We can pick up any random stringed instrument in any random junk shop.
 No matter how well or poorly maintained,
 no matter how old or in disrepair,
 as long as the instrument has one string that can vibrate,
-we can make music on a single string.
+we can make music.
 
 And everyone knows how to do this.
 We don't have to be trained.
