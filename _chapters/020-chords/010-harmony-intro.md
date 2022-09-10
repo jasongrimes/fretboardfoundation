@@ -72,15 +72,25 @@ An interval describes the difference in pitch between two notes.
 The larger the interval,
 the greater the difference in pitch.
 
+Each interval,
+each difference in pitch between two notes,
+has a certain sound and makes us feel a certain way.
+It can be measured as a number,
+like a difference in frequency beteeen the two pitches. 
+
 Pitch is the frequency at which a sound wave vibrates.
 The higher the frequency,
 the faster the vibration,
 and the higher the pitch sounds to our ears.
 
+Each interval can also be referenced by a name, like "major third".
+
 ### Interval names
 
-Intervals have names like "major third",
-which are comprised of two parts: *quality* (major) and *number* (third).
+An interval has a name like "major third",
+which is comprised of two parts: 
+*quality* (major) and 
+*number* (third).
 
 #### Interval numbers
 
