@@ -18,10 +18,10 @@ It’s worth bearing in mind that the point of all of this is to create music.
 To create art, beauty, expression.
 
 An art form need not be mastered before creating art. 
-The reason for study and practice
+The reason to study and practice music
 is the hope of making more beautiful music.
 The music is the point,
-not the theory or practice.
+not the theory or the practice.
 
 Every practice should begin and end with the creation of music.
 
