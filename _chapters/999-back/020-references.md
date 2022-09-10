@@ -11,6 +11,9 @@ Berg, C. (1997). *Mastering Guitar Technique: Process and Essence (Classic Guita
 Friedland, E. (1995). *Building Walking Bass Lines.* United States: Hal Leonard.
 [ISBN search](https://en.wikipedia.org/wiki/Special:BookSources?isbn=9780793542048){:#friedland-1995}
 
+Goodrick, M. (1987). *The Advancing Guitarist: Applying Guitar Concepts & Techniques.* Hal Leonard.
+[ISBN search](https://en.wikipedia.org/wiki/Special:BookSources?isbn=0-88188-589-4){:#goodrick-1987}
+
 Tagg, P. (2018). *Everyday Tonality II (towards a tonal theory of what most people hear).* Van Duuren Media.
 [ISBN search](https://en.wikipedia.org/wiki/Special:BookSources?isbn=978-0-9908068-0-6){:#tagg-2018}
 
