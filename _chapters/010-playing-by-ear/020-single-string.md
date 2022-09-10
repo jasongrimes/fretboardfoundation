@@ -13,10 +13,10 @@ Consider the following observations:
 * "The simplest way to see notes is in a straight line.
 * A single string *is* a straight line.
 * On a single string, there is a direct relationship between interval distance and movement in space.
-* ...The problem of changing strings is eliminated.
-This simplifies the right hand function and displays the principles of left hand function in their purest form.
-* Different types of phrasing and articulations can be played very consistently.
-* Elements of fundamental theory can be shown to a beginner in clear and simple visual and aural terms:
+* Playing on a single string helps to eliminate two potential problems: "paralysis" (fear of movement)
+and "acrophobia" (fear of higher frets),
+since the entire lenth of the fingerboard is utilized from the very beginning.
+* ...Elements of fundamental theory can be shown to a beginner in clear and simple visual and aural terms:
 intervals, scale constructions, chords, arpeggios, etc.
 The same could be said for dynamics, articulations, and timbre."
 [(Goodrick, 1987, p. 10)](references#goodrick-1987)
