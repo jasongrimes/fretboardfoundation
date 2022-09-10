@@ -30,9 +30,9 @@ no matter how old or in disrepair,
 as long as the instrument has one string that can vibrate,
 we can make music on a single string.
 
-And everyone knows how to do this with a vibrating string (or a rubber band, etc.).
+And everyone knows how to do this.
 We don't have to be trained.
-We just know on some level how to make music with a string.
+We just know on some level how to make music with a vibrating string.
 
 
 
