@@ -270,42 +270,7 @@ Harmonizing the major scale gives the following chords:
 
 The type of each chord is determined by the intervals of its chord factors.
 
-#### Finding the intervals between factors
-
-##### Look them up
-
-Normally it is not necessary to calculate the intervals when harmonizing a scale.
-
-We can look them up,
-for one thing,
-or eventually memorize the diatonic chord types for a scale. 
-It's straightforward to remember that in a major key the I, IV, and V are major,
-the ii, iii, and vi are minor,
-and the vii is diminished.
-
-##### Use the major scale intervals
-
-The easiest way to find any interval on the fretboard is to know the major scale on the fretboard.
-
-Every degree of the major scale is a major or perfect interval from the tonic.
-Degree 2&#x302; of the major scale is a major second from the tonic,
-degree 5&#x302; is a perfect fifth,
-degree 7&#x302; is a major seventh, and so on.
-To find a major third interval on the fretboard,
-imagine the lower note is the tonic of a major scale,
-and find the 3&#x302;. 
-The minor intervals are a fret below the major ones. 
-
-See {% include chapter-link.html slug="major-scale" %} and {% include chapter-link.html slug="interval-scale" %}
-for more information.
-
-##### Use interval arithmetic
-
-The formal way to find the difference between two intervals 
-is to subtract the semitones of the first interval from the second,
-adjusting for the octave as needed.
-
-See [interval arithmetic](#interval-arithmetic) later in this chapter for details.  
+See [more about intervals](#more-about-intervals) for information.
 
 #### Harmonizing the natural minor scale
 
@@ -498,6 +463,22 @@ Often they will alter the intermediate chords in the progression by making them 
 to increase tension and propel the progression along to its final V-I cadence.
 
 ## More about intervals
+
+### Finding the intervals on the fretboard with the major scale
+
+The easiest way to find any interval on the fretboard is to know the major scale on the fretboard.
+
+Every degree of the major scale is a major or perfect interval from the tonic.
+Degree 2&#x302; of the major scale is a major second from the tonic,
+degree 5&#x302; is a perfect fifth,
+degree 7&#x302; is a major seventh, and so on.
+To find a major third interval on the fretboard,
+imagine the lower note is the tonic of a major scale,
+and find the 3&#x302;. 
+The minor intervals are a fret below the major ones. 
+
+See {% include chapter-link.html slug="major-scale" %} and {% include chapter-link.html slug="interval-scale" %}
+for more information.
 
 ### Inverting intervals
 
