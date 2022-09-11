@@ -8,8 +8,9 @@ _Everyday Tonality II (towards a tonal theory of what most people hear)_ [(Tagg,
 to which this book is indebted. Errors and omissions are, of course, mine. 
 
 - **atonal**{:#atonal}: Music or other sounds without [tones](#tone).
-In common usage,
-it can also refer to music that is [non-tonical](#non-tonical).
+Confusingly,
+but commonly,
+*atonal* can also refer to music that is *[non-tonical](#non-tonical)*.
 
 - **chromatic**{:#chromatic}: Notes outside of the [diatonic](#diatonic) [mode](#mode) or scale upon which a composition is based.
 
