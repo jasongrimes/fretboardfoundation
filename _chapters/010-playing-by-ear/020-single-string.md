@@ -22,7 +22,7 @@ The same could be said for dynamics, articulations, and timbre."
 [(Goodrick, 1987, p. 10)](references#goodrick-1987)
 
 Playing on one string also has the effect that we don't have to worry about being in tune,
-to the extent that a string is always in tune with itself.
+in the sense that a string is always in tune with itself.
 
 We can pick up a random stringed instrument in any random junk pile.
 No matter how well or poorly maintained,
