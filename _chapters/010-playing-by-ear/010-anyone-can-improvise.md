@@ -62,7 +62,7 @@ There are some tricks that can make it easier to improvise in this way.
 If we are unsure what a note is going to sound like, 
 we can play it quietly at first,
 to get our bearings,
-before playing a more certain note louder. 
+before playing louder with a more certain note. 
 
 Finding an “in” note is almost as good as finding the “right” note. If we land on a note that wasn’t intended but which is still “in” the key,
 it still sounds musical,
@@ -86,4 +86,5 @@ we should try going two frets in either direction and see what happens.
 
 When accompanying other music,
 any differences in tuning and intonation between instruments can be covered with "vibrato". 
-A note doesn’t have to be perfectly in tune if it is passing back and forth through the target pitch. 
+A note doesn’t have to be perfectly in tune if it is passing back and forth 
+(vibrating) through the target pitch. 
