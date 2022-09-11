@@ -92,8 +92,9 @@ In Western music, there are twelve semitones in an octave.
 - **timbre**{:#timbre}: *(pronounced /ˈtambər/)* aka "tone quality" or "tone color". A complex acoustic phenomenon allowing us to 
 distinguish between two [notes](#note), *[tonal](#tonal) or otherwise*, sounded at the same [pitch](#pitch) and volume.
 
-- **tonal**{:#tonal}: In common usage,
-"tonal" refers to music that has a [tonic](#tonic).
+- **tonal**{:#tonal}: any music which has the properties of a [tone](#tone).
+Confusingly, but commonly,
+"tonal" sometimes refers to music that has a [tonic](#tonic).
 Philip Tagg makes a convincing argument that 
 this usage leads to confusion by obscuring the fact that there are other ways of doing things;
 and that it's chauvinist and biased against tonal idioms not used in the euroclassical or jazz canons
