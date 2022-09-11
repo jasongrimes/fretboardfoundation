@@ -101,8 +101,6 @@ and that it's chauvinist and biased against tonal idioms not used in the eurocla
 Referring to most types of music as "not tonal",
 that is, "not music",
 is clearly a poor choice of words best avoided.
-
-It's understandably offensive to.
 Tagg suggests the term "[tonical](#tonical)" instead of "tonal" for "music that has a [tonic](#tonic)",
 reserving "tonal" for "any music which has the properties of a [tone](#tone)"
 (including [modal](#modal) music, which may be [non-tonical](#non-tonical) but is not [atonal](#atonal)).
