@@ -391,7 +391,7 @@ the diatonic chords are generally assigned harmonic functions as follows:
 
 One way to understand this is by comparing the intervals of the chords to the tonic.
 
-The harmonic functions are named after the root scale degree of the I, IV, and V chords.
+The harmonic functions are named after the scale degree of the I, IV, and V chords.
 These are the "primary chords",
 and serve as archetypes of the chord functions.
 
