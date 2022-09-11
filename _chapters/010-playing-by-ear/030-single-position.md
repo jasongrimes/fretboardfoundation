@@ -4,8 +4,8 @@ slug: melody-one-position
 abstract: Playing across strings without moving the fretting hand out of position. 
 ---
 
-Once playing on a single string has been explored,
-try playing the same melody in a position.
+Once playing a melody on a single string has been explored,
+try playing the same melody in a single position.
 Move across strings,
 instead of up and down the fretboard.
 
