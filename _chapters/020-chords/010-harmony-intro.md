@@ -81,7 +81,7 @@ the faster the vibration,
 and the higher the pitch sounds to our ears.
 
 An interval can be described as 
-the difference in frequency beteeen two pitches. 
+the difference in frequency between two pitches. 
 
 An interval can also be described with a name, 
 like "major third".
