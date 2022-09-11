@@ -5,7 +5,7 @@ abstract: The most natural way to find the next note is also the easiest way to 
 ---
 
 In _The Advancing Guitarist_, 
-Mick Goodrick puts it beautifully.
+Mick Goodrick put it beautifully.
 
 "Playing on a single string is absolutely the most logical place to begin on a guitar.
 Consider the following observations:
