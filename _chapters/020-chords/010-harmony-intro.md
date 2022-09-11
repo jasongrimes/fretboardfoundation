@@ -299,7 +299,8 @@ See {% include chapter-link.html slug="minor-harmony" %} for details.
 ## Keys: Major, minor, and modal
 
 Most songs in Western music revolve around a keycenter or tonic---a note which serves as the musical "home" of the composition.
-Such compositions are said to be "tonical" (or, commonly if confusingly, "tonal").
+Such compositions are said to be "tonical" 
+(or, confusingly but commonly, "tonal").
 
 Songs in a major or minor key are said to be "in the key of" the tonic note.
 Sometimes a song changes key one or more times,
