@@ -139,11 +139,6 @@ Be aware that the term "tone" has other meanings as well,
 such as "any note with a discernible pitch".
 See ["tone" in the glossary](glossary#tone) for details. 
 
-#### Augmented and diminished intervals
-
-Perfect intervals can be raised or lowered by a semitone / fret,
-changing their quality from perfect to "augmented" (raised) or "diminished" (lowered).
-
 ### Interval table
 
 This table shows the names of intervals based on how many semitones they contain,
@@ -175,6 +170,9 @@ and the short and long names commonly used for those scale degrees.
 The table also shows the dissonance of each interval,
 in terms of its frequency ratio to the tonic.
 Ratios with bigger numbers are more complex and therefore more dissonant.
+
+Perfect intervals can be raised or lowered by a semitone / fret,
+changing their quality from perfect to "augmented" (raised) or "diminished" (lowered).
 
 
 ## Chords
