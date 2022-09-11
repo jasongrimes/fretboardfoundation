@@ -73,8 +73,7 @@ The greater the difference in pitch,
 the larger the interval.
 The smaller the difference,
 the smaller the interval. 
-The difference in pitch governs 
-the different sound and feeling that is produced.
+The difference in pitch creates the sound and feeling of the interval.
 
 *Pitch* is the frequency at which a sound wave vibrates.
 The higher the frequency,
