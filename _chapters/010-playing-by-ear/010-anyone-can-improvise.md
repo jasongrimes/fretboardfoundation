@@ -75,7 +75,7 @@ so we can treat it as a “chromatic approach" into an "in" note,
 like we did it on purpose. 
 Own it,
 maybe lower its volume,
-and then deliberately step “in” by a fret in a chosen direction. 
+and then deliberately shift “in” by a fret in a chosen direction. 
 
 From an “in” note, 
 the next closest “in” note is most likely two frets away (70%, 5/7 chance). 
