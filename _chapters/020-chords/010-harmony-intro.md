@@ -68,22 +68,23 @@ They are responsible for the way music sounds and how it makes us feel.
 
 ### Pitch and frequency
 
-An interval describes the difference in pitch between two notes.
-The larger the interval,
-the greater the difference in pitch.
+Each interval has a certain sound,
+and makes us feel a certain way.
 
-Each interval,
-each difference in pitch between two notes,
-has a certain sound and makes us feel a certain way.
-It can be measured as a number,
-like a difference in frequency beteeen the two pitches. 
+An interval describes the difference in *pitch* between two notes.
+The greater the difference in pitch,
+the larger the interval.
 
-Pitch is the frequency at which a sound wave vibrates.
+*Pitch* is the frequency at which a sound wave vibrates.
 The higher the frequency,
 the faster the vibration,
 and the higher the pitch sounds to our ears.
 
-Each interval can also be referenced by a name, like "major third".
+An interval can be described as 
+the difference in frequency beteeen two pitches. 
+
+An interval can also be described with a name, 
+like "major third".
 
 ### Interval names
 
