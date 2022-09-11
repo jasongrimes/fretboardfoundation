@@ -68,12 +68,13 @@ They are responsible for the way music sounds and how it makes us feel.
 
 ### Pitch and frequency
 
-Each interval has a certain sound,
-and makes us feel a certain way.
-
 An interval describes the difference in *pitch* between two notes.
 The greater the difference in pitch,
 the larger the interval.
+The smaller the difference,
+the smaller the interval. 
+The difference in pitch governs 
+the different sound and feeling that is produced.
 
 *Pitch* is the frequency at which a sound wave vibrates.
 The higher the frequency,
