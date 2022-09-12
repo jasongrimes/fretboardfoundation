@@ -20,6 +20,8 @@ reducing the number of shapes to learn.
 In other words, 
 it would take almost twice as long to learn harmony with the 5 CAGED shapes as with 3 triad shapes.
 The triads can be decorated with the remaining CAGED notes as needed.
+See {% include chapter-link.html slug="caged" %} for details. 
+
 
 Major, minor, and diminished shapes are given, 
 because they're the chords found when harmonizing the major scale.
