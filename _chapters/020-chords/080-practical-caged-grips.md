@@ -1,6 +1,6 @@
 ---
 title: Practical CAGED grips
-slug: practical-caged-grips
+slug: caged
 abstract: Chord grips for movable CAGED shapes that are actually useful.
 ---
 
