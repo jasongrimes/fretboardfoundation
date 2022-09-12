@@ -87,4 +87,4 @@ we should try going two frets in either direction and see what happens.
 When accompanying other music,
 any differences in tuning and intonation between instruments can be covered with "vibrato". 
 A note doesn’t have to be perfectly in tune if it is passing back and forth 
-(vibrating) through the target pitch. 
+(vibrating) through the perfect pitch. 
