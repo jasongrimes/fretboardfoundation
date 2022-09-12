@@ -486,8 +486,8 @@ such as "up a (perfect) fourth".
 and are often described as going "down",
 such as "down a (perfect) fifth".
 
-Somewhat counterintuitively
-because we hear two notes an octave apart as the same note,
+Because we hear two notes an octave apart as the same note,
+it is somewhat counterintuitive that
 the interval from the lower to the higher pitch is *different* than the interval from the higher to the lower pitch.
 The descending interval is an "inversion" of the ascending interval. 
 
