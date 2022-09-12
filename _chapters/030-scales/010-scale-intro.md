@@ -17,7 +17,8 @@ The first degree of a scale (1&#x302;) is often called the “tonic”.
 
 Most scales in Western music are "diatonic",
 which means they have seven notes,
-and some combination of intervals of five whole tones and two semitones.
+and some repeating combination of intervals of five whole tones and two semitones
+with the semitones spaced as far apart as possible. 
 
 Scales can be described by a formula that specifies the whole tones (T) and semitones (S) between scale degrees. 
 For example, the major scale formula can be written like this: 
