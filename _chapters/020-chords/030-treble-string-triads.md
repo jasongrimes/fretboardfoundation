@@ -7,7 +7,7 @@ abstract: Lightweight movable chord shapes on the upper strings.
 ## About treble triads
 
 Treble triads are minimal,
-movable triad chord shapes on the treble strings that are particularly useful to know.
+movable triad chord shapes on the treble strings that are particularly useful.
 
 They sound good in a lot of contexts.
 They are easy to play and can be played quickly. 
