@@ -89,9 +89,11 @@ and it can sound particularly poignant in a minor key.
 
 Adding the leading tone to natural minor creates some new chords that can be used in cadences:
 **dominant V** and 
-**diminished vii**.
+**diminished vii**,
+*just like in a major key*.
 
-Raising the b7&#x302; degree of the scale changes the **v chord** from minor v to **major V** (or V7),
+More specifically, 
+raising the b7&#x302; degree of the scale changes the **v chord** from minor v to **major V** (or V7),
 and changes the **bVII chord** from major bVII to **diminished vii&deg;**.
 These are the same **dominant V** and **diminished vii** degrees as in a major key,
 enabling all the same cadences and tricks of harmonic function.
