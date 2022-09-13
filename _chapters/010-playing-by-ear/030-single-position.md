@@ -1,7 +1,7 @@
 ---
 title: Play across strings 
 slug: melody-one-position
-abstract: Playing a melody without moving out of position. 
+abstract: Play a melody across strings in one position. 
 ---
 
 Once playing a melody on a single string has been explored,
