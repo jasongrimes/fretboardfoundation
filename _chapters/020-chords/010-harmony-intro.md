@@ -460,7 +460,7 @@ to increase tension and propel the progression along to its final V-I cadence.
 
 ## More about intervals
 
-### Finding the intervals on the fretboard with the major scale
+### Finding intervals on the fretboard with the major scale
 
 The easiest way to find any interval on the fretboard is to know the major scale on the fretboard.
 
