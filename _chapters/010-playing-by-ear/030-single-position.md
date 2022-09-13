@@ -1,7 +1,7 @@
 ---
 title: Play across strings 
 slug: melody-one-position
-abstract: Playing across strings without moving the fretting hand out of position. 
+abstract: Playing a melody without moving out of position. 
 ---
 
 Once playing a melody on a single string has been explored,
