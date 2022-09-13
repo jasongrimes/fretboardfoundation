@@ -1,5 +1,5 @@
 ---
-title: Introduction to harmony
+title: Introduction to Western harmony
 slug: harmony-intro
 abstract: A quick overview of the most practical bits of euroclassical harmony.
 ---
