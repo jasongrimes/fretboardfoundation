@@ -107,7 +107,7 @@ Referring to most types of music in the world as "not tonal",
 that is, "not music",
 is clearly a poor choice of words and best avoided.
 Tagg suggests the term "[tonical](#tonical)" instead of "tonal" for "music that has a [tonic](#tonic)",
-reserving "tonal" for "any music which has the properties of a [tone](#tone)"
+and using "tonal" for "any music which has the properties of a [tone](#tone)"
 (including [modal](#modal) music, which may be [atonical](#atonical) but is not [atonal](#atonal)).
 This book generally follows these terminology suggestions.
 
