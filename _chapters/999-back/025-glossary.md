@@ -9,8 +9,12 @@ to which this book is indebted. Errors and omissions are, of course, mine.
 
 - **atonal**{:#atonal}: Music or other sounds without [tones](#tone).
 Confusingly,
-but commonly,
-*atonal* can also refer to music that is *[non-tonical](#non-tonical)*.
+but commonly
+(and somewhat offensively),
+*atonal* can also refer to music that is *[atonical](#atonical)*.
+See discussion of [tonal](#tonal).
+
+- **atonical**{:#atonical}: Music without a [tonic](#tonic).
 
 - **chromatic**{:#chromatic}: Notes outside of the [diatonic](#diatonic) [mode](#mode) or scale upon which a composition is based.
 
@@ -48,7 +52,7 @@ Also commonly used to refer to music based on one of the 5 [diatonic modes](#dia
 normally arranged in ascending order and delimited by scale degree 1 (1&#x302;, the [tonic](#tonic)) at the bottom and top of one 
 [octave](#octave), coupled with a set of characteristic melodic and harmonic behaviors, motifs, and turns of phrase.
 
-- **non-tonical**{:#non-tonical}: Music without a [tonic](#tonic).
+- **non-tonical**{:#non-tonical}: [Atonical](#atonical). Music without a [tonic](#tonic).
 
 - **note**{:#note}: Any single, discrete sound of finite duration in music.
 
