@@ -26,7 +26,7 @@ Mindless repetition of scales digs deep ruts of habit in our nervous system,
 which makes improvisation sound mechanical and boring. 
 It can be hard to avoid this trap. 
 
-## Practice scales mindfully 
+## Practice mindfully 
 
 The way to avoid accidentally programming ourselves into scale-playing robots is to *always be mindful* when practicing scales. 
 We have to think about each note as we play it. 
