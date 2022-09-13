@@ -12,7 +12,7 @@ Every key is derived from a scale,
 sometimes called its “parent scale”.
 The notes in the key are the notes of the scale, 
 and the chords in that key are constructed by "harmonizing" the scale.
-(See {% include chapter-link.html slug="harmony-intro" %} for information about how scales are harmonized.)
+(See {% include chapter-link.html slug="harmony-intro" %} for details.)
 
 Scales can be immensely helpful for understanding music *intellectually*. 
 Because practice time is governed by intellect,
