@@ -7,8 +7,8 @@ Many of these definitions are taken nearly verbatim from the well-reasoned termi
 _Everyday Tonality II (towards a tonal theory of what most people hear)_ [(Tagg, 2018)](references#tagg-2018),
 to which this book is indebted. Errors and omissions are, of course, mine. 
 
-- **atonal**{:#atonal}: Music or other sounds without [tones](#tone).
-Confusingly,
+- **atonal**{:#atonal}: (1) Music or other sounds without [tones](#tone).
+(2) Confusingly,
 but commonly
 (and somewhat offensively),
 *atonal* can also refer to music that is *[atonical](#atonical)*.
@@ -18,11 +18,11 @@ See discussion of [tonal](#tonal).
 
 - **chromatic**{:#chromatic}: Notes outside of the [diatonic](#diatonic) [mode](#mode) or scale upon which a composition is based.
 
-- **diatonic**{:#diatonic}: Conforming to a seven-note [mode](#mode) or scale which,
+- **diatonic**{:#diatonic}: (1) Conforming to a seven-note [mode](#mode) or scale which,
 when arranged in ascending order with the initial note repeated at the octave,
 contains intervals of two half steps (semitones)
 and five whole steps (whole tones).
-Also used to refer to notes that are inside a diatonic mode,
+(2) Notes that are inside a diatonic mode,
 as opposed to [chromatic](#chromatic) notes which are outside the mode.
 
 - **diatonic mode**{:#diatonic-mode}: One of seven permutations of a [diatonic](#diatonic) scale,
@@ -44,8 +44,8 @@ See [overtone series](#overtone-series).
 
 - **interval**{:#interval}: The difference in [pitch](#pitch) between two [tones](#tone).
 
-- **modal**{:#modal}: Music which has the characteristics of a [mode](#mode).
-Also commonly used to refer to music based on one of the 5 [diatonic modes](#diatonic-mode) 
+- **modal**{:#modal}: (1) Music which has the characteristics of a [mode](#mode).
+(2) Also commonly used to refer to music based on one of the 5 [diatonic modes](#diatonic-mode) 
 *other than* the Ionian (major) or Aeolian (minor).
 
 - **mode**{:#mode}: A type of scale which results from distilling a tonal vocabulary down to a set of individual tones,
@@ -96,8 +96,8 @@ In Western music, there are twelve semitones in an octave.
 - **timbre**{:#timbre}: *(pronounced /ˈtambər/)* aka "tone quality" or "tone color". A complex acoustic phenomenon allowing us to 
 distinguish between two [notes](#note), *[tonal](#tonal) or otherwise*, sounded at the same [pitch](#pitch) and volume.
 
-- **tonal**{:#tonal}: any music which has the properties of a [tone](#tone).
-Confusingly, but commonly,
+- **tonal**{:#tonal}: (1) any music which has the properties of a [tone](#tone).
+(2) Confusingly, but commonly,
 "tonal" sometimes refers to music that has a [tonic](#tonic).
 Philip Tagg makes a convincing argument that 
 this usage leads to confusion by obscuring the fact that there are other ways of doing things;
