@@ -30,7 +30,7 @@ What’s the minimum information needed, and what’s the fastest way to learn i
 
 Obviously the answer depends in part on where we want to go.
 But there is a common foundation that is often required.
-This book aims to provide a practical way to acquire that foundation. 
+This book aims to provide that foundation in a practical way. 
 
 ## Who this book is for
 
