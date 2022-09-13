@@ -22,4 +22,4 @@ When practing a scale,
 start with the first note of the scale on the lowest root of one of the CAGED chord shapes,
 and find the notes across the strings without moving your hand out of position.
 
-See {% include chapter-link.html slug="practical-caged-grips" %} for more on CAGED chord shapes. 
+See {% include chapter-link.html slug="caged" %} for more on CAGED chord shapes. 
