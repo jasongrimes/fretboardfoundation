@@ -4,42 +4,6 @@ slug: scale-intro
 abstract: Scales are for the brain, not the fingers. Don't play like a robot.
 ---
 
-## Scale definitions
-
-A scale is an ordered collection of tones.
-
-The tones in a scale are numbered in order,
-from lowest pitch to highest. 
-These numbers are called “scale degrees”. 
-Scale degree numbers are often written with “hats”, 
-like this: 1&#x302;, 2&#x302;, 3&#x302;.... 
-The first degree of a scale (1&#x302;) is often called the “tonic”. 
-
-Most scales in Western music are "diatonic",
-which means they have seven notes,
-and some repeating combination of intervals of five whole tones and two semitones
-with the semitones spaced as far apart as possible. 
-
-Scales can be described by a formula that specifies the whole tones (T) and semitones (S) between scale degrees. 
-For example, the major scale formula can be written like this: 
-TTSTTTS (a whole tone from 1&#x302; to 2&#x302;, 
-a whole tone to 3&#x302;, 
-a semitone to 4&#x302;,
-a whole tone to 5&#x302;,
-a whole tone to 6&#x302;,
-a whole tone to 7&#x302;,
-and a semitone back to the 1&#x302;).
-
-Since there are whole tones between most scale degrees,
-the formula can be simplified by just specifying the location of the semitones.
-For example, the major scale has semitones between 3&#x302;--4&#x302; and 7&#x302;--1&#x302;.
-
-Scales can also be described by the interval between scale degrees and the tonic. 
-For example, 
-the major scale is said to have a major-third degree and a major-seventh degree, 
-because the interval from 1&#x302; to 3&#x302; is a major-third interval, 
-and the interval from 1&#x302; to 7&#x302; is a major-seventh interval.
-
 ## What scales are good for---and bad for
 
 Scales are the foundation of harmony and melody.
@@ -88,3 +52,39 @@ And if the habits are deep, it’s surprising how fast we can execute them.
 
 The trick is to form the intended habits during practice, 
 which sound good to our ear and which carefully exclude sloppiness and mistakes. 
+
+## What is a scale
+
+A scale is an ordered collection of tones.
+
+The tones in a scale are numbered in order,
+from lowest pitch to highest. 
+These numbers are called “scale degrees”. 
+Scale degree numbers are often written with “hats”, 
+like this: 1&#x302;, 2&#x302;, 3&#x302;.... 
+The first degree of a scale (1&#x302;) is often called the “tonic”. 
+
+Most scales in Western music are "diatonic",
+which means they have seven notes,
+and some repeating combination of intervals of five whole tones and two semitones
+with the semitones spaced as far apart as possible. 
+
+Scales can be described by a formula that specifies the whole tones (T) and semitones (S) between scale degrees. 
+For example, the major scale formula can be written like this: 
+TTSTTTS (a whole tone from 1&#x302; to 2&#x302;, 
+a whole tone to 3&#x302;, 
+a semitone to 4&#x302;,
+a whole tone to 5&#x302;,
+a whole tone to 6&#x302;,
+a whole tone to 7&#x302;,
+and a semitone back to the 1&#x302;).
+
+Since there are whole tones between most scale degrees,
+the formula can be simplified by just specifying the location of the semitones.
+For example, the major scale has semitones between 3&#x302;--4&#x302; and 7&#x302;--1&#x302;.
+
+Scales can also be described by the interval between scale degrees and the tonic. 
+For example, 
+the major scale is said to have a major-third degree and a major-seventh degree, 
+because the interval from 1&#x302; to 3&#x302; is a major-third interval, 
+and the interval from 1&#x302; to 7&#x302; is a major-seventh interval.
