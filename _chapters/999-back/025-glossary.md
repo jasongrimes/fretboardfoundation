@@ -108,7 +108,7 @@ that is, "not music",
 is clearly a poor choice of words and best avoided.
 Tagg suggests the term "[tonical](#tonical)" instead of "tonal" for "music that has a [tonic](#tonic)",
 reserving "tonal" for "any music which has the properties of a [tone](#tone)"
-(including [modal](#modal) music, which may be [non-tonical](#non-tonical) but is not [atonal](#atonal)).
+(including [modal](#modal) music, which may be [atonical](#atonical) but is not [atonal](#atonal)).
 This book generally follows these terminology suggestions.
 
 - **tone**{:#tone}: (1) A [note](#note) with an easily discernible fundamental [pitch](#pitch).
