@@ -32,7 +32,7 @@ it can make music.
 
 And everyone knows how to do this.
 We don't have to be trained.
-We just know on some level how to make music with a vibrating string.
+We all know on some level how to make music with a vibrating string.
 
 
 
