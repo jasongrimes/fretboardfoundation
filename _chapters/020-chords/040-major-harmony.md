@@ -47,7 +47,7 @@ meaning the chords that are "in" the key.
 
 </div>
 
-## Chords in position
+## Playing in position
 
 It's useful to be able to play all the chords in a key in one "position" on the fretboard.
 This means that all chords are found within the same span of four or five frets,
