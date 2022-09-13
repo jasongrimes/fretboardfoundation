@@ -70,9 +70,9 @@ and some repeating combination of intervals of five whole tones and two semitone
 with the semitones spaced as far apart as possible. 
 
 Scales can be described by a formula that specifies the whole tones (T) and semitones (S) between scale degrees. 
-For example, the major scale formula can be written like this: 
-TTSTTTS (
-from 1&#x302; a whole tone to 2&#x302;, 
+For example, the major scale formula can be written like this:  
+**TTSTTTS**
+(from 1&#x302; a whole tone to 2&#x302;, 
 a whole tone to 3&#x302;, 
 a semitone to 4&#x302;,
 a whole tone to 5&#x302;,
