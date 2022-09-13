@@ -77,10 +77,10 @@ The difference in pitch creates the sound and feeling of the interval.
 The higher the frequency,
 the faster the vibration,
 and the higher the pitch sounds to our ears.
-An interval can be described as 
+An interval is defined as 
 the difference in frequency between two pitches. 
 
-An interval can also be described with a name, 
+Each interval is also given a name, 
 like "major third".
 
 ### Interval names
