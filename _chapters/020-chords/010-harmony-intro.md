@@ -68,7 +68,7 @@ They are responsible for the way music sounds and how it makes us feel.
 
 ### Pitch and frequency
 
-An interval describes the *difference in pitch* between two notes.
+An interval describes the difference in pitch between two notes.
 The greater the difference in pitch,
 the larger the interval.
 The difference in pitch creates the sound and feeling of the interval.
