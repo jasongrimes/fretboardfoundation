@@ -89,3 +89,7 @@ For example,
 the major scale is said to have a major-third degree and a major-seventh degree, 
 because the interval from 1&#x302; to 3&#x302; is a major-third interval, 
 and the interval from 1&#x302; to 7&#x302; is a major-seventh interval.
+
+## Assembling scales on the fretboard
+
+## CAGED scale forms
