@@ -92,4 +92,10 @@ and the interval from 1&#x302; to 7&#x302; is a major-seventh interval.
 
 ## Assembling scales on the fretboard
 
+{% include figure.html
+    caption="Intervals on neighboring strings."
+    url="/assets/figures/interval-scale/neighbor-string-intervals.svg"
+    class="chord"
+%}
+
 ## CAGED scale forms
