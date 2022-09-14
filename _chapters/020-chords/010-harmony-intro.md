@@ -331,7 +331,9 @@ but it can still be useful to understand.
 Harmonic function terminology is based on the names given to the scale degrees in the euroclassical tradition.
 
 The most important are the *tonic* (1),
-the *dominant* (5), and the *leading tone*.
+the *dominant* (5), 
+and the *leading tone* (7).
+The rest are defined in relation to those. 
 
 <div class="table-wrapper" markdown="block">
 
