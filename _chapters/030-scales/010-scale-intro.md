@@ -99,3 +99,20 @@ and the interval from 1&#x302; to 7&#x302; is a major-seventh interval.
 %}
 
 ## CAGED scale forms
+
+Scales are typically taught in a variety of "forms" or "shapes", 
+with different teachers using different forms having often contradictory names.
+
+This book focuses on scale forms based around CAGED chord shapes. 
+This is practical because it integrates with the chords we are actually playing, 
+and we gradually develop an understanding and muscle memory for chords and scales blended together. 
+This blended intuition helps things really flow when improvising.
+
+Anchoring scales on CAGED roots also results in a clear and obvious way to name scale forms, 
+like "C form" or "A form", 
+rather than using ambiguous terms like "form 1" or "position 5-2".
+
+Put the first note of the scale on the lowest root of one of the CAGED chord shapes,
+and find the notes across the strings without moving your hand out of position.
+
+See {% include chapter-link.html slug="caged" %} for more on CAGED chord shapes.
