@@ -31,7 +31,7 @@ Compare the natural minor scale,
 with minor third, sixth, and seventh intervals.
 It's easy to see the natural minor has a minor third,
 since it's a fret below the third interval shape,
-and so on. 
+and so on with the minor sixth and minor seventh.
 
 {% include figure.html
     caption="Major scale, all major and perfect intervals."
