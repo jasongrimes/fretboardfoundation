@@ -62,7 +62,7 @@ and so on with the minor sixth and minor seventh.
 
 {% include figure.html
     caption="Odd-string tonic intervals, right to left."
-    url="/assets/figures/interval-scale/intervals-5-rtl.svg"
+    url="/assets/figures/interval-scale/intervals-1-rtl.svg"
     class="chord row"
 %}
 
