@@ -24,14 +24,16 @@ This allows easy comparison of the intervals in any scale shape.
 
 ## Comparing scales
 
-The major scale maps perfectly onto the interval shape.
+The **major scale** maps perfectly onto the interval shape.
 Or the interval shape is an awkward form of the major scale.
 
-Compare the natural minor scale, 
-with minor third, sixth, and seventh intervals.
-It's easy to see the natural minor has a minor third,
-since it's a fret below the third interval shape,
-and so on with the minor sixth and minor seventh.
+Compare the **natural minor scale**, 
+with minor third, sixth, and seventh intervals,
+which are easy to see next to the major third, 
+sixth, and seventh intervals in the basic shape.
+
+Also compare the **harmonic minor** with a major seventh,
+and the **ascending melodic minor** aka **jazz minor** with just a minor third. 
 
 {% include figure.html
     caption="Major scale, all major and perfect intervals."
@@ -48,6 +50,12 @@ and so on with the minor sixth and minor seventh.
 {% include figure.html
     caption="Harmonic minor scale. Natural minor with major seventh leading tone."
     url="/assets/figures/interval-scale/harmonic-minor-6.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="Ascending melodic minor scale, aka jazz minor."
+    url="/assets/figures/interval-scale/asc-melodic-minor-6.svg"
     class="chord row"
 %}
 
