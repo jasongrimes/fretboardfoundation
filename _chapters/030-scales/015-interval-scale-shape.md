@@ -27,9 +27,11 @@ This allows easy comparison of the intervals in any scale shape.
 The major scale maps perfectly onto the interval shape.
 Or the interval shape is an awkward form of the major scale.
 
-But compare the natural minor scale, with minor third, sixth, and seventh intervals.
+Compare the natural minor scale, 
+with minor third, sixth, and seventh intervals.
 It's easy to see the natural minor has a minor third,
-since it's a fret below the third interval shape.
+since it's a fret below the third interval shape,
+and so on. 
 
 {% include figure.html
     caption="Major scale, all major and perfect intervals."
