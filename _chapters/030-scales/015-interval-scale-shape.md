@@ -54,12 +54,15 @@ and the **ascending melodic minor** aka **jazz minor** with just a minor third.
 %}
 
 {% include figure.html
-    caption="Ascending melodic minor scale, aka jazz minor."
+    caption="Ascending melodic minor scale, aka jazz minor. Minor third, major sixth and seventh."
     url="/assets/figures/interval-scale/asc-melodic-minor-6.svg"
     class="chord row"
 %}
 
 ## Repeating shapes
+
+In addition to its use for comparing scales,
+this shape can be an interesting way to ascend or descend the fretboard.
 
 <div>
 {% include figure.html
