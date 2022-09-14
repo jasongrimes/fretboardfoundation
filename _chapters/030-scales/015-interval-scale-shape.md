@@ -4,7 +4,7 @@ slug: interval-scale
 abstract: Use this awkward-to-play scale shape to reveal the internal logic of any scale or mode. 
 ---
 
-## Basic interval shape 
+## Basic interval shape
 
 This shape is special because every possible minor or diminished interval is located one fret below its corresponding major or perfect interval,
 without having to cross strings.
@@ -23,6 +23,13 @@ This allows easy comparison of the intervals in any scale shape.
 %}
 
 ## Comparing scales
+
+The major scale maps perfectly onto the interval shape.
+Or the interval shape is an awkward form of the major scale.
+
+But compare the natural minor scale, with minor third, sixth, and seventh intervals.
+It's easy to see the natural minor has a minor third,
+since it's a fret below the third interval shape.
 
 {% include figure.html
     caption="Major scale, all major and perfect intervals."
