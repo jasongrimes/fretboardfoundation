@@ -6,6 +6,10 @@ abstract: Use this awkward-to-play scale shape to reveal the internal logic of a
 
 ## Basic interval shape 
 
+This shape is special because every possible minor or diminished interval is located one fret below its corresponding major or perfect interval,
+without having to cross strings.
+This allows easy comparison of the intervals in any scale shape.
+
 {% include figure.html
     caption="6th-string tonic intervals"
     url="/assets/figures/interval-scale/intervals-6.svg"
