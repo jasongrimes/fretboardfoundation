@@ -83,7 +83,8 @@ The following table shows the **major scale** as both the T/S intervals between 
 
 </div>
 
-From 1&#x302; a whole tone to 2&#x302;, 
+In other words, 
+from 1&#x302; there's a whole tone to 2&#x302;, 
 a whole tone to 3&#x302;, 
 a semitone to 4&#x302;,
 a whole tone to 5&#x302;,
