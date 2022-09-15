@@ -60,7 +60,8 @@ A scale is an ordered collection of tones.
 The tones in a scale are numbered in order,
 from lowest pitch to highest. 
 These numbers are called “scale degrees”.
-The first degree of a scale is often called the “tonic”.
+The first degree of a scale is called the “tonic”.
+The other degrees are named for their interval from the tonic.
 
 Most scales in Western music are "diatonic",
 which means they have seven notes,
@@ -71,6 +72,7 @@ The **major scale** is a seven note diatonic scale
 with semitones between degrees 3-4 and 7-1.
 All the scale degrees are major or perfect intervals. 
 
+**Major scale degrees and intervals**
 <div class="table-wrapper" markdown="block">
 
 |1|2|3    |4|5|6|7    |1|
@@ -90,6 +92,7 @@ and a semitone back to the 1&#x302;.
 The **natural minor scale** is a seven note diatonic scale 
 with semitones between degrees 2-b3 and 5-b6.
 
+**Natural minor scale degrees and intervals**
 <div class="table-wrapper" markdown="block">
 
 |1|2    |b3|4|5    |b6|b7|1|
