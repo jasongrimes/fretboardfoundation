@@ -100,8 +100,14 @@ with semitones between degrees 2-b3 and 5-b6.
 ## Assembling scales on one string
 
 {% include figure.html
-    caption="Major scale on first string."
+    caption="C major scale on second string."
     url="/assets/figures/major-scale/major-scale-2.svg"
+    class="chord"
+%}
+
+{% include figure.html
+    caption="C natural minor scale on second string."
+    url="/assets/figures/natural-minor-scale/natural-minor-2.svg"
     class="chord"
 %}
 
