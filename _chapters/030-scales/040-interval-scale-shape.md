@@ -30,7 +30,7 @@ Or the interval shape is an awkward form of the major scale.
 Compare the **natural minor scale**, 
 with minor third, sixth, and seventh intervals,
 which are easy to see next to the major third, 
-sixth, and seventh intervals in the basic shape.
+sixth, and seventh intervals in the major scale shape.
 
 Also compare the **harmonic minor** with a major seventh,
 and the **ascending melodic minor** aka **jazz minor** with just a minor third. 
