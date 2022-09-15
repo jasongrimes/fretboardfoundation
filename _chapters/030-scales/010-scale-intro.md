@@ -87,6 +87,16 @@ a whole tone to 6&#x302;,
 a whole tone to 7&#x302;,
 and a semitone back to the 1&#x302;.
 
+The **natural minor scale** is a seven note diatonic scale 
+with semitones between degrees 2-b3 and 5-b6.
+
+<div class="table-wrapper" markdown="block">
+
+|1|2    |b3|4|5    |b6|b7|1|
+|T|**S**|T |T|**S**|T |T | |
+
+</div>
+
 ## Assembling scales on the fretboard
 
 {% include figure.html
