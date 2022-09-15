@@ -136,7 +136,7 @@ except the "third rail" major third interval between strings 2-3.
 If it's hard to identify the 3 and 4 frets back to the next scale degree at a glance,
 it can help to count backwards. 
 Most strings are tuned a perfect fourth apart,
-so the scale degree on the same fret a string to the right will be 4.
+so the scale degree on the same fret on the neighboring string will be 4.
 The major third is back one fret---this is good to know in general.
 Then a major second (a whole tone T) is back two frets from the 3.
 A minor second (a semitone S) is the fret behind that.
