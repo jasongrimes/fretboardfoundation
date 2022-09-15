@@ -59,7 +59,7 @@ A scale is an ordered collection of tones.
 
 The tones in a scale are numbered in order,
 from lowest pitch to highest. 
-These numbers are called “scale degrees”,
+These numbers are called “scale degrees”.
 The first degree of a scale is often called the “tonic”.
 
 Most scales in Western music are "diatonic",
@@ -95,7 +95,7 @@ and a semitone back to the 1&#x302;.
 
 Since there are whole tones between most scale degrees,
 the formula can be simplified by just specifying the location of the semitones.
-For example, the major scale has semitones between 3&#x302;--4&#x302; and 7&#x302;--1&#x302;.
+For example, the major scale has semitones between 3&#x302;-4&#x302; and 7&#x302;-1&#x302;.
  
 
 ## Assembling scales on the fretboard
