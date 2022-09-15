@@ -102,13 +102,13 @@ with semitones between degrees 2-b3 and 5-b6.
 {% include figure.html
     caption="C major scale on second string."
     url="/assets/figures/major-scale/major-scale-2.svg"
-    class="chord"
+    class="chord row"
 %}
 
 {% include figure.html
     caption="C natural minor scale on second string."
     url="/assets/figures/natural-minor-scale/natural-minor-2.svg"
-    class="chord"
+    class="chord row"
 %}
 
 
