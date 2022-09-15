@@ -157,7 +157,7 @@ with different teachers using different forms having often contradictory names.
 This book focuses on scale forms based around CAGED chord shapes. 
 This is practical because it integrates with the chords we are actually playing, 
 and we gradually develop an understanding and muscle memory for chords and scales blended together. 
-This blended intuition helps things really flow when improvising.
+This blended intuition helps things flow when improvising.
 
 Anchoring scales on CAGED roots also results in a clear and obvious way to name scale forms, 
 like "C form" or "A form", 
