@@ -88,14 +88,6 @@ In other words,
 - a whole tone to 7, and
 - a semitone back to 1.
 
-from 1&#x302; there's a whole tone to 2&#x302;, 
-then a whole tone to 3&#x302;, 
-a semitone to 4&#x302;,
-a whole tone to 5&#x302;,
-a whole tone to 6&#x302;,
-a whole tone to 7&#x302;,
-and a semitone back to the 1&#x302;.
-
 For another example, 
 the **natural minor scale** is a seven note diatonic scale 
 with semitones between degrees 2-b3 and 5-b6.
