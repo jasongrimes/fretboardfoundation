@@ -97,7 +97,16 @@ with semitones between degrees 2-b3 and 5-b6.
 
 </div>
 
-## Assembling scales on the fretboard
+## Assembling scales on one string
+
+{% include figure.html
+    caption="Major scale on first string."
+    url="/assets/figures/major-scale/major-scale-2.svg"
+    class="chord"
+%}
+
+
+## Assembling scales across strings
 
 {% include figure.html
     caption="Semitone and whole tone on neighboring strings."
