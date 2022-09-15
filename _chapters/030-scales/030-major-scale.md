@@ -27,7 +27,7 @@ See {% include chapter-link.html slug="major-harmony" %} for more information.
 
 {% include figure.html
     caption="Major scale on first string."
-    url="/assets/figures/major-scale/major-scale-1.svg"
+    url="/assets/figures/major-scale/major-scale-2.svg"
     class="chord"
 %}
 
