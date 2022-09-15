@@ -65,21 +65,16 @@ The first degree of a scale is often called the “tonic”.
 Most scales in Western music are "diatonic",
 which means they have seven notes,
 with five whole tone intervals and two semitones
-spaced as far apart as possible. 
+spaced as far apart as possible.
 
-Scales can be described by a formula that specifies the whole tones (T) and semitones (S) between scale degrees.
-For example, the **major scale** formula can be written like this: **TTSTTTS**.
-
-Scales can also be described by the intervals of their scale degrees.
-For example, the major scale, with all major and perfect intervals,
-can be written like this: **1-2-3-4-5-6-7**.
-
-The following table shows the **major scale** as both the T/S intervals between scale degrees and the interval of scale degrees. 
+The major scale is a seven note diatonic scale 
+with semitones between degrees 3-4 and 7-1.
+All the scale degrees are major or perfect intervals. 
 
 <div class="table-wrapper" markdown="block">
 
-| |T| |T| |S| |T| |T| |T| |S| |
-|1| |2| |3| |4| |5| |6| |7| |1|
+|1|2|3    |4|5|6|7    |1|
+|T|T|**S**|T|T|T|**S**| |
 
 </div>
 
@@ -91,13 +86,6 @@ a whole tone to 5&#x302;,
 a whole tone to 6&#x302;,
 a whole tone to 7&#x302;,
 and a semitone back to the 1&#x302;.
-(Scale degree numbers are sometimes written with “hats” 
-(1&#x302;).)
-
-Since there are whole tones between most scale degrees,
-the formula can be simplified by just specifying the location of the semitones.
-For example, the major scale has semitones between 3&#x302;-4&#x302; and 7&#x302;-1&#x302;.
- 
 
 ## Assembling scales on the fretboard
 
