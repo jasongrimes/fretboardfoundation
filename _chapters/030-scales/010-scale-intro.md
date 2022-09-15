@@ -99,6 +99,9 @@ with semitones between degrees 2-b3 and 5-b6.
 
 ## Assembling scales on one string
 
+The simplest way to visualize a scale is on a single guitar string.
+The scale semitones and tones are one and two frets apart. 
+
 {% include figure.html
     caption="C major scale on second string."
     url="/assets/figures/major-scale/major-scale-2.svg"
@@ -114,6 +117,10 @@ with semitones between degrees 2-b3 and 5-b6.
 
 ## Assembling scales across strings
 
+Assembling a scale across strings requires knowing where to find tones and semitones on neighboring strings.
+Remember the intervals are the same (perfect fourth) between all strings,
+except the "third rail" major third interval between strings 2-3.
+
 {% include figure.html
     caption="Semitone and whole tone on neighboring strings."
     url="/assets/figures/major-scale/neighboring-st.svg"
@@ -125,6 +132,15 @@ with semitones between degrees 2-b3 and 5-b6.
     url="/assets/figures/major-scale/neighboring-intervals.svg"
     class="chord row"
 %}
+
+If it's hard to identify the 3 and 4 frets back to the next scale degree at a glance,
+it can help to count backwards. 
+Most strings are tuned a perfect fourth apart,
+so the scale degree on the same fret a string to the right will be 4.
+The major third is back one fret---this is good to know in general.
+Then a major second (a whole tone T) is back two frets from the 3.
+A minor second (a semitone S) is the fret behind that.
+
 
 ## CAGED scale forms
 
