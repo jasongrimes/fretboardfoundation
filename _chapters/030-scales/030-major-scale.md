@@ -23,7 +23,7 @@ and it has been the basis of Western harmony for at least 400 years.
 
 See {% include chapter-link.html slug="major-harmony" %} for more information.
 
-## Play on one string
+## Assemble on one string
 
 The simplest way to visualize a scale is on a single guitar string.
 The scale semitones and tones are one and two frets apart.
@@ -34,7 +34,7 @@ The scale semitones and tones are one and two frets apart.
     class="chord"
 %}
 
-## Assembling across the fretboard
+## Assemble across strings
 
 Assembling a scale across strings requires knowing where to find semitone and whole tone intervals on neighboring strings.
 See {% include chapter-link.html slug="scale-intro" %} for details.
