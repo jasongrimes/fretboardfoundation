@@ -1,5 +1,5 @@
 ---
-title: Treble-string triads
+title: Treble triads
 slug: treble-triads
 abstract: Lightweight movable chord shapes on the upper strings. 
 ---
