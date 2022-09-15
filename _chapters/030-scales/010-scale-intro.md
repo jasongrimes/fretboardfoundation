@@ -8,11 +8,10 @@ abstract: Scales are for the brain, not the fingers. Don't play like a robot.
 
 Scales are the foundation of harmony and melody.
 
-Every key is derived from a scale, 
-sometimes called its “parent scale”.
+Every key is derived from a scale.
 The notes in the key are the notes of the scale, 
-and the chords in that key are constructed by "harmonizing" the scale.
-(See {% include chapter-link.html slug="harmony-intro" %} for details.)
+and the chords in that key are constructed by harmonizing the scale.
+See {% include chapter-link.html slug="harmony-intro" %} for more information.
 
 Scales can be immensely helpful for understanding music through *reason*. 
 When practice time is governed by reason,
