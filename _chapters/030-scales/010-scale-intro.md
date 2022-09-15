@@ -118,7 +118,7 @@ The scale semitones and tones are one and two frets apart.
 ## Assembling scales across strings
 
 Assembling a scale across strings requires knowing where to find tones and semitones on neighboring strings.
-Remember the intervals are the same (perfect fourth) between all strings,
+Remember the intervals are the same between all strings (a perfect fourth),
 except the "third rail" major third interval between strings 2-3.
 
 {% include figure.html
