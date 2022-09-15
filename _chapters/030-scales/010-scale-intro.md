@@ -59,36 +59,34 @@ A scale is an ordered collection of tones.
 
 The tones in a scale are numbered in order,
 from lowest pitch to highest. 
-These numbers are called “scale degrees”. 
-Scale degree numbers are often written with “hats”, 
-like this: 1&#x302;, 2&#x302;, 3&#x302;.... 
-The first degree of a scale (1&#x302;) is often called the “tonic”. 
+These numbers are called “scale degrees”,
+and are sometimes written with “hats” 
+(1&#x302;). 
+The first degree of a scale is often called the “tonic”.
 
 Most scales in Western music are "diatonic",
 which means they have seven notes,
-and some repeating combination of intervals of five whole tones and two semitones
-with the semitones spaced as far apart as possible. 
+with five whole tone intervals and two semitones
+spaced as far apart as possible. 
 
-Scales can be described by a formula that specifies the whole tones (T) and semitones (S) between scale degrees. 
+Scales can be described by a formula that specifies the whole tones (T) and semitones (S) between scale degrees.
 For example, the major scale formula can be written like this:  
 **TTSTTTS**
-(from 1&#x302; a whole tone to 2&#x302;, 
+
+| |T| |T| |S| |T| |T| |T| |S| |
+|1| |2| |3| |4| |5| |6| |7| |1|
+
+From 1&#x302; a whole tone to 2&#x302;, 
 a whole tone to 3&#x302;, 
 a semitone to 4&#x302;,
 a whole tone to 5&#x302;,
 a whole tone to 6&#x302;,
 a whole tone to 7&#x302;,
-and a semitone back to the 1&#x302;).
+and a semitone back to the 1&#x302;.
 
 Since there are whole tones between most scale degrees,
 the formula can be simplified by just specifying the location of the semitones.
 For example, the major scale has semitones between 3&#x302;--4&#x302; and 7&#x302;--1&#x302;.
-
-Scales can also be described by the interval between scale degrees and the tonic. 
-For example, 
-the major scale is said to have a major-third degree and a major-seventh degree, 
-because the interval from 1&#x302; to 3&#x302; is a major-third interval, 
-and the interval from 1&#x302; to 7&#x302; is a major-seventh interval.
 
 ## Assembling scales on the fretboard
 
