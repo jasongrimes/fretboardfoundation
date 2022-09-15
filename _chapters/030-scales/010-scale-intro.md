@@ -14,10 +14,10 @@ The notes in the key are the notes of the scale,
 and the chords in that key are constructed by "harmonizing" the scale.
 (See {% include chapter-link.html slug="harmony-intro" %} for details.)
 
-Scales can be immensely helpful for understanding music *intellectually*. 
-Because practice time is governed by intellect,
+Scales can be immensely helpful for understanding music through *reason*. 
+When practice time is governed by reason,
 and performance time is governed by habit and intuition,
-understanding scales can guide our practice so that we develop useful habits and intuitions about sounds and how to produce them. 
+an understanding of scales can guide our practice so we develop useful habits and intuitions about sounds and how to produce them. 
 
 But practicing scales can also be dangerous. 
 The danger is that when scales are practiced by rote, 
