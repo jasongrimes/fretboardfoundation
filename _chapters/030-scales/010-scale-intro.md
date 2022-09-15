@@ -137,9 +137,11 @@ If it's hard to identify the 3 and 4 frets back to the next scale degree at a gl
 it can help to count backwards. 
 Most strings are tuned a perfect fourth apart,
 so the scale degree on the same fret on the neighboring string will be 4.
-The major third is back one fret---this is good to know in general.
-Then a major second (a whole tone T) is back two frets from the 3.
-A minor second (a semitone S) is the fret behind that.
+The major third is back one fret---the third interval on neighboring strings may already be known,
+since it's the shell of every major chord.
+
+Then the major second (whole tone "T") is back two frets from the 3.
+A minor second (semitone "S") is the fret behind that.
 
 
 ## CAGED scale forms
