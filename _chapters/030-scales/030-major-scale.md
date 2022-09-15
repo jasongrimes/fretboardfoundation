@@ -26,7 +26,7 @@ See {% include chapter-link.html slug="major-harmony" %} for more information.
 ## Play on one string
 
 {% include figure.html
-    caption="Major scale on first string."
+    caption="C major scale on second string."
     url="/assets/figures/major-scale/major-scale-2.svg"
     class="chord"
 %}
