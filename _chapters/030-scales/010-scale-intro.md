@@ -90,9 +90,15 @@ and a semitone back to the 1&#x302;.
 ## Assembling scales on the fretboard
 
 {% include figure.html
+    caption="Semitone and whole tone on neighboring strings."
+    url="/assets/figures/major-scale/neighboring-st.svg"
+    class="chord row"
+%}
+
+{% include figure.html
     caption="Intervals on neighboring strings."
-    url="/assets/figures/interval-scale/neighbor-string-intervals.svg"
-    class="wide-chord"
+    url="/assets/figures/major-scale/neighboring-intervals.svg"
+    class="chord row"
 %}
 
 ## CAGED scale forms
