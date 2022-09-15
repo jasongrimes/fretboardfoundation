@@ -4,7 +4,7 @@ slug: major-scale
 abstract: The foundation of Western music for the past 400 years. 
 ---
 
-## Major scale formula
+## About the major scale
 
 The major scale is a seven note diatonic scale 
 with semitones between degrees 3-4 and 7-1.
@@ -15,6 +15,12 @@ with semitones between degrees 3-4 and 7-1.
 |T|T|**S**|T|T|T|**S**| |
 
 </div>
+
+This pattern is also called the "Ionian" mode.
+It is one of the most common musical modes in the world,
+and it has been the basis of Western harmony for at least 400 years. 
+
+See {% include chapter-link.html slug="major-harmony" %} for more information.
 
 ## Play on one string
 
