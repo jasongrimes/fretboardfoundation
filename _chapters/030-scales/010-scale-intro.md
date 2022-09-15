@@ -67,7 +67,7 @@ which means they have seven notes,
 with five whole tone intervals and two semitones
 spaced as far apart as possible.
 
-The major scale is a seven note diatonic scale 
+The **major scale** is a seven note diatonic scale 
 with semitones between degrees 3-4 and 7-1.
 All the scale degrees are major or perfect intervals. 
 
