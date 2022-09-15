@@ -30,7 +30,7 @@ See {% include chapter-link.html slug="major-harmony" %} for more information.
     class="chord"
 %}
 
-## Assembling scales in position
+## Assembling across the fretboard
 
 {% include figure.html
     caption="Semitone and whole tone on neighboring strings."
