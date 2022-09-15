@@ -11,7 +11,7 @@ Scales are the foundation of harmony and melody.
 Every key is derived from a scale.
 The notes in the key are the notes of the scale, 
 and the chords in the key are harmonized from the scale.
-See {% include chapter-link.html slug="harmony-intro" %} for more information.
+See {% include chapter-link.html slug="harmony-intro" %} for details.
 
 Scales can be immensely helpful for understanding music through *reason*. 
 When practice time is governed by reason,
