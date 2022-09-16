@@ -163,7 +163,8 @@ Anchoring scales on CAGED roots also results in a clear and obvious way to name 
 like "C form" or "A form", 
 rather than using ambiguous terms like "form 1" or "position 5-2".
 
-Put the first note of the scale on the lowest root of one of the CAGED chord shapes,
-and find the notes across the strings without moving the hand out of position.
+To assemble a scale on a CAGED form,
+put the first note of the scale on the lowest root of one of the CAGED chord shapes,
+and assemble the scale across the strings without moving the hand out of position.
 
 See {% include chapter-link.html slug="caged" %} for more on CAGED chord shapes.
