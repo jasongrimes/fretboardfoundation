@@ -20,7 +20,7 @@ This pattern is also called the "Aeolian" mode,
 the sixth mode of the major scale.
 See {% include chapter-link.html slug="diatonic-modes" %} for more information.
 
-## Natural minor on one string
+## Assembling on one string
 
 The simplest way to visualize a scale is on a single guitar string.
 The scale semitones and tones are one and two frets apart.
@@ -31,7 +31,7 @@ The scale semitones and tones are one and two frets apart.
     class="chord"
 %}
 
-## Natural minor across strings
+## Assembling across strings
 
 Assembling a scale across strings requires knowing where to find semitone and whole tone intervals on neighboring strings.
 See {% include chapter-link.html slug="scale-intro" %} for details.
