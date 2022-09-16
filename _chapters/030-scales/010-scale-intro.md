@@ -151,8 +151,7 @@ The major third is one fret lower.
 The third shape may already be well known,
 since it's the shell of every major chord.
 Across the the 3rd to 2nd string,
-the scale degree at the same fret on the neighboring string is 3,
-the major third interval.  
+the major third is at the same fret.  
 
 Then the major second (whole tone "T") is back two frets from the 3,
 and a minor second (semitone "S") is the fret behind that.
