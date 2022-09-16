@@ -69,7 +69,7 @@ Here is the major scale with a first-string tonic, on the upper strings.
 
 {% include figure.html 
     caption="Major scale on treble strings with 1st-string tonic." 
-    url="/assets/figures/major-key-treble-triads/1-major-scale.svg" 
+    url="/assets/figures/major-key-triads/1-major-scale.svg" 
     class="chord" 
 %}
 
