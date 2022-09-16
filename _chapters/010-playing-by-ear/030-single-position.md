@@ -4,10 +4,14 @@ slug: melody-one-position
 abstract: Playing a melody across the strings means navigating the guitar's tuning. 
 ---
 
-Once playing a melody on a single string has been explored,
-try playing the same melody in a single position.
-Move across strings,
-instead of up and down the fretboard.
+After exploring a melody on a single string,
+try playing the same melody across strings,
+without moving the fretting hand out of position.
+
+The tuning of the guitar affects where the notes are found on neighboring strings.
+On a guitar in standard tuning,
+all the strings are tuned the same distance apart with one exception,
+
 
 When picking out a melody across strings,
 it can be helpful to know that 
