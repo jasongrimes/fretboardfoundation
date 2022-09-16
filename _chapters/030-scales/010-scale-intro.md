@@ -147,8 +147,12 @@ it can help to count backwards.
 As shown in the diagram,
 since most strings are tuned a perfect fourth apart,
 the scale degree at the same fret on the neighboring string will be 4.
-The major third is back one fret---the third shape may already be well known,
+The major third is one fret lower.
+The third shape may already be well known,
 since it's the shell of every major chord.
+Across the the 3rd to 2nd string,
+the scale degree at the same fret on the neighboring string is 3,
+the major third interval.  
 
 Then the major second (whole tone "T") is back two frets from the 3,
 and a minor second (semitone "S") is the fret behind that.
