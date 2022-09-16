@@ -30,8 +30,7 @@ how old or in disrepair,
 as long as the instrument has one string that can vibrate,
 it can make music.
 
-And everyone knows how to do this.
-We don't have to be trained.
+Nearly everyone knows how to do this without training.
 We all know on some level how to make music with a vibrating string.
 
 
