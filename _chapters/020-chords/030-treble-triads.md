@@ -29,9 +29,8 @@ Dots in the diagrams indicate the chord root note (R) and the intervals from the
 The root note determines the name of the chord.
 
 When playing these chords, 
-you'll need to mute the unused strings with a neighboring finger.
+we need to mute the unused strings with a neighboring finger. 
 That tends to be pretty natural to do with these shapes.
-
 
 
 ## Major triads
