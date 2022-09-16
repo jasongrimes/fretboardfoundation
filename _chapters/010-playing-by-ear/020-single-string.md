@@ -31,7 +31,7 @@ as long as the instrument has one string that can vibrate,
 it can make music.
 
 Nearly everyone knows how to do this without training.
-We all know on some level how to make music with a vibrating string.
+On some level we all know how to make music with a vibrating string.
 
 
 
