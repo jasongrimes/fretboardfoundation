@@ -82,7 +82,7 @@ Canonically, all the major scale degrees are major or perfect intervals.
 In other words,
 - from 1 there's a whole tone to 2
 - then a whole tone to 3,
-- a semitone to 4,
+- then a **semitone** to 4,
 - a whole tone to 5,
 - a whole tone to 6,
 - a whole tone to 7, and
