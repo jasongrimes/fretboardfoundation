@@ -88,49 +88,49 @@ The two lowest-pitched strings (5 and 6) have been left out of the diagrams in o
 
 {% include figure.html
     caption="I chord in major key with 1st-string tonic."
-    url="/assets/figures/major-key-treble-triads/1-I.svg" 
+    url="/assets/figures/major-key-triads/1-I.svg" 
     class="uke-chord row" 
 %}
 
 {% include figure.html
     caption="ii chord in major key with 1st-string tonic."
-    url="/assets/figures/major-key-treble-triads/1-ii.svg" 
+    url="/assets/figures/major-key-triads/1-ii.svg" 
     class="uke-chord row" 
 %}
 
 {% include figure.html
     caption="iii chord in major key with 1st-string tonic."
-    url="/assets/figures/major-key-treble-triads/1-iii.svg" 
+    url="/assets/figures/major-key-triads/1-iii.svg" 
     class="uke-chord row" 
 %}
 
 {% include figure.html
     caption="IV chord in major key with 1st-string tonic."
-    url="/assets/figures/major-key-treble-triads/1-IV.svg" 
+    url="/assets/figures/major-key-triads/1-IV.svg" 
     class="uke-chord row" 
 %}
 
 {% include figure.html
     caption="V chord in major key with 1st-string tonic."
-    url="/assets/figures/major-key-treble-triads/1-V.svg" 
+    url="/assets/figures/major-key-triads/1-V.svg" 
     class="uke-chord row" 
 %}
 
 {% include figure.html
     caption="vi chord in major key with 1st-string tonic."
-    url="/assets/figures/major-key-treble-triads/1-vi.svg" 
+    url="/assets/figures/major-key-triads/1-vi.svg" 
     class="uke-chord row" 
 %}
 
 {% include figure.html
     caption="vii chord in major key with 1st-string tonic."
-    url="/assets/figures/major-key-treble-triads/1-vii.svg" 
+    url="/assets/figures/major-key-triads/1-vii.svg" 
     class="uke-chord row" 
 %}
 
 {% include figure.html
     caption="I chord in major key with 1st-string tonic."
-    url="/assets/figures/major-key-treble-triads/1-I.svg" 
+    url="/assets/figures/major-key-triads/1-I.svg" 
     class="uke-chord row" 
 %}
 
