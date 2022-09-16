@@ -120,6 +120,11 @@ The scale semitones and tones are one and two frets apart.
 
 ## Assembling scales across strings
 
+Remember: don't try to memorize chord shapes.
+Focus on the intervals between the notes instead.
+The fingers will learn the shapes on their own,
+automatically linked to the sounds and feelings of the intervals.
+
 Assembling a scale across strings requires knowing where to find semitone and whole tone intervals on neighboring strings.
 Remember the intervals are the same between all strings (a perfect fourth),
 except the "third rail" major third interval between strings 2-3.
