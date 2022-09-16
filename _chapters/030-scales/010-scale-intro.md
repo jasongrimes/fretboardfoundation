@@ -13,7 +13,7 @@ The notes in the key are the notes of the scale,
 and the chords in the key are harmonized from the scale.
 See {% include chapter-link.html slug="harmony-intro" %} for details.
 
-Scales can be immensely helpful for understanding music with *reason*. 
+Scales can be immensely helpful for understanding music by *reason*. 
 When practice time is governed by reason,
 and performance time is governed by habit and intuition,
 an understanding of scales can guide our practice so we develop useful habits and intuitions about sounds and how to produce them. 
