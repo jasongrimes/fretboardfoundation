@@ -176,7 +176,7 @@ See {% include chapter-link.html slug="caged" %} for more on CAGED chord shapes.
 
 Don't try to memorize scale shapes.
 Focus on the *intervals between the notes* instead.
-How they sound, what they mean.
+How they sound, where to find them, what they mean.
 The fingers will learn the shapes on their own,
 automatically linked to the sounds and feelings of the intervals.
 
