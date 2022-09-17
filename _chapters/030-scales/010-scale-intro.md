@@ -86,7 +86,7 @@ In other words,
 - a whole tone to 5,
 - a whole tone to 6,
 - a whole tone to 7, and
-- a semitone back to 1.
+- a *semitone* back to 1.
 
 For another example, 
 the **natural minor scale** is a seven note diatonic scale 
