@@ -125,6 +125,10 @@ Assembling a scale across strings requires knowing where to find semitone and wh
 Remember the intervals are the same between all strings (a perfect fourth),
 except the "third rail" major third interval between strings 2-3.
 
+Intervals that cross the third rail are 
+diminished (lowered) one semitone (fret) when approached from the left,
+and augmented (raised) one semitone (fret) when approached from the right. 
+
 {% include figure.html
     caption="Semitone and whole tone on neighboring strings."
     url="/assets/figures/major-scale/neighboring-st.svg"
