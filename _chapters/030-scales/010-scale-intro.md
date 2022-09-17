@@ -136,15 +136,18 @@ except the "third rail" major third interval between strings 2-3.
     class="chord row"
 %}
 
-If it's hard to identify the 3 and 4 frets back to the next scale degree at a glance,
+If it's hard to identify the jump back to the next scale degree at a glance,
 it can help to count backwards. 
+If we know where the 3 is on the neighboring string,
+the T is two frets behind it,
+and the S is one fret behind the T.
 
+The third shape may already be well known,
+since it's the shell of every major chord.
 As shown in the diagram,
 since most strings are tuned a perfect fourth apart,
 the scale degree at the same fret on the neighboring string will be 4.
 The major third is one fret lower.
-The third shape may already be well known,
-since it's the shell of every major chord.
 Across the third rail (strings 3-2),
 the major third is at the same fret.  
 
