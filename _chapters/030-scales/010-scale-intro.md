@@ -31,7 +31,8 @@ The way to avoid accidentally programming ourselves into scale-playing robots is
 We have to think about each note as we play it. 
 
 For example, which note is it? 
-Which scale degree? 
+Which scale degree?
+What's the interval from the previous and next degrees?
 What’s the interval from the tonic? 
 What’s the interval from the root of the chord? 
 How does it sound and feel in this context? 
