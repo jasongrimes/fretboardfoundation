@@ -50,8 +50,9 @@ At performance time, with the analytical mind mostly turned off,
 our fingers are unleashed to repeat the habits that we’ve formed during practice. 
 And if the habits are deep, it’s surprising how fast we can execute them.
 
-The trick is to form the intended habits during practice, 
-which sound good to our ear and which carefully exclude sloppiness and mistakes. 
+The trick is to slowly and carefully form the intended habits during practice, 
+which sound good to our ear and which carefully exclude sloppiness and mistakes.
+It's like carving a rut into the dirt to direct the flow of rain water to irrigate our crops.
 
 ## What is a scale
 
