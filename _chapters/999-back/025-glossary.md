@@ -104,7 +104,7 @@ this usage leads to confusion by obscuring the fact that there are other ways of
 and that it's chauvinist and biased against tonal idioms not used in the euroclassical or jazz canons
 [(Tagg, 2018, pp. 52--55)](references#tagg-2018).
 Referring to most types of music in the world as "not tonal",
-that is, "not music",
+essentially, "not musical",
 is clearly a poor choice of words and best avoided.
 Tagg suggests the term "[tonical](#tonical)" instead of "tonal" for "music that has a [tonic](#tonic)",
 and using "tonal" for "any music which has the properties of a [tone](#tone)"
