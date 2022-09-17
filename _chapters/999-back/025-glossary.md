@@ -8,8 +8,7 @@ _Everyday Tonality II (towards a tonal theory of what most people hear)_ [(Tagg,
 to which this book is indebted. Errors and omissions are, of course, mine. 
 
 - **atonal**{:#atonal}: (1) Music or other sounds without [tones](#tone).
-(2) Confusingly,
-but commonly
+(2) Confusingly but commonly
 (and somewhat offensively),
 *atonal* can also refer to music that is *[atonical](#atonical)*.
 See discussion of [tonal](#tonal).
