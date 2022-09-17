@@ -142,7 +142,7 @@ If we know where the 3 is on the neighboring string,
 the T is two frets behind it,
 and the S is one fret behind the T.
 
-The third shape may already be well known,
+The major third shape may already be familiar,
 since it's the shell of every major chord.
 As shown in the diagram,
 since most strings are tuned a perfect fourth apart,
@@ -150,10 +150,6 @@ the scale degree at the same fret on the neighboring string will be 4.
 The major third is one fret lower.
 Across the third rail (strings 3-2),
 the major third is at the same fret.  
-
-Then the major second (whole tone "T") is back two frets from the 3,
-and a minor second (semitone "S") is the fret behind that.
-
 
 ## CAGED scale forms
 
