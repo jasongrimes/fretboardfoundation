@@ -52,7 +52,7 @@ And if the habits are deep, it’s surprising how fast we can execute them.
 
 The trick is to slowly and carefully form the intended habits during practice, 
 which sound good to our ear and which carefully exclude sloppiness and mistakes.
-It's like carving a rut into the dirt to direct the future flow of rain water to irrigate our crops.
+It's like carving a rut into the dirt to direct the future flow of rain water to irrigate the crops.
 
 ## What is a scale
 
