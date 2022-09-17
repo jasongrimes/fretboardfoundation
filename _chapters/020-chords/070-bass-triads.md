@@ -82,7 +82,7 @@ Start by just playing the root note in the bass.
 Then make the bass line more interesting by adding in the fifth. 
 
 Smooth out the bass line by adding approach notes before the root and fifth---either 
-a chromatic note, scale tone, or chord tone immediately above or below the target note.
+a chromatic tone, scale tone, or chord tone immediately above or below the target note.
 
 The book *Building Walking Bass Lines*, 
 by Ed Friedland [(Friedland, 1995)](references#friedland-1995),
