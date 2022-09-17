@@ -18,3 +18,6 @@ finding notes across strings is a matter of random guessing,
 and then remembering what we find.
 It gets easier over time.
 It's like a memory game that never resets.
+
+One way to get better at it is to study scales.
+See {% include chapter-link.html slug="scale-intro" %}.
