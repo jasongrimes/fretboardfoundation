@@ -150,7 +150,7 @@ the scale degree at the same fret on the neighboring string will be 4.
 The major third is one fret lower.
 The third shape may already be well known,
 since it's the shell of every major chord.
-Across the the 3rd to 2nd string,
+Across the third rail (strings 3-2),
 the major third is at the same fret.  
 
 Then the major second (whole tone "T") is back two frets from the 3,
