@@ -126,7 +126,7 @@ Assembling a scale across strings requires knowing where to find semitone and wh
 Remember the intervals are the same between all strings (a perfect fourth),
 except the "third rail" major third interval between strings 2-3.
 
-Intervals that cross the third rail are 
+Interval shapes that cross the third rail are 
 diminished one semitone when approached from the left,
 and augmented one semitone when approached from the right. 
 
