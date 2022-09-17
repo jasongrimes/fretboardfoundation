@@ -170,9 +170,17 @@ To assemble a scale on a CAGED form,
 put the first note of the scale on the lowest root of one of the CAGED chord shapes,
 and assemble the scale across the strings without moving the hand out of position.
 
-Remember: don't try to memorize chord shapes.
-Focus on the intervals between the notes instead.
+See {% include chapter-link.html slug="caged" %} for more on CAGED chord shapes.
+
+## Don't try to memorize scale shapes
+
+Don't try to memorize scale shapes.
+Focus on the *intervals between the notes* instead.
+How they sound, what they mean.
 The fingers will learn the shapes on their own,
 automatically linked to the sounds and feelings of the intervals.
 
-See {% include chapter-link.html slug="caged" %} for more on CAGED chord shapes.
+Practicing in this way strengthens neural pathways in the brain,
+which are then be reused automatically at performance time.
+It's like digging an irrigation ditch so that when the rain falls it is routed to water our plants.
+It's like clearing a pathway in a forest that will later be run in the dark.
