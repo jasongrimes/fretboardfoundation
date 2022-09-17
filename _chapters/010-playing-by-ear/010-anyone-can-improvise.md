@@ -14,7 +14,7 @@ and an ear to listen.
 
 ## Why improvise
 
-It’s worth bearing in mind that the point of all of this is to create music.
+It’s worth bearing in mind that the point of all this is to create music.
 To create art, beauty, expression.
 
 An art form need not be mastered before creating art. 
