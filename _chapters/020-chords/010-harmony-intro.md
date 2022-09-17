@@ -292,7 +292,9 @@ Harmonizing the natural minor scale gives the following chords:
 Note that minor *key* harmony is slightly more complicated than just harmonizing the natural minor scale.
 See {% include chapter-link.html slug="minor-harmony" %} for details.
 
-## Keys: Major, minor, and modal
+## Keys
+
+### Major, minor, and modal
 
 Most songs in Western music revolve around a keycenter or tonic---a note which serves as the musical "home" of the composition.
 Such compositions are said to be "tonical" 
@@ -315,6 +317,10 @@ for details.
 Some songs are based around a mode,
 rather than being based on a major or minor key.
 See {% include chapter-link.html slug="diatonic-modes" %} for details.
+
+### The musical alphabet
+
+### Sharps and flats
 
 ## Harmonic function
 
