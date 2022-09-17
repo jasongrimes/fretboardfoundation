@@ -181,6 +181,6 @@ The fingers will learn the shapes on their own,
 automatically linked to the sounds and feelings of the intervals.
 
 Practicing in this way strengthens neural pathways in the brain,
-which are then be reused automatically at performance time.
+which can then be reused automatically at performance time.
 It's like digging an irrigation ditch so that when the rain falls it is routed to water our plants.
-It's like clearing a pathway in a forest that will later be run in the dark.
+Or like clearing a pathway in a forest that will later be run in the dark.
