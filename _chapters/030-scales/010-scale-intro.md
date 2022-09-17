@@ -120,11 +120,6 @@ The scale semitones and tones are one and two frets apart.
 
 ## Assembling scales across strings
 
-Remember: don't try to memorize chord shapes.
-Focus on the intervals between the notes instead.
-The fingers will learn the shapes on their own,
-automatically linked to the sounds and feelings of the intervals.
-
 Assembling a scale across strings requires knowing where to find semitone and whole tone intervals on neighboring strings.
 Remember the intervals are the same between all strings (a perfect fourth),
 except the "third rail" major third interval between strings 2-3.
@@ -174,5 +169,10 @@ rather than using ambiguous terms like "form 1" or "position 5-2".
 To assemble a scale on a CAGED form,
 put the first note of the scale on the lowest root of one of the CAGED chord shapes,
 and assemble the scale across the strings without moving the hand out of position.
+
+Remember: don't try to memorize chord shapes.
+Focus on the intervals between the notes instead.
+The fingers will learn the shapes on their own,
+automatically linked to the sounds and feelings of the intervals.
 
 See {% include chapter-link.html slug="caged" %} for more on CAGED chord shapes.
