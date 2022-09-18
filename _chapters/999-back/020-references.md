@@ -14,6 +14,9 @@ Friedland, E. (1995). *Building Walking Bass Lines.* United States: Hal Leo
 Goodrick, M. (1987). *The Advancing Guitarist: Applying Guitar Concepts & Techniques.* Hal Leonard.
 [ISBN search](https://en.wikipedia.org/wiki/Special:BookSources?isbn=0-88188-589-4){:#goodrick-1987}
 
+Ligon, B. (1999). *Comprehensive Technique for Jazz Musicians: For All Instruments* (2nd ed.). Houston Publishing, Inc.
+[ISBN search](https://en.wikipedia.org/wiki/Special:BookSources?isbn=978-0-634-00176-5){:#ligon-1999}
+
 Tagg, P. (2018). *Everyday Tonality II (towards a tonal theory of what most people hear).* Van Duuren Media.
 [ISBN search](https://en.wikipedia.org/wiki/Special:BookSources?isbn=978-0-9908068-0-6){:#tagg-2018}
 
