@@ -212,7 +212,7 @@ It is considered the most "stable" chord,
 constructed from a major third and a perfect fifth,
 the first two distinguishable harmonics in the overtone series.
 
-As Bert Kigon said in *Comprehensive Technique for Jazz Musicians*, 
+As Bert Ligon said in *Comprehensive Technique for Jazz Musicians*, 
 "The [major] triad is the first three pitches in the overtone series 
 and the natural laws of physics insist that the planet vibrates with these tones when the winds blow, 
 which may explain the universal occurrence of the triad in melodies."
