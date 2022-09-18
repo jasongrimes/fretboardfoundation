@@ -234,6 +234,8 @@ The chord type is determined by the intervals between its factors and the root.
 
 </div>
 
+#### Triad thirds
+
 If the third factor is a major third (4 semitones), 
 it is a major chord.
 If the third is a minor third (3 semitones), 
