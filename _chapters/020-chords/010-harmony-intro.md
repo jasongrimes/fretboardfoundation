@@ -204,6 +204,17 @@ and "fifth" factors of the chord,
 which are generic intervals of (some quality of) a third and a fifth from the root.
 The specific intervals determine the chord type.
 
+#### Major triads
+
+The major triad is the most common chord in Western music.
+
+It is considered the most "stable" chord,
+constructed from a major third and a perfect fifth,
+the first two distinguishable harmonics in the overtone series.
+
+
+#### Triad chord types
+
 There are four types of triad chord.
 The chord type is determined by the intervals between its factors and the root.
 
