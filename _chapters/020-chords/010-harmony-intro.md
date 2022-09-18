@@ -213,7 +213,7 @@ constructed from a major third and a perfect fifth,
 the first two distinguishable harmonics in the overtone series.
 
 As Bert Ligon said in *Comprehensive Technique for Jazz Musicians*, 
-the major triad is "the first three pitches in the overtone series 
+the major triad consists of "the first three pitches in the overtone series 
 and the natural laws of physics insist that the planet vibrates with these tones when the winds blow, 
 which may explain the universal occurrence of the triad in melodies."
 [(Ligon, 1999)](references#ligon-1999)
