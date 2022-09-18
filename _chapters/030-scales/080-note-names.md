@@ -7,7 +7,7 @@ abstract: The "normal" way to think about notes, with added attention to disting
 {% include figure.html
     caption="All natural notes on the fretboard in standard tuning."
     url="/assets/figures/notes/all-natural.svg"
-    class="chord"
+    class="chord row"
 %}
 
 {% include figure.html
