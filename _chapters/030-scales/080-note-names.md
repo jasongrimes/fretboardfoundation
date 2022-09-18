@@ -5,6 +5,12 @@ abstract: The "normal" way to think about notes, with added attention to disting
 ---
 
 {% include figure.html
+    caption="All natural notes on the fretboard in standard tuning."
+    url="/assets/figures/notes/all-natural.svg"
+    class="chord"
+%}
+
+{% include figure.html
     caption="C notes on fretboard in standard tuning."
     url="/assets/figures/notes/Cs.svg"
     class="chord row"
@@ -46,8 +52,3 @@ abstract: The "normal" way to think about notes, with added attention to disting
     class="chord row"
 %}
 
-{% include figure.html
-    caption="C notes on fretboard in standard tuning."
-    url="/assets/figures/notes/Cs.svg"
-    class="chord row"
-%}
