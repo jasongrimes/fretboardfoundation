@@ -125,7 +125,7 @@ The scale semitones and tones are one and two frets apart.
     class="chord row"
 %}
 
-## Conparing with other scales
+## Comparing with other scales
 
 Compare intervals with another known scale 
 using the interval scale shape.
