@@ -71,9 +71,31 @@ automatically linked to the sounds and feelings of the intervals.
 
 ### Ascending and descending, slowly
 
+From the root note,
+thoughtfully assemble the scale from its intervals
+as far as it can go ascending and descending.
+Play slowly and mindfully,
+knowing each note before moving on to the next.
+Gradually learn where each interval is in this form.
+For every mistake,
+repeat it correctly tenfold times.
+
+### Tunes and licks
+
+While ascending or descending,
+switch directions at will,
+revealing tunes that arise from long known melodies in deep memories.
+It can be surprising how many classical, 
+folk, 
+and religious traditional songs 
+consist largely of snippets of scales.
+
+Sounds, tunes and licks we hear that we like should be replayed,
+slowly, thoughtfully, and repeatedly,
+so they will become part of our personal style.
+
 ### Patterns and arpeggios
 
-### Melodies and licks
 
 
 ## D form
