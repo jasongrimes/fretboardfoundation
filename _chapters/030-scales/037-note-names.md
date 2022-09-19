@@ -1,7 +1,7 @@
 ---
-title: Note names and registers
+title: Notes on the fretboard
 slug: note-names
-abstract: The "normal" way to think about notes, with added attention to distinguishing between the same notes in different octaves. 
+abstract: Locating the natural notes on the fretboard, with attention to distinguishing between octaves. 
 ---
 
 {% include figure.html
