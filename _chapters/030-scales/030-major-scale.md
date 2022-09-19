@@ -61,11 +61,20 @@ See {% include chapter-link.html slug="scale-intro" %} for details.
 
 ## Practicing the major scale
 
-### Ascending and descending, very slowly
+### Don't try to memorize scale shapes
 
-### Tunes and licks
+Don't try to memorize scale shapes.
+Focus on the *intervals between the notes* instead.
+How they sound, where to find them, what they mean.
+The fingers will learn the shapes on their own,
+automatically linked to the sounds and feelings of the intervals.
+
+### Ascending and descending, slowly
 
 ### Patterns and arpeggios
+
+### Melodies and licks
+
 
 ## D form
 
