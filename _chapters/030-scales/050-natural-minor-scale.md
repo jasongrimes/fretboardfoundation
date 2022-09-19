@@ -48,6 +48,34 @@ See {% include chapter-link.html slug="scale-intro" %} for details.
     class="chord row"
 %}
 
+## E form
+
+{% include figure.html
+    caption="Natural minor scale in E CAGED form."
+    url="/assets/figures/natural-minor-scale/natural-minor-E.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="Relative major scale in G CAGED form."
+    url="/assets/figures/major-scale/major-G.svg"
+    class="chord row"
+%}
+
+## D form
+
+{% include figure.html
+    caption="Natural minor scale in D CAGED form."
+    url="/assets/figures/natural-minor-scale/natural-minor-D.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="Relative major scale in E CAGED form."
+    url="/assets/figures/major-scale/major-E.svg"
+    class="chord row"
+%}
+
 ## C form
 
 {% include figure.html
@@ -90,30 +118,3 @@ See {% include chapter-link.html slug="scale-intro" %} for details.
     class="chord row"
 %}
 
-## E form
-
-{% include figure.html
-    caption="Natural minor scale in E CAGED form."
-    url="/assets/figures/natural-minor-scale/natural-minor-E.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="Relative major scale in G CAGED form."
-    url="/assets/figures/major-scale/major-G.svg"
-    class="chord row"
-%}
-
-## D form
-
-{% include figure.html
-    caption="Natural minor scale in D CAGED form."
-    url="/assets/figures/natural-minor-scale/natural-minor-D.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="Relative major scale in E CAGED form."
-    url="/assets/figures/major-scale/major-E.svg"
-    class="chord row"
-%}
