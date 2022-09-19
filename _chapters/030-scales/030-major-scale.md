@@ -51,6 +51,22 @@ See {% include chapter-link.html slug="scale-intro" %} for details.
     class="chord row"
 %}
 
+## E form
+
+{% include figure.html
+    caption="Major scale in E CAGED form."
+    url="/assets/figures/major-scale/major-E.svg"
+    class="chord"
+%}
+
+## D form
+
+{% include figure.html
+    caption="Major scale in D CAGED form."
+    url="/assets/figures/major-scale/major-D.svg"
+    class="chord"
+%}
+
 ## C form
 
 {% include figure.html
@@ -75,18 +91,3 @@ See {% include chapter-link.html slug="scale-intro" %} for details.
     class="chord"
 %}
 
-## E form
-
-{% include figure.html
-    caption="Major scale in E CAGED form."
-    url="/assets/figures/major-scale/major-E.svg"
-    class="chord"
-%}
-
-## D form
-
-{% include figure.html
-    caption="Major scale in D CAGED form."
-    url="/assets/figures/major-scale/major-D.svg"
-    class="chord"
-%}
