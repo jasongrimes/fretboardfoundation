@@ -59,6 +59,14 @@ See {% include chapter-link.html slug="scale-intro" %} for details.
     class="chord"
 %}
 
+## Practing the major scale
+
+### Ascending and descending, very slowly
+
+### Tunes and licks
+
+### Patterns and arpeggios
+
 ## D form
 
 {% include figure.html
