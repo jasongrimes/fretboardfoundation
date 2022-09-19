@@ -1,7 +1,7 @@
 ---
-title: Scale patterns and arpeggios
-slug: scale-patterns
-abstract: If we're going to play scales repetitively, at least they should sound good. 
+title: Practicing scales
+slug: practicing-scales
+abstract: Practicing scales in ways that are efficient and sound good. 
 ---
 
 ## One string at a time
