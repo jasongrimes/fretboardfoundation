@@ -62,31 +62,17 @@ See {% include chapter-link.html slug="scale-intro" %} for details.
     class="chord row"
 %}
 
-## G form
+## D form
 
 {% include figure.html
-    caption="Natural minor scale in G CAGED form."
-    url="/assets/figures/natural-minor-scale/natural-minor-G.svg"
+    caption="Natural minor scale in D CAGED form."
+    url="/assets/figures/natural-minor-scale/natural-minor-D.svg"
     class="chord row"
 %}
 
 {% include figure.html
-    caption="Relative major scale in A CAGED form."
-    url="/assets/figures/major-scale/major-A.svg"
-    class="chord row"
-%}
-
-## A form
-
-{% include figure.html
-    caption="Natural minor scale in A CAGED form."
-    url="/assets/figures/natural-minor-scale/natural-minor-A.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="Relative major scale in C CAGED form."
-    url="/assets/figures/major-scale/major-C.svg"
+    caption="Relative major scale in E CAGED form."
+    url="/assets/figures/major-scale/major-E.svg"
     class="chord row"
 %}
 
@@ -104,18 +90,30 @@ See {% include chapter-link.html slug="scale-intro" %} for details.
     class="chord row"
 %}
 
-## D form
+## A form
 
 {% include figure.html
-    caption="Natural minor scale in D CAGED form."
-    url="/assets/figures/natural-minor-scale/natural-minor-D.svg"
+    caption="Natural minor scale in A CAGED form."
+    url="/assets/figures/natural-minor-scale/natural-minor-A.svg"
     class="chord row"
 %}
 
 {% include figure.html
-    caption="Relative major scale in E CAGED form."
-    url="/assets/figures/major-scale/major-E.svg"
+    caption="Relative major scale in C CAGED form."
+    url="/assets/figures/major-scale/major-C.svg"
     class="chord row"
 %}
 
+## G form
 
+{% include figure.html
+    caption="Natural minor scale in G CAGED form."
+    url="/assets/figures/natural-minor-scale/natural-minor-G.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="Relative major scale in A CAGED form."
+    url="/assets/figures/major-scale/major-A.svg"
+    class="chord row"
+%}
