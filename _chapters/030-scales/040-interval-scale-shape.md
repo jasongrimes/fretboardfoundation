@@ -1,7 +1,7 @@
 ---
 title: The interval scale shape
 slug: interval-scale
-abstract: Use this awkward-to-play scale shape to reveal the internal logic of any scale or mode. 
+abstract: Compare scales with this awkward-to-play scale shape that reveals the internal logic of any scale or mode. 
 ---
 
 ## Basic interval shape
