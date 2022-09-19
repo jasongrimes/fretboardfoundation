@@ -59,7 +59,7 @@ See {% include chapter-link.html slug="scale-intro" %} for details.
     class="chord"
 %}
 
-## Practicing the major scale
+## Practicing this scale
 
 ### Don't try to memorize scale shapes
 
