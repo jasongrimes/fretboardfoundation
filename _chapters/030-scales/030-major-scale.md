@@ -77,20 +77,22 @@ as far as it can go ascending and descending.
 Play slowly and mindfully,
 knowing each note before moving on to the next.
 Gradually learn where each interval is in this form.
-For every mistake,
-repeat it correctly tenfold times.
+Aim for perfection.
+Any mistakes should be repeated over correctly many multiples of times.
+Think of carving a niche in the dirt for irrigation,
+or starting a saw cut in a piece of wood.
 
 ### Tunes and licks
 
 While ascending or descending,
-switch directions at will,
-revealing tunes that arise from long known melodies in deep memories.
+switch directions at will to prevent boredom and make little melodic phrases.
+This may reveal tunes from long buried melodies in deep memories.
 It can be surprising how many classical, 
-folk, 
+folk, cultural,
 and religious traditional songs 
 consist largely of snippets of scales.
 
-Sounds, tunes and licks we hear that we like should be replayed,
+Sounds that we like should be replayed,
 slowly, thoughtfully, and repeatedly,
 so they will become part of our personal style.
 
