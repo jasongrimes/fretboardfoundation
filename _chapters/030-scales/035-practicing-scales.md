@@ -1,7 +1,7 @@
 ---
 title: Practicing scales
 slug: practicing-scales
-abstract: Effective scale practice sounds good. 
+abstract: Effective scale practice that sounds good. 
 ---
 
 Practice the scale, one form at a time: 
