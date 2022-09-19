@@ -59,7 +59,7 @@ See {% include chapter-link.html slug="scale-intro" %} for details.
     class="chord"
 %}
 
-## Practing the major scale
+## Practicing the major scale
 
 ### Ascending and descending, very slowly
 
