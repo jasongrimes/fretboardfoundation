@@ -83,9 +83,9 @@ Canonically, all the major scale degrees are major or perfect intervals.
 
 In other words,
 - from 1 there's a whole tone to 2,
-a major second,
+a major second from the tonic,
 - then a whole tone to 3, 
-a major third,
+a major third from the tonic,
 - then a **semitone** to 4, 
 a perfect fourth,
 - a whole tone to 5,
