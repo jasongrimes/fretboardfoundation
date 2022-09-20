@@ -120,3 +120,10 @@ See {% include chapter-link.html slug="practicing-scales" %} for details.
     class="chord"
 %}
 
+## Whole fretboard
+
+{% include figure.html
+    caption="Major scale on whole fretboard."
+    url="/assets/figures/major-scale/major-scale-2.svg"
+    class="chord"
+%}
