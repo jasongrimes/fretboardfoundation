@@ -64,7 +64,7 @@ Here is the major scale assembled in CAGED E form.
 
 ## E form
 
-E form is also a first string root treble triad.
+The CAGED E form is also a treble triad with first string root.
 
 {% include figure.html
     caption="Major scale in E CAGED form."
