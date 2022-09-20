@@ -35,6 +35,17 @@ It's like carving a rut into the dirt to direct the future flow of rain water to
 
 ## Chunking
 
+Don't focus on the shapes of the notes in the E form.
+Focus on assembling it in place from anywhere on the fretboard,
+given a starting scale degree.
+This involves learning the intervals on the fretboard,
+rather than scale shapes.
+There are fewer interval shapes than scale shapes,
+so it is faster to learn that way.
+Meanwhile,
+our fingers learn the shapes on their own,
+linked to the sounds and feelings of the intervals. 
+
 Practice the scale, one form at a time: 
 focus on intervals, not shapes. 
 Play slowly ascending and descending to learn the intervals. 
