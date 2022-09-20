@@ -54,10 +54,10 @@ spaced as far apart as possible.
 
 ### Scale formulas
 
-Scales are identified by their intervals. Either:
-- the interval between scale degrees (ex. **T-T-S-T-T-T-S**), or 
-- the interval from each scale degree to the tonic 
-(ex. **1-2-3-4-5-6-7** or **1-2-b3-4-5-b6-b7**).
+Scales are identified by their intervals, 
+either between degrees or from the tonic.
+- **T-T-S-T-T-T-S**: example scale formula with intervals between scale degrees. 
+- **1-2-3-4-5-6-7** or **1-2-b3-4-5-b6-b7**: example scale formulas with intervals from each scale degree to the tonic.
 
 The **major scale** is a seven note diatonic scale 
 with semitones between degrees 3-4 and 7-1.
