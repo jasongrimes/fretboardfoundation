@@ -83,9 +83,13 @@ Meanwhile,
 our fingers learn the shapes on their own,
 linked to the sounds and feelings of the intervals. 
 
-## Practicing this scale
+## Practicing the scale forms
 
 See {% include chapter-link.html slug="practicing-scales" %}.
+
+Stay on the E form and learn as much as possible. 
+Don’t move on to another form until the E form is so familiar it becomes boring. 
+Boredom is how to know when to move on. 
 
 ## D form
 
