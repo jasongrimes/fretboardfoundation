@@ -104,6 +104,9 @@ The scale semitones and tones are one and two frets apart.
     class="chord row"
 %}
 
+## Comparing scales
+
+
 ## Assembling scales across strings
 
 Assembling a scale across strings requires knowing where to find semitone and whole tone intervals on neighboring strings.
