@@ -78,8 +78,8 @@ Start with the second finger on the sixth string tonic.
 ## Practicing scale forms
 
 Stay on the E form and learn as much as possible before moving on to another form.
-When this form becomes boring from familiarity,
-that's when it's time to move on. 
+When it becomes boring from familiarity
+is the time to move on. 
 
 Practice like any scale form.
 Slowly and thoughtfully,
