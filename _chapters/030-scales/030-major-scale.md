@@ -75,7 +75,7 @@ The E form is also a treble triad with first string root.
 Focus on the scale intervals and assembling the scale in place,
 rather than focusing on the shapes of the notes on the fretboard.
 
-## Practicing the scale forms
+## Practicing scale forms
 
 Stay on the E form and learn as much as possible before moving on to another form.
 When this form becomes boring from familiarity,
