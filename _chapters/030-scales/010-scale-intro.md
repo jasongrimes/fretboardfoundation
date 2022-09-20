@@ -6,6 +6,8 @@ abstract: Scales are for the brain, not the fingers. Don't play like a robot.
 
 ## What scales are good for---and bad for
 
+In short, scales tell us what the notes are.
+
 Scales are the foundation of harmony and melody.
 
 Every key is derived from a scale.
