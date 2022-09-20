@@ -72,8 +72,8 @@ The E form is also a treble triad with first string root.
     class="chord"
 %}
 
-Focus on the scale intervals and assembling the scale in place,
-rather than focusing on the shapes of the notes on the fretboard.
+Fingering is straightforward in this form.
+Start with the second finger on the tonic on the sixth string. 
 
 ## Practicing scale forms
 
