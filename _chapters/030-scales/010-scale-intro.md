@@ -131,6 +131,26 @@ it can be helpful to compare it to a reference scale.
 For example,
 the following figure compares the major scale and the natural minor scale.
 
+Compare the **natural minor scale**, 
+with minor third, sixth, and seventh intervals,
+which are easy to see next to the major third, 
+sixth, and seventh intervals in the major scale shape.
+
+Also compare the **harmonic minor** with a major seventh,
+and the **ascending melodic minor** aka **jazz minor** with just a minor third. 
+
+{% include figure.html
+    caption="Major scale, all major and perfect intervals."
+    url="/assets/figures/interval-scale/intervals-6.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="Natural minor scale. Minor third, sixth, and seventh intervals."
+    url="/assets/figures/interval-scale/natural-minor-6.svg"
+    class="chord row"
+%}
+
 See {% include chapter-link.html slug="interval-scale" %} for more details. 
 
 ## Assembling scales across strings
