@@ -54,7 +54,7 @@ spaced as far apart as possible.
 
 ### Scale formulas
 
-Scales are identified by their intervals---either:
+Scales are identified by their intervals. Either:
 - the interval between scale degrees (ex. **T-T-S-T-T-T-S**), or 
 - the interval from each scale degree to the tonic 
 (ex. **1-2-3-4-5-6-7** or **1-2-b3-4-5-b6-b7**).
@@ -118,10 +118,10 @@ The scale semitones and tones are one and two frets apart.
 ## Semitones and tetrachords
 
 Every scale can be distinguished by the location of its semitones,
-a unique fingerprint of sorts.
+which provide a unique fingerprint.
 
-7-note scales can be split
-into two 4-note sequences called "tetrachords" (appending the repeating 1&#302; at the octave).
+7-note scales can also be split
+into two 4-note sequences called "tetrachords" (appending the repeating 1&#x302; at the octave).
 As more scales are learned,
 it can become easier to think of them in terms of their tetrachords.
 
