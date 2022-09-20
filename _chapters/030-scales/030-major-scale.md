@@ -74,7 +74,7 @@ I chord on a first-string tonic.
 %}
 
 Don't focus on the shapes of the notes in the E form.
-Focus on assembling it in place wherever you are on the fretboard,
+Focus on assembling it in place from anywhere on the fretboard,
 given a starting scale degree.
 This involves learning the intervals on the fretboard,
 rather than scale shapes.
