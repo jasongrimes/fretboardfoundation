@@ -120,6 +120,13 @@ it can become easier to think of them in terms of their tetrachords rather than 
 
 ## Comparing scales
 
+When getting familiar with a scale,
+it can be helpful to compare it to a reference scale.
+For example,
+the following figure compares the major scale and the natural minor scale.
+
+See {% include chapter-link.html slug="interval-scale" %} for more details. 
+
 ## Assembling scales across strings
 
 Assembling a scale across strings requires knowing where to find semitone and whole tone intervals on neighboring strings.
