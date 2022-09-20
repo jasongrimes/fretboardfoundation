@@ -60,9 +60,9 @@ See {% include chapter-link.html slug="scale-intro" %} for details.
     class="chord row"
 %}
 
-Here is the major scale assembled in CAGED E form.
-
 ## E form
+
+Here is the major scale assembled in CAGED E form.
 
 The CAGED E form is also a treble triad with first string root.
 
