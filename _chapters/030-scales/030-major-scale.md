@@ -38,7 +38,7 @@ Here is the major scale on one string.
     class="chord"
 %}
 
-Notice that the 8-note scale 
+Notice that the 7-note scale plus the octave
 is composed of two identical 4-note "tetrachords",
 with intervals T-T-S (1,2,3,4 and 5,6,7,1).
 This is called the Ionian tetrachord.
@@ -72,16 +72,8 @@ The CAGED E form is also a treble triad with first string root.
     class="chord"
 %}
 
-Don't focus on the shapes of the notes in the E form.
-Focus on assembling it in place from anywhere on the fretboard,
-given a starting scale degree.
-This involves learning the intervals on the fretboard,
-rather than scale shapes.
-There are fewer interval shapes than scale shapes,
-so it is faster to learn that way.
-Meanwhile,
-our fingers learn the shapes on their own,
-linked to the sounds and feelings of the intervals. 
+Focus on the scale intervals and assembling the scale in place,
+rather than focusing on the shapes of the notes on the fretboard.
 
 ## Practicing the scale forms
 
