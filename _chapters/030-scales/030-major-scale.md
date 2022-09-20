@@ -64,8 +64,7 @@ Here is the major scale assembled in CAGED E form.
 
 ## E form
 
-E form is also a first string root treble triad 
-I chord on a first-string tonic.
+E form is also a first string root treble triad.
 
 {% include figure.html
     caption="Major scale in E CAGED form."
