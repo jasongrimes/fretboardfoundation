@@ -30,6 +30,8 @@ See {% include chapter-link.html slug="major-harmony" %} for more information.
 The simplest way to visualize a scale is on a single guitar string.
 The scale semitones and tones are one and two frets apart.
 
+Here is the major scale on one string. 
+
 {% include figure.html
     caption="C major scale on second string."
     url="/assets/figures/major-scale/major-scale-2.svg"
