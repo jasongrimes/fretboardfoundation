@@ -33,36 +33,6 @@ We have to think about each note as we play it,
 and slow down to give ourselves time to do so.
 See {% include chapter-link.html slug="practicing-scales" %} for details.
 
-
-## Practice mindfully 
-
-The way to avoid accidentally programming ourselves into scale-playing robots is to *always be mindful* when practicing scales. 
-We have to think about each note as we play it. 
-
-For example, which note is it? 
-Which scale degree?
-What's the interval from the previous and next degrees?
-What’s the interval from the tonic? 
-What’s the interval from the root of the chord? 
-How does it sound and feel in this context? 
-(If it sounds really good, play it again!)
-
-It’s not necessary to think about *all* of this for each note, 
-but it’s critical to think about *something*; 
-to engage our brain and not just our fingers.
-
-This also means we have to slow down when we practice scales. 
-There’s no time to think about each note if we’re shredding at top speed.
-Perhaps surprisingly, 
-practicing slowly and intentionally like this is actually the most effective way to develop speed. 
-At performance time, with the analytical mind mostly turned off, 
-our fingers are unleashed to repeat the habits that we’ve formed during practice. 
-And if the habits are deep, it’s surprising how fast we can execute them.
-
-The trick is to slowly and carefully form the intended habits during practice, 
-which sound good to our ear and which carefully exclude sloppiness and mistakes.
-It's like carving a rut into the dirt to direct the future flow of rain water to irrigate the crops.
-
 ## What is a scale
 
 A scale is an ordered collection of tones.
