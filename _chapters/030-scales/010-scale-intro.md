@@ -58,12 +58,13 @@ Scales are identified by their intervals,
 either between degrees or from the tonic.
 - **T-T-S-T-T-T-S**: example scale formula with intervals between scale degrees. 
 - **1-2-3-4-5-6-7** or **1-2-b3-4-5-b6-b7**: example scale formulas with intervals from each scale degree to the tonic.
+- Semitones at **3-4** and **7-2**: example of identifying a scale by the unique locations of its semitones. 
 
 The **major scale** is a seven note diatonic scale 
 with semitones between degrees 3-4 and 7-1.
 Canonically, all the major scale degrees are major or perfect intervals. 
 
-**Major scale degrees and intervals**
+**Major scale intervals**
 <div class="table-wrapper" markdown="block">
 
 |1|2|3    |4|5|6|7    |1|
@@ -90,7 +91,7 @@ For another example,
 the **natural minor scale** is a seven note diatonic scale 
 with semitones between degrees 2-b3 and 5-b6.
 
-**Natural minor scale degrees and intervals**
+**Natural minor scale intervals**
 <div class="table-wrapper" markdown="block">
 
 |1|2    |b3|4|5    |b6|b7|1|
