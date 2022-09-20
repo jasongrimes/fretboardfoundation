@@ -104,8 +104,9 @@ The scale semitones and tones are one and two frets apart.
     class="chord row"
 %}
 
-## Comparing scales
+## Look at intervals and tetrachords
 
+## Comparing scales
 
 ## Assembling scales across strings
 
