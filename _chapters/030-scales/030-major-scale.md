@@ -38,6 +38,11 @@ Here is the major scale on one string.
     class="chord"
 %}
 
+Notice that the 8-note scale 
+is composed of two identical 4-note "tetrachords",
+with intervals T-T-S. 
+This is called the Ionian tetrachord.
+
 ## Assemble across strings
 
 Assembling a scale across strings requires knowing where to find semitone and whole tone intervals on neighboring strings.
