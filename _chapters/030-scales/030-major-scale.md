@@ -78,12 +78,15 @@ Focus on assembling it in place wherever you are on the fretboard,
 given a starting scale degree.
 This involves learning the intervals on the fretboard,
 rather than scale shapes.
-There are far fewer interval shapes than scale shapes,
-so it is a much faster and more efficient way to learn.
+There are fewer interval shapes than scale shapes,
+so it is faster to learn that way.
+Meanwhile,
+our fingers learn the shapes on their own,
+linked to the sounds and feelings of the intervals. 
 
 ## Practicing this scale
 
-See 
+See {% include chapter-link.html slug="practicing-scales" %}.
 
 ### Ascending and descending, slowly
 
