@@ -4,6 +4,37 @@ slug: practicing-scales
 abstract: Effective ways to practice scales that also sound good. 
 ---
 
+## Practice mindfully 
+
+The way to avoid accidentally programming ourselves into scale-playing robots is to *always be mindful* when practicing scales. 
+We have to think about each note as we play it. 
+
+For example, which note is it? 
+Which scale degree?
+What's the interval from the previous and next degrees?
+What’s the interval from the tonic? 
+What’s the interval from the root of the chord? 
+How does it sound and feel in this context? 
+(If it sounds really good, play it again!)
+
+It’s not necessary to think about *all* of this for each note, 
+but it’s critical to think about *something*; 
+to engage our brain and not just our fingers.
+
+This also means we have to slow down when we practice scales. 
+There’s no time to think about each note if we’re shredding at top speed.
+Perhaps surprisingly, 
+practicing slowly and intentionally like this is actually the most effective way to develop speed. 
+At performance time, with the analytical mind mostly turned off, 
+our fingers are unleashed to repeat the habits that we’ve formed during practice. 
+And if the habits are deep, it’s surprising how fast we can execute them.
+
+The trick is to slowly and carefully form the intended habits during practice, 
+which sound good to our ear and which carefully exclude sloppiness and mistakes.
+It's like carving a rut into the dirt to direct the future flow of rain water to irrigate the crops.
+
+## Chunking
+
 Practice the scale, one form at a time: 
 focus on intervals, not shapes. 
 Play slowly ascending and descending to learn the intervals. 
@@ -20,7 +51,7 @@ positions, and keys.
 We should move on to the next form or scale when we get bored with the current one. 
 Don’t be bored: one of the cardinal rules of practice. 
 
-### Ascending and descending, slowly
+## Ascending and descending, slowly
 
 From the root note,
 thoughtfully assemble the scale from its intervals
@@ -33,7 +64,7 @@ Any mistakes should be repeated over correctly many multiples of times.
 Think of carving a niche in the dirt for irrigation,
 or starting a saw cut in a piece of wood.
 
-### Tunes and licks
+## Tunes and licks
 
 While ascending or descending,
 switch directions at will to prevent boredom and make little melodic phrases.
@@ -47,7 +78,7 @@ Sounds that we like should be replayed,
 slowly, thoughtfully, and repeatedly,
 so they will become part of our personal style.
 
-### Patterns and arpeggios
+## Patterns and arpeggios
 
 - Scale: Play up and down the string
 - Thirds: Ascending thirds up and down, then descending thirds up and down
