@@ -129,15 +129,9 @@ it can become easier to think of them in terms of their tetrachords.
 When getting familiar with a scale,
 it can be helpful to compare it to a reference scale.
 For example,
-the following figure compares the major scale and the natural minor scale.
-
-Compare the **natural minor scale**, 
-with minor third, sixth, and seventh intervals,
-which are easy to see next to the major third, 
-sixth, and seventh intervals in the major scale shape.
-
-Also compare the **harmonic minor** with a major seventh,
-and the **ascending melodic minor** aka **jazz minor** with just a minor third. 
+the following figure compares the major scale with all major intervals 
+and the natural minor scale
+with its minor third, sixth, and seventh intervals.
 
 {% include figure.html
     caption="Major scale, all major and perfect intervals."
