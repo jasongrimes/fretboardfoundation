@@ -40,7 +40,7 @@ Here is the major scale on one string.
 
 Notice that the 8-note scale 
 is composed of two identical 4-note "tetrachords",
-with intervals T-T-S. 
+with intervals T-T-S (1,2,3,4 and 5,6,7,1).
 This is called the Ionian tetrachord.
 
 ## Assemble across strings
@@ -60,7 +60,7 @@ See {% include chapter-link.html slug="scale-intro" %} for details.
     class="chord row"
 %}
 
-Here is the major scale in CAGED E form.
+Here is the major scale assembled in CAGED E form.
 
 ## E form
 
