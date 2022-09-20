@@ -91,11 +91,7 @@ so they will become part of our personal style.
 
 ## Patterns and arpeggios
 
-- Scale: Play up and down the string
 - Thirds: Ascending thirds up and down, then descending thirds up and down
-- Full diatonic arpeggios: ascending and descending
 - 3-note diatonic arpeggios: ascending up and down, then descending up and down
-- Diatonic melodies
-
 - Cyclical quadruplets
 - Common patterns (Bert Ligon's Connecting chords with linear harmony)
