@@ -73,7 +73,7 @@ The E form is also a treble triad with first string root.
 %}
 
 Fingering is straightforward in this form.
-Start with the second finger on the tonic on the sixth string. 
+Start with the second finger on the sixth string tonic. 
 
 ## Practicing scale forms
 
