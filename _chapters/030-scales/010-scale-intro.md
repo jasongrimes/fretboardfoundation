@@ -176,8 +176,11 @@ Don't make any effort to memorize the shapes of dots or numbers on the fretboard
 Focus on the *intervals between the notes* instead.
 How they sound, where to find them, what they mean.
 
-The fingers will learn the shapes on their own,
-automatically linked to the sounds and feelings of the intervals.
+We gradually become aware that the fingers have learned the shapes on their own,
+wired into the sounds and feelings of the intervals.
+We begin to find we can direct our fingers by thinking of a sound,
+and they know where to place themselves,
+just like writing a word without thinking of the individual lines and circles being drawn. 
 
 Practicing in this way strengthens neural pathways in the brain,
 which can then be reused automatically at performance time.
