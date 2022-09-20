@@ -70,7 +70,7 @@ See {% include chapter-link.html slug="scale-intro" %} for details.
 
 ## Practicing this scale
 
-### Focus on intervals not scale shapes
+### Focus on intervals, not scale shapes
 
 Don't try to memorize scale shapes.
 Focus on the *intervals between the notes* instead.
