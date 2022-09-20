@@ -73,15 +73,17 @@ I chord on a first-string tonic.
     class="chord"
 %}
 
+Don't focus on the shapes of the notes in the E form.
+Focus on assembling it in place wherever you are on the fretboard,
+given a starting scale degree.
+This involves learning the intervals on the fretboard,
+rather than scale shapes.
+There are far fewer interval shapes than scale shapes,
+so it is a much faster and more efficient way to learn.
+
 ## Practicing this scale
 
-### Focus on intervals, not scale shapes
-
-Don't try to memorize scale shapes.
-Focus on the *intervals between the notes* instead.
-How they sound, where to find them, what they mean.
-The fingers will learn the shapes on their own,
-automatically linked to the sounds and feelings of the intervals.
+See 
 
 ### Ascending and descending, slowly
 
