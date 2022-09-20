@@ -124,6 +124,6 @@ See {% include chapter-link.html slug="practicing-scales" %} for details.
 
 {% include figure.html
     caption="Major scale on whole fretboard."
-    url="/assets/figures/major-scale/major-scale-2.svg"
+    url="/assets/figures/major-scale/major-scale-all.svg"
     class="chord"
 %}
