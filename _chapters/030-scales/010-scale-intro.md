@@ -19,7 +19,7 @@ When practice time is governed by reason,
 and performance time is governed by habit and intuition,
 an understanding of scales can guide our practice so we develop useful habits and intuitions about sounds and how to produce them. 
 
-### Scales are dangerous
+### Scales are habit-forming
 
 But practicing scales can also be dangerous. 
 The danger is that when scales are practiced by rote, 
