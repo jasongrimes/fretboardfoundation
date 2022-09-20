@@ -6,7 +6,7 @@ abstract: Scales are for the brain, not the fingers. Don't play like a robot.
 
 ## What scales are good for---and bad for
 
-In short, scales tell us what the notes are.
+### Scales tell us what the notes are.
 
 Scales are the foundation of harmony and melody.
 Every key is derived from a scale.
@@ -19,12 +19,20 @@ When practice time is governed by reason,
 and performance time is governed by habit and intuition,
 an understanding of scales can guide our practice so we develop useful habits and intuitions about sounds and how to produce them. 
 
+### Scales are dangerous
+
 But practicing scales can also be dangerous. 
 The danger is that when scales are practiced by rote, 
 the creative and inquisitive mind gets lulled to sleep. 
 Mindless repetition of scales digs deep ruts of habit in our nervous system, 
 which makes improvisation sound mechanical and boring. 
-It can be hard to avoid this trap. 
+It can be hard to avoid this trap.
+
+The way to avoid accidentally programming ourselves into scale-playing robots is to *always be mindful* when practicing scales. 
+We have to think about each note as we play it,
+and slow down to give ourselves time to do so.
+See {% include chapter-link.html slug="practicing-scales" %} for details.
+
 
 ## Practice mindfully 
 
