@@ -85,11 +85,16 @@ linked to the sounds and feelings of the intervals.
 
 ## Practicing the scale forms
 
-See {% include chapter-link.html slug="practicing-scales" %}.
+Stay on the E form and learn as much as possible before moving on to another form.
+When this form becomes boring from familiarity,
+that's when it's time to move on. 
 
-Stay on the E form and learn as much as possible. 
-Don’t move on to another form until the E form is so familiar it becomes boring. 
-Boredom is how to know when to move on. 
+Practice like any scale form.
+Slowly and thoughtfully,
+first ascending and descending, 
+then with tunes, licks, scale patterns and arpeggios.
+
+See {% include chapter-link.html slug="practicing-scales" %} for details. 
 
 ## D form
 
