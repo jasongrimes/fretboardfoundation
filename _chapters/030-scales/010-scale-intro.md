@@ -48,6 +48,10 @@ which means they have seven notes,
 with five whole tone intervals and two semitones
 spaced as far apart as possible.
 
+Scales are identified by their intervals---either
+the interval between scale degrees (ex. T-T-S-T-T-T-S)
+ir the interval from each scale degree to the tonic (ex. 1-2-3-4-5-6-7-1 or 1-2-b3-4-5-b6-b7-1).
+
 The **major scale** is a seven note diatonic scale 
 with semitones between degrees 3-4 and 7-1.
 Canonically, all the major scale degrees are major or perfect intervals. 
