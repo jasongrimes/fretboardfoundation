@@ -193,9 +193,11 @@ See {% include chapter-link.html slug="caged" %} for more on CAGED chord shapes.
 
 ## Don't try to memorize scale shapes
 
-Don't try to memorize scale shapes.
+Don't make any effort to memorize the shapes of dots or numbers on the fretboard.
+
 Focus on the *intervals between the notes* instead.
 How they sound, where to find them, what they mean.
+
 The fingers will learn the shapes on their own,
 automatically linked to the sounds and feelings of the intervals.
 
