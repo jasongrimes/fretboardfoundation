@@ -17,7 +17,7 @@ Don’t rush.
 It’s a better investment of time to master just one (or a small handful of) forms, 
 positions, and keys.
 
-We move on to the next form or scale when we get bored with the current one. 
+We should move on to the next form or scale when we get bored with the current one. 
 Don’t be bored: one of the cardinal rules of practice. 
 
 ### Ascending and descending, slowly
