@@ -113,10 +113,10 @@ The scale semitones and tones are one and two frets apart.
 Every scale can be distinguished by the location of its semitones,
 a unique fingerprint of sorts.
 
-7-note scales (plus the octave) can be split in half,
-into two 4-note sequences called "tetrachords".
-When more and more scales are learned,
-it can become easier to think of them in terms of their tetrachords rather than the full scale at once.
+7-note scales can be split
+into two 4-note sequences called "tetrachords" (appending the repeating 1&#302; at the octave).
+As more scales are learned,
+it can become easier to think of them in terms of their tetrachords.
 
 ## Comparing scales
 
