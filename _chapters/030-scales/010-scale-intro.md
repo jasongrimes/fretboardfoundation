@@ -178,7 +178,7 @@ How they sound, where to find them, what they mean.
 
 We gradually become aware that the fingers have learned the shapes on their own,
 wired into the sounds and feelings of the intervals.
-We begin to find we can direct our fingers by thinking of a sound,
+We begin to find we can direct our fingers by thinking of a sound or an interval name,
 and they know where to place themselves,
 just like writing a word without thinking of the individual lines and circles being drawn. 
 
