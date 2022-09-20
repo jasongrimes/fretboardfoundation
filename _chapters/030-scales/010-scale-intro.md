@@ -37,16 +37,22 @@ See {% include chapter-link.html slug="practicing-scales" %} for details.
 
 A scale is an ordered collection of tones.
 
+### Scale degrees
+
 The tones in a scale are numbered in order,
 from lowest pitch to highest. 
 These numbers are called “scale degrees”.
 The first degree of a scale is called the “tonic”.
 The other degrees are named for their interval from the tonic.
 
+### Diatonic scales
+
 Most scales in Western music are "diatonic",
 which means they have seven notes,
 with five whole tone intervals and two semitones
 spaced as far apart as possible.
+
+### Scale formulas
 
 Scales are identified by their intervals---either
 the interval between scale degrees (ex. T-T-S-T-T-T-S)
