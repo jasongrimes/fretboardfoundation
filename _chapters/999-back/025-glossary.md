@@ -87,9 +87,10 @@ Similar to a [mode](#mode),
 but without mode's implication of characteristic musical applications.
 
 - **semitone**{:#semitone}: The smallest interval in most Western music,
-and the smallest interval on a guitar fretboard:
+and the smallest interval on a guitar fretboard,
 the distance across one fret on one string. 
-Semitones are sometimes called “half steps”.
+On guitar, semitones are often referred to as "frets".
+Sometimes they are also called “half steps”.
 In Western music, there are twelve semitones in an octave.
 
 - **timbre**{:#timbre}: *(pronounced /ˈtambər/)* aka "tone quality" or "tone color". A complex acoustic phenomenon allowing us to 
