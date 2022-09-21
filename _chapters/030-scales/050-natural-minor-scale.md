@@ -148,8 +148,22 @@ See {% include chapter-link.html slug="practicing-scales" %} for details.
 
 ## Whole fretboard
 
+The first figure shows the A natural minor scale on the whole fretboard,
+in standard tuning.
+Compare the second figure,
+the relative major scale,
+C major.
+The two scales have the same notes and intervals,
+but different scale degrees from different tonics.
+
 {% include figure.html
-    caption="Natural minor scale on the whole fretboard."
-    url="/assets/figures/minor-scale/natural-minor-all.svg"
-    class="chord"
+    caption="Am natural minor scale on the whole fretboard."
+    url="/assets/figures/minor-scale/natural-minor-A-all.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="Relative major scale, C major, on the whole fretboard."
+    url="/assets/figures/major-scale/major-C-all.svg"
+    class="chord row"
 %}
