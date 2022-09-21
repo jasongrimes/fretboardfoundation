@@ -17,8 +17,6 @@ Canonically, all the major scale degrees are major or perfect intervals.
 
 </div>
 
-## The Ionian mode
-
 This pattern is also called the "Ionian" mode.
 It is one of the most common musical modes in the world,
 and it has been the basis of Western harmony for at least 400 years. 
@@ -123,7 +121,7 @@ See {% include chapter-link.html slug="practicing-scales" %} for details.
 ## Whole fretboard
 
 {% include figure.html
-    caption="Major scale on whole fretboard."
-    url="/assets/figures/major-scale/major-scale-all.svg"
+    caption="C major scale on whole fretboard."
+    url="/assets/figures/major-scale/major-C-all.svg"
     class="chord"
 %}
