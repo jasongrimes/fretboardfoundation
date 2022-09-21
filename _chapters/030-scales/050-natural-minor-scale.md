@@ -20,7 +20,7 @@ This pattern is also called the "Aeolian" mode,
 the sixth mode of the major scale.
 See {% include chapter-link.html slug="diatonic-modes" %} for more information.
 
-## Assembling on one string
+## Assemble on one string
 
 The simplest way to visualize a scale is on a single guitar string.
 The scale semitones and tones are one and two frets apart.
@@ -31,7 +31,7 @@ The scale semitones and tones are one and two frets apart.
     class="chord"
 %}
 
-## Comparison to major scale
+## Compare to major scale
 
 {% include figure.html
     caption="Major scale, all major and perfect intervals."
@@ -45,7 +45,7 @@ The scale semitones and tones are one and two frets apart.
     class="chord row"
 %}
 
-## Assembling across strings
+## Assemble across strings
 
 Assembling a scale across strings requires knowing where to find semitone and whole tone intervals on neighboring strings.
 See {% include chapter-link.html slug="scale-intro" %} for details.
@@ -75,6 +75,20 @@ See {% include chapter-link.html slug="scale-intro" %} for details.
     url="/assets/figures/major-scale/major-G.svg"
     class="chord row"
 %}
+
+## Practicing scale forms
+
+Stay on the E form and learn as much as possible before moving on to another form.
+When it becomes boring from familiarity
+is the time to move on. 
+
+Practice like any scale form.
+Slowly and thoughtfully,
+first ascending and descending, 
+then with tunes, licks, scale patterns and arpeggios.
+
+See {% include chapter-link.html slug="practicing-scales" %} for details. 
+
 
 ## D form
 
