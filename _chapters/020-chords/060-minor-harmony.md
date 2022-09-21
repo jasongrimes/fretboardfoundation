@@ -110,7 +110,7 @@ enabling all the same cadences and tricks of harmonic function.
 
 </div>
 
-It is common to mix both major seventh and minor seventh degrees freely in the same minor key composition.
+It is common to mix both 7&#x302; and b7&#x302; degrees freely in the same minor key composition.
 The chords minor v and dominant V7 might be used in the same song,
 and the bIII is usually played as a major triad (with the b7&#x302;, rarely as an augmented triad with the leading tone.)
 
