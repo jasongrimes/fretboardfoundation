@@ -31,6 +31,20 @@ The scale semitones and tones are one and two frets apart.
     class="chord"
 %}
 
+## Comparison to major scale
+
+{% include figure.html
+    caption="Major scale, all major and perfect intervals."
+    url="/assets/figures/interval-scale/intervals-6.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="Natural minor scale. Minor third, sixth, and seventh intervals."
+    url="/assets/figures/interval-scale/natural-minor-6.svg"
+    class="chord row"
+%}
+
 ## Assembling across strings
 
 Assembling a scale across strings requires knowing where to find semitone and whole tone intervals on neighboring strings.
