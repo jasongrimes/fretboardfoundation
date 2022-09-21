@@ -145,3 +145,11 @@ See {% include chapter-link.html slug="practicing-scales" %} for details.
     url="/assets/figures/major-scale/major-A.svg"
     class="chord row"
 %}
+
+## Whole fretboard
+
+{% include figure.html
+    caption="Natural minor scale on the whole fretboard."
+    url="/assets/figures/minor-scale/natural-minor-all.svg"
+    class="chord"
+%}
