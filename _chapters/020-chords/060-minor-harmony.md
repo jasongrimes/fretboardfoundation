@@ -70,7 +70,7 @@ by learning a major key we get the relative minor for free.
 </div>
 
 Though the keys of C major and A minor have the same chords and the same notes,
-the two keys feel different. 
+the two keys do not feel the same. 
 The chords in the different keys have a different meaning,
 a different keycenter,
 different scale degrees,
