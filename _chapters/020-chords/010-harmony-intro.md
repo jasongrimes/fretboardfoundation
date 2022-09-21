@@ -43,7 +43,7 @@ If we have a similar enough background to the listener to know what their expect
 we can play with those expectations to provoke a response. 
 
 For example,
-we can choose to give them something they expect,
+we can give them something they expect,
 provoking familiarity;
 delay meeting their expectations, provoking tension;
 give them something they didn't expect but are also familiar with,
