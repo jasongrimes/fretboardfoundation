@@ -124,7 +124,7 @@ which provide a unique fingerprint.
 7-note scales can also be split
 into two 4-note sequences called "tetrachords" (appending the repeating 1&#x302; at the octave).
 As more scales are learned,
-it can become easier to think of them in terms of their tetrachords.
+it can become easier to compare them in terms of their tetrachords.
 
 ## Comparing scales
 
