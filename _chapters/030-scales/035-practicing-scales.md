@@ -33,17 +33,18 @@ The trick is to slowly and carefully form the intended habits during practice,
 which sound good to our ear and which carefully exclude sloppiness and mistakes.
 It's like carving a rut into the dirt to direct the future flow of rain water to irrigate the crops.
 
-## Chunking
+## Focus on intervals, not shapes
 
-Don't focus on the shapes of the notes in the E form.
-Focus on assembling it in place from anywhere on the fretboard,
-given a starting scale degree.
+Don't focus on the shapes of the notes on the fretboard.
+Focus on the intervals of the scale degrees 
+and assembling it in place.
 This involves learning the intervals on the fretboard,
 rather than scale shapes.
+
 There are fewer interval shapes than scale shapes,
 so it is faster to learn that way.
 Meanwhile,
-our fingers learn the shapes on their own,
+fingers learn the shapes on their own,
 linked to the sounds and feelings of the intervals. 
 
 Practice the scale, one form at a time: 
@@ -64,7 +65,7 @@ Don’t be bored: one of the cardinal rules of practice.
 
 ## Ascending and descending, slowly
 
-From the root note,
+From the tonic note,
 thoughtfully assemble the scale from its intervals
 as far as it can go ascending and descending.
 Play slowly and mindfully,
