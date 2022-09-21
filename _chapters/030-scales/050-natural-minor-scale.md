@@ -158,7 +158,7 @@ but different scale degrees from different tonics.
 
 {% include figure.html
     caption="Am natural minor scale on the whole fretboard."
-    url="/assets/figures/minor-scale/natural-minor-A-all.svg"
+    url="/assets/figures/minor-scale/natural-minor-Am-all.svg"
     class="chord row"
 %}
 
