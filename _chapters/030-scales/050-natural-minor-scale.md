@@ -20,6 +20,13 @@ This pattern is also called the "Aeolian" mode,
 the sixth mode of the major scale.
 See {% include chapter-link.html slug="diatonic-modes" %} for more information.
 
+## Relative major and minor
+
+The notes in a natural minor scale are identical to the notes in the relative major scale a minor third above it. 
+For example, the notes and chords in A natural minor are the same as in C major.
+
+This is a quick way to get started learning notes in a minor key: by learning a major key we get the relative minor for free.
+
 ## Assemble on one string
 
 The simplest way to visualize a scale is on a single guitar string.
@@ -28,10 +35,16 @@ The scale semitones and tones are one and two frets apart.
 {% include figure.html
     caption="A natural minor scale on third string."
     url="/assets/figures/natural-minor-scale/natural-minor-scale-3-Am.svg"
-    class="chord"
+    class="chord row"
 %}
 
-## Compare to major scale
+{% include figure.html
+    caption="C major scale on second string."
+    url="/assets/figures/major-scale/major-2-C.svg"
+    class="chord row"
+%}
+
+## Compare intervals
 
 {% include figure.html
     caption="Major scale, all major and perfect intervals."
