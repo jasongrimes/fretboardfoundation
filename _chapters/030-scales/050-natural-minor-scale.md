@@ -44,6 +44,26 @@ The scale semitones and tones are one and two frets apart.
     class="chord row"
 %}
 
+## Tetrachords
+
+A 7-note scale with the tonic repeated at the octave
+can be split into two 4-note sequences called "tetrachords".
+
+Here are the two tetrachords of the natural minor scale.
+
+{% include figure.html
+    caption="Natural minor scale first tetrachord."
+    url="/assets/figures/tetrachords/tetrachord-12b34.svg"
+    class="uke-chord row"
+%}
+
+{% include figure.html
+    caption="Natural minor scale second tetrachord."
+    url="/assets/figures/tetrachords/tetrachord-5b6b71.svg"
+    class="uke-chord row"
+%}
+
+
 ## Compare intervals
 
 {% include figure.html
