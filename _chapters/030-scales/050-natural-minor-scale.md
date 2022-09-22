@@ -40,7 +40,7 @@ The scale semitones and tones are one and two frets apart.
 
 {% include figure.html
     caption="C major scale on second string."
-    url="/assets/figures/major-scale/major-2-C.svg"
+    url="/assets/figures/major-scale/major-scale-2.svg"
     class="chord row"
 %}
 
