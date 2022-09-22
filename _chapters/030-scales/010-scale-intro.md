@@ -147,7 +147,7 @@ but that's not the case with all scales.
 When getting familiar with a scale,
 it can be helpful to compare it to another scale we already know.
 For example,
-the following figure compares the major scale with all major intervals 
+the following figure compares the major scale
 and the natural minor scale
 with its minor third, sixth, and seventh intervals.
 
