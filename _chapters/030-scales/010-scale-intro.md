@@ -116,15 +116,31 @@ The scale semitones and tones are one and two frets apart.
     class="chord row"
 %}
 
-## Semitones and tetrachords
+## Tetrachords
 
-Every scale can be distinguished by the location of its semitones,
-which provide a unique fingerprint.
-
-7-note scales can also be split
-into two 4-note sequences called "tetrachords" (appending the repeating 1&#x302; at the octave).
+A 7-note scale with the tonic repeated at the octave
+can be split into two 4-note sequences called "tetrachords".
 As more scales are learned,
-it can become easier to compare them in terms of their tetrachords.
+it can become easier to think in tetrachords rather than full scale sequences,
+since scales often share one tetrachord.
+
+Here are the two tetrachords of the major scale.
+
+{% include figure.html
+    caption="Major scale first tetrachord."
+    url="/assets/figures/tetrachords/tetrachord-1234.svg"
+    class="uke-chord row"
+%}
+
+{% include figure.html
+    caption="Major scale second tetrachord."
+    url="/assets/figures/tetrachords/tetrachord-5671.svg"
+    class="uke-chord row"
+%}
+
+In the major scale,
+both tetrachords are the same,
+but that's not the case with all scales.
 
 ## Comparing scales
 
