@@ -218,7 +218,7 @@ wired into the sounds and feelings of the intervals.
 The advantages of this approach are
 (1) learning the scale shapes without effort,
 and (2) being able to direct the fingers by thinking of a sound or an interval,
-and the fingers placing themselves autimatically,
+and the fingers placing themselves automatically,
 much as we can write a word without thinking of the specific squiggles of our fingers.
 This is good for playing by ear and improvising.
 
