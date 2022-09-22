@@ -322,6 +322,33 @@ html {
     margin-top: 5px;
 }
 
+.chapter.with-fixed-nav .chapter-header {
+    position: fixed;
+    top: 0;
+    background-color: white;
+    right: 0;
+    z-index: 2;
+    left: 0;
+
+    /*
+    width: calc(100% - 350px);
+    */
+}
+.book.with-summary .chapter.with-fixed-nav .chapter-header {
+    left: 315px;
+}
+
+/*
+.chapter.with-fixed-nav .page-toc {
+    position: fixed;
+    background: white;
+    bottom: 200px;
+    width: 100%;
+    height: 100px;
+    overflow: scroll;
+}
+*/
+
 .chapter-abstract {
     background-color: #eee;
     padding: 10px;
@@ -331,6 +358,21 @@ html {
 
 .chapter-pager {
     margin-top: 24px;
+}
+.chapter.with-fixed-nav .chapter-pager {
+    position: fixed;
+    bottom: 0;
+    background-color: white;
+    right: 0;
+    z-index: 2;
+    left: 0;
+
+    /*
+    width: calc(100% - 350px);
+    */
+}
+.book.with-summary .chapter.with-fixed-nav .chapter-pager {
+    left: 315px;
 }
 .chapter-pager a {
     padding: 15px;

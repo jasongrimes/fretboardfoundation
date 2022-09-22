@@ -30,13 +30,24 @@
 -->
 
 {% if site.extra_footer_js %}
-{%- for extra_js in site.extra_header_js -%}
-{%- assign starts_with = extra_js | slice: 0,4  -%}
-{% if starts_with == "http" %}
-<script src="{{ extra_js }}"></script>
-{%- else -%}
-<script src="{{site.baseurl}}/{{ extra_js }}"></script>
-{%- endif -%}
-{%- endfor -%}
+  {%- for extra_js in site.extra_footer_js -%}
+    {%- assign starts_with = extra_js | slice: 0,4  -%}
+    {% if starts_with == "http" %}
+      <script src="{{ extra_js }}"></script>
+    {%- else -%}
+      <script src="{{site.baseurl}}/{{ extra_js }}"></script>
+    {%- endif -%}
+  {%- endfor -%}
 {% endif %}
 
+
+{% if layout.extra_footer_js %}
+  {%- for extra_js in layout.extra_footer_js -%}
+    {%- assign starts_with = extra_js | slice: 0,4  -%}
+    {% if starts_with == "http" %}
+      <script src="{{ extra_js }}"></script>
+    {%- else -%}
+      <script src="{{site.baseurl}}/{{ extra_js }}"></script>
+    {%- endif -%}
+  {%- endfor -%}
+{% endif %}
