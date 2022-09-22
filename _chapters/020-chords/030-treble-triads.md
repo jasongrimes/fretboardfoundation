@@ -15,7 +15,7 @@ They can be embellished with bass notes or color tones,
 or sprinkled into melody lines.
 And they provide a simple starting place for the study of harmony.
 
-Treble triads distill the core triad shapes out of all the possible CAGED shapes,
+Treble triads distill the core triad shapes from all the possible CAGED shapes,
 reducing the number of shapes to learn.
 It could take almost twice as long to learn harmony with the 5 CAGED shapes as with 3 triad shapes.
 The triads can be decorated with the remaining CAGED notes as needed.
