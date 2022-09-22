@@ -24,7 +24,7 @@ The same could be said for dynamics, articulations, and timbre."
 Playing on one string also has the benefit that we don't have to worry about being in tune,
 in the sense that a string is always in tune with itself.
 
-We can pick up any random stringed instrument from a random junk pile.
+We can pick up any stringed instrument from any random junk pile.
 No matter how well or poorly maintained,
 how old or in disrepair,
 as long as the instrument has one string that can vibrate,
