@@ -36,9 +36,25 @@ Here is the major scale on one string.
     class="chord"
 %}
 
-Notice that the 7-note scale plus the octave
-is composed of two identical 4-note "tetrachords",
-with intervals T-T-S (1,2,3,4 and 5,6,7,1).
+## Tetrachords
+
+A 7-note scale with the tonic repeated at the octave
+can be split into two 4-note sequences called "tetrachords".
+
+Here are the two tetrachords of the major scale.
+
+{% include figure.html
+    caption="Major scale first tetrachord."
+    url="/assets/figures/tetrachords/tetrachord-1234.svg"
+    class="uke-chord row"
+%}
+
+{% include figure.html
+    caption="Major scale second tetrachord."
+    url="/assets/figures/tetrachords/tetrachord-5671.svg"
+    class="uke-chord row"
+%}
+
 This is called the Ionian tetrachord.
 
 ## Assemble across strings
