@@ -213,12 +213,14 @@ Don't make any effort to memorize the shapes of dots or numbers on the fretboard
 Focus on the *intervals between the notes* instead.
 How they sound, where to find them, what they mean.
 
-We will gradually become aware that the fingers have learned the scale shapes on their own,
-wired into the sounds and feelings of the intervals.
-Two big advantages are (1) we learn the scale shapes for free (without deliberate effort),
-and (2) we can direct our fingers by thinking of a sound or an interval name,
-and they know where to place themselves,
-much as we can write a word without thinking of the specific squiggles our fingers must draw.
+We will gradually become aware that our fingers have learned the scale shapes on their own,
+wired into the sounds and feelings of the intervals. 
+The advantages of this approach are
+(1) learning the scale shapes without effort,
+and (2) being able to direct the fingers by thinking of a sound or an interval,
+and the fingers placing themselves autimatically,
+much as we can write a word without thinking of the specific squiggles of our fingers.
+This is good for playing by ear and improvising.
 
 Practicing in this way strengthens neural pathways in the brain,
 which can then be reused automatically at performance time.
