@@ -39,24 +39,18 @@ Here is the major scale on one string.
 
 ## Tetrachords
 
-A 7-note scale with the tonic repeated at the octave
-can be split into two 4-note sequences called "tetrachords".
-
 Here are the two tetrachords of the major scale.
 
 {% include figure.html
-    caption="Major scale first tetrachord."
-    url="/assets/figures/tetrachords/tetrachord-1234.svg"
-    class="uke-chord row"
+    caption="Major scale tetrachords"
+    url="/assets/figures/tetrachords/major-tetrachords.svg"
+    class="string row"
 %}
 
-{% include figure.html
-    caption="Major scale second tetrachord."
-    url="/assets/figures/tetrachords/tetrachord-5671.svg"
-    class="uke-chord row"
-%}
+Both tetrachords of a major scale are the same,
+with intervals **1-2-3-4**.
 
-This is called the Ionian tetrachord.
+This is sometimes called the *major tetrachord*.
 
 ## Assemble across strings
 

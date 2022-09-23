@@ -1,9 +1,17 @@
+figure.wide-chord {
+    width: 300px;
+}
 figure.chord {
     width: 150px;
 }
 figure.uke-chord {
     width: 100px;
 }
-figure.wide-chord {
-    width: 300px;
+figure.string {
+    width: 100px;
+}
+figure.string img {
+    padding-left: 25px;
+    padding-right: 25px;
+
 }

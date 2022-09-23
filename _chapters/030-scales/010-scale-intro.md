@@ -121,51 +121,56 @@ The scale semitones and tones are one and two frets apart.
 ## Tetrachords
 
 A 7-note scale with the tonic repeated at the octave
-can be split into two 4-note sequences called "tetrachords".
+can be split into two 4-note sequences called *tetrachords*.
 As more scales are learned,
 it can become easier to think in tetrachords rather than full scale sequences,
 since scales often share one tetrachord.
 
+The two tetrachords of a scale can be played on guitar in a convenient box shape,
+with the second tetrachord to the the *left* of the first,
+on every pair of strings except for 2-3.
+
 Here are the two tetrachords of the major scale.
 
 {% include figure.html
-    caption="Major scale first tetrachord."
-    url="/assets/figures/tetrachords/tetrachord-1234.svg"
-    class="uke-chord row"
-%}
-
-{% include figure.html
-    caption="Major scale second tetrachord."
-    url="/assets/figures/tetrachords/tetrachord-5671.svg"
-    class="uke-chord row"
+    caption="Major scale tetrachords"
+    url="/assets/figures/tetrachords/major-tetrachords.svg"
+    class="string row"
 %}
 
 In the major scale,
 both tetrachords are the same,
-but that's not the case with all scales.
+which is not the case with all scales.
 
-## Comparing scales
+Comparing tetrachords with a known reference scale
+is a good way to get familiar with a new scale.
 
-When getting familiar with a scale,
-it can be helpful to compare it to another scale we already know.
-For example,
-the following figure compares the major scale
-and the natural minor scale
-with its minor third, sixth, and seventh intervals.
+For example, compare the natural mainor tetrachords with the major scale tetrachords:
 
 {% include figure.html
-    caption="Major scale, all major and perfect intervals."
-    url="/assets/figures/interval-scale/intervals-6.svg"
-    class="chord row"
+    caption="Major scale tetrachords"
+    url="/assets/figures/tetrachords/major-tetrachords.svg"
+    class="string row"
 %}
 
 {% include figure.html
-    caption="Natural minor scale. Minor third, sixth, and seventh intervals."
-    url="/assets/figures/interval-scale/natural-minor-6.svg"
-    class="chord row"
+    caption="Natural minor scale tetrachords"
+    url="/assets/figures/tetrachords/natural-minor-tetrachords.svg"
+    class="string row"
 %}
 
-See {% include chapter-link.html slug="interval-scale" %} for more details. 
+By comparison it's easy to see the natural minor has a minor third, sixth, and seventh.
+
+Some common tetrachord names:
+
+|major|1-2-3-4 |C-D-E-F |
+|minor|1-2-b3-4|C-D-Eb-F|
+|harmonic minor|1-b2-3-4 |C-Db-E-F |
+|dorian|1-2-b3-4|C-D-Eb-F|
+|phrygian|1-b2-b3-4|C-Db-Eb-F|
+|lydian|1-2-3-#4|C-D-E-F#|
+
+
 
 ## Assembling scales across strings
 
@@ -224,19 +229,18 @@ and assemble the scale across the strings without moving the hand out of positio
 
 See {% include chapter-link.html slug="caged" %} for more on CAGED chord shapes.
 
-## Don't try to memorize scale shapes
+## Focus on intervals over scale shapes
 
-Don't make any effort to memorize the shapes of dots or numbers on the fretboard.
+Don't make any effort to memorize the shapes scales on the fretboard.
 
-Focus on the *intervals between the notes* instead.
+Instead, focus on the *intervals between the notes*.
 How they sound, where to find them, what they mean.
 
-We will gradually become aware that our fingers have learned the scale shapes on their own,
+Gradually it becomes apparent that our fingers have learned the scale shapes on their own,
 wired into the sounds and feelings of the intervals. 
-The advantages of this approach are
-(1) learning the scale shapes without effort,
-and (2) being able to direct the fingers by thinking of a sound or an interval,
-and the fingers placing themselves automatically,
+This is an efficient way to learn.
+But with this approach it also becomes possible to direct the fingers by thinking of a sound or an interval
+with the fingers placing themselves automatically,
 much as we can write a word without thinking of the specific squiggles of our fingers.
 This is good for playing by ear and improvising.
 
