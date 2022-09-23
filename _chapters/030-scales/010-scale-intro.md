@@ -67,8 +67,8 @@ Canonically, all the major scale degrees are major or perfect intervals.
 **Major scale intervals**
 <div class="table-wrapper" markdown="block">
 
+| |T|T|**S**|T|T|T|**S**|
 |1|2|3    |4|5|6|7    |1|
-|T|T|**S**|T|T|T|**S**| |
 |C|D|E    |F|G|A|B    |C|
 
 </div>
@@ -95,8 +95,8 @@ with semitones between degrees 2-b3 and 5-b6.
 **Natural minor scale intervals**
 <div class="table-wrapper" markdown="block">
 
+| |T|**S**|T |T|**S**|T |T |
 |1|2    |b3|4|5    |b6|b7|1|
-|T|**S**|T |T|**S**|T |T | |
 |C|D    |Eb|F|G    |Ab|Bb|C|
 
 </div>
