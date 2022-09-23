@@ -97,6 +97,7 @@ with semitones between degrees 2-b3 and 5-b6.
 
 |1|2    |b3|4|5    |b6|b7|1|
 |T|**S**|T |T|**S**|T |T | |
+|C|D    |Eb|F|G    |Ab|Bb|C|
 
 </div>
 
