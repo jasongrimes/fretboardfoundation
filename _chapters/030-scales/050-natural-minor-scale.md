@@ -38,8 +38,8 @@ Here are the two tetrachords of the natural minor scale.
 
 {% include figure.html
     caption="Natural minor scale first tetrachord."
-    url="/assets/figures/tetrachords/natural-minor-tetrachord.svg"
-    class="uke-chord row"
+    url="/assets/figures/tetrachords/natural-minor-tetrachords.svg"
+    class="string row"
 %}
 
 ## Relative major and minor
