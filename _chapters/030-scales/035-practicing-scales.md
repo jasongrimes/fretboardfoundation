@@ -33,35 +33,31 @@ The trick is to slowly and carefully form the intended habits during practice,
 which sound good to our ear and which carefully exclude sloppiness and mistakes.
 It's like carving a rut into the dirt to direct the future flow of rain water to irrigate the crops.
 
-## Focus on intervals, not shapes
+## Focus on intervals, not scale shapes
 
-Don't focus on the shapes of the notes on the fretboard.
-Focus on the intervals of the scale degrees 
-and assembling it in place.
-This involves learning the intervals on the fretboard,
-rather than scale shapes.
+Don't make any effort to memorize the shapes of scales on the fretboard.
 
-There are fewer interval shapes than scale shapes,
-so it is faster to learn that way.
-Meanwhile,
-fingers learn the shapes on their own,
-linked to the sounds and feelings of the intervals. 
+Focus on the *intervals between the notes* instead. 
+How they sound, where to find them, what they mean.
 
-Practice the scale, one form at a time: 
-focus on intervals, not shapes. 
-Play slowly ascending and descending to learn the intervals. 
-Switch direction at any point to make melody fragments, 
-play small licks and melodies that occur and repeat those that sound good. 
-Play patterns and arpeggios. 
+Gradually it will become apparent that our fingers have learned the scale shapes on their own,
+wired into the sounds and feelings of the intervals. 
+It's efficient to learn something without effort in this way.
+But more importantly,
+this approach makes it possible to direct the fingers by thinking of a sound or an interval
+and have the fingers place themselves automatically,
+much as we can write a word on paper without thinking of the specific squiggles of our fingers.
+This ability is useful for playing by ear and improvising.
 
-One scale at a time, 
-one form at a time. 
-Don’t rush. 
-It’s a better investment of time to master just one (or a small handful of) forms, 
-positions, and keys.
+Practicing in this way strengthens neural pathways in the brain,
+which can then be reused automatically at performance time.
+It's like digging an irrigation ditch so that when the rain falls it is routed to water our plants.
+Or like clearing a pathway in a forest that will later be run downhill in the dark.
 
-We should move on to the next form or scale when we get bored with the current one. 
-Don’t be bored: one of the cardinal rules of practice. 
+## Boredom as indicator
+
+Move on when a thing becomes boring, 
+but not before.
 
 ## Ascending and descending, slowly
 

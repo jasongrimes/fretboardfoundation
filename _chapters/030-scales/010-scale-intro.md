@@ -217,23 +217,3 @@ and assemble the scale across the strings without moving the hand out of positio
 
 See {% include chapter-link.html slug="caged" %} for more on CAGED chord shapes.
 
-## Focus on intervals, not scale shapes
-
-Don't make any effort to memorize the shapes of scales on the fretboard.
-
-Focus on the *intervals between the notes* instead. 
-How they sound, where to find them, what they mean.
-
-Gradually it will become apparent that our fingers have learned the scale shapes on their own,
-wired into the sounds and feelings of the intervals. 
-It's efficient to learn something without effort in this way.
-But more importantly,
-this approach makes it possible to direct the fingers by thinking of a sound or an interval
-and have the fingers place themselves automatically,
-much as we can write a word on paper without thinking of the specific squiggles of our fingers.
-This ability is useful for playing by ear and improvising.
-
-Practicing in this way strengthens neural pathways in the brain,
-which can then be reused automatically at performance time.
-It's like digging an irrigation ditch so that when the rain falls it is routed to water our plants.
-Or like clearing a pathway in a forest that will later be run downhill in the dark.
