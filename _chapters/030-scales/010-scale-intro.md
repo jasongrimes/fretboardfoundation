@@ -55,16 +55,16 @@ spaced as far apart as possible.
 ### Scale formulas
 
 Scales are identified by their intervals, 
-either between degrees or from the tonic.
-- **T-T-S-T-T-T-S**: example scale formula with intervals between scale degrees. 
-- **1-2-3-4-5-6-7** or **1-2-b3-4-5-b6-b7**: example scale formulas with intervals from each scale degree to the tonic.
-- Semitones at **3-4** and **7-1**: example of identifying a scale by the unique locations of its semitones. 
+either between degrees (**T-T-S-T-T-T-S**),
+from the tonic (**1-2-3-4-5-6-7** or **1-2-b3-4-5-b6-b7**),
+or by the location of semitones (semitones at **3-4** and **7-1**).
 
 The **major scale** is a seven note diatonic scale 
 with semitones between degrees 3-4 and 7-1.
 Canonically, all the major scale degrees are major or perfect intervals. 
 
 **Major scale intervals**
+
 <div class="table-wrapper" markdown="block">
 
 | |T|T|**S**|T|T|T|**S**|
@@ -73,31 +73,17 @@ Canonically, all the major scale degrees are major or perfect intervals.
 
 </div>
 
-In other words,
-- from 1 there's a whole tone to 2,
-a major second from the tonic,
-- then a whole tone to 3, 
-a major third from the tonic,
-- then a **semitone** to 4, 
-a perfect fourth,
-- a whole tone to 5,
-a perfect fifth,
-- a whole tone to 6,
-a major sixth,
-- a whole tone to 7,
-a major seventh, and
-- a **semitone** back to 1.
-
-For another example, 
+As another example, 
 the **natural minor scale** is a seven note diatonic scale 
 with semitones between degrees 2-b3 and 5-b6.
 
 **Natural minor scale intervals**
+
 <div class="table-wrapper" markdown="block">
 
-| |T|**S**|T |T|**S**|T |T |
-|1|2    |b3|4|5    |b6|b7|1|
-|C|D    |Eb|F|G    |Ab|Bb|C|
+| |T|S |T|T|S |T |T|
+|1|2|b3|4|5|b6|b7|1|
+|C|D|Eb|F|G|Ab|Bb|C|
 
 </div>
 
@@ -167,10 +153,8 @@ Some common tetrachord names:
 |major         |1-2-3-4  |C-D-E-F |
 |minor         |1-2-b3-4 |C-D-Eb-F|
 |harmonic minor|1-b2-3-4 |C-Db-E-F |
-|dorian        |1-2-b3-4 |C-D-Eb-F|
 |phrygian      |1-b2-b3-4|C-Db-Eb-F|
 |lydian        |1-2-3-#4 |C-D-E-F#|
-
 
 
 ## Assembling scales across strings
