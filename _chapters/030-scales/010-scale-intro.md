@@ -131,7 +131,7 @@ which is not the case with all scales.
 Comparing tetrachords with a known reference scale
 is a good way to get familiar with a new scale.
 
-For example, compare the major and natural minor tetrachords:
+For example, compare the major and melodic minor tetrachords:
 
 {% include figure.html
     caption="Major scale tetrachords"
@@ -140,22 +140,25 @@ For example, compare the major and natural minor tetrachords:
 %}
 
 {% include figure.html
-    caption="Natural minor scale tetrachords"
-    url="/assets/figures/tetrachords/natural-minor-tetrachords.svg"
+    caption="Melodic minor scale tetrachords"
+    url="/assets/figures/tetrachords/melodic-minor-tetrachords.svg"
     class="string row"
 %}
 
 Compared to the major scale, 
-it's easy to see the natural minor has a minor third, sixth, and seventh.
+it's easy to see the melodic minor has a minor third.
 
 Some common tetrachord names:
 
-|major         |1-2-3-4  |C-D-E-F |
-|minor         |1-2-b3-4 |C-D-Eb-F|
-|harmonic minor|1-b2-3-4 |C-Db-E-F |
-|phrygian      |1-b2-b3-4|C-Db-Eb-F|
-|lydian        |1-2-3-#4 |C-D-E-F#|
+<div class="table-wrapper" markdown="block">
 
+|major         |T-T-S    |1-2-3-4  |C-D-E-F  |
+|minor         |T-S-T    |1-2-b3-4 |C-D-Eb-F |
+|harmonic minor|S-TS-S   |1-b2-3-4 |C-Db-E-F |
+|phrygian      |S-T-T    |1-b2-b3-4|C-Db-Eb-F|
+|lydian        |T-T-T    |1-2-3-#4|C-D-E-F# |
+
+</div>
 
 ## Assembling scales across strings
 
