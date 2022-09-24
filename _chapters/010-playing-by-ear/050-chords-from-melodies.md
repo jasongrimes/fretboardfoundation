@@ -16,7 +16,7 @@ which creates a power chord,
 having two of the three notes of a major or minor triad chord.
 For the most part,
 if a power chord is played on a scale tone,
-it will be a diatonic (in tune) chord.
+the chord will be "in tune" (diatonic).
 
 Another way to fill out top string melodies 
 is to add a bass note on the lowest-pitched (6) string.
