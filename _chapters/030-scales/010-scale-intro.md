@@ -241,8 +241,8 @@ Gradually it will become apparent that our fingers have learned the scale shapes
 wired into the sounds and feelings of the intervals. 
 It's efficient to learn something without effort in this way.
 But more importantly,
-this approach makes it possible to direct the fingers by thinking of a sound or an interval,
-and the fingers will place themselves automatically,
+this approach makes it possible to direct the fingers by thinking of a sound or an interval
+and have the fingers place themselves automatically,
 much as we can write a word on paper without thinking of the specific squiggles of our fingers.
 This ability is useful for playing by ear and improvising.
 
