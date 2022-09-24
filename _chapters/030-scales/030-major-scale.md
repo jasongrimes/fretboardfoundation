@@ -49,25 +49,7 @@ Here are the two tetrachords of the major scale.
 
 Both tetrachords of a major scale are the same,
 with intervals **1-2-3-4**.
-
 This is sometimes called the *major tetrachord*.
-
-## Assemble across strings
-
-Assembling a scale across strings requires knowing where to find semitone and whole tone intervals on neighboring strings.
-See {% include chapter-link.html slug="scale-intro" %} for details.
-
-{% include figure.html
-    caption="Semitone and whole tone on neighboring strings."
-    url="/assets/figures/major-scale/neighboring-st.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="Intervals on neighboring strings."
-    url="/assets/figures/major-scale/neighboring-intervals.svg"
-    class="chord row"
-%}
 
 ## E form
 
@@ -90,8 +72,7 @@ Stay on the E form and learn as much as possible before moving on to another for
 When it becomes boring from familiarity
 is the time to move on. 
 
-Practice like any scale form.
-Slowly and thoughtfully,
+Practice slowly and thoughtfully,
 first ascending and descending, 
 then with tunes, licks, scale patterns and arpeggios.
 
