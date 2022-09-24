@@ -237,13 +237,14 @@ Don't make any effort to memorize the shapes of scales on the fretboard.
 Focus on the *intervals between the notes* instead. 
 How they sound, where to find them, what they mean.
 
-Gradually it becomes apparent that our fingers have learned the scale shapes on their own,
+Gradually it will become apparent that our fingers have learned the scale shapes on their own,
 wired into the sounds and feelings of the intervals. 
-This is an efficient way to learn.
-But this approach also makes it possible to direct the fingers by thinking of a sound or an interval,
-and have the fingers place themselves automatically,
-much as we can write a word without thinking of the specific squiggles of our fingers.
-This is good for playing by ear and improvising.
+It's efficient to learn something without effort in this way.
+But more importantly,
+this approach makes it possible to direct the fingers by thinking of a sound or an interval,
+and the fingers will place themselves automatically,
+much as we can write a word on paper without thinking of the specific squiggles of our fingers.
+This ability is useful for playing by ear and improvising.
 
 Practicing in this way strengthens neural pathways in the brain,
 which can then be reused automatically at performance time.
