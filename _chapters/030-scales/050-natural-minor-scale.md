@@ -28,72 +28,14 @@ For example, the notes and chords in A natural minor are the same as in C major.
 
 This is a quick way to get started learning notes in a minor key: by learning a major key we get the relative minor for free.
 
-## Assemble on one string
-
-The simplest way to visualize a scale is on a single guitar string.
-The scale semitones and tones are one and two frets apart.
-
-{% include figure.html
-    caption="A natural minor scale on third string."
-    url="/assets/figures/natural-minor-scale/natural-minor-scale-3-Am.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="C major scale on second string."
-    url="/assets/figures/major-scale/major-scale-2.svg"
-    class="chord row"
-%}
-
 ## Tetrachords
-
-A 7-note scale with the tonic repeated at the octave
-can be split into two 4-note sequences called "tetrachords".
 
 Here are the two tetrachords of the natural minor scale.
 
 {% include figure.html
     caption="Natural minor scale first tetrachord."
-    url="/assets/figures/tetrachords/tetrachord-12b34.svg"
+    url="/assets/figures/tetrachords/natural-minor-tetrachord.svg"
     class="uke-chord row"
-%}
-
-{% include figure.html
-    caption="Natural minor scale second tetrachord."
-    url="/assets/figures/tetrachords/tetrachord-5b6b71.svg"
-    class="uke-chord row"
-%}
-
-
-## Compare intervals
-
-{% include figure.html
-    caption="Major scale, all major and perfect intervals."
-    url="/assets/figures/interval-scale/intervals-6.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="Natural minor scale. Minor third, sixth, and seventh intervals."
-    url="/assets/figures/interval-scale/natural-minor-6.svg"
-    class="chord row"
-%}
-
-## Assemble across strings
-
-Assembling a scale across strings requires knowing where to find semitone and whole tone intervals on neighboring strings.
-See {% include chapter-link.html slug="scale-intro" %} for details.
-
-{% include figure.html
-    caption="Semitone and whole tone on neighboring strings."
-    url="/assets/figures/major-scale/neighboring-st.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="Intervals on neighboring strings."
-    url="/assets/figures/major-scale/neighboring-intervals.svg"
-    class="chord row"
 %}
 
 ## E form
@@ -103,6 +45,9 @@ See {% include chapter-link.html slug="scale-intro" %} for details.
     url="/assets/figures/natural-minor-scale/natural-minor-E.svg"
     class="chord row"
 %}
+
+Also compare the relative major form with the exact same notes,
+but different intervals. 
 
 {% include figure.html
     caption="Relative major scale in G CAGED form."
