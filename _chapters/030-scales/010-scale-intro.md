@@ -230,7 +230,7 @@ and assemble the scale across the strings without moving the hand out of positio
 
 See {% include chapter-link.html slug="caged" %} for more on CAGED chord shapes.
 
-## Focus on intervals over scale shapes
+## Focus on intervals, not scale shapes
 
 Don't make any effort to memorize the shapes of scales on the fretboard.
 
