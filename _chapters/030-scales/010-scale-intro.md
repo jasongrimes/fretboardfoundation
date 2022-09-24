@@ -145,7 +145,7 @@ which is not the case with all scales.
 Comparing tetrachords with a known reference scale
 is a good way to get familiar with a new scale.
 
-For example, compare the natural mainor tetrachords with the major scale tetrachords:
+For example, compare the major and natural minor tetrachords:
 
 {% include figure.html
     caption="Major scale tetrachords"
@@ -159,16 +159,17 @@ For example, compare the natural mainor tetrachords with the major scale tetrach
     class="string row"
 %}
 
-By comparison it's easy to see the natural minor has a minor third, sixth, and seventh.
+Compared to the major scale, 
+it's easy to see the natural minor has a minor third, sixth, and seventh.
 
 Some common tetrachord names:
 
-|major|1-2-3-4 |C-D-E-F |
-|minor|1-2-b3-4|C-D-Eb-F|
+|major         |1-2-3-4  |C-D-E-F |
+|minor         |1-2-b3-4 |C-D-Eb-F|
 |harmonic minor|1-b2-3-4 |C-Db-E-F |
-|dorian|1-2-b3-4|C-D-Eb-F|
-|phrygian|1-b2-b3-4|C-Db-Eb-F|
-|lydian|1-2-3-#4|C-D-E-F#|
+|dorian        |1-2-b3-4 |C-D-Eb-F|
+|phrygian      |1-b2-b3-4|C-Db-Eb-F|
+|lydian        |1-2-3-#4 |C-D-E-F#|
 
 
 
