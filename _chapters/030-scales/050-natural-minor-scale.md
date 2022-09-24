@@ -21,12 +21,16 @@ This pattern is also called the "Aeolian" mode,
 the sixth mode of the major scale.
 See {% include chapter-link.html slug="diatonic-modes" %} for more information.
 
-## Relative major and minor
+## Assemble on one string
 
-The notes in a natural minor scale are identical to the notes in the relative major scale a minor third above it. 
-For example, the notes and chords in A natural minor are the same as in C major.
+The simplest way to visualize a scale is on a single guitar string.
+The scale semitones and tones are one and two frets apart.
 
-This is a quick way to get started learning notes in a minor key: by learning a major key we get the relative minor for free.
+{% include figure.html
+     caption="A natural minor scale on third string."
+     url="/assets/figures/natural-minor-scale/natural-minor-scale-3-Am.svg"
+     class="chord row"
+%}
 
 ## Tetrachords
 
@@ -36,6 +40,25 @@ Here are the two tetrachords of the natural minor scale.
     caption="Natural minor scale first tetrachord."
     url="/assets/figures/tetrachords/natural-minor-tetrachord.svg"
     class="uke-chord row"
+%}
+
+## Relative major and minor
+
+The notes in a natural minor scale are identical to the notes in the relative major scale a minor third above it. 
+For example, the notes and chords in A natural minor are the same as in C major.
+
+This is a quick way to get started learning notes in a minor key: by learning a major key we get the relative minor for free.
+
+{% include figure.html
+     caption="A natural minor scale on third string."
+     url="/assets/figures/natural-minor-scale/natural-minor-scale-3-Am.svg"
+     class="chord row"
+%}
+
+{% include figure.html
+     caption="C major scale on second string."
+     url="/assets/figures/major-scale/major-scale-2.svg"
+     class="chord row"
 %}
 
 ## E form
@@ -58,16 +81,13 @@ but different intervals.
 ## Practicing scale forms
 
 Stay on the E form and learn as much as possible before moving on to another form.
-When it becomes boring from familiarity
-is the time to move on. 
-
-Practice like any scale form.
-Slowly and thoughtfully,
+Move on when it becomes boring, 
+but not before.
+Practice slowly and thoughtfully,
 first ascending and descending, 
 then with tunes, licks, scale patterns and arpeggios.
 
-See {% include chapter-link.html slug="practicing-scales" %} for details. 
-
+See {% include chapter-link.html slug="practicing-scales" %} for details.
 
 ## D form
 
