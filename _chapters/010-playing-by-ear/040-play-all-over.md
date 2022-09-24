@@ -22,7 +22,7 @@ Look at the dots on the fretboard to identify the location of a fret.
 Sometimes it helps to think of the fret number and string number as well,
 to focus the mind.
 
-Remembering fretboard locations  
+Remembering fretboard locations
 lets us return to where we were,
 and recognize where we have arrived.
 
