@@ -15,7 +15,7 @@ This power chord has its root on the highest (1st) string
 and it's perfect fifth on the 2nd string. 
 These are two of the three notes of a major or minor triad chord.
 For the most part,
-a power chord is played on a scale tone
+a power chord played on a scale tone
 will be "in tune" (diatonic).
 
 Another way to fill out melodies 
