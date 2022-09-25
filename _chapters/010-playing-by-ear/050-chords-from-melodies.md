@@ -18,6 +18,9 @@ For the most part,
 a power chord played on a scale tone
 will be "in tune" (diatonic).
 
+For more flexibility adding chords to melodies,
+see {% include chapter-link.html slug="treble-triads" %}.
+
 Another way to fill out melodies 
 is to add a bass note on the lowest-pitched (6th) string
 by playing the note at the same fret as the 1st string. 
@@ -26,9 +29,6 @@ This can be effective when done on the first beat of a phrase,
 though it doesn't sound good for a bass line to be played in unison with the melody line too much.
 To add more variety to the bass line,
 see {% include chapter-link.html slug="bass-triads" %}.
-
-For more flexibility adding chords to melodies,
-see {% include chapter-link.html slug="treble-triads" %}. 
 
 For more information about what chords sound good together
 and how to harmonize a melody,
