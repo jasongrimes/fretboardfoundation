@@ -66,10 +66,10 @@ and there is no longer a foreign tone-and-a-half interval for which to adjust th
 In jazz, 
 the melodic minor scale is used both ascending and descending,
 and minor key melodies usually use the major 6 and 7.
-Jazz musicians sometimes call ascendending melodic minor the "real" melodic minor.
+Jazz musicians sometimes call the ascendending melodic minor scale "real minor".
 It is given primacy as a minor scale,
 and is even harmonized,
-with the various modes of melodic minor being commonly used in jazz.
+with the various modes of melodic minor being commonly used in jazz pieces.
 
 The melodic minor scale has a b3,
 with semitones between degrees 2-b3 and 7-1.
