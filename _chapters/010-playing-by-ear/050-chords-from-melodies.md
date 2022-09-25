@@ -1,15 +1,15 @@
 ---
-title: Adding chords to melodies
+title: Blending chords and melodies
 slug: chord-melody
 abstract: Decorating lines with treble triads, shell voicings, and bass notes.
 ---
 
-Adding chords to a melody makes it sound fuller,
-more like a complete song.
+Using both chords and melody makes a composition sound fuller and richer,
+like a song rather than just a part. 
 
-There are some tricks for adding chords and bass notes when playing a melody on the highest pitched string.
+There are some quick tricks for filling out a melody on the highest pitched string.
 
-A *power chord* can be played on the top two strings,
+For example, a *power chord* can be played on the top two strings,
 by stopping both strings at the same fret.
 This power chord has its root on the highest (1st) string
 and it's perfect fifth on the 2nd string. 
