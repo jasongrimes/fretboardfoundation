@@ -35,17 +35,16 @@ which is called the (ascending) melodic minor scale,
 or (2) use both b7&#x302; and b6&#x302; when descending and the leading tone is not needed,
 which is the natural minor scale. 
 
-### Minor means b3 and adjustable 6 and 7
+### Adjustable 6 and 7
 
 By definition, 
 the third degree of a minor scale is always a minor third.
 
-But in minor tonality, 
-the sixth and seventh scale degrees can be thought of as adjustable.
+But the sixth and seventh scale degrees in minor tonality can be thought of as adjustable.
 They can be major or minor,
 depending on the circumstances.
 
-While the different scale permutations are labeled as melodic, harmonic, and natural minor scales,
+While the different permutations are labeled as melodic, harmonic, and natural minor scales,
 it can be more helpful to think of them as one general minor scale,
 with an adjustable sixth and seventh as needed.
 
