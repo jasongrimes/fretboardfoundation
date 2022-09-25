@@ -37,7 +37,7 @@ The scale semitones and tones are one and two frets apart.
 Here are the two tetrachords of the natural minor scale.
 
 {% include figure.html
-    caption="Natural minor scale first tetrachord."
+    caption="Natural minor scale tetrachords"
     url="/assets/figures/tetrachords/natural-minor-tetrachords.svg"
     class="string row"
 %}
