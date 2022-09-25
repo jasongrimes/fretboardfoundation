@@ -46,20 +46,44 @@ Here are the two tetrachords of the natural minor scale.
 
 The notes in a natural minor scale are identical to the notes in the relative major scale a minor third above it. 
 For example, the notes and chords in A natural minor are the same as in C major.
+C is said to be the *relative major* of Am,
+and Am is said to be the *relative minor* of C.
 
-This is a quick way to get started learning notes in a minor key: by learning a major key we get the relative minor for free.
+<div class="table-wrapper" markdown="block">
+**C major**
 
-{% include figure.html
-     caption="A natural minor scale on third string."
-     url="/assets/figures/natural-minor-scale/natural-minor-scale-3-Am.svg"
-     class="chord row"
-%}
+| |T|T|S|T|T|T|S|
+|1|2|3|4|5|6|7|1|
+|C|D|E|F|G|A|B|C|
 
-{% include figure.html
-     caption="C major scale on second string."
-     url="/assets/figures/major-scale/major-scale-2.svg"
-     class="chord row"
-%}
+</div>
+
+
+<div class="table-wrapper" markdown="block">
+**A natural minor**
+
+| |T|S |T|T|S |T |T|
+|1|2|b3|4|5|b6|b7|1|
+|A|B|C |D|E|F |G |A|
+
+</div>
+
+<div class="table-wrapper" markdown="block">
+**C major laid over relative minor**
+
+|            | |T|T|S|T|T|T|S |T|T|S |T |T|T|S|
+|            |C|D|E|F|G|A|B|C |D|E|F |G |A|B|C|
+|C major     |1|2|3|4|5|6|7|1 |2|3|4 |5 |6|7|1|
+|A nat. minor| | | | | |1|2|b3|4|5|b6|b7|1| | |
+
+</div>
+
+Notice that the 1 of the relative minor is the 6 of the relative major.
+The natural minor is the sixth *mode* of the major scale.
+See {% include chapter-link.html slug="diatonic-modes" %} for details.
+
+This is a quick way to get started learning notes in a minor key. 
+By learning a major key we get the relative minor for free.
 
 ## E form
 
@@ -78,16 +102,27 @@ but different intervals.
     class="chord row"
 %}
 
-## Practicing scale forms
+## Practicing natural minor
 
-Stay on the E form and learn as much as possible before moving on to another form.
-Move on when it becomes boring, 
-but not before.
-Practice slowly and thoughtfully,
-first ascending and descending, 
-then with tunes, licks, scale patterns and arpeggios.
+See {% include chapter-link.html slug="practicing-scales" %} for general information about practicing scales.
 
-See {% include chapter-link.html slug="practicing-scales" %} for details.
+### Practice as relative major
+
+When first getting familiar with a minor key,
+play the scale for its relative major, 
+starting and ending on the 6.
+Get a sense of the 6 as the tonal center.
+
+### Practice as minor
+
+Once the sound of the scale is familiar,
+start thinking of the minor key tonal center as 1,
+and play the same exercises with this new point of view.
+
+### Think in both minor and relative major
+
+It can be constructive to practive flipping perspective back and forth,
+thinking of a tone as both its part of the minor scale and as its part of the relative major.
 
 ## D form
 
