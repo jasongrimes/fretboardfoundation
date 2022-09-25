@@ -34,7 +34,7 @@ This book aims to provide that foundation in a practical way.
 
 ## Who this book is for
 
-If you are among the intended audience of this book, 
+If you are among the imagined audience of this book, 
 you might describe yourself as an intermediate guitarist. 
 You can play some songs, and you know whatever you consider to be “the basics”. 
 You can play chords, and maybe some scales. 
