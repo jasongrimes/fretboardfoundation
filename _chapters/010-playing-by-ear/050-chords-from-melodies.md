@@ -1,6 +1,6 @@
 ---
 title: Adding chords to melodies
-slug: chords-melody
+slug: chord-melody
 abstract: Decorating lines with treble triads, shell voicings, and bass notes.
 ---
 
