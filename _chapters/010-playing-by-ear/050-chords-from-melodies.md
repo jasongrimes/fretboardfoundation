@@ -7,7 +7,7 @@ abstract: Decorating lines with treble triads, shell voicings, and bass notes.
 Adding chords to a melody makes it sound fuller,
 more like a complete song.
 
-There are some easy tricks for adding chords and bass notes when playing a melody on the highest pitched string.
+There are some tricks for adding chords and bass notes when playing a melody on the highest pitched string.
 
 A *power chord* can be played on the top two strings,
 by stopping both strings at the same fret.
