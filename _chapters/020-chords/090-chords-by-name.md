@@ -12,7 +12,7 @@ represented by letters A-G from the musical alphabet,
 and 5 are "accidental",
 represented by natural notes with a sharp or flat sign.
 
-The key of a composition identifies which of these 12 notes is used.
+The key of a composition identifies which 7 of these 12 notes is to be considered "in tune" (diatonic).
 
 ## Finding the sharp/flat notes in a key
 
