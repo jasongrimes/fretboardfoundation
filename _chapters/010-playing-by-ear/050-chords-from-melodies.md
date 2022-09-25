@@ -25,11 +25,11 @@ The 1st and 6th strings are tuned to the same note in different octaves.
 This can be effective when done on the first beat of a phrase,
 though it doesn't sound good for a bass line to be played in unison with the melody line too much.
 To add more variety to the bass line,
-see 
+see {% include chapter-link.html slug="bass-triads" %}.
 
 For more flexibility adding chords to melodies,
 see {% include chapter-link.html slug="treble-triads" %} for details. 
 
 For more information about what chords sound good together
-and harmonizing a melody,
+and how to harmonize a melody,
 see {% include chapter-link.html slug="harmony-intro" %}. 
