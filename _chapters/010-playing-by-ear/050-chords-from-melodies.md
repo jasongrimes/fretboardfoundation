@@ -10,7 +10,7 @@ more like a complete song.
 There are some easy tricks for adding chords and bass notes when playing a melody on the highest pitched string.
 
 A *power chord* can be played on the top two strings,
-By stopping both strings at the same fret.
+by stopping both strings at the same fret.
 This power chord has its root on the highest (1st) string
 and it's perfect fifth on the 2nd string. 
 These are two of the three notes of a major or minor triad chord.
