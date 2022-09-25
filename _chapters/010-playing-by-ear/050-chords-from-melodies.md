@@ -28,7 +28,7 @@ To add more variety to the bass line,
 see {% include chapter-link.html slug="bass-triads" %}.
 
 For more flexibility adding chords to melodies,
-see {% include chapter-link.html slug="treble-triads" %} for details. 
+see {% include chapter-link.html slug="treble-triads" %}. 
 
 For more information about what chords sound good together
 and how to harmonize a melody,
