@@ -1,6 +1,6 @@
 ---
 title: Melodic and harmonic minors
-slug: minor-leading-tone
+slug: minor-tonality
 abstract: Understand how the leading tone and the tone-and-a-half interval are handled in minor key tonality. 
 ---
 
