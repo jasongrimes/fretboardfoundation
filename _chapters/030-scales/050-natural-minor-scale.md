@@ -84,7 +84,7 @@ and Am is said to be the *relative minor* of C.
 
 </div>
 
-Notice that the 1 of the relative minor is the 6 of the relative major.
+Notice that the 1&#x302; of the relative minor is the 6&#x302; of the relative major.
 The natural minor is the sixth *mode* of the major scale.
 See {% include chapter-link.html slug="diatonic-modes" %} for details.
 
