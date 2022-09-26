@@ -13,7 +13,7 @@ it is common to approach the tonic from a half-step below,
 from 7-1,
 through the major 7&#x302; or leading tone.
 This is so even though the natural minor scale does not contain a major 7&#x302; degree.
-Natural minor with a leading tone major 7&#x302; is called the *harmonic minor* scale.
+Natural minor with a major 7&#x302; is called the *harmonic minor* scale.
 See {% include chapter-link.html slug="minor-harmony" %} for details.
 
 ### The tone-and-a-half interval
