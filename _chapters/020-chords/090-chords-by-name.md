@@ -53,9 +53,10 @@ Flats: B E A D G C F (the reverse)
 
 "Practice in all 12 keys" is a common recommendation in music instruction,
 and it is probably a useful thing to do eventually.
-But thinking of the principle of triage,
-it's better to spend two hours on something in C major 
-than 10 minutes on it in each of 12 keys.
+But it violates the principle of triage if there are other more productive ways to spend that time.
+
+It's usually going to be more productive to spend two hours practicing something in C major 
+than 10 minutes practicing it in each of 12 keys.
 
 The time to add another key to our practice is when there's a real-world need to play in that key,
 or we have become bored with every key we have already practiced.
