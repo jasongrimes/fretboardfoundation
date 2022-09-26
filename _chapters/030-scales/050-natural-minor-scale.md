@@ -29,6 +29,8 @@ See {% include chapter-link.html slug="diatonic-modes" %} for more information.
 The simplest way to visualize a scale is on a single guitar string.
 The scale semitones and tones are one and two frets apart.
 
+The two tetrachords of natural minor are shown in the next figure.
+
 The lower tetrachord is the common *minor* tetrachord
 (**1-2-b3-4**).
 
