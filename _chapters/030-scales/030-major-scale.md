@@ -12,9 +12,9 @@ Canonically, all the major scale degrees are major or perfect intervals.
 
 <div class="table-wrapper" markdown="block">
 
-| |T|T|**S**|T|T|T|**S**|
-|1|2|3    |4|5|6|7    |1|
-|C|D|E    |F|G|A|B    |C|
+| |T|T|S|T|T|T|S|
+|1|2|3|4|5|6|7|1|
+|C|D|E|F|G|A|B|C|
 
 </div>
 
