@@ -4,7 +4,7 @@ slug: minor-scales
 abstract: The natural minor, or "Aeolean" mode, is the foundation of minor key tonality. It can also be the gateway to internalizing modes and chord/scale relationships. 
 ---
 
-## About minor key tonality
+## About minor tonality
 
 ### Minor scales
 
