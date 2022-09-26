@@ -14,7 +14,8 @@ though this is not universal.
 Minor keys include intervals not explored in major keys,
 which can lend an air of mystery and sophistication.
 
-Songs in a minor key use notes and chords derived from the natural minor scale,
+Songs in a minor key use notes and chords derived from the natural minor scale
+(see {% include chapter-link.html slug="natural-minor-scale" %}),
 plus an added leading tone.
 Like major keys,
 minor keys are tonical:
@@ -22,7 +23,6 @@ they place a special emphasis on the first scale degree,
 the "tonic" or "keycenter", 
 the note for which the key is named.
 
-See {% include chapter-link.html slug="natural-minor-scale" %} for details.
 
 ## Chords in natural minor
 
