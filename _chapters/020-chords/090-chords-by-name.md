@@ -41,7 +41,7 @@ Ex. key of Db has Bb Eb Ab Db Gb
 
 Figure out notes in the natural key, and sharpen every one.
 
-## Order of sharps and flats
+### Order of sharps and flats
 
 Sharps: F C G D A E B  
 *Father Charles Goes Down And Ends Battle*
