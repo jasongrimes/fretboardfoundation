@@ -53,7 +53,7 @@ with an adjustable sixth and seventh as needed.
 
 ### Natural minor scale
 
-The natural minor scale is the basis for minor key harmony
+The natural minor scale is the basis of minor key harmony
 (see {% include chapter-link.html slug="minor-harmony" %}). 
 
 It is a seven note diatonic scale 
