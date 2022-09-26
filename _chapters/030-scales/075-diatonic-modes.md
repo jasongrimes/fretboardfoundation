@@ -1,5 +1,5 @@
 ---
-title: Other diatonic modes
+title: Diatonic modes
 slug: diatonic-modes
 abstract: The diatonic modes are the seven modes of the major scale, including the major ("Ionian") and natural minor ("Aeolian") already covered. Each of the other five modes differs from Ionian or Aeolian by a single tone, which is the source of the mode's unique sound and feel. 
 ---
