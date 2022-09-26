@@ -8,16 +8,11 @@ abstract: Understand how the leading tone and the tone-and-a-half interval are h
 
 ### The leading tone
 
-In a minor key, 
-when approaching the tonic from below,
-it is common to approach through the leading tone,
-from 7&#x302;-1&#x302;.
-
-Minor key tonality often uses the leading tone (major 7&#x302; degree),
-even though it does not exist in the natural minor scale
-(which has a b7&#x302; degree).
+In a minor key,
+it is common to approach the tonic from a half-step below,
+7-1 through the major 7&#x302; or leading tone.
+This is so even though the natural minor scale does not have a major 7&#x302; degree.
 Natural minor with a leading tone major 7&#x302; is called the *harmonic minor* scale.
-
 See {% include chapter-link.html slug="minor-harmony" %} for details.
 
 ### The tone-and-a-half interval
