@@ -1,5 +1,5 @@
 ---
-title: Minor scales
+title: The minor scales
 slug: minor-scales
 abstract: Minor key tonality is based on the natural minor scale, with adjustments to the 6&#x302; and 7&x302; as needed. 
 ---
