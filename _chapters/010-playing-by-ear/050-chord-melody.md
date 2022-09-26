@@ -1,10 +1,10 @@
 ---
-title: Blending chords and melodies
+title: Blending chords and melody
 slug: chord-melody
 abstract: Decorating lines with treble triads, shell voicings, and bass notes.
 ---
 
-Using both chords and melody makes a composition sound fuller and richer,
+Blending together chords and melody makes a composition sound fuller and richer,
 like a song rather than just a part. 
 
 There are some quick tricks for filling out a melody on the highest pitched string.
