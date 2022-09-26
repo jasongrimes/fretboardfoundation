@@ -219,6 +219,15 @@ See {% include chapter-link.html slug="caged" %} for more on CAGED chord shapes.
 
 ## Practicing scales
 
+Scales can be practiced most effectively by "chunking",
+breaking information into
+a small number of pieces (a chunk) that is comfortable to hold in our minds at one time.
+
+As chunks are learned,
+they can be combined as pieces in other chunks,
+and so on.
+
+A good way to know when it's time to move on to the next chunk is to follow interest and boredom.
 Move on when a thing becomes boring, 
 but not before.
 
