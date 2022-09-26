@@ -122,7 +122,7 @@ and play the same exercises with this new point of view.
 ### Think in both minor and relative major
 
 It can be constructive to switch perspective back and forth,
-thinking of a tone as both its part of the minor scale and as its part of the relative major.
+thinking of a tone as a degree of both the minor scale and the relative major.
 
 ## D form
 
