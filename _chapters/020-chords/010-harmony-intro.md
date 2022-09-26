@@ -502,7 +502,7 @@ imagine the lower note is the tonic of a major scale,
 and find the 3&#x302;. 
 The minor intervals are a fret below the major ones. 
 
-See {% include chapter-link.html slug="major-scale" %} and {% include chapter-link.html slug="interval-scale" %}
+See {% include chapter-link.html slug="major-scale" %}
 for more information.
 
 ### Inverting intervals
