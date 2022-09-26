@@ -110,7 +110,7 @@ A 7-note scale with the tonic repeated at the octave
 can be split into two 4-note sequences called *tetrachords*.
 As more scales are learned,
 it can become easier to think in tetrachords rather than full scale sequences,
-since scales often share one tetrachord.
+since scales often share tetrachords.
 
 The two tetrachords of a scale can be played on guitar in a convenient box shape,
 with the second tetrachord to the the *left* of the first,
