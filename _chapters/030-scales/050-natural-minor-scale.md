@@ -24,7 +24,7 @@ This pattern is also called the "Aeolian" mode,
 the sixth mode of the major scale.
 See {% include chapter-link.html slug="diatonic-modes" %} for more information.
 
-## Assemble on one string
+## One string and tetrachords
 
 The simplest way to visualize a scale is on a single guitar string.
 The scale semitones and tones are one and two frets apart.
@@ -34,10 +34,6 @@ The scale semitones and tones are one and two frets apart.
      url="/assets/figures/natural-minor-scale/natural-minor-scale-3-Am.svg"
      class="chord row"
 %}
-
-## Tetrachords
-
-Here are the two tetrachords of the natural minor scale.
 
 {% include figure.html
     caption="Natural minor scale tetrachords"
