@@ -76,7 +76,7 @@ Practice slowly and thoughtfully,
 first ascending and descending, 
 then with tunes, licks, scale patterns and arpeggios.
 
-See {% include chapter-link.html slug="practicing-scales" %} for details. 
+See "practicing scales" in {% include chapter-link.html slug="scale-intro" anchor="practicing-scales" %} for details. 
 
 ## D form
 

@@ -110,7 +110,8 @@ but different intervals.
 
 ## Practicing natural minor
 
-See {% include chapter-link.html slug="practicing-scales" %} for general information about practicing scales.
+See "practicing scales" in {% include chapter-link.html slug="scale-intro" anchor="practicing-scales" %} 
+for general information about practicing scales.
 
 ### Practice as relative major
 

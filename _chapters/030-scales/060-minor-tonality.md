@@ -222,7 +222,8 @@ or embrace it---it can be a cool sound.
 Even if this amounts to just practicing the melodic, harmonic, and natural minor scales separately,
 try to think in terms of the adjustable sixth and seventh degrees.
 
-See {% include chapter-link.html slug="practicing-scales" %} for more recommendations about practicing these forms. 
+See "practicing scales" in {% include chapter-link.html slug="scale-intro" anchor="practicing-scales" %} 
+for more recommendations about practicing these forms. 
 
 ## D form
 
