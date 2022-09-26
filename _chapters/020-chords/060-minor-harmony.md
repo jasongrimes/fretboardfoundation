@@ -22,6 +22,8 @@ they place a special emphasis on the first scale degree,
 the "tonic" or "keycenter", 
 the note for which the key is named.
 
+See {% include chapter-link.html slug="natural-minor-scale" %} for details.
+
 ## Chords in natural minor
 
 Most of the chords in a minor key are determined by harmonizing the natural minor scale.
