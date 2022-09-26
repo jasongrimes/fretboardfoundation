@@ -29,6 +29,13 @@ See {% include chapter-link.html slug="diatonic-modes" %} for more information.
 The simplest way to visualize a scale is on a single guitar string.
 The scale semitones and tones are one and two frets apart.
 
+The lower tetrachord is the common *minor* tetrachord
+(**1-2-b3-4**).
+
+The upper tetrachord is **5-b6-b7-1** (**1-b2-b3-4**).
+The b2 minor second is relatively uncommon.
+This tetrachord is sometimes called *phrygian* or *upper minor*.
+
 {% include figure.html
      caption="A natural minor scale on third string."
      url="/assets/figures/natural-minor-scale/natural-minor-scale-3-Am.svg"
