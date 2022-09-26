@@ -136,7 +136,7 @@ to get rid of the tone-and-a-half interval between b6 and 7.
 The melodic minor scale is often used for minor key melodies.
 In euroclassical pieces it is traditionally played ascending,
 in order to move from the leading tone to the tonic,
-but then the natural minor scale with b7 and b6 is played descending,
+but when descending the natural minor scale with b7 and b6 is played instead,
 since the leading tone is no longer needed
 and there is no longer a foreign tone-and-a-half interval for which to adjust the b6. 
 
