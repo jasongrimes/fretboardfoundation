@@ -99,7 +99,7 @@ By learning a major key we get the relative minor for free.
     class="chord row"
 %}
 
-Also compare the relative major form with the exact same notes,
+Compare the relative major form with the exact same notes,
 but different intervals. 
 
 {% include figure.html
