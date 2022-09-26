@@ -286,7 +286,7 @@ The separate melodic, harmonic, and natural minors are also shown.
 See "practicing scales" in {% include chapter-link.html slug="scale-intro" anchor="practicing-scales" %} 
 for general information about practicing scales.
 
-### Approach the tonic with the leading tone
+### Approach the tonic through the leading tone
 
 When approaching the tonic from below as a point of resolution,
 precede the tonic with the leading tone, 
@@ -295,7 +295,7 @@ Even when approaching the tonic from above,
 it can sound good to slide into the tonic with the leading tone,
 such as with **5-4-b3-2-7-1**.
 
-### Adjust for the tone-and-a-half interval
+### Mind the tone-and-a-half interval
 
 When playing both the sixth and seventh degrees,
 be mindful of the potential tone-and-a-half interval if there's a b6 and major 7.
