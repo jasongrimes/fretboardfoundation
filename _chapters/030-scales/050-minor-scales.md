@@ -6,6 +6,11 @@ abstract: The natural minor, or "Aeolean" mode, is the foundation of minor key t
 
 ## About minor key tonality
 
+### Minor scales
+
+Notes in a minor key come from the natural minor scale,
+with adjustments to the sixth and seventh degrees as circumstances require. 
+
 ### The leading tone
 
 In a minor key,
