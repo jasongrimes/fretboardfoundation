@@ -6,8 +6,8 @@ abstract: The natural minor, or "Aeolean" mode, is the foundation of minor key t
 
 ## About the natural minor scale
 
-The natural minor scale is the basis for minor key harmony.
-See {% include chapter-link.html slug="minor-harmony" %} for details. 
+The natural minor scale is the basis for minor key harmony
+(see {% include chapter-link.html slug="minor-harmony" %}). 
 
 It is a seven note diatonic scale 
 with semitones between degrees 2-b3 and 5-b6.
