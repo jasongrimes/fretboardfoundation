@@ -51,6 +51,14 @@ Both tetrachords of a major scale are the same,
 with intervals **1-2-3-4** (**T-T-S**).
 This is sometimes called the *major tetrachord*.
 
+## Practicing scale forms
+
+Practice slowly and thoughtfully,
+first ascending and descending, 
+then with tunes, licks, scale patterns and arpeggios.
+
+See "practicing scales" in {% include chapter-link.html slug="scale-intro" anchor="practicing-scales" %} for details. 
+
 ## E form
 
 Here is the major scale assembled in CAGED E form.
@@ -64,19 +72,11 @@ The E form is also a treble triad with first string root.
 %}
 
 Fingering is straightforward in this form.
-Start with the second finger on the sixth string tonic. 
-
-## Practicing scale forms
+Start with the second finger on the sixth string tonic.
 
 Stay on the E form and learn as much as possible before moving on to another form.
-When it becomes boring from familiarity
-is the time to move on. 
-
-Practice slowly and thoughtfully,
-first ascending and descending, 
-then with tunes, licks, scale patterns and arpeggios.
-
-See "practicing scales" in {% include chapter-link.html slug="scale-intro" anchor="practicing-scales" %} for details. 
+Move on when it becomes boring,
+but not before.
 
 ## D form
 
