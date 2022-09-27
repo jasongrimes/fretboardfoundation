@@ -119,8 +119,8 @@ and the bIII is usually played as a major triad (with the b7&#x302;, rarely as a
 Additionally,
 euroclassical composers preferred to avoid melodic leaps around the leading tone,
 and so adjusted the intervals of the sixth and seventh scale degrees in melodic lines according to taste.
-These contortions are collectively called "melodic minor".
-See {% include chapter-link.html slug="minor-leading-tone" %} for details.
+These contortions are collectively called "melodic minor"
+(See {% include chapter-link.html slug="minor-scales" %}).
 
 
 ## Shapes in first-string tonic position
