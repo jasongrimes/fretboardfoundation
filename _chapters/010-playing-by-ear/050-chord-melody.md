@@ -4,13 +4,13 @@ slug: chord-melody
 abstract: Decorating lines with treble triads, shell voicings, and bass notes.
 ---
 
-Blending together chords and melody makes a composition sound fuller and richer,
-more like a song rather than just a part. 
-
 Guitar chord melody improvisation has fascinated me since childhood.
 The ability to freely interweave chord progressions,
 melodies, and bass lines
-always seemed to me the ultimate in guitar performance.
+always seemed the ultimate in guitar performance.
+
+Blending together chords and melody makes a composition sound fuller and richer, 
+like a song rather than just a part.
 
 *Treble triads* can be used to improvise freely with chords. 
 See {% include chapter-link.html slug="treble-triads" %}.
