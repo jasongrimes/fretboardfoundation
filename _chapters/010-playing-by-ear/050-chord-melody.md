@@ -7,7 +7,7 @@ abstract: Decorating lines with treble triads, shell voicings, and bass notes.
 Guitar chord melody improvisation has fascinated me from an early age.
 The ability to freely interweave chord progressions,
 melodies, and bass lines
-was always the dream.
+was always the pinnacle.
 I saw it as the ultimate capability on guitar.
 
 Blending together chords and melody makes a composition sound fuller and richer,
