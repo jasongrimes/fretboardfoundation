@@ -247,7 +247,7 @@ for general information about practicing scales.
 
 When approaching the tonic from below as a point of resolution,
 precede the tonic with the leading tone, 
-major 7&#x302;-1.
+major 7-1.
 Even when approaching the tonic from above,
 it can sound good to slide into the tonic with the leading tone,
 such as with **5-4-b3-2-7-1**.
