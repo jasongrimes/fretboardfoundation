@@ -1,5 +1,5 @@
 ---
-title: Blending chords and melody
+title: Chord melody
 slug: chord-melody
 abstract: Decorating lines with treble triads, shell voicings, and bass notes.
 ---
