@@ -8,18 +8,20 @@ Before practicing  chord shapes,
 it's important to know some basic ergonomic principles so that we don't develop habits that lead to pain or difficulty over time. 
 
 The basic ergonomic rule is this:
-**If something hurts,
-stop doing it right away.**
-Do something else that doesn't hurt instead.
+
+> **If something hurts, stop doing it right away.**
+> 
+> Do something else that doesn't hurt instead.
+{: .block-danger }
 
 Some tips:
 
-Keep fretting fingers *and thumb* curled as though holding a softball.
+- Keep fretting fingers *and thumb* curled as though holding a softball.
 This prevents undue leverage from being applied to basal joints,
 which can eventually lead to pain.
 It also keeps fingers nimble and ready to move. 
 
-Keep the fretting wrist at a neutral angle, 
+- Keep the fretting wrist at a neutral angle, 
 to prevent tendons from rubbing. 
 Make this easier by adjusting the elbow in and out from the body,
 and tilting the guitar neck upward. 
