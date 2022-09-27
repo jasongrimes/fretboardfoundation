@@ -73,9 +73,7 @@ By the law of chance, any note picked at random is going to be “in” most of 
 Any note that is “out” is one fret either direction from being “in”,
 so we can treat it as a “chromatic approach" into an "in" note,
 like we did it on purpose. 
-Own it,
-maybe lower its volume,
-and then deliberately shift “in” by a fret in a chosen direction. 
+Then shift “in” by a fret in the chosen direction. 
 
 From an “in” note, 
 the next closest “in” note is most likely two frets away (70%, 5/7 chance). 
