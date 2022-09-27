@@ -493,7 +493,7 @@ Compare the relative major and separate minor scales.
 
 {% include figure.html
     caption="Am natural minor scale on the whole fretboard with CAGED outlines."
-    url="/assets/figures/minor-scale/natur-minor-Am-all.svg"
+    url="/assets/figures/minor-scale/natural-minor-Am-all.svg"
     class="chord row"
 %}
 
