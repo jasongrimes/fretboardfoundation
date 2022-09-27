@@ -12,7 +12,7 @@ The basic ergonomic rule is this:
 > **If something hurts, stop doing it right away.**
 > 
 > Do something else that doesn't hurt instead.
-{: .block-warning }
+{: .block-danger }
 
 Some tips:
 
