@@ -293,11 +293,12 @@ thinking of a tone as a degree of both the minor scale and the relative major.
 
 This combined scale form shows the natural minor scale,
 plus highlighted additional major 6 and 7 degrees.
-Played without highlighted notes,
-It's the natural minor scale.
-Played with the highlighted major 7 instead of the b7, 
+
+- Played without highlighted notes,
+it's the natural minor scale.
+- Played with the highlighted major 7 instead of the b7, 
 it's harmonic minor.
-Played with both highlighted 6 and 7 instead of b6 and b7,
+- Played with both highlighted 6 and 7 instead of b6 and b7,
 it's melodic minor.
 
 {% include figure.html
