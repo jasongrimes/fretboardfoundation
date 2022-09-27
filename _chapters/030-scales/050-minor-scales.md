@@ -1,7 +1,7 @@
 ---
 title: The minor scales
 slug: minor-scales
-abstract: Minor key tonality is based on the natural minor scale, with adjustments to the 6 and 7 as harmonic and melodic circumstances require. 
+abstract: The natural minor scale, with adjustments to the 6 and 7 as harmonic and melodic circumstances require. 
 ---
 
 ## About minor tonality
