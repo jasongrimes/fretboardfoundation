@@ -87,8 +87,9 @@ See {% include chapter-link.html slug="diatonic-modes" %} for details.
     class="string row"
 %}
 
-The lower tetrachord of natural minor is the common *minor* tetrachord
+The lower tetrachord of natural minor is the *minor* tetrachord
 (**1-2-b3-4**).
+This same lower tetrachord is used for all of the minor scales in this chapter.
 
 The upper tetrachord is **5-b6-b7-1** (**1-b2-b3-4**).
 The b2 (minor second) is relatively uncommon.
@@ -171,6 +172,7 @@ with semitones between degrees 2-b3 and 7-1.
     url="/assets/figures/tetrachords/melodic-minor-tetrachords.svg"
     class="string row"
 %}
+
 ### Combined minor scale
 
 While there are several different minor scales,
@@ -188,6 +190,9 @@ with adjustable sixth and seventh degrees.
     url="/assets/figures/tetrachords/combined-minor-tetrachords.svg"
     class="string row"
 %}
+
+Notice that the lower tetrachord (**1-2-b3-1**) is always the same.
+It can be useful to learn licks and tunes in the lower tetrachord since they will work regardless of what's happening with the 6 and 7.
 
 ## Relative major and minor
 
