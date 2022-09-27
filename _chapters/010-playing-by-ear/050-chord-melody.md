@@ -4,12 +4,11 @@ slug: chord-melody
 abstract: Decorating lines with treble triads, shell voicings, and bass notes.
 ---
 
-I was impressed by guitar chord melody improvisation from an early age.
+Guitar chord melody improvisation has fascinated me since an early age.
 The ability to freely interweave chord progressions,
-melodies, and bass lines,
+melodies, and bass lines
 was always the dream for me.
 I saw it as the ultimate capability on guitar.
-In
 
 Blending together chords and melody makes a composition sound fuller and richer,
 like a song rather than just a part. 
