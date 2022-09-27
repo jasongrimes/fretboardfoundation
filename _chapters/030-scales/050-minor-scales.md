@@ -223,10 +223,10 @@ and Am is said to be the *relative minor* of C.
 <div class="table-wrapper" markdown="block">
 **C major laid over relative minor**
 
-|            | |T|T|S|T|T|T|S |T|T|S |T |T|T|S|
-|            |C|D|E|F|G|A|B|C |D|E|F |G |A|B|C|
-|C major     |1|2|3|4|5|6|7|1 |2|3|4 |5 |6|7|1|
-|A nat. minor| | | | | |1|2|b3|4|5|b6|b7|1| | |
+|               | |T|T|S|T|T|T|S |T|T|S |T |T|T|S|
+|               |C|D|E|F|G|A|B|C |D|E|F |G |A|B|C|
+|C major        |1|2|3|4|5|6|7|1 |2|3|4 |5 |6|7|1|
+|A natural minor| | | | | |1|2|b3|4|5|b6|b7|1| | |
 
 </div>
 
