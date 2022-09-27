@@ -26,7 +26,7 @@ Another way to fill out melodies
 is to add bass notes on the lower strings.
 
 As a small trick,
-melody notes on the 1st string can be duplicates on the 6th string
+melody notes on the 1st string can be duplicated on the 6th string
 to give the impression of a bass line. 
 This can be effective when done rarely,
 such as on the first beat of a phrase,
