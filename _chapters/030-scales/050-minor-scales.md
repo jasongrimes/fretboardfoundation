@@ -486,8 +486,14 @@ Compare the relative major and separate minor scales.
 ## Whole fretboard
 
 {% include figure.html
-    caption="Am combined minor scale on the whole fretboard."
+    caption="Am combined minor scale on the whole fretboard with CAGED outlines."
     url="/assets/figures/minor-scale/combined-minor-Am-all.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="Am natural minor scale on the whole fretboard with CAGED outlines."
+    url="/assets/figures/minor-scale/natur-minor-Am-all.svg"
     class="chord row"
 %}
 
