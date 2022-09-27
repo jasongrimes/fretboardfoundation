@@ -1,5 +1,5 @@
 ---
-title: Play all over the fretboard
+title: Play all over the instrument
 slug: play-all-over
 abstract: Skating around the entire range of the instrument. 
 ---
