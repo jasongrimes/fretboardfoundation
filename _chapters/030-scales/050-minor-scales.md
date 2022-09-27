@@ -63,7 +63,6 @@ It has a b3, b6, and b7.
 Natural minor is also 
 the sixth diatonic mode of the major scale,
 the *Aeolian mode*.
-
 See {% include chapter-link.html slug="diatonic-modes" %} for details.
 
 <div class="table-wrapper" markdown="block">
@@ -92,7 +91,7 @@ The lower tetrachord of natural minor is the *minor* tetrachord
 This same lower tetrachord is used for all of the minor scales in this chapter.
 
 The upper tetrachord is **5-b6-b7-1** (**1-b2-b3-4**).
-The b2 (minor second) is relatively uncommon.
+This minor second (b2 and b6) is relatively uncommon.
 This tetrachord is sometimes called *phrygian* or *upper minor*.
 
 
