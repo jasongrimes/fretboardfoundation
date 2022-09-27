@@ -219,21 +219,6 @@ See {% include chapter-link.html slug="caged" %} for more on CAGED chord shapes.
 
 ## Practicing scales
 
-### Chunking
-
-
-Scales can be practiced most effectively by *chunking*,
-breaking information into *chunks*,
-learning each chunk separately,
-then learning them in combination as a larger chunk.
-
-Most people can hold about 5-7 things in mind at any one time.
-Chunking makes optimal use of this capability. 
-
-A good way to know when it's time to move on to learn another chunk is to follow our sense of interest and boredom.
-Move on when a thing becomes boring, 
-but not before.
-
 ### Practice mindfully 
 
 The way to avoid accidentally programming ourselves into scale-playing robots is to *always be mindful* when practicing scales. 
@@ -262,6 +247,20 @@ And if the habits are deep, it’s surprising how fast we can execute them.
 The trick is to slowly and carefully form the intended habits during practice, 
 which sound good to our ear and which carefully exclude sloppiness and mistakes.
 It's like carving a rut into the dirt to direct the future flow of rain water to irrigate the crops.
+
+### Chunking
+
+Scales can be practiced most effectively by *chunking*,
+breaking information into *chunks*,
+learning each chunk separately,
+then learning them in combination as a larger chunk.
+
+Most people can hold about 5-7 things in mind at any one time.
+Chunking makes optimal use of this capability. 
+
+A good way to know when it's time to move on to learn another chunk is to follow our sense of interest and boredom.
+Move on when a thing becomes boring, 
+but not before.
 
 ### Focus on intervals, not scale shapes
 
