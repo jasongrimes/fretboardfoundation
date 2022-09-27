@@ -1,5 +1,5 @@
 ---
-title: The minor scales
+title: Minor scales
 slug: minor-scales
 abstract: The natural minor scale, with adjustments to the 6 and 7 as harmonic and melodic circumstances require. 
 ---
