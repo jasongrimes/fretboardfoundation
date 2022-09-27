@@ -291,7 +291,7 @@ thinking of a tone as a degree of both the minor scale and the relative major.
 
 ## E form
 
-This combined scale form shows the natural minor scale,
+This combined scale includes the natural minor scale,
 plus highlighted additional major 6 and 7 degrees.
 
 - Played without highlighted notes,
