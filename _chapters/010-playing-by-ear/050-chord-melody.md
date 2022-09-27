@@ -25,7 +25,7 @@ will be "in tune" (diatonic).
 Another way to fill out melodies 
 is to add bass notes on the lower strings.
 
-A trick to give the impression of a bass line is to duplicate a melody note from the 1st string into the 6th string as a bass note.
+A trick to give the impression of a bass line is to duplicate a melody note from the 1st string onto the 6th string as a bass note.
 This can be effective when done sparely,
 such as on the first beat of a phrase,
 but it doesn't sound good to play a bass line in unison with the melody too much.
