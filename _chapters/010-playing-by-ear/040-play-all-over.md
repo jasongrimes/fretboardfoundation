@@ -1,5 +1,5 @@
 ---
-title: Play all over the instrument
+title: Play all over
 slug: play-all-over
 abstract: Skating around the entire range of the instrument. 
 ---
