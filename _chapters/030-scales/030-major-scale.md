@@ -63,7 +63,7 @@ See "practicing scales" in {% include chapter-link.html slug="scale-intro" ancho
 
 Here is the major scale assembled in CAGED E form.
 
-The E form is also a treble triad with first string root.
+The E form extends the 1st-string root treble triad.
 
 {% include figure.html
     caption="Major scale in E CAGED form."
@@ -79,6 +79,8 @@ Move on when it becomes boring,
 but not before.
 
 ## D form
+
+The D form extends the 2nd-string root treble triad.
 
 {% include figure.html
     caption="Major scale in D CAGED form."
