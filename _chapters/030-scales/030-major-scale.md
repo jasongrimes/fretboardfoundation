@@ -93,14 +93,13 @@ Fingerings for the D form involve some shifting around.
 One approach is to use the first finger for the lower 7 and 3 as well as the 1 and 4,
 with a lot of slides.
 This is a fast and fluid way to do it,
-when a legato sound is desired.
+when a legato sound is acceptable.
 
 Another approach is to shift the whole hand back,
 playing the lower 7 and 3 with the first finger,
 the 1 and 4 with second finger,
 and bringing the fourth finger into play as needed to enable the shift.
-It's a bit awkward at first but becomes more natural after awhile.
-
+It's a bit awkward at first but it feels more natural after awhile.
 
 ## C form
 
