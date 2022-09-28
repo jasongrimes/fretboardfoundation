@@ -111,7 +111,12 @@ The C form expands below the 2nd-string root treble triad.
     class="chord"
 %}
 
+Fingering in the C form is straightforward and comfortable,
+with the fourth finger on the 5th-string tonic.
+
 ## A form
+
+The A form expands above the 3rd-string root treble triad.
 
 {% include figure.html
     caption="Major scale in A CAGED form."
@@ -120,6 +125,8 @@ The C form expands below the 2nd-string root treble triad.
 %}
 
 ## G form
+
+The G form expands below the 3rd-string root treble triad.
 
 {% include figure.html
     caption="Major scale in G CAGED form."
