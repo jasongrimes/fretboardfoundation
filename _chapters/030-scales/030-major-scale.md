@@ -137,6 +137,17 @@ The G form expands below the 3rd-string root treble triad.
     class="chord"
 %}
 
+This is a comfortable and convenient scale form.
+
+It can be played with a partial barre shape,
+enabling fast performance of scale patterns and chords.
+
+The 7 is usually played on the 3rd string with the first finger,
+sliding between the 1.
+
+In cases when it's preferable to keep the barre intact,
+the 7 can also be played by reaching up with the pinkie finger on the 4th string.
+
 ## Whole fretboard
 
 {% include figure.html
