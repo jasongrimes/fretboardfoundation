@@ -146,7 +146,7 @@ The 7 is usually played on the 3rd string with the first finger,
 sliding between the 1.
 
 In cases when it's preferable to keep the barre intact,
-the 7 can also be played by reaching up with the pinkie finger on the 4th string.
+the 7 can also be played by reaching up with the fourth finger on the 4th string.
 
 ## Whole fretboard
 
