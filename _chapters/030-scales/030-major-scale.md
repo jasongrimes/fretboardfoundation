@@ -124,6 +124,9 @@ The A form expands above the 3rd-string root treble triad.
     class="chord"
 %}
 
+Fingering for the A form is mostly straightforward except for the 4 on the 2nd string.
+Use the fourth finger to play both the 3 and the 4.
+
 ## G form
 
 The G form expands below the 3rd-string root treble triad.
