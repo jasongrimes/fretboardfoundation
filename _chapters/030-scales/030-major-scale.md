@@ -143,7 +143,7 @@ It can be played with a partial barre shape,
 enabling fast performance of scale patterns and chords.
 
 The 7 is usually played on the 3rd string with the first finger,
-sliding between the 1.
+sliding between the 1 as needed.
 
 In cases when it's preferable to keep the barre intact,
 the 7 can also be played by reaching up with the fourth finger on the 4th string.
