@@ -300,7 +300,7 @@ or starting a saw cut in a piece of wood.
 
 While ascending or descending,
 switch directions at will to prevent boredom and make little melodic phrases.
-This may reveal tunes from long buried melodies in deep memories.
+This may reveal tunes from melodies long buried in deep memories.
 It can be surprising how many classical, 
 folk, cultural,
 and religious traditional songs 
