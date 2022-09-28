@@ -306,7 +306,7 @@ it's melodic minor.
     class="chord row"
 %}
 
-This form requires a slight shift of position to reach the back to the 2
+This form requires a slight shift of position to reach back to the 2
 (and sometimes the 6 and 7).
 This can be done by stretching the first finger back just enough to reach the 2.
 When playing the 2 and b3 in sequence,
