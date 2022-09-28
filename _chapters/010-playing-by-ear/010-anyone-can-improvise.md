@@ -72,8 +72,8 @@ and we can treat it as a “melodic approach” to our intended note.
 
 - Any note that is “out” is one fret either direction from being “in”,
 so we can treat it as a “chromatic approach" into an "in" note,
-like we did it on purpose. 
-Then shift “in” by a fret in the chosen direction. 
+like we did it on purpose,
+and shift “in” by a fret in the chosen direction. 
 
 - From an “in” note, 
 the next closest “in” note is most likely two frets away (70%, 5/7 chance). 
