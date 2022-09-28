@@ -7,13 +7,14 @@ abstract: Skating around the entire range of the instrument.
 Once we can play a melody on both one string and across strings,
 it's natural to combine approaches and play all over the fretboard.
 
-We can chase a melody up and down a string,
-then turn a corner and play across strings for awhile.
+We can follow a melody up and down a string,
+and then turn a corner and play across strings for awhile.
 
 This free ability to range all over the instrument can be liberating and fun.
-It has been called the "realm of the electric ice skating rink"
+It's been called the "realm of the electric ice skating rink" 
+by the eloquent Mick Goodrick
 [(Goodrick, 1987)](references#goodrick-1987).
-The full reach of tonal capabilities of the instrument have been unlocked.
+The full reach of tonal capabilities of the instrument are unlocked.
 
 When skating around the fretboard,
 orientation becomes important.
