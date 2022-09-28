@@ -81,11 +81,12 @@ An interval is defined as
 the difference in frequency between two pitches. 
 
 Each interval is also given a name, 
-like "major third".
+like "major third" or "perfect fifth".
 
 ### Interval names
 
-An interval has a name like "major third",
+An interval has a name,
+like "major third",
 which is comprised of two parts: 
 *quality* (major) and 
 *number* (third).
