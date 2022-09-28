@@ -11,9 +11,8 @@ We can follow a melody up and down a string,
 and then turn a corner and play across strings for awhile.
 
 This free ability to range all over the instrument can be liberating and fun.
-It's been called the "realm of the electric ice skating rink" 
-by the eloquent Mick Goodrick
-[(Goodrick, 1987)](references#goodrick-1987).
+The eloquent Mick Goodrick calls it the "realm of the electric ice-skating rink"
+[(1987, p. 30)](references#goodrick-1987).
 The full reach of tonal capabilities of the instrument are unlocked.
 
 When skating around the fretboard,
