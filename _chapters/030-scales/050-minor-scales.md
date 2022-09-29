@@ -1,7 +1,7 @@
 ---
 title: Minor scales
 slug: minor-scales
-abstract: The natural minor scale, with adjustments to the 6 and 7 as harmonic and melodic circumstances require. 
+abstract: The natural minor scale, with adjustments to degrees 6 and 7 as harmonic and melodic circumstances require. 
 ---
 
 ## About minor tonality
