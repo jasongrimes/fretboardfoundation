@@ -27,6 +27,16 @@ Make this easier by adjusting the elbow in and out from the body,
 and tilting the guitar neck upward. 
 A strap with a suede backing can help hold the guitar tilted in a comfortable fretting position. 
 
+- Barre chords should not hurt.
+Seriously.
+It can be hard to play barre chords in a way that doesn't hurt,
+so it may not be worth the effort.
+There are alternative grips for any barre chords that may be more comfortable.
+Or play the barre only at the tip and base of the first finger,
+don't presss down on the middle strings at all.
+Whatever the approach,
+it absolutely must not hurt.
+
 Christopher Berg’s excellent 
 *Mastering Guitar Technique: Process and Essence* 
 [(Berg, 1997)](references#berg-1997) 
