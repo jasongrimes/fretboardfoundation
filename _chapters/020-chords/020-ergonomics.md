@@ -36,7 +36,7 @@ Barres across the whole fretboard should almost always stop only the string at t
 without pressing down on the middle strings at all.
 Don't use the thumb as a fulcrum to lever the fingers down like a crowbar 
 (which works at first, 
-but eventually causes pain and can aggravate basal joint arthritis).
+but can eventually cause pain and aggravate basal joint arthritis).
 Instead, pinch the fingers and thumb together.
 Whatever the approach,
 it absolutely *must not hurt*.
