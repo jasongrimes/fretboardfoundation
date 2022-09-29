@@ -32,14 +32,14 @@ Seriously.
 It can be hard to play barre chords in a way that doesn't hurt,
 so it may not be worth the effort.
 There are alternative grips for any barre chords that may be more comfortable.
-Or play the barre only at the tip and base of the first finger,
-don't presss down on the middle strings at all.
-Pinch the fingers and thumb together,
-instead of using the thumb as a fulcrum to lever the fingers down like a crowbar 
-(this works at first, 
+Barres across the whole fretboard should almost always stop only the string at the tip and base of the first finger,
+without pressing down on the middle strings at all.
+Don't use the thumb as a fulcrum to lever the fingers down like a crowbar 
+(which works at first, 
 but eventually causes pain and can aggravate basal joint arthritis).
+Instead, pinch the fingers and thumb together.
 Whatever the approach,
-it absolutely must not hurt.
+it absolutely *must not hurt*.
 
 Christopher Berg’s excellent 
 *Mastering Guitar Technique: Process and Essence* 
