@@ -34,6 +34,10 @@ so it may not be worth the effort.
 There are alternative grips for any barre chords that may be more comfortable.
 Or play the barre only at the tip and base of the first finger,
 don't presss down on the middle strings at all.
+Pinch the fingers and thumb together,
+instead of using the thumb as a fulcrum to lever the fingers down like a crowbar 
+(this works at first, 
+but eventually causes pain and can aggravate basal joint arthritis).
 Whatever the approach,
 it absolutely must not hurt.
 
