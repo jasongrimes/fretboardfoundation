@@ -3,10 +3,6 @@ title: Glossary
 slug: glossary
 ---
 
-Many of these definitions are taken nearly verbatim from the well-reasoned terminology choices in Philip Tagg's 
-_Everyday Tonality II (towards a tonal theory of what most people hear)_ [(Tagg, 2018)](references#tagg-2018),
-to which this book is indebted. Errors and omissions are, of course, mine. 
-
 - **atonal**{:#atonal}: (1) Music or other sounds without [tones](#tone).
 (2) Confusingly but commonly
 (and somewhat offensively),
@@ -99,9 +95,9 @@ distinguish between two [notes](#note), *[tonal](#tonal) or otherwise*, sounded 
 - **tonal**{:#tonal}: (1) any music which has the properties of a [tone](#tone).
 (2) Confusingly, but commonly,
 "tonal" sometimes refers to music that has a [tonic](#tonic).
-Philip Tagg makes a convincing argument that 
-this usage leads to confusion by obscuring the fact that there are other ways of doing things;
-and that it's chauvinist and biased against tonal idioms not used in the euroclassical or jazz canons
+Philip Tagg makes a convincing argument that this usage,
+in addition to causing confusion by obscuring the fact that there are other ways of doing things,
+is chauvinist and biased against tonal idioms not used in the euroclassical or jazz canons
 [(Tagg, 2018, pp. 52--55)](references#tagg-2018).
 Referring to most types of music in the world as "not tonal",
 essentially, "not musical",
@@ -124,6 +120,8 @@ or [tonal](#tonal) (in common usage).
 
 - **tonical**{:#tonical}: Music that has a tonic. Compare [tonal](#tonal).
 
-
+Several of these definitions are taken nearly verbatim from the well-reasoned terminology choices in Philip Tagg's 
+_Everyday Tonality II (towards a tonal theory of what most people hear)_ [(Tagg, 2018)](references#tagg-2018),
+to which this book is indebted. Errors and omissions are, of course, mine. 
 
 
