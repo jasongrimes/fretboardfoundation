@@ -51,7 +51,7 @@ The A CAGED shape adds notes above the third-string root treble triad.
 ## G shape
 
 The G CAGED shape adds notes below the third-string root treble triad
-and above the first string root treble triad.
+and above the first-string root treble triad.
 
 {% include figure.html
     caption="G major shape."
