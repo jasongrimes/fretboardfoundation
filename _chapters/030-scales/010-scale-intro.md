@@ -45,6 +45,10 @@ These numbers are called “scale degrees”.
 The first degree of a scale is called the “tonic”.
 The other degrees are named for their interval from the tonic.
 
+Scale degree numbers are sometimes written with "hats" when it adds clarity,
+to distinguish them from other numbers. 
+Ex. 1&#x302;, 2&#x302;, b4&#x302;, etc.
+
 ### Diatonic scales
 
 Most scales in Western music are "diatonic",
