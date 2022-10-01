@@ -64,7 +64,8 @@ either between degrees (**T-T-S-T-T-T-S**),
 from the tonic (**1-2-3-4-5-6-7** or **1-2-b3-4-5-b6-b7**),
 or by the location of semitones (semitones at **3-4** and **7-1**).
 
-The **major scale** is a seven note diatonic scale 
+For example, 
+the *major scale* is a seven note diatonic scale 
 with semitones between degrees 3-4 and 7-1.
 Canonically, all the major scale degrees are major or perfect intervals. 
 
@@ -79,7 +80,7 @@ Canonically, all the major scale degrees are major or perfect intervals.
 </div>
 
 As another example, 
-the **natural minor scale** is a seven note diatonic scale 
+the *natural minor scale* is a seven note diatonic scale 
 with semitones between degrees 2-b3 and 5-b6.
 
 **Natural minor scale intervals**
@@ -118,7 +119,7 @@ it can become easier to think in tetrachords rather than full scale sequences,
 since scales often share tetrachords.
 
 The two tetrachords of a scale can be played on guitar in a convenient box shape,
-with the second tetrachord to the the *left* of the first,
+with the upper tetrachord to the the *left* of the lower,
 on every pair of strings except for 2-3.
 
 Here are the two tetrachords of the major scale.
