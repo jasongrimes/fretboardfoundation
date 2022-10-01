@@ -54,7 +54,7 @@ spaced as far apart as possible.
 
 ### Scale formulas
 
-Scales are identified by their intervals, 
+Scales are defined by their intervals, 
 either between degrees (**T-T-S-T-T-T-S**),
 from the tonic (**1-2-3-4-5-6-7** or **1-2-b3-4-5-b6-b7**),
 or by the location of semitones (semitones at **3-4** and **7-1**).
