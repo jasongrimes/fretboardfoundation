@@ -152,7 +152,7 @@ For example, compare the major and melodic minor tetrachords:
 %}
 
 Compared to the major scale, 
-it's easy to see the melodic minor has a minor third.
+it's easy to see the melodic minor differs by having a minor third.
 
 Some common tetrachord names:
 
