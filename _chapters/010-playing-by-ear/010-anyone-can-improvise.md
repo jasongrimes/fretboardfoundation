@@ -83,6 +83,6 @@ If we *don’t* feel this pull,
 we should try going two frets in either direction and see what happens.
 
 And a trick for blending in with other musicians:
-differences in tuning and intonation between instruments can be covered with "vibrato". 
+differences in tuning and intonation between instruments can sometimes be covered with *vibrato*. 
 A note doesn’t have to be perfectly in tune if it is passing back and forth 
 (vibrating) through the perfect pitch. 
