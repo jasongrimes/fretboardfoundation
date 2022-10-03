@@ -32,7 +32,7 @@ Seriously.
 It can be hard to play barre chords in a way that doesn't hurt,
 so it may not be worth the effort.
 There are alternative grips for any barre chords that may be more comfortable.
-Barres across the whole fretboard should almost always stop only the string at the tip and base of the first finger,
+Barres across the whole fretboard should almost always stop only the strings at the tip and base of the first finger,
 without pressing down on the middle strings at all.
 Don't use the thumb as a fulcrum to lever the fingers down like a crowbar 
 (which works at first, 
