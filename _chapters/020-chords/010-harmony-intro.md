@@ -455,7 +455,7 @@ The remaining chords sort into functions by similarity:
 A defining characteristic of most euroclassical and jazz music is the use of "cadences",
 standard chord movements that end a musical phrase and establish a key center.
 
-Cadences make use of the functions of the primary chords to establish their tension and resolution.
+Cadences use the primary chord functions to establish their tension and resolution.
 The basic cadence is called an "authentic cadence",
 which moves from the V chord (the dominant) to the I chord (the tonic). 
 
