@@ -15,7 +15,7 @@ and an ear to listen.
 ## Why improvise
 
 It’s worth bearing in mind that the point of all this is to create music.
-To create art, beauty, to express ourselves.
+To create art, to express ourselves.
 
 We can make art without first mastering the art form. 
 The reason to study and practice music
