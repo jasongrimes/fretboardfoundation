@@ -38,8 +38,8 @@ which is the natural minor scale.
 
 ### Adjustable 6 and 7
 
-By definition, 
-the third degree of a minor scale is always a minor third.
+The third degree of a minor scale is always a minor third,
+by definition.
 
 But the sixth and seventh scale degrees in minor tonality can be thought of as adjustable.
 They can be major or minor,
