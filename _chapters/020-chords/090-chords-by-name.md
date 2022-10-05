@@ -14,6 +14,26 @@ represented by natural notes with a sharp or flat sign.
 
 The key of a composition identifies which 7 of these 12 notes is to be considered "in tune" (diatonic).
 
+## Learn fewer keys better
+
+"Practice in all 12 keys" is a common recommendation in music instruction,
+and it is probably a useful thing to do eventually.
+But it violates the principle of triage if there are other more productive ways to spend that time.
+
+It's usually going to be more productive to spend two hours practicing something in C major 
+than 10 minutes practicing it in each of 12 keys.
+
+The time to add another key to our practice is when there's a real-world need to play in that key,
+or we have become bored with every key we have already practiced.
+Otherwise, it's best to continue working with an already-practiced key.
+
+Transposing keys is much easier on guitar than on an instrument like the piano.
+On guitar the fingerings in different keys are mostly the same,
+just anchored around a different part of the fretboard.
+As a result,
+on guitar it is much more efficient to learn a few keys well than it is to practice in every key.
+
+
 ## Finding the sharp/flat notes in a key
 
 ### Natural keys 
@@ -48,22 +68,3 @@ Sharps: F C G D A E B
 
 Flats: B E A D G C F (the reverse)  
 *Battle Ends And Down Goes Charles' Father*
-
-## Learn fewer keys better
-
-"Practice in all 12 keys" is a common recommendation in music instruction,
-and it is probably a useful thing to do eventually.
-But it violates the principle of triage if there are other more productive ways to spend that time.
-
-It's usually going to be more productive to spend two hours practicing something in C major 
-than 10 minutes practicing it in each of 12 keys.
-
-The time to add another key to our practice is when there's a real-world need to play in that key,
-or we have become bored with every key we have already practiced.
-Otherwise, it's best to continue working with an already-practiced key.
-
-Transposing keys is much easier on guitar than on an instrument like the piano.
-On guitar the fingerings in different keys are mostly the same,
-just anchored around a different part of the fretboard.
-As a result,
-on guitar it is much more efficient to learn a few keys well than it is to practice in every key.
