@@ -522,7 +522,7 @@ the interval from the lower to the higher pitch is *different* than the interval
 The descending interval is an "inversion" of the ascending interval. 
 
 For example,
-the interval between C and E is a major third.
+the interval from C to E is a major third.
 But the interval from E to C is a *minor sixth*.
 This is because the interval from C to E spans C-D-E,
 but the interval from E to C spans E-F-G-A-B-C.
