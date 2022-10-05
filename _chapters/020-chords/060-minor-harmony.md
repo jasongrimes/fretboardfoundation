@@ -81,7 +81,7 @@ and different harmonic functions.
 ## Leading tone and harmonic minor
 
 The natural minor scale does not have a leading tone.
-Degree 7&#x302; is a minor seventh,
+Its seventh degree is a minor seventh,
 not a major seventh.
 
 But euroclassical composers used the leading tone in minor key songs anyway,
