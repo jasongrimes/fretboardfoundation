@@ -1,7 +1,7 @@
 ---
-title: Playing in any key
+title: Playing in key
 slug: keys
-abstract: Practicing chords in any (not every) key.
+abstract: Play in any (not every) key.
 ---
 
 ## About keys
