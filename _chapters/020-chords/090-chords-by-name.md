@@ -38,6 +38,18 @@ on guitar it is much more efficient to learn a few keys well than it is to pract
 
 ## Finding the sharp/flat notes in a key
 
+### Order of sharps and flats
+
+When all the 12 chromatic notes are arranged in order of ascending fifths,
+each key adds one more sharp or flat note to those in the key before it.
+The order in which sharp and flat notes are added to the keys also follows a sequence of fifths.
+
+Order of sharps: F C G D A E B  
+Mnemonic: *Father Charles Goes Down And Ends Battle*
+
+Order of flats: B E A D G C F (the reverse)  
+Mnemonic: *Battle Ends And Down Goes Charles' Father*
+
 ### Natural keys 
 
 Memorize a couple:
@@ -45,7 +57,7 @@ Memorize a couple:
 - F: Bb
 
 Natural keys other than C and F:
-1. Find the key in the order of sharps.
+1. Find the key in the order of sharps: F C G D A E B
 2. Find the 2nd note to the left. 
 3. All notes in the order of sharps *up to the second note to the left* are sharp. 
 
@@ -53,7 +65,7 @@ Ex. key of E has F# C# G# D#
 
 ### Flat keys
 
-1. Find the key in the order of flats. 
+1. Find the key in the order of flats: B E A D G C F
 2. Find the note to the right. 
 3. All notes in the order of flats *up to the note to the right* are flat. 
 
@@ -62,11 +74,3 @@ Ex. key of Db has Bb Eb Ab Db Gb
 ### Sharp keys
 
 Figure out notes in the natural key, and sharpen every one.
-
-### Order of sharps and flats
-
-Sharps: F C G D A E B  
-*Father Charles Goes Down And Ends Battle*
-
-Flats: B E A D G C F (the reverse)  
-*Battle Ends And Down Goes Charles' Father*
