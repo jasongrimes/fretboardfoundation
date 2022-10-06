@@ -18,14 +18,14 @@ Improvisation means playing extemporaneously,
 off the top of our head,
 without specific preparation.
 
-While improvisation must involve an element of novelty---some unique expression that no one else would have made if you hadn't---
-Improvisation doesn't necessarily mean coming up with an entirely original composition
+While improvisation must involve an element of novelty---some 
+unique expression that only we could make---improvisation 
+doesn't necessarily mean coming up with an entirely original composition
 (if there is such a thing).
 We can play parts of tunes written by others,
-flowing from one to the next on our whim,
-following our stream of consciousness,
+flowing from one bit to the next on a whim,
+following a stream of consciousness,
 adding our own embellishments as we are moved to do so. 
-
 
 ## Why improvise
 
