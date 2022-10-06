@@ -1,5 +1,5 @@
 ---
-title: Playing in key
+title: Notes by key
 slug: keys
 abstract: Play in any (not every) key.
 ---
