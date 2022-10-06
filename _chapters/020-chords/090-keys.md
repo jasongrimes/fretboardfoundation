@@ -16,11 +16,35 @@ represented by letters A-G from the musical alphabet,
 and 5 are "accidental",
 represented by natural notes with a sharp or flat sign.
 
+## Order of sharps and flats
+
+When all the 12 chromatic notes are arranged in order of ascending fifths,
+each key adds one more sharp or flat note to those in the key before it.
+The order in which sharp and flat notes are added also follows a sequence of fifths.
+
+Order of sharps: F C G D A E B (ascending fifths)  
+Mnemonic: *Father Charles Goes Down And Ends Battle*
+
+Order of flats: B E A D G C F (the inverse, descending fifths)  
+Mnemonic: *Battle Ends And Down Goes Charles' Father*
+
 ## Notes in each key
 
 <div class="table-wrapper" markdown="block">
 
-|**C/ Am**|C|D|E|F|G|A|B|
+|**C (Am)**  |no sharps or flats |C |D |E |F |G |A |B  |
+|**G (Em)**  |1 sharp            |G |A |B |C |D |E |F# |
+|**D (Bm)**  |2 sharps           |D |E |F#|G |A |B |C# |
+|**A (F#m)** |3 sharps           |A |B |C#|D |E |F#|G# |
+|**E (C#m)** |4 sharps           |E |F#|G#|A |B |C#|D# |
+|**B (G#m)** |5 sharps           |B |C#|D#|E |F#|G#|A# |
+|**F# (D#m)**|6 sharps           |F#|G#|A#|B |C#|D#|E# |
+|**Gb (Ebm)**|6 flats            |Gb|Ab|Bb|Cb|Db|Eb|F  |
+|**Db (Bbm)**|5 flats            |Db|Eb|F |Gb|Ab|Bb|C  |
+|**Ab (Fm)** |4 flats            |Ab|Bb|C |Db|Eb|F |G  |
+|**Eb (Cm)** |3 flats            |Eb|F |G |Ab|Bb|C |D  |
+|**Bb (Gm)** |2 flats            |Bb|C |D |Eb|F |G |A  |
+|**F (Dm)** |1 flat             |F |G |A |Bb|C |D |E  |
 
 </div>
 
@@ -39,24 +63,13 @@ Otherwise, it's best to continue working with an already-practiced key.
 
 Transposing keys is much easier on guitar than on an instrument like the piano.
 On guitar the fingerings in different keys are mostly the same,
-just anchored around a different part of the fretboard.
+anchored around a different part of the fretboard.
 As a result,
-on guitar it is much more efficient to learn a few keys well than it is to practice in every key.
+on guitar it is more efficient to learn a few keys well than it is to practice in every key.
 
 
 ## Finding the sharp/flat notes in a key
 
-### Order of sharps and flats
-
-When all the 12 chromatic notes are arranged in order of ascending fifths,
-each key adds one more sharp or flat note to those in the key before it.
-The order in which sharp and flat notes are added to the keys also follows a sequence of fifths.
-
-Order of sharps: F C G D A E B  
-Mnemonic: *Father Charles Goes Down And Ends Battle*
-
-Order of flats: B E A D G C F (the reverse)  
-Mnemonic: *Battle Ends And Down Goes Charles' Father*
 
 ### Natural keys 
 
@@ -82,3 +95,8 @@ Ex. key of Db has Bb Eb Ab Db Gb
 ### Sharp keys
 
 Figure out notes in the natural key, and sharpen every one.
+
+Sharp keys are uncommon.
+They are impractical because they often involve "double-sharp" notes (like F##),
+which are more complicated to write and to speak.
+It's generally simpler to use the corresponding flat key instead.
