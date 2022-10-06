@@ -8,7 +8,7 @@ abstract: Play in any (not every) key.
 
 The key of a composition specifies the name of the note serving as the tonal center of the piece,
 and identifies the underlying scale to be used.
-The scale specifies 7 of the 12 possible notes that are *diatonic* ("in tune") in that key.
+The scale specifies the 7 out of 12 possible chromatic notes that are *diatonic* ("in tune") in that key.
 
 From this scale,
 the chords in the key are harmonized.
