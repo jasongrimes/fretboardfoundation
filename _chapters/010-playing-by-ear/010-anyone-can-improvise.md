@@ -12,6 +12,21 @@ the guitar shows us how right away.
 All we need is the will to create something beautiful, 
 and an ear to listen.
 
+## What is improvisation
+
+Improvisation means playing extemporaneously,
+off the top of our head,
+without specific preparation.
+
+While improvisation must involve an element of novelty---some unique expression that no one else would have made if you hadn't---
+Improvisation doesn't necessarily mean coming up with an entirely original composition
+(if there is such a thing).
+We can play parts of tunes written by others,
+flowing from one to the next on our whim,
+following our stream of consciousness,
+adding our own embellishments as we are moved to do so. 
+
+
 ## Why improvise
 
 It’s worth bearing in mind that the point of all this is to create music.
@@ -23,8 +38,7 @@ is to make better music.
 The music is the point,
 not the theory or the practice.
 
-Every practice should begin and end with the creation of music.
-
+Every practice should begin and end with the improvisation of music.
 
 ## The first note
 
