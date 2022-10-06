@@ -6,13 +6,15 @@ abstract: Practicing chords in any (not every) key.
 
 ## About keys
 
+The key of a composition specifies the name of the note serving as the tonal center of the piece,
+and identifies the underlying scale to be used.
+The scale specifies 7 of the 12 possible notes that are *diatonic* ("in tune") in that key.
+
 Of the 12 notes in Western music,
 7 are "natural",
 represented by letters A-G from the musical alphabet,
 and 5 are "accidental",
 represented by natural notes with a sharp or flat sign.
-
-The key of a composition identifies which 7 of these 12 notes is to be considered "in tune" (diatonic).
 
 ## Learn fewer keys better
 
