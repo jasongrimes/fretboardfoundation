@@ -17,6 +17,7 @@ and 5 are "accidental",
 represented by natural notes with a sharp or flat sign.
 
 ## Notes in each key
+
 |**C/ Am**|C|D|E|F|G|A|B|
 
 ## Learn fewer keys better
