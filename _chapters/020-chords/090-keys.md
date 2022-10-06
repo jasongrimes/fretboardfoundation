@@ -10,6 +10,10 @@ The key of a composition specifies the name of the note serving as the tonal cen
 and identifies the underlying scale to be used.
 The scale specifies 7 of the 12 possible notes that are *diatonic* ("in tune") in that key.
 
+From this scale,
+the chords in the key are harmonized.
+See {% include chapter-link.html slug="major-harmony" %} and {% include chapter-link.html slug="minor-harmony" %}
+
 Of the 12 notes in Western music,
 7 are "natural",
 represented by letters A-G from the musical alphabet,
