@@ -18,7 +18,11 @@ represented by natural notes with a sharp or flat sign.
 
 ## Notes in each key
 
+<div class="table-wrapper" markdown="block">
+
 |**C/ Am**|C|D|E|F|G|A|B|
+
+</div>
 
 ## Learn fewer keys better
 
