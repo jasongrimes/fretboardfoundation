@@ -15,13 +15,13 @@ the chords in the key are harmonized.
 See {% include chapter-link.html slug="major-harmony" %} 
 and {% include chapter-link.html slug="minor-harmony" %}.
 
+## Order of sharps and flats
+
 Of the 12 notes in Western music,
 7 are "natural",
 represented by letters A-G from the musical alphabet,
 and 5 are "accidental",
-represented by natural notes with a sharp or flat sign.
-
-## Order of sharps and flats
+represented by a letter plus a sharp or flat sign.
 
 When all the 12 chromatic notes are arranged in order of ascending fifths,
 each key adds one more sharp or flat note to those in the key before it.
