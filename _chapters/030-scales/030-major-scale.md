@@ -6,6 +6,12 @@ abstract: The foundation of Western music for the past 400 years.
 
 ## About the major scale
 
+The major scale, 
+also called the "Ionian" mode,
+is one of the most common musical modes in the world.
+It has been the basis of Western harmony for at least 400 years. 
+See {% include chapter-link.html slug="major-harmony" %} for more information. 
+
 The major scale is a seven note diatonic scale 
 with semitones between degrees 3-4 and 7-1.
 Canonically, all the major scale degrees are major or perfect intervals. 
@@ -17,12 +23,6 @@ Canonically, all the major scale degrees are major or perfect intervals.
 |C|D|E|F|G|A|B|C|
 
 </div>
-
-This pattern is also called the "Ionian" mode.
-It is one of the most common musical modes in the world,
-and it has been the basis of Western harmony for at least 400 years. 
-
-See {% include chapter-link.html slug="major-harmony" %} for more information.
 
 ## Assemble on one string
 
