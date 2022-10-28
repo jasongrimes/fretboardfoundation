@@ -225,7 +225,7 @@ See {% include chapter-link.html slug="caged" %} for more on CAGED chord shapes.
 
 ## Practicing scales
 
-### Practice mindfully 
+### Practicing mindfully 
 
 The way to avoid accidentally programming ourselves into scale-playing robots is to *always be mindful* when practicing scales. 
 We have to think about each note as we play it. 
