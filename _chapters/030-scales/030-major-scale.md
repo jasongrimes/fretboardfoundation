@@ -7,7 +7,7 @@ abstract: The foundation of Western music for the past 400 years.
 ## About the major scale
 
 The major scale, 
-also called the "Ionian" mode,
+also called the "Ionian mode",
 is one of the most common musical modes in the world.
 It has been the basis of Western harmony for at least 400 years. 
 See {% include chapter-link.html slug="major-harmony" %} for more information. 
