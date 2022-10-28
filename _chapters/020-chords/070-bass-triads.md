@@ -4,7 +4,7 @@ slug: bass-triads
 abstract: Fill out the treble triad voicings, and start listening to the bass line.
 ---
 
-## First-string root triads
+## 1st-string root, 6th-string bass
 
 First-string root triads have bass root notes on the sixth and fourth strings.
 For the major triad,
@@ -35,7 +35,7 @@ and only play the first string root note as needed.
     class="chord row"
 %}
 
-## Second-string root triads
+## 2nd-string root, 4th/5th-string bass
 
 Second-string root triads have bass root notes on the fourth string (above)
 and the fifth string (below).
@@ -58,7 +58,7 @@ and the fifth string (below).
     class="chord row"
 %}
 
-## Third-string root triads
+## 3rd-string root, 5th/6th-string bass
 
 Third-string root triads have bass root notes on the fifth string (above)
 and sixth and first strings (below).
