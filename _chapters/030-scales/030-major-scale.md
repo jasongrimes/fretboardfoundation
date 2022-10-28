@@ -14,7 +14,8 @@ See {% include chapter-link.html slug="major-harmony" %} for more information.
 
 The major scale is a seven note diatonic scale 
 with semitones between degrees 3-4 and 7-1.
-Canonically, all the major scale degrees are major or perfect intervals. 
+Not coincidentally, 
+all the major scale degrees are major or perfect intervals. 
 
 <div class="table-wrapper" markdown="block">
 
