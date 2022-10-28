@@ -6,7 +6,7 @@ abstract: Play in any (not every) key.
 
 ## About keys
 
-The key of a composition specifies the name of the note serving as the tonal center of the piece,
+The key of a composition gives the name of the note serving as the tonal center of the piece,
 and identifies the underlying scale to be used.
 The scale specifies the 7 out of 12 possible chromatic notes that are *diatonic* ("in tune") in that key.
 
