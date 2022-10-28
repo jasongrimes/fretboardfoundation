@@ -12,6 +12,12 @@ I almost always play it on the upper middle strings as on the first diagram,
 and only play the first string root note as needed.
 
 {% include figure.html
+    caption="Major triad with bass, 4th-string root"
+    url="/assets/figures/bass-triads/4-maj-bass.svg"
+    class="chord row"
+%}
+
+{% include figure.html
     caption="Major triad with bass, 1st-string root"
     url="/assets/figures/bass-triads/1-maj-bass.svg"
     class="chord row"
