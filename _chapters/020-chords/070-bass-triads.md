@@ -7,6 +7,9 @@ abstract: Fill out the treble triad voicings, and start listening to the bass li
 ## First-string root triads
 
 First-string root triads have bass root notes on the sixth and fourth strings.
+For the major triad,
+I almost always play it on the upper middle strings as on the first diagram,
+and only play the first string root note as needed.
 
 {% include figure.html
     caption="Major triad with bass, 1st-string root"
