@@ -111,7 +111,7 @@ This book generally follows these terminology suggestions.
 (2) An interval of two [semitones](#semitone), aka "whole tone" or "whole step"; 
 a distance of two frets. 
 (3) Purity of expression,
-good [timbre](#timbre) and articulation,
+[timbre](#timbre) and articulation,
 as in "good tone" or 
 "tone is in the fingers".
 
