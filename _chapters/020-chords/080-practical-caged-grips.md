@@ -6,7 +6,7 @@ abstract: Chord grips for movable CAGED shapes that are actually useful.
 
 ## C shape
 
-The C CAGED shape adds notes below the second-string root treble triad.
+The C CAGED shape has roots on the second and fifth strings.
 
 {% include figure.html
     caption="C major shape."
