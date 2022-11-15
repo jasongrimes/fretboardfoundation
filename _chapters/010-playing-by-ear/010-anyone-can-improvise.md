@@ -31,7 +31,7 @@ adding our own embellishments as we are moved to do so.
 
 It’s worth bearing in mind that the point of all this is to create music.
 To create art, to express ourselves.
-To play the guitar as freely as we can sing.
+To play the guitar with the same freedom as singing.
 
 We can make art without first mastering the art form. 
 The reason to study and practice music
