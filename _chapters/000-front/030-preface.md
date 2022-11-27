@@ -37,7 +37,7 @@ This book aims to provide that foundation in a practical way.
 If you are among the imagined audience of this book, 
 you might describe yourself as an intermediate guitarist. 
 You can play some songs, and you know whatever you consider to be “the basics”. 
-You can play chords, and maybe some scales. 
+You can play chords, and maybe some scales (or maybe not). 
 The subjects in this book sound at least vaguely familiar to you.
 
 Most importantly, you want to make music on guitar, 
