@@ -90,7 +90,7 @@ sidebar_nav_bottom:
 
 github_edit:
   enabled: true
-  base_url: https://github.com/jasongrimes/ff-next/edit/main/
+  base_url: https://github.com/jasongrimes/fretboardfoundation/edit/main/
 
 extra_css:
     - assets/fretboardfoundation.css
