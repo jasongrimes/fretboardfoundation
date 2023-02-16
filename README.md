@@ -1,4 +1,19 @@
-## Fretboard Foundation
+# Fretboard Foundation
+
+This is the source code for a book I’m slowly writing called
+_Fretboard Foundation: Practical building blocks for intermediate guitarists_, hosted at [fretboardfoundation.com](https://fretboardfoundation.com).
+
+The website is rendered into static HTML with [Jekyll](https://jekyllrb.com/) via [GitHub Pages](https://pages.github.com/).
+
+The Jekyll theme used is a fork of Tao He’s clever and immensely helpful [jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) theme, 
+which in turn is based on an early theme of [GitBook](https://www.gitbook.com/).
+
+I hacked poor jekyll-gitbook to bits in order to support my own personal tastes and workflow. 
+Eventually I would like to release these changes as a public theme that others can use with GitHub Pages.
+
+## Style guide
+
+See [Journal of Music Theory Style Guide](https://www.dukeupress.edu/Assets/Downloads/JMT_sg.pdf)
 
 ### Internal links
 
@@ -13,15 +28,6 @@ See the [introduction page](introduction) for more information.
 
 See [this diagram](appendix-diagrams#foo).
 ```
-
-### Copyright notice for printable pages
-
-&copy; Jason Grimes, 2022. https://fretboardfoundation.com 
-
-Licensed under CC BY-SA 4.0: http://creativecommons.org/licenses/by-sa/4.0/
-
-
-Creative Commons Attribution-ShareAlike 4.0 International License http://creativecommons.org/licenses/by-sa/4.0/
 
 ### Adding references
  
@@ -51,44 +57,41 @@ Vincent, R. (2011). *Three-Note Voicings and Beyond.* Sher Music Co.
 Vincent, R. (2011). *Three-Note Voicings and Beyond.* Sher Music Co.
 [ISBN search](https://en.wikipedia.org/wiki/Special:BookSources?isbn=1-883217-66-0){:#vincent-2011}
 
-### Style guide
+### Copyright notice for printable pages
 
-See [Journal of Music Theory Style Guide](https://www.dukeupress.edu/Assets/Downloads/JMT_sg.pdf)
+&copy; Jason Grimes, 2022-2023. https://fretboardfoundation.com 
 
-## Legacy README:
+Licensed under CC BY-SA 4.0: http://creativecommons.org/licenses/by-sa/4.0/
 
-You can use the [editor on GitHub](https://github.com/jasongrimes/ff-next/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Creative Commons Attribution-ShareAlike 4.0 International License http://creativecommons.org/licenses/by-sa/4.0/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Testing the site locally
 
-### Markdown
+## Install Ruby, Bundler, and Jekyll
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Install versions to match https://pages.github.com/versions/
 
-```markdown
-Syntax highlighted code block
+Install RVM https://rvm.io/
 
-# Header 1
-## Header 2
-### Header 3
+Install the latest stable ruby, and then the jekyll gem.
 
-- Bulleted
-- List
+    rvm install ruby-2.7.4
+    gem install jekyll
 
-1. Numbered
-2. List
+## Install gems with bundler
 
-**Bold** and _Italic_ and `Code` text
+    bundle install
 
-[Link](url) and ![Image](src)
-```
+## Run the site
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+    bundle exec jekyll serve
 
-### Jekyll Themes
+Open the site locally at http://127.0.0.1:4000/ 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jasongrimes/ff-next/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Copyright
 
-### Support or Contact
+The entire contents of this project, including the code and the book, are copyright &copy; 2022-2023 by Jason Grimes.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
