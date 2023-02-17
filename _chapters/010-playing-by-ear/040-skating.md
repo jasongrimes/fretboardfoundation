@@ -1,7 +1,7 @@
 ---
-title: Play all over
-slug: play-all-over
-abstract: Skating around the entire range of the instrument. 
+title: Skate around the fretboard
+slug: skating
+abstract: Ranging freely over the entire instrument. 
 ---
 
 Once we can play a melody on both one string and across strings,

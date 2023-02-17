@@ -2,6 +2,7 @@
 title: Fretboard ergonomics
 slug: ergonomics
 abstract: Physical considerations for avoiding pain and minimizing effort.
+published: false
 ---
 
 Before practicing  chord shapes,

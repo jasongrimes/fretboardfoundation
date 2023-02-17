@@ -1,7 +1,7 @@
 ---
-title: Adding bass notes to triads
-slug: bass-triads
-abstract: Fill out the treble triad voicings, and start listening to the bass line.
+title: Adding bass lines
+slug: bass
+abstract: Focus on the bass line to hold changes together.
 ---
 
 ## 1st-string root, 6th-string bass

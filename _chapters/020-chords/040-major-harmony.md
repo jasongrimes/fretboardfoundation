@@ -80,7 +80,6 @@ The following diagrams show diatonic triads around the first-string tonic.
 Minimalist treble-string chord shapes are used for simplification,
 to allow more focus on harmony and less on chord shapes.
 If desired, it's straightforward to fill out the chord voicings with bass notes or full CAGED chord shapes.
-See {% include chapter-link.html slug="treble-triads" %} for details.
 
 The two lowest-pitched strings (5 and 6) have been left out of the diagrams in order to save space.
 

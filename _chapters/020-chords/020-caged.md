@@ -1,7 +1,7 @@
 ---
 title: Practical CAGED grips
 slug: caged
-abstract: Chord grips for movable CAGED shapes that are actually useful.
+abstract: Movable chord grips for CAGED shapes that are actually useful.
 ---
 
 ## C shape

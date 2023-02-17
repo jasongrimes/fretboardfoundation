@@ -1,7 +1,8 @@
 ---
 title: Treble triads
 slug: treble-triads
-abstract: Distilled movable chord shapes on the upper strings. 
+abstract: Distilled movable chord shapes on the upper strings.
+published: false
 ---
 
 ## About treble triads
