@@ -4,16 +4,14 @@ slug: chord-melody
 abstract: Decorating lines with treble triads, shell voicings, and bass notes.
 ---
 
-Guitar chord melody improvisation has fascinated me since childhood.
-The ability to freely interweave chord progressions,
-melodies, and bass lines
-always seemed the ultimate in guitar performance.
-
+Guitar chord melody improvisation may be the richest form of expression on guitar.
+It involves freely interweaving chord progressions,
+melodies, and bass lines in fluid and captivating way.
 Blending together chords and melody makes a composition sound fuller and richer, 
-like a song rather than just a part.
+like a complete performance rather than just a part.
 
 *Treble triads* can be used to improvise freely with chords. 
-See {% include chapter-link.html slug="treble-triads" %}.
+See {% include chapter-link.html slug="caged" %}.
 
 A small trick for filling out a melody on the highest pitched string
 is to play the first and second strings at the same fret,
@@ -31,7 +29,7 @@ such as on the first beat of a phrase,
 but it doesn't sound good to play a bass line in unison with the melody too much.
 
 Add more variety to the bass line by playing fifths, octaves, and approach tones.
-See {% include chapter-link.html slug="bass-triads" %}.
+See {% include chapter-link.html slug="bass" %}.
 
 For more information about what chords sound good together
 and how to harmonize a melody,
