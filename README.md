@@ -63,8 +63,6 @@ Vincent, R. (2011). *Three-Note Voicings and Beyond.* Sher Music Co.
 
 Licensed under CC BY-SA 4.0: http://creativecommons.org/licenses/by-sa/4.0/
 
-Creative Commons Attribution-ShareAlike 4.0 International License http://creativecommons.org/licenses/by-sa/4.0/
-
 # Testing the site locally
 
 ## Install Ruby, Bundler, and Jekyll
