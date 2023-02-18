@@ -14,24 +14,25 @@ and an ear to listen.
 
 ## What is improvisation
 
-Improvisation means playing extemporaneously,
-off the top of our head,
-without specific preparation.
+Improvisation means playing off the top of our head,
+"extemporaneously",
+meaning "without time" to prepare.
 
-While improvisation must involve an element of novelty---some 
-unique expression that only we could make---improvisation 
+Improvisation involves an element of novelty---some 
+unique expression that only we could make---but that 
 doesn't necessarily mean coming up with an entirely original composition
 (if there is such a thing).
 We can play parts of tunes written by others,
 flowing from one bit to the next on a whim,
-following a stream of consciousness,
+floating on a stream of consciousness,
 adding our own embellishments as we are moved to do so. 
 
 ## Why improvise
 
-It’s worth bearing in mind that the point of all this is to create music.
-To create art, to express ourselves.
-To play the guitar with the same freedom as singing.
+It’s worth bearing in mind that the whole point of all this is to create music.
+To create art, to express ourselves, to make our novel contribution to the universe.
+And in order to do so,
+to play the guitar with the same freedom as one might sing.
 
 We can make art without first mastering the art form. 
 The reason to study and practice music
