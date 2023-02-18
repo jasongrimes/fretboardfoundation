@@ -3,13 +3,9 @@
 This is the source code for a book I’m slowly writing called
 _Fretboard Foundation: Practical building blocks for intermediate guitarists_, hosted at [fretboardfoundation.com](https://fretboardfoundation.com).
 
-The website is rendered into static HTML with [Jekyll](https://jekyllrb.com/) via [GitHub Pages](https://pages.github.com/).
-
-The Jekyll theme used is a fork of Tao He’s clever and immensely helpful [jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) theme, 
-which in turn is based on an early theme of [GitBook](https://www.gitbook.com/).
-
-I hacked poor jekyll-gitbook to bits in order to support my own personal tastes and workflow. 
-Eventually I would like to release these changes as a public theme that others can use with GitHub Pages.
+The website is rendered into static HTML with [Jekyll](https://jekyllrb.com/) via [GitHub Pages](https://pages.github.com/), 
+using a custom Jekyll theme I wrote called 
+[jekyll-chapterbook](https://github.com/jasongrimes/jekyll-chapterbook).
 
 ## Style guide
 
@@ -78,6 +74,7 @@ Install the latest stable ruby, and then the jekyll gem.
 
 ## Install gems with bundler
 
+    rvm use 2.7.4
     bundle install
 
 ## Run the site
