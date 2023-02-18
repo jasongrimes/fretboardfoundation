@@ -4,7 +4,7 @@ slug: chord-melody
 abstract: Decorating lines with treble triads, shell voicings, and bass notes.
 ---
 
-Guitar chord melody improvisation may be the richest form of expression on guitar.
+Chord melody improvisation may be the richest form of expression on guitar.
 It involves freely interweaving chord progressions,
 melodies, and bass lines in a fluid and captivating way.
 Blending together chords and melody makes a composition sound fuller and richer, 
