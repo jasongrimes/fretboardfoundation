@@ -46,6 +46,20 @@ bottom_nav:
 - label: Privacy
   url: /privacy
 
+# Whether to show chapter headings as a table of contents at the top of each chapter page.
+# Override in page front matter with disable_toc: true
+in_chapter_toc:
+  enabled: true
+  h_min: 2
+  h_max: 3
+
+# Whether to show chapter heading sub-navigation beneath the active chapter in the sidebar.
+# Override in page front matter with disable_toc: true
+sidebar_toc:
+  enabled: false
+  h_min: 2
+  h_max: 3
+
 # 
 # End navigation menus
 #
@@ -58,6 +72,13 @@ github_edit:
 # Custom CSS
 extra_css:
     - assets/fretboardfoundation.css
+
+# Chapters can be hidden from navigation by adding ".draft" to the index at the start of their filename.
+# (For example, rename 010-introduction.md to 010.draft-introduction.md)
+#
+# To make the drafts appear in the navigation in development environments,
+# set show_drafts_in_dev to true.
+show_drafts_in_dev: false
 
 
 
