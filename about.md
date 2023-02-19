@@ -24,13 +24,9 @@ The [outline](outline) has details about what’s to come.
 
 ## Technology
 
-This website is rendered into static HTML with [Jekyll](https://jekyllrb.com/) via [GitHub Pages](https://pages.github.com/).
-
-The Jekyll theme used is a fork of Tao He’s clever and immensely helpful [jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) theme, 
-which in turn is based on an early theme of [GitBook](https://www.gitbook.com/).
-
-I hacked poor jekyll-gitbook to bits in order to support my own personal tastes and workflow. 
-Eventually I would like to release these changes as a public theme that others can use with GitHub Pages. 
+This website is rendered into static HTML with [Jekyll](https://jekyllrb.com/) via [GitHub Pages](https://pages.github.com/),
+using a custom Jekyll theme called [jekyll-chapterbook](https://github.com/jasongrimes/jekyll-chapterbook),
+that I created to support my own personal tastes and workflow.
 
 ## Contact
 
