@@ -14,9 +14,9 @@ and an ear to listen.
 
 ## What is improvisation
 
-Improvisation is playing off the top of our head,
+Improvisation means playing off the top of our head,
 "extemporaneously",
-meaning "without time" to prepare.
+"without time" to prepare.
 
 Improvisation involves an element of novelty---some 
 unique expression that only we could make---but that 
