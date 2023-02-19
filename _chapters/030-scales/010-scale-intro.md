@@ -31,7 +31,7 @@ It can be hard to avoid this trap.
 The way to avoid accidentally programming ourselves into scale-playing robots is to *always be mindful* when practicing scales. 
 We have to think about each note as we play it,
 and slow down to give ourselves time to do so.
-See "[practice mindfully](#practice-mindfully)" below for details.
+See "[practice mindfully](#practicing-mindfully)" below for details.
 
 ## What is a scale
 
