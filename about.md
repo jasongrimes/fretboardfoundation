@@ -25,7 +25,7 @@ The [outline](outline) has details about what’s to come.
 ## Technology
 
 This website is rendered into static HTML with [Jekyll](https://jekyllrb.com/) via [GitHub Pages](https://pages.github.com/),
-using a custom Jekyll theme called [jekyll-chapterbook](https://github.com/jasongrimes/jekyll-chapterbook),
+using a custom Jekyll theme called [jekyll-chapterbook](https://github.com/jasongrimes/jekyll-chapterbook)
 that I created to support my own personal tastes and workflow.
 
 ## Contact
