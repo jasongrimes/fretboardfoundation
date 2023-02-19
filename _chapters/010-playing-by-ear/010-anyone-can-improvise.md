@@ -16,7 +16,7 @@ and an ear to listen.
 
 Improvisation means playing off the top of our head,
 "extemporaneously",
-"without time" to prepare.
+or "without time" to prepare.
 
 Improvisation involves an element of novelty---some 
 unique expression that only we could make---but that 
