@@ -20,8 +20,10 @@ C, A, G, E, and D chord shapes in _open position_
 ## Mind the chord intervals
 
 When learning and practicing these shapes,
-always be mindful of what role each note plays in the chord as you play it.
-Know which note is the root, third (or minor third), fifth, etc.
+it's important to always be mindful of what role each note plays in the chord,
+rather than mindlessly playing shapes.
+We should always be aware of which note is the root, 
+third (or minor third), fifth, etc.
 
 This is important for two reasons. 
 First, it allows us to make any chord we need just by adjusting a known chord shape.
