@@ -38,6 +38,16 @@ since that's how we know where to place the chord shape.
 
 ## C shape
 
+### C major shape
+
+The basic C major shape is a simple,
+closed-voice root position triad chord,
+with the root note at the bottom and top,
+and the R-3-5-R all spanning a single octave.
+
+
+---
+
 The C CAGED shape has roots on the second and fifth strings.
 
 {% include figure.html
