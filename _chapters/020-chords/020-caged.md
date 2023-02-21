@@ -8,6 +8,11 @@ The CAGED system is a convenient way of thinking about movable chord shapes on g
 _Movable chords_ are chord grips that can be played in any position up and down the neck,
 because they don't have any open strings.
 
+On a guitar in standard tuning,
+there are only five of these core movable chord shapes,
+which in turn form the basis of every chord it is possible to make on guitar. 
+
+
 ## C shape
 
 The C CAGED shape has roots on the second and fifth strings.
