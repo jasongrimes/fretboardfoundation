@@ -34,7 +34,7 @@ Second, it leads to almost accidentally learning the most important interval sha
 which is extremely useful for improvising and playing by ear.
 
 Knowing the root note (R) in each chord shape is especially important,
-since that's how we know where to place the chord shape.
+since that's how we know where to place the chord.
 
 ## C shape
 
