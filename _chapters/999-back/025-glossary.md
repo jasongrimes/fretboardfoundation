@@ -122,6 +122,6 @@ or [tonal](#tonal) (in common usage).
 
 Several of these definitions are taken nearly verbatim from the well-reasoned terminology choices in Philip Tagg's 
 _Everyday Tonality II (towards a tonal theory of what most people hear)_ [(Tagg, 2018)](references#tagg-2018),
-to which this book is indebted. Errors and omissions are, of course, mine. 
+to which this book is indebted. Errors and omissions are, of course, my own. 
 
 
