@@ -11,10 +11,14 @@ using a custom Jekyll theme I wrote called
 
 See [Journal of Music Theory Style Guide](https://www.dukeupress.edu/Assets/Downloads/JMT_sg.pdf)
 
-### References and citations
+### Citation style
  
 * [APA style](https://www.scribbr.com/citing-sources/citation-styles/#apa)
 * [APA citation generator](https://www.scribbr.com/apa-citation-generator/)
+
+### Adding references and citations
+
+See [references in the jekyll-chapterbook documentation](https://jasongrimes.github.io/jekyll-chapterbook/references.html).
 
 # Testing the site locally
 
@@ -29,7 +33,7 @@ Install the latest stable ruby, and then the jekyll gem.
     rvm install ruby-2.7.4
     gem install jekyll
 
-## Install gems with bundler
+## Install required Jekyll gems with bundler
 
     rvm use 2.7.4
     bundle install
