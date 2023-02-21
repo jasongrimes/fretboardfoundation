@@ -89,9 +89,14 @@ exclude:
 
 page_width: 800px
 
-destination:      ./_site
-incremental:      false
-regenerate:       true  
+destination: ./_site
+incremental: false
+regenerate: true
+
+plugins:
+#  - jekyll-feed
+  - jekyll-readme-index
+#  - jemoji
 
 collections:
   chapters:
