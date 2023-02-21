@@ -13,10 +13,24 @@ or muted by a convenient positioning of the hand.
 On a guitar in standard tuning,
 there are only five of these core movable chord shapes,
 which in turn form the basis of every chord it is possible to play on guitar. 
-
-The five movable chord shapes are named after the familiar
+The shapes are named after the familiar
 C, A, G, E, and D chord shapes in _open position_ 
 (that is, having open strings).
+
+## Mind the chord intervals
+
+When learning and practicing these shapes,
+always be mindful of what role each note plays in the chord as you play it.
+Know which note is the root, third (or minor third), fifth, etc.
+
+This is important for two reasons. 
+First, it allows us to make any chord we need just by adjusting a known chord shape.
+(For example, lower the third of a major chord by one fret and it becomes a minor chord.)
+Second, it leads to almost accidentally learning the most important interval shapes _and sounds_ all over the fretboard,
+which is extremely useful for improvising and playing by ear.
+
+Knowing the root note (R) in each chord shape is especially important,
+since thats what you build the chord around.
 
 ## C shape
 
