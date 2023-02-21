@@ -101,7 +101,7 @@ is chauvinist and biased against tonal idioms not used in the euroclassical or j
 [(Tagg, 2018, pp. 52--55)](references#tagg-2018).
 Referring to most types of music in the world as "not tonal",
 essentially, "not musical",
-is clearly a poor choice of words and best avoided.
+seems clearly a poor choice of words.
 Tagg suggests the term "[tonical](#tonical)" instead of "tonal" for "music that has a [tonic](#tonic)",
 and using "tonal" for "any music which has the properties of a [tone](#tone)"
 (including [modal](#modal) music, which may be [atonical](#atonical) but is not [atonal](#atonal)).
