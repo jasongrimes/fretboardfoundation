@@ -93,7 +93,10 @@ which can be done by flattening the first finger: `x43121`
 Another variation is to play just the "treble triad" on the top three (treble) strings `xxx121`,
 optionally adding the bass note with the little finger: `x4x121`.
 
-
+To get a feel for this chord shape,
+first play it in open position,
+with the little finger on the 3rd fret of the 5th string 
+(the note C, making it a C chord).
 
 
 ---
