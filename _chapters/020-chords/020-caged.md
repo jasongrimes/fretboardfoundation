@@ -263,7 +263,7 @@ like this:
 - Play a C **major** shape in open position,
 (with the root at the *3rd fret*, 5th string).
 A **C major chord**.
-- Play a C **minor** shape with root at the **5th fret**,
+- At the **5th fret** root, play a C **minor** shape,
 a **D minor** chord.
 - Play a C **minor** shape with root at the **7th fret**,
 an **E minor** chord.
