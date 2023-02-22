@@ -103,7 +103,8 @@ Christopher Berg’s excellent
 [(Berg, 1997)](references#berg-1997) 
 has a great deal more about optimal positioning of the body for playing guitar.
 
-## Mind the chord intervals
+
+## Mind the intervals
 
 When learning and practicing these shapes,
 it's important to be mindful of what role each note plays in the chord,
