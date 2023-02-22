@@ -290,6 +290,13 @@ another **C major** chord.
 
 ### C diminished shape
 
+{% include figure.html
+    caption="C diminished shape."
+    url="/assets/figures/caged2/C-dim.svg"
+    class="chord row"
+%}
+
+
 ### C seventh shapes
 
 ## --
