@@ -60,6 +60,25 @@ A strap with a suede backing can help hold the guitar tilted in a comfortable fr
 
 **Our hands are not crowbars**
 
+While it is possible to use the thumb as a fulcrum to lever the fingers onto the fretboard with considerable pressure,
+our fingers are full of joints that need to be held rigidly in place in order to treat the arm as a crowbar.
+This technique may seem to be powerful at first,
+but over time it is likely to lead to injury, 
+possibly even including basal joint arthritis.
+
+Instead,
+the thumb should be pressed lightly against the neck,
+_if at all_.
+The fretting thumb's main use should be to keep the hand gently in contact with the neck,
+so it stays in one place instead of floating around in space.
+It's possible to fret a guitar without using the thumb at all,
+and it's a good idea to do so sometimes,
+to experiment with how little thumb pressure is needed.
+Sometimes the pressure needed to fret the strings is enough to bend the neck back slightly,
+making the notes sharp.
+In that case, the thumb should gently pinch the back of the neck directly behind the locus if force from the fingers,
+pressing just hard enough that the notes don't go sharp.
+This is the point at which intonation and ergonomics are in harmony---the perfect grip.
 
 
 ## Mind the chord intervals
