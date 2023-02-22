@@ -173,7 +173,7 @@ Play the chord tones in sequence `R-3-5-R`,
 and notice how it sounds just like walking up the stairs,
 all steps and no leaps.
 That's the sound of a closed voicing.
-This kind of closed voice root position triad sounds strong and clear.
+This kind of closed-voice root-position triad sounds strong and clear.
 
 The basic chord grip for this shape is `x4312x`.
 It's a surprisingly comfortable and convenient grip,
@@ -221,7 +221,7 @@ But when we realize that we can leave out some of the notes,
 it becomes more useful.
 
 One common grip for this shape is `x421xx`,
-a minimalist, three note closed voice triad.
+a minimalist, three-note closed-voice triad.
 The first finger mutes the top two strings.
 
 Sometimes it's nice to have the root note repeated on top of the chord as the highest pitch.
