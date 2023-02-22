@@ -101,6 +101,11 @@ Then move it up the neck so the root is on the 5th string 8th fret (F, making it
 Then move the root up to 5th string 10th fret (G).
 Play around with these three "primary" chords for awhile.
 
+### C minor shape
+
+
+
+
 
 ---
 
