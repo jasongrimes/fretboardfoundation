@@ -205,6 +205,13 @@ Play around with these three "primary" chords for awhile to get familiar with th
 
 ### C minor shape
 
+{% include figure.html
+    caption="C minor shape."
+    url="/assets/figures/caged2/C-min.svg"
+    class="chord row"
+%}
+
+
 ### C diminished shape
 
 ### C seventh shapes
