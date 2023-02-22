@@ -28,7 +28,8 @@ Install versions to match https://pages.github.com/versions/
 
 Install RVM https://rvm.io/
 
-Install the latest stable ruby, and then the jekyll gem.
+Install the _same version of Ruby used by GitHub pages_, 
+and then the jekyll gem.
 
     rvm install ruby-2.7.4
     gem install jekyll
