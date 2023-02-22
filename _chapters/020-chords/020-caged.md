@@ -257,7 +257,7 @@ This is similar to the practice for the C major shape,
 but in the key of Cm.
 
 When both the C and Cm shapes are comfortable,
-play them together by playing the chords in the key of C major,
+practice them together by playing all the chords in the key of C major,
 like this:
 
 - Play a C **major** shape in open position,
