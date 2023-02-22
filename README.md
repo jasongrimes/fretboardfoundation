@@ -4,8 +4,8 @@ This is the source code for a book I’m slowly writing called
 _Fretboard Foundation: Practical building blocks for intermediate guitarists_, hosted at [fretboardfoundation.com](https://fretboardfoundation.com).
 
 The website is rendered into static HTML with [Jekyll](https://jekyllrb.com/) via [GitHub Pages](https://pages.github.com/), 
-using a custom Jekyll theme I wrote called 
-[jekyll-chapterbook](https://github.com/jasongrimes/jekyll-chapterbook).
+using a custom Jekyll theme I created to support a proper book format and my personal workflow
+([jekyll-chapterbook](https://github.com/jasongrimes/jekyll-chapterbook)).
 
 ## Style guide
 
