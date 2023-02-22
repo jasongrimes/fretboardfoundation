@@ -241,6 +241,17 @@ the minor third (making it a minor chord),
 and then repeating the root at the top,
 we often don't notice the missing fifth.
 
+To get comfortable with the C minor shape,
+play it in open position,
+with the root on the 3rd fret of the 5th string 
+(a C, making it a Cm chord),
+move the root up to the 8th fret (Fm),
+then the 10th fret (Gm),
+then the 15th fret (3rd fret above the octave),
+another Cm chord.
+
+This is similar to the C major practice,
+but in the key of Cm. 
 
 ### C diminished shape
 
