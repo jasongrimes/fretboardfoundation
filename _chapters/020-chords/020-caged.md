@@ -232,7 +232,7 @@ using the tip of it to mute the 3rd string:
 Try playing the chord tones in order,
 `R-b3-5-R`,
 starting in with fingers in `x421xx`,
-and then moving the first finger from the 3rd string to the 2nd string to play the top root note,
+and then slightly pulling the first finger from the 3rd string to the 2nd string to play the top root note,
 ending up in `x42x1x`.
 
 In this grip, we're no longer playing the fifth of the chord.
