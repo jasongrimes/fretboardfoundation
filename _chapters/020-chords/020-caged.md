@@ -19,6 +19,25 @@ The shapes are named after the familiar
 C, A, G, E, and D chord shapes in _open position_ 
 (that is, having open strings).
 
+## Notation for fingerings and intervals
+
+The dots in the chord diagrams below are labeled with the interval of each chord tone from the root.
+`R` is the root note, 
+`3` is the major third, 
+`b3` is the minor third, etc.
+
+Fingerings are notated with six-digit symbols,
+representing the six strings of the guitar 6-1 from left-to-right,
+with each string having the number of the finger used to fret it,
+or an "x" indicating the string is muted.
+
+For example: `x4312x`
+
+Finger 1 is the index finger, 
+2 is the middle finger,
+3 is the ring finger,
+and 4 is the little finger.
+
 ## Mind the chord intervals
 
 When learning and practicing these shapes,
@@ -33,7 +52,7 @@ First, it allows us to make any chord we need just by adjusting a known chord sh
 Second, it leads to almost accidentally learning the most important interval shapes _and sounds_ all over the fretboard,
 which is extremely useful for improvising and playing by ear.
 
-Knowing the root note (R) in each chord shape is especially important,
+Knowing the root note in each chord shape is especially important,
 since that's how we know where to place the chord.
 
 ## C shape
@@ -42,7 +61,7 @@ since that's how we know where to place the chord.
 
 {% include figure.html
     caption="C major shape."
-    url="/assets/figures/caged/C-maj.svg"
+    url="/assets/figures/caged2/C-maj.svg"
     class="chord row"
 %}
 
@@ -67,7 +86,7 @@ The C CAGED shape has roots on the second and fifth strings.
 
 {% include figure.html
     caption="C major shape."
-    url="/assets/figures/caged2/C-maj.svg"
+    url="/assets/figures/caged/C-maj.svg"
     class="chord row"
 %}
 
