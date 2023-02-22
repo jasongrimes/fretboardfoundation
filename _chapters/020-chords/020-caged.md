@@ -51,9 +51,12 @@ Often, when we are struggling to place our fingers into a challenging chord grip
 the problem can be solved almost magically by simply adjusting the elbow until the position is more comfortable. 
 
 **Keep the fretting wrist at a neutral angle.**
-This prevents tendons from rubbing which can cause carpal tunnel syndrome,
-among other advantages.
-This can be made easier by adjusting the elbow,
+
+Among other benefits,
+this prevents tendons from rubbing,
+which can cause inflammation and injuries like carpal tunnel syndrome.
+
+Keeping the wrist at a neutral angle can be made easier by adjusting the elbow,
 as already described,
 and by tilting the guitar neck upward. 
 A strap with a suede backing can help hold the guitar tilted in a comfortable fretting position.
@@ -79,6 +82,8 @@ making the notes sharp.
 In that case, the thumb should gently pinch the back of the neck directly behind the locus if force from the fingers,
 pressing just hard enough that the notes don't go sharp.
 This is the point at which intonation and ergonomics are in harmony---the perfect grip.
+
+**More about guitar ergonomics**
 
 
 ## Mind the chord intervals
