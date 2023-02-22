@@ -176,7 +176,7 @@ That's the sound of a closed voicing.
 This kind of closed voice root position triad sounds strong and clear.
 
 The basic chord grip for this shape is `x4312x`.
-It is a surprisingly comfortable and convenient grip,
+It's a surprisingly comfortable and convenient grip,
 once it becomes familiar.
 The 1st string can be comfortably muted with the side of the fretting hand,
 and the 6th string can be muted by either the tip of the little finger or with the thumb.
