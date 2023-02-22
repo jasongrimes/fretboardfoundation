@@ -81,8 +81,7 @@ The basic chord grip for this shape is `x4312x`.
 It is a surprisingly comfortable and convenient grip,
 once it becomes familiar.
 The 1st string can be comfortably muted with the side of the fretting hand,
-and the 6th string can be muted by either the tip of the little finger,
-or occasionally with the thumb.
+and the 6th string can be muted by either the tip of the little finger or with the thumb.
 
 The bass note for this chord is played with the little finger on the 5th string.
 It's common to reach the little finger over to the 6th string,
