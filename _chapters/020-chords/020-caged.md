@@ -239,7 +239,7 @@ In this grip, we're no longer playing the fifth of the chord.
 But having the bass in the root, 
 the minor third (making it a minor key),
 and then repeating the root at the top,
-we don't really notice the missing fifth.
+we often don't notice the missing fifth.
 
 
 ### C diminished shape
