@@ -118,7 +118,7 @@ third (or minor third), fifth, etc.
 This is important for two reasons. 
 First, it allows us to make any chord we need just by adjusting a known chord shape.
 (For example, lower the third of a major chord by one fret and it becomes a minor chord.)
-Second, it leads to almost accidentally learning the most important interval shapes _and sounds_ all over the fretboard,
+Second, it leads to almost accidentally learning the most important interval shapes and sounds all over the fretboard,
 which is extremely useful for improvising and playing by ear.
 
 It's especially important to know the root note in each chord shape,
