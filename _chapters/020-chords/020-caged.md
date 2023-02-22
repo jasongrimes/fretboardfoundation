@@ -50,6 +50,18 @@ or pull it back to better reach the high strings.
 Often, when we are struggling to place our fingers into a challenging chord grip,
 the problem can be solved almost magically by simply adjusting the elbow until the position is more comfortable. 
 
+**Keep the fretting wrist at a neutral angle.**
+This prevents tendons from rubbing which can cause carpal tunnel syndrome,
+among other advantages.
+This can be made easier by adjusting the elbow,
+as already described,
+and by tilting the guitar neck upward. 
+A strap with a suede backing can help hold the guitar tilted in a comfortable fretting position.
+
+**Our hands are not crowbars**
+
+
+
 ## Mind the chord intervals
 
 When learning and practicing these shapes,
