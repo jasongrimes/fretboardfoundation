@@ -254,7 +254,30 @@ then the 10th fret (Gm),
 then the 15th fret (3rd fret above the octave),
 another Cm chord.
 This is similar to the practice for the C major shape,
-but in the key of Cm. 
+but in the key of Cm.
+
+When both the C and Cm shapes are comfortable,
+play them together by playing the chords in the key of C major,
+like this:
+
+- Play a C **major** shape in open position,
+(with the root at the *3rd fret*, 5th string).
+A **C major chord**.
+- Play a C **minor** shape with root at the **5th fret**,
+a **D minor** chord.
+- Play a C **minor** shape with root at the **7th fret**,
+an **E minor** chord.
+- Play a C **major** shape with root at the **8th fret**,
+an **F major** chord.
+- Play a C **major** shape with root at the **10th fret**,
+a **G major** chord.
+- Play a C **minor** shape with root at the **12th fret**,
+an **A minor** chord.
+- Play a C **minor** shape with with _no fifth_,
+`x42x1x`,
+With the root at the **14th fret** (aka **2nd fret** past the octave),
+a **B minor** chord.
+
 
 ### C diminished shape
 
