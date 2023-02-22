@@ -19,6 +19,14 @@ The shapes are named after the familiar
 C, A, G, E, and D chord shapes in _open position_ 
 (that is, having open strings).
 
+## On pain and ergonomics
+
+Some of the CAGED chord shapes are awkward or even impossible to play in their entirety.
+Gripping them incorrectly can lead to considerable pain,
+especially in the case of barre chord grips for the A and E shapes.
+
+
+
 ## Mind the chord intervals
 
 When learning and practicing these shapes,
