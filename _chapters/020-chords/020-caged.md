@@ -68,7 +68,7 @@ While it is possible to use the thumb as a fulcrum to lever the fingers onto the
 our hands are full of joints that need to be held rigidly in place in order to treat the arm as a crowbar.
 Joints are designed to move,
 not to hold rigid,
-especially against forces applied in the joint's weakest directions.
+especially against forces applied in the joint's weakest direction.
 This technique may seem to be powerful at first,
 but over time is likely to lead to injury, 
 possibly even including basal joint arthritis.
