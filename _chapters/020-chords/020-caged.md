@@ -71,7 +71,7 @@ not to hold rigid,
 especially against forces applied in the joint's weakest direction.
 This technique may seem to be powerful at first,
 but over time is likely to lead to injury, 
-possibly even including basal joint arthritis.
+and possibly basal joint arthritis.
 
 Instead,
 the thumb should be pressed lightly against the neck,
