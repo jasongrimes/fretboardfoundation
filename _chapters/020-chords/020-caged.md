@@ -91,6 +91,11 @@ to play an alternating bass line between the root on the 5th string and the perf
 Sometimes it sounds good to add the major third on the highest string,
 which can be done by flattening the first finger: `x43121`
 
+Another variation is to play just the "treble triad" on the top three (treble) strings `xxx121`,
+optionally adding the bass note with the little finger: `x4x121`.
+
+
+
 
 ---
 
