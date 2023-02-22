@@ -118,6 +118,7 @@ third (or minor third), fifth, etc.
 This is important for two reasons. 
 First, it allows us to make any chord we need just by adjusting a known chord shape.
 (For example, lower the third of a major chord by one fret and it becomes a minor chord.)
+
 Second, it leads to almost accidentally learning the most important interval shapes and sounds all over the fretboard,
 which is extremely useful for improvising and playing by ear.
 
@@ -175,7 +176,7 @@ That's the sound of a closed voicing.
 This kind of closed voice root position triad sounds strong and clear.
 
 The basic chord grip for this shape is `x4312x`.
-It is a surprisingly comfortable and convenient grip,
+It's a surprisingly comfortable and convenient grip,
 once it becomes familiar.
 The 1st string can be comfortably muted with the side of the fretting hand,
 and the 6th string can be muted by either the tip of the little finger or with the thumb.
