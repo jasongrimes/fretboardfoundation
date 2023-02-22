@@ -22,10 +22,33 @@ C, A, G, E, and D chord shapes in "open position"
 ## On pain and ergonomics
 
 Some of the CAGED chord shapes are awkward or even impossible to play in their entirety.
-Gripping them incorrectly can lead to considerable pain,
+Gripping them incorrectly can lead to considerable pain over time,
 especially in the case of barre chord grips for the A and E shapes.
 
+Pain is a signal from our bodies that we are doing something wrong.
+If we ignore the pain and don't change what we're doing,
+the injury will get worse and take longer to heal. 
+Eventually, our bodies will _force_ us to stop doing it.
 
+It's far better to listen to our bodies from the beginning.
+**If something hurts,
+stop doing it right away**,
+and figure out a painless way to do it
+before the painful way has time to become a habit.
+
+Aside from this general advice,
+a few observations can be particularly helpful.
+
+**Notice the elbow of the fretting arm.**
+
+The reach and range of movement of the fretting fingers changes dramatically depending on the position of the elbow.
+Move the elbow out to the side to allow fingers to reach down the neck more easily,
+or move it in closer to the body to reach back up the neck.
+Move the elbow out in front of the body to improve the fingers' reach of the low strings,
+or pull it back to better reach the high strings.
+
+Often, when we are struggling to place our fingers into a challenging chord grip,
+the problem can be almost magically solved by simply adjusting the elbow until the position is more comfortable. 
 
 ## Mind the chord intervals
 
