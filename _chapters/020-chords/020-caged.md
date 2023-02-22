@@ -230,12 +230,6 @@ pull the first finger down to the 2nd string,
 using the tip of it to mute the 3rd string:
 `x42x1x`.
 
-Try playing the chord tones in order,
-`R-b3-5-R`,
-starting with the fingers in `x421xx`,
-and then slightly pulling the first finger from the 3rd string to the 2nd string to play the top root note,
-ending up in `x42x1x`.
-
 In this grip, we're no longer playing the fifth of the chord.
 But having the bass in the root, 
 the minor third (making it a minor chord),
@@ -244,6 +238,11 @@ we often don't notice the missing fifth.
 
 Another variation is to play the treble triad on the upper-middle three strings,
 with the root on the second string: `xx213x`.
+
+Try playing the chord tones in order,
+`R-b3-5-R`,
+starting with the fingers in `x421xx`,
+and then rotating into `xx213x`
 
 To get comfortable with the C minor shape,
 play it in open position,
