@@ -67,17 +67,23 @@ since that's how we know where to place the chord.
 
 The basic C major shape is a straightforward triad chord.
 The root note is the lowest note in the chord
-(which is called "root position"),
+(meanimg the chord is in "root position"),
 the third and fifth are stacked directly on top of the root with no gaps
-(Which is called "closed voicing"),
-and then the root note is repeated at the octave,
+(which is called a "closed voicing"),
+and then the root note is repeated again at the octave,
 so the root is both the highest and lowest note.
-This kind of closed-voice root position triad sounds strong and clear.
+This kind of closed voice root position triad sounds strong and clear.
 
 The basic chord grip for this shape is `x4312x`.
-This is a surprisingly comfortable and convenient grip once it becomes familiar.
+It is a surprisingly comfortable and convenient grip,
+once it becomes familiar.
 
+The bass note for this chord is played with the little finger on the 5th string.
+It's common to reach the little finger over to the 6th string,
+to play an alternating bass line between the root on the 5th string and the perfect fifth on the 6th string. 
 
+Sometimes it sounds good to add the major third on the highest string,
+which can be done by flattening the first finger. 
 
 
 ---
