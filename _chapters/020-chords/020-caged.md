@@ -48,7 +48,7 @@ Move the elbow out in front of the body to improve the fingers' reach of the low
 or pull it back to better reach the high strings.
 
 Often, when we are struggling to place our fingers into a challenging chord grip,
-the problem can be almost magically solved by simply adjusting the elbow until the position is more comfortable. 
+the problem can be solved almost magically by simply adjusting the elbow until the position is more comfortable. 
 
 ## Mind the chord intervals
 
