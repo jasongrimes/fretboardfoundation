@@ -263,21 +263,30 @@ like this:
 - Play a C **major** shape in open position,
 (with the root at the *3rd fret*, 5th string).
 A **C major chord**.
-- At the **5th fret** root, play a C **minor** shape,
+- At the **5th fret** root, 
+play a C **minor** shape,
 a **D minor** chord.
-- Play a C **minor** shape with root at the **7th fret**,
+- At the **7th fret** root, 
+play a C **minor** shape,
 an **E minor** chord.
-- Play a C **major** shape with root at the **8th fret**,
+- At the **8th fret** root, 
+play a C **major** shape,
 an **F major** chord.
-- Play a C **major** shape with root at the **10th fret**,
+- At the **10th fret** root, 
+play a C **major** shape,
 a **G major** chord.
-- Play a C **minor** shape with root at the **12th fret**,
+- At the **12th fret** root, 
+play a C **minor** shape,
 an **A minor** chord.
-- Play a C **minor** shape with with _no fifth_,
+- At the *14th fret** root
+(aka **2nd fret** past the octave),
+play a C **minor** shape _with no fifth_,
 `x42x1x`,
-With the root at the **14th fret** (aka **2nd fret** past the octave),
-a **B minor** chord (sort of).
-
+a **B minor** chord (sort of, see the diminished chord shape for details).
+- At the **15th fret** root, 
+(aka **3rd fret** past the octave),
+play a C **major** shape,
+another **C major** chord.
 
 ### C diminished shape
 
