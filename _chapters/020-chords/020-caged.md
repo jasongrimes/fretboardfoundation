@@ -90,7 +90,7 @@ and releasing enough pressure to solve it causes the strings to buzz against the
 In that case, the thumb should gently pinch the back of the neck directly behind the fingers,
 pressing just hard enough that the notes don't go sharp.
 Pinching too hard can cause the notes to bend sharp between the fret and the board,
-not pinching hard enough can cause them to bend sharp from finger pressure on the neck,
+while not pinching hard enough can cause them to bend sharp from finger pressure on the neck,
 or to buzz against the frets from lack of pressure.
 
 We need to adjust the pressure from the fingers and thumb until the notes are pitched true,
