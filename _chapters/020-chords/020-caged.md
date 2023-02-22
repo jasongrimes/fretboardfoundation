@@ -121,8 +121,9 @@ First, it allows us to make any chord we need just by adjusting a known chord sh
 Second, it leads to almost accidentally learning the most important interval shapes and sounds all over the fretboard,
 which is extremely useful for improvising and playing by ear.
 
-It's especially important to know the root note in each chord shape,
+It's especially important to know the root notes in each chord shape,
 since that's how we know where to place the chord.
+
 
 ## Notation
 
