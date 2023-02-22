@@ -74,7 +74,7 @@ Instead,
 the thumb should be pressed lightly against the neck,
 _if at all_.
 The fretting thumb's main use should be to keep the hand gently in contact with the neck,
-so it stays in one place instead of floating around in space.
+so it stays in one place instead of floating around in space when the fingers are off the fretboard.
 
 It's possible to fret a guitar without using the thumb at all,
 and it's a good idea to do so sometimes,
