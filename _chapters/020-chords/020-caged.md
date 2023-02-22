@@ -85,6 +85,10 @@ This is the point at which intonation and ergonomics are in harmony---the perfec
 
 **More about guitar ergonomics**
 
+Christopher Berg’s excellent 
+*Mastering Guitar Technique: Process and Essence* 
+[(Berg, 1997)](references#berg-1997) 
+has a great deal more about optimal positioning of the body for playing guitar.
 
 ## Mind the chord intervals
 
