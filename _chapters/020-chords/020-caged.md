@@ -40,24 +40,26 @@ since that's how we know where to place the chord.
 
 ### C major shape
 
-The basic C major shape is a straightforward triad chord.
-The root note is the lowest note in the chord
-(which is called "root position"),
-the third and fifth are stacked directly on top of the root with no gaps
-(Which is called "closed voicing"),
-and then the root note is repeated on top. 
-The R-3-5-R all span a single octave.
-
-This kind of closed-voice root position triad
-is considered a strong and stable chord.
-
-strings.
-
 {% include figure.html
     caption="C major shape."
     url="/assets/figures/caged/C-maj.svg"
     class="chord row"
 %}
+
+The basic C major shape is a straightforward triad chord.
+The root note is the lowest note in the chord
+(which is called "root position"),
+the third and fifth are stacked directly on top of the root with no gaps
+(Which is called "closed voicing"),
+and then the root note is repeated at the octave,
+so the root is both the highest and lowest note.
+This kind of closed-voice root position triad sounds strong and clear.
+
+The basic chord grip for this shape is `x4312x`.
+This is a surprisingly comfortable and convenient grip once it becomes familiar.
+
+
+
 
 ---
 
