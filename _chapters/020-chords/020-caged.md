@@ -215,7 +215,7 @@ The C minor shape is just the C major shape with the third lowered by one fret.
 But what a difference that small change makes for playability.
 
 The C minor shape can seem impractical,
-unsuited to the shape of human hands.
+unsuited to human hands.
 But when we realize that we can leave out some of the notes,
 it becomes more useful.
 
@@ -237,7 +237,7 @@ ending up in `x42x1x`.
 
 In this grip, we're no longer playing the fifth of the chord.
 But having the bass in the root, 
-the minor third (making it a minor key),
+the minor third (making it a minor chord),
 and then repeating the root at the top,
 we often don't notice the missing fifth.
 
