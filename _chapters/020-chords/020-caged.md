@@ -97,8 +97,8 @@ To get a feel for this chord shape,
 first play it in open position,
 with the little finger on the 3rd fret of the 5th string 
 (the note C, making it a C chord).
-Then move it up the neck so the root is on the 5th string 8th fret (F, making it an F chord).
-Then move the root up to 5th string 10th fret (G).
+Then move it up the neck so the root is on the 8th fret of the 5th string (F, making it an F chord).
+Then move the root up to the 10th fret of the 5th string (G).
 Play around with these three "primary" chords for awhile.
 
 ### C minor shape
