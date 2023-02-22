@@ -243,7 +243,7 @@ and then repeating the root at the top,
 we often don't notice the missing fifth.
 
 Another variation is to play the treble triad on the upper-middle three strings,
-with the root on the second string: `xx213x
+with the root on the second string: `xx213x`.
 
 To get comfortable with the C minor shape,
 play it in open position,
