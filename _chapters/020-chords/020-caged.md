@@ -261,7 +261,7 @@ play them together by playing the chords in the key of C major,
 like this:
 
 - Play a C **major** shape in open position,
-(with the root at the *3rd fret*, 5th string).
+(with the root at the **3rd fret*, 5th string).
 A **C major chord**.
 - At the **5th fret** root, 
 play a C **minor** shape,
@@ -278,7 +278,7 @@ a **G major** chord.
 - At the **12th fret** root, 
 play a C **minor** shape,
 an **A minor** chord.
-- At the *14th fret** root
+- At the **14th fret** root
 (aka **2nd fret** past the octave),
 play a C **minor** shape _with no fifth_,
 `x42x1x`,
