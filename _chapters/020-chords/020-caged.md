@@ -139,9 +139,11 @@ Play around with these three "primary" chords for awhile.
 
 ### C minor shape
 
+### C diminished shape
 
+### C seventh shapes
 
-
+## --
 
 ---
 
