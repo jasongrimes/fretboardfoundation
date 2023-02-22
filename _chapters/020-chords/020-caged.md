@@ -189,6 +189,7 @@ Sometimes it sounds good to add the major third on the highest string,
 which can be done by flattening the first finger: `x43121`
 
 Another variation is to play just the "treble triad" on the top three (treble) strings `xxx121`,
+with the root on the 2nd string,
 optionally adding the bass note with the little finger: `x4x121`.
 
 To get a feel for this chord shape,
@@ -240,6 +241,9 @@ But having the bass in the root,
 the minor third (making it a minor chord),
 and then repeating the root at the top,
 we often don't notice the missing fifth.
+
+Another variation is to play the treble triad,
+with the root on the second string.
 
 To get comfortable with the C minor shape,
 play it in open position,
