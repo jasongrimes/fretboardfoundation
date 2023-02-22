@@ -232,7 +232,7 @@ using the tip of it to mute the 3rd string:
 
 Try playing the chord tones in order,
 `R-b3-5-R`,
-starting in with fingers in `x421xx`,
+starting with the fingers in `x421xx`,
 and then slightly pulling the first finger from the 3rd string to the 2nd string to play the top root note,
 ending up in `x42x1x`.
 
@@ -242,8 +242,8 @@ the minor third (making it a minor chord),
 and then repeating the root at the top,
 we often don't notice the missing fifth.
 
-Another variation is to play the treble triad,
-with the root on the second string.
+Another variation is to play the treble triad on the upper-middle three strings,
+with the root on the second string: `xx213x
 
 To get comfortable with the C minor shape,
 play it in open position,
