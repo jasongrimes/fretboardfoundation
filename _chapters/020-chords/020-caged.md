@@ -16,7 +16,7 @@ On a guitar in standard tuning,
 there are only five of these core movable chord shapes,
 which in turn form the basis of every chord it is possible to play on guitar. 
 The shapes are named after the familiar
-C, A, G, E, and D chord shapes in _open position_ 
+C, A, G, E, and D chord shapes in "open position"
 (that is, having open strings).
 
 ## On pain and ergonomics
