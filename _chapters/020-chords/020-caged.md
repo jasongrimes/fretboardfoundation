@@ -120,7 +120,7 @@ which is extremely useful for improvising and playing by ear.
 It's especially important to know the root note in each chord shape,
 since that's how we know where to place the chord.
 
-## Notation for fingerings and intervals
+## Notation
 
 The dots in the chord diagrams below are labeled with the interval of each chord tone from the root.
 `R` is the root note, 
