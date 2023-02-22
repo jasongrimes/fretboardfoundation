@@ -197,7 +197,11 @@ with the little finger on the 3rd fret of the 5th string
 (the note C, making it a C chord).
 Then move it up the neck so the root is on the 8th fret of the 5th string (F, making it an F chord).
 Then move the root up to the 10th fret of the 5th string (G).
-Play around with these three "primary" chords for awhile.
+On fretboard where it can be reached,
+finish by moving the root up to the 15th fret on the 5th string 
+(3rd fret above the octave),
+another C chord.
+Play around with these three "primary" chords for awhile to get familiar with the shape at different parts of the neck.
 
 ### C minor shape
 
