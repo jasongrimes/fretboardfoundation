@@ -249,8 +249,7 @@ move the root up to the 8th fret (Fm),
 then the 10th fret (Gm),
 then the 15th fret (3rd fret above the octave),
 another Cm chord.
-
-This is similar to the C major practice,
+This is similar to the practice for the C major shape,
 but in the key of Cm. 
 
 ### C diminished shape
