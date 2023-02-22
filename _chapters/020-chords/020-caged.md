@@ -276,7 +276,7 @@ an **A minor** chord.
 - Play a C **minor** shape with with _no fifth_,
 `x42x1x`,
 With the root at the **14th fret** (aka **2nd fret** past the octave),
-a **B minor** chord.
+a **B minor** chord (sort of).
 
 
 ### C diminished shape
