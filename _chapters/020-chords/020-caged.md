@@ -153,7 +153,7 @@ and 4 is the little finger.
 %}
 
 The basic C major shape is a straightforward triad chord.
-The root note is the lowest note in the chord
+The root note is the lowest note of the chord
 (meaning the chord is in "root position"),
 the third and fifth are stacked directly on top of the root with no gaps
 (which is called a "closed voicing"),
