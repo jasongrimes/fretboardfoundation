@@ -211,7 +211,7 @@ Play around with these three "primary" chords for awhile to get familiar with th
     class="chord row"
 %}
 
-The C minor shape is the C major shape with the third lowered by one fret.
+The C minor shape is just the C major shape with the third lowered by one fret.
 But what a difference that small change makes for playability.
 
 The C minor shape can seem impractical,
@@ -219,8 +219,28 @@ unsuited to the shape of human hands.
 But when we realize that we can leave out some of the notes,
 it becomes more useful.
 
-One common grip for the C minor shape is `x421xx`.
-A closed 
+One common grip for this shape is `x421xx`,
+a minimalist, three note closed voice triad.
+The first finger mutes the top two strings.
+
+Sometimes it's nice to have the root note repeated on top of the chord as the highest pitch.
+In that case,
+pull the first finger down to the 2nd string,
+using the tip of it to mute the 3rd string:
+`x42x1x`.
+
+Try playing the chord tones in order,
+`R-b3-5-R`,
+starting in with fingers in `x421xx`,
+and then moving the first finger from the 3rd string to the 2nd string to play the top root note,
+ending up in `x42x1x`.
+
+In this grip, we're no longer playing the fifth of the chord.
+But having the bass in the root, 
+the minor third (making it a minor key),
+and then repeating the root at the top,
+we don't really notice the missing fifth.
+
 
 ### C diminished shape
 
