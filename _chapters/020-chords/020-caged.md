@@ -43,6 +43,9 @@ The dots in the chord diagrams below are labeled with the interval of each chord
 `3` is the major third, 
 `b3` is the minor third, etc.
 
+Guitar strings are numbered from 1-6,
+with 1 being the highest pitched string and 6 the lowest.
+
 Fingerings are notated with six-digit symbols,
 representing the six strings of the guitar 6-1 from left-to-right,
 with each string having the number of the finger used to fret it,
@@ -55,8 +58,7 @@ Finger 1 is the index finger,
 3 is the ring finger,
 and 4 is the little finger.
 
-
-## C shape
+## C shapes
 
 ### C major shape
 
@@ -78,13 +80,14 @@ This kind of closed voice root position triad sounds strong and clear.
 The basic chord grip for this shape is `x4312x`.
 It is a surprisingly comfortable and convenient grip,
 once it becomes familiar.
+The 1st string can be comfortable muted 
 
 The bass note for this chord is played with the little finger on the 5th string.
 It's common to reach the little finger over to the 6th string,
 to play an alternating bass line between the root on the 5th string and the perfect fifth on the 6th string. 
 
 Sometimes it sounds good to add the major third on the highest string,
-which can be done by flattening the first finger. 
+which can be done by flattening the first finger: `x43121`
 
 
 ---
