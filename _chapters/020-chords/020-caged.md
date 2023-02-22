@@ -79,11 +79,16 @@ so it stays in one place instead of floating around in space.
 It's possible to fret a guitar without using the thumb at all,
 and it's a good idea to do so sometimes,
 to experiment with how little thumb pressure is actually needed.
+
 Sometimes the pressure from the fingers is enough to bend the neck back slightly,
-causing the notes to bend sharp.
+causing the notes to bend sharp,
+and releasing enough pressure to solve it causes the strings to buzz against the frets.
 
 In that case, the thumb should gently pinch the back of the neck directly behind the fingers,
 pressing just hard enough that the notes don't go sharp.
+Pinching too hard can cause the notes to bend sharp between the fret and the board,
+so we need to release pressure until the note is pitched true and t
+
 This is the point at which intonation and ergonomics are in harmony---the perfect grip,
 the purest tone with the least effort.
 
