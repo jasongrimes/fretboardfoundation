@@ -80,8 +80,8 @@ The fretting thumb's main use should be to keep the hand gently in contact with 
 so it stays in one place instead of floating around in space when the fingers are off the fretboard.
 
 It's possible to fret a guitar without using the thumb at all,
-and it's a good idea to do so sometimes,
-to experiment with how little thumb pressure is actually needed.
+and it's a good practice to do so sometimes,
+to give the thumb a rest and to experiment with how little pressure is actually needed.
 
 Sometimes the pressure from the fingers is enough to bend the neck back slightly,
 causing the notes to bend sharp,
