@@ -295,6 +295,17 @@ another **C major** chord.
     class="chord row"
 %}
 
+All the triad chords in a major key are either major or minor chords,
+except one:
+the vii chord is a diminished triad.
+See {% include chapter-link.html slug="major-harmony" %} for details.
+
+In the key of C,
+the vii chord is actually Bdim, 
+a B diminished triad.
+(We got away with playing Bm(no 5) earlier,
+because Bdim and Bm are the same chord except for the fifth.)
+
 
 ### C seventh shapes
 
