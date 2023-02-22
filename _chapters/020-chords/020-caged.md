@@ -35,7 +35,7 @@ It's far better to listen to our bodies from the beginning.
 **If something hurts,
 stop doing it right away**,
 and figure out a painless way to do it
-before the painful way has time to become a habit.
+before the painful way has time to form into habit.
 
 Aside from this general advice,
 a few observations can be particularly helpful.
