@@ -9,7 +9,7 @@ using a custom Jekyll theme I wrote called
 
 ## Style guide
 
-See [Journal of Music Theory Style Guide](https://www.dukeupress.edu/Assets/Downloads/JMT_sg.pdf)
+See [Journal of Music Theory Style Guide](https://www.dukeupress.edu/Assets/Downloads/JMT_sg.pdf).
 
 ### Citation style
  
