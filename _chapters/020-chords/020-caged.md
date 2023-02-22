@@ -142,6 +142,8 @@ Finger 1 is the index finger,
 3 is the ring finger,
 and 4 is the little finger.
 
+The fingering symbols are intuitive if we imagine them placed at the bottom of the chord diagram lined up with the strings.
+
 ## C shapes
 
 ### C major shape
