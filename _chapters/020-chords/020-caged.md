@@ -211,8 +211,8 @@ Play around with these three "primary" chords for awhile to get familiar with th
     class="chord row"
 %}
 
-Notice how the C minor shape is just the C major shape with the third lowered by one fret.
-What a difference that small change makes for playability.
+The C minor shape is the C major shape with the third lowered by one fret.
+But what a difference that small change makes for playability.
 
 The C minor shape can seem impractical,
 unsuited to the shape of human hands.
