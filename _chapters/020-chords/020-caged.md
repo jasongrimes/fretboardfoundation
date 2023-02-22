@@ -19,6 +19,23 @@ The shapes are named after the familiar
 C, A, G, E, and D chord shapes in _open position_ 
 (that is, having open strings).
 
+## Mind the chord intervals
+
+When learning and practicing these shapes,
+it's important to always be mindful of what role each note plays in the chord,
+rather than mindlessly playing shapes.
+We should always be aware of which note is the root, 
+third (or minor third), fifth, etc.
+
+This is important for two reasons. 
+First, it allows us to make any chord we need just by adjusting a known chord shape.
+(For example, lower the third of a major chord by one fret and it becomes a minor chord.)
+Second, it leads to almost accidentally learning the most important interval shapes _and sounds_ all over the fretboard,
+which is extremely useful for improvising and playing by ear.
+
+It's especially important to know the root note in each chord shape,
+since that's how we know where to place the chord.
+
 ## Notation for fingerings and intervals
 
 The dots in the chord diagrams below are labeled with the interval of each chord tone from the root.
@@ -38,22 +55,6 @@ Finger 1 is the index finger,
 3 is the ring finger,
 and 4 is the little finger.
 
-## Mind the chord intervals
-
-When learning and practicing these shapes,
-it's important to always be mindful of what role each note plays in the chord,
-rather than mindlessly playing shapes.
-We should always be aware of which note is the root, 
-third (or minor third), fifth, etc.
-
-This is important for two reasons. 
-First, it allows us to make any chord we need just by adjusting a known chord shape.
-(For example, lower the third of a major chord by one fret and it becomes a minor chord.)
-Second, it leads to almost accidentally learning the most important interval shapes _and sounds_ all over the fretboard,
-which is extremely useful for improvising and playing by ear.
-
-Knowing the root note in each chord shape is especially important,
-since that's how we know where to place the chord.
 
 ## C shape
 
@@ -67,7 +68,7 @@ since that's how we know where to place the chord.
 
 The basic C major shape is a straightforward triad chord.
 The root note is the lowest note in the chord
-(meanimg the chord is in "root position"),
+(meaning the chord is in "root position"),
 the third and fifth are stacked directly on top of the root with no gaps
 (which is called a "closed voicing"),
 and then the root note is repeated again at the octave,
