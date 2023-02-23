@@ -303,9 +303,16 @@ See {% include chapter-link.html slug="major-harmony" %} for details.
 In the key of C,
 the vii chord is actually Bdim, 
 a B diminished triad.
-(We got away with playing Bm(no 5) earlier,
-because Bdim and Bm are the same chord except for the fifth.)
+We got away with playing Bm(no 5) earlier,
+because Bdim and Bm are the same chord except for the fifth.
 
+One common grip for this shape is `x421xx`,
+and another is to play the root at the top with the treble triad `xx213x`.
+Sometimes it's also useful to grip it with `xx2134`.
+
+To practice this shape,
+play the same harmonized chords as in the Cm shape practice,
+except play Bdim instead of Bm(no 5).
 
 ### C seventh shapes
 
