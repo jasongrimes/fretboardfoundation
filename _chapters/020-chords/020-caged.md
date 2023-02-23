@@ -472,7 +472,7 @@ for a detailed discussion of seventh chords.
 ### G diminished shape
 
 {% include figure.html
-    caption="G diminishes shape."
+    caption="G diminished shape."
     url="/assets/figures/caged2/G-dim.svg"
     class="chord row"
 %}
@@ -510,14 +510,56 @@ for a detailed discussion of seventh chords.
 
 ### E major shape
 
+{% include figure.html
+    caption="E major shape."
+    url="/assets/figures/caged2/E-maj.svg"
+    class="chord row"
+%}
+
 ### E minor shape
+
+{% include figure.html
+    caption="E minor shape."
+    url="/assets/figures/caged2/E-min.svg"
+    class="chord row"
+%}
 
 ### E diminished shape
 
+{% include figure.html
+    caption="E diminished shape."
+    url="/assets/figures/caged2/E-dim.svg"
+    class="chord row"
+%}
+
 ### E seventh shapes
 
+{% include figure.html
+    caption="E7 shape."
+    url="/assets/figures/caged2/E-dom7.svg"
+    class="chord row"
+%}
 
+{% include figure.html
+    caption="E minor 7 shape."
+    url="/assets/figures/caged2/E-min7.svg"
+    class="chord row"
+%}
 
+{% include figure.html
+    caption="E major 7 shape."
+    url="/assets/figures/caged2/E-maj7.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="E m7b5 shape."
+    url="/assets/figures/caged2/E-m7b5.svg"
+    class="chord row"
+%}
+
+See {% include chapter-link.html slug="seventh-chords" %}
+for a detailed discussion of seventh chords.
 
 ## D shapes
 
@@ -536,51 +578,6 @@ for a detailed discussion of seventh chords.
 
 ---
 
-
-## G shape
-
-The G CAGED shape adds notes below the third-string root treble triad
-and above the first-string root treble triad.
-
-{% include figure.html
-    caption="G major shape."
-    url="/assets/figures/caged/G-maj.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="G minor shape."
-    url="/assets/figures/caged/G-min.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="G diminished shape."
-    url="/assets/figures/caged/G-dim.svg"
-    class="chord row"
-%}
-
-## E shape
-
-The E CAGED shape adds notes below the first-string root treble triad.
-
-{% include figure.html
-    caption="E major shape."
-    url="/assets/figures/caged/E-maj.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="E minor shape."
-    url="/assets/figures/caged/E-min.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="E diminished shape."
-    url="/assets/figures/caged/E-dim.svg"
-    class="chord row"
-%}
 
 ## D shape
 
