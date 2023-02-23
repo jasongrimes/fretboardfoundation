@@ -451,30 +451,47 @@ The treble triads can also be played by themselves:
 See {% include chapter-link.html slug="seventh-chords" %}
 for a detailed discussion of seventh chords.
 
+## G shapes
+
+### G major shape
+
+### G minor shape
+
+### G diminished shape
+
+### G seventh shapes
+
+
+## E shapes
+
+### E major shape
+
+### E minor shape
+
+### E diminished shape
+
+### E seventh shapes
+
+
+
+
+## D shapes
+
+### D major shape
+
+### D minor shape
+
+### D diminished shape
+
+### D seventh shapes
+
+
+
+
 ## --
 
 ---
 
-
-The A CAGED shape adds notes above the third-string root treble triad.
-
-{% include figure.html
-    caption="A major shape."
-    url="/assets/figures/caged/A-maj.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="A minor shape."
-    url="/assets/figures/caged/A-min.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="A diminished shape."
-    url="/assets/figures/caged/A-dim.svg"
-    class="chord row"
-%}
 
 ## G shape
 
