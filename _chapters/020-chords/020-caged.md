@@ -204,7 +204,7 @@ Play around with these three "primary" chords for awhile to get familiar with th
 
 <div class="table-wrapper" markdown="block">
 
-| 5th string fret | Note | Shape  | Chord |
+| 5th string root on fret | Note | Shape  | Chord |
 |:---------------:|:----:|:------:|:-----:|
 | 3               | C    | major  | C     |
 | 5               | D    | minor  | Dm    |
