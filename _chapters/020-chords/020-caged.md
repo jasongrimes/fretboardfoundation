@@ -615,39 +615,3 @@ for a detailed discussion of seventh chords.
 
 See {% include chapter-link.html slug="seventh-chords" %}
 for a detailed discussion of seventh chords.
-
-
-
-
-## --
-
----
-
-
-## D shape
-
-The D CAGED shape adds notes above the second-string root treble triad.
-
-{% include figure.html
-    caption="D major shape."
-    url="/assets/figures/caged/D-maj.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="D major transitional shape."
-    url="/assets/figures/caged/D-maj-x.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="D minor shape."
-    url="/assets/figures/caged/D-min.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="D diminished shape."
-    url="/assets/figures/caged/D-dim.svg"
-    class="chord row"
-%}
