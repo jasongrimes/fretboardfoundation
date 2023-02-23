@@ -419,6 +419,32 @@ It then adds the root note in the bass.
 The treble triads can also be played by themselves: 
 `xxx321` and `xx231x`.
 
+*Practice with primary chords in the key of C minor:*
+
+| 5th string root on fret | Note | Shape  | Chord |
+|:-----------------------:|:----:|:------:|:-----:|
+| 3                       | C    | minor  | Cm    |
+| 8                       | F    | minor  | Fm    |
+| 10                      | G    | minor  | Gm    |
+| 10                      | G    | major  | G     |
+| 15<br>(3+12)            | C    | minor  | Cm    |
+
+When both the C major and C minor shapes are familiar,
+practice them together by playing all the triads in the key of C major,
+as shown.
+
+*Practice with harmonized triads in the key of C major:*
+
+| 5th string root on fret | Note | Shape  | Chord |
+|:-----------------------:|:----:|:------:|:-----:|
+| 3                       | C    | major  | C     |
+| 5                       | D    | minor  | Dm    |
+| 7                       | E    | minor  | Em    |
+| 8                       | F    | major  | F     |
+| 10                      | G    | major  | G     |
+| 12                      | A    | minor  | Am    |
+| 14<br>(2+12)            | B    | minor (no 5)<br>`x42x1x` | Bm (no 5)   |
+
 
 ### A diminished shape
 
