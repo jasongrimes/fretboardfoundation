@@ -138,7 +138,7 @@ with 1 being the highest pitched string and 6 the lowest.
 
 Chord fingerings are notated like this: `x4312x`.
 The six symbols represent the six strings of the guitar from lowest pitch to highest, 
-left to right,
+6-1 from left to right,
 and indicate the number of the finger used to fret each string,
 or an "x" indicating the string is muted.
 
