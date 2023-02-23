@@ -357,7 +357,34 @@ for a detailed discussion of seventh chords.
 
 ### A diminished shape
 
+{% include figure.html
+    caption="A diminished shape."
+    url="/assets/figures/caged2/A-dim.svg"
+    class="chord row"
+%}
+
 ### A seventh shapes
+
+{% include figure.html
+    caption="C7 shape."
+    url="/assets/figures/caged2/C-dom7.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="C minor 7 shape."
+    url="/assets/figures/caged2/C-min7.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="C major 7 shape."
+    url="/assets/figures/caged2/C-maj7.svg"
+    class="chord row"
+%}
+
+See {% include chapter-link.html slug="seventh-chords" %}
+for a detailed discussion of seventh chords.
 
 ## --
 
