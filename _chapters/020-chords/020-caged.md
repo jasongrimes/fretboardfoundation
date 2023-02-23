@@ -353,12 +353,18 @@ Unlike the C major shape,
 the A major shape is an "open voicing".
 The third is an octave above the root.
 Play the chord tones in order to hear the difference:
-`R-5-R-3-5`.
-(But also notice that if we play just the top three strings,
-that _is_ a root position closed voice triad.)
+`R-3-5-R`.
+
+The main triad in this chord shape is the 3-note barre on strings 2-4,
+in which the chord tones are ordered `3-5-R`.
+(This ordering is called the "first inversion" of the chord.)
 
 Played as a barre chord,
 the fingering for this shape is `x13331`.
+
+ we play just the top three strings,
+that _is_ a root position closed voice triad.
+
 
 
 ### A minor shape
