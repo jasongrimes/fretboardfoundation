@@ -69,7 +69,7 @@ our hands are full of joints that need to be held rigidly in place in order to d
 Joints are designed to move,
 not to hold rigid,
 especially against forces applied in the joint's weakest direction.
-This technique may seem to be powerful at first,
+This technique may seem powerful at first,
 but over time it is likely to lead to injury,
 possibly including basal joint arthritis.
 
