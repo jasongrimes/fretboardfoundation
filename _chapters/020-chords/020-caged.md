@@ -395,11 +395,18 @@ We can also just play the treble triads by themselves:
     class="chord row"
 %}
 
+The A minor shape is another common barre chord learned by beginners.
+Played as a barre, the fingering is `x13421`.
+
+There are other grips that can be more comfortable than barre chords. 
+
 An interesting grip for this shape is `x1x432`.
-In this voicing,
-we're playing the treble triad on the top-3 strings,
-which is a root-position closed-voice triad,
-and then adding the root note in the bass.
+This voicing focuses on the treble triad on the top-3 strings,
+which is a root-position closed-voice triad.
+It then adds the root note in the bass.
+
+The treble triads can also be played by themselves: 
+`xxx321` and `xx231x`.
 
 
 ### A diminished shape
