@@ -209,7 +209,7 @@ Play around with these three "primary" chords for awhile to get familiar with th
 | 3                       | C    | major  | C     |
 | 8                       | F    | major  | F     |
 | 10                      | G    | major  | G     |
-| 15 (3 +P8)              | C    | major  | C     |
+| 15<br>(3 +P8)           | C    | major  | C     |
 
 ### C minor shape
 
@@ -270,7 +270,7 @@ but in the key of Cm.
 | 8                       | F    | minor  | Fm    |
 | 10                      | G    | minor  | Gm    |
 | 10                      | G    | major  | G     |
-| 15 (3 +P8)              | C    | minor  | Cm    |
+| 15<br>(3 +P8)           | C    | minor  | Cm    |
 
 When both the C major and C minor shapes are familiar,
 practice them together by playing all the chords in the key of C major,
