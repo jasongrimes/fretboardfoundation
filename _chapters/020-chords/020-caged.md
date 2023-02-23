@@ -455,6 +455,12 @@ for a detailed discussion of seventh chords.
 
 ### G major shape
 
+{% include figure.html
+    caption="G major shape."
+    url="/assets/figures/caged2/G-maj.svg"
+    class="chord row"
+%}
+
 ### G minor shape
 
 ### G diminished shape
