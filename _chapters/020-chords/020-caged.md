@@ -208,7 +208,8 @@ Play around with these three "primary" chords for awhile to get familiar with th
 |:-----------------------:|:----:|:------:|:-----:|
 | 3                       | C    | major  | C     |
 | 8                       | F    | major  | F     |
-| 10                      | G    | minor  | G     |
+| 10                      | G    | major  | G     |
+| 15 (3 +P8)              | C    | major  | C     |
 
 ### C minor shape
 
@@ -261,6 +262,16 @@ another Cm chord.
 This is similar to the practice for the C major shape,
 but in the key of Cm.
 
+*Primary chords in key of C minor:*
+
+| 5th string root on fret | Note | Shape  | Chord |
+|:-----------------------:|:----:|:------:|:-----:|
+| 3                       | C    | minor  | Cm    |
+| 8                       | F    | minor  | Fm    |
+| 10                      | G    | minor  | Gm    |
+| 10                      | G    | major  | G     |
+| 15 (3 +P8)              | C    | minor  | Cm    |
+
 When both the C major and C minor shapes are familiar,
 practice them together by playing all the chords in the key of C major,
 like this:
@@ -294,11 +305,15 @@ See discussion of the C diminished shape and the vii chord for details.
 play a C **major** shape,
 another **C major** chord.
 
+*Harmonized triads in key of C major:*
+
 | 5th string root on fret | Note | Shape  | Chord |
 |:-----------------------:|:----:|:------:|:-----:|
 | 3                       | C    | major  | C     |
 | 5                       | D    | minor  | Dm    |
 | 7                       | E    | minor  | Em    |
+| 8                       | F    | major  | F     |
+| 10                      | G    | major  | G     |
 
 ### C diminished shape
 
