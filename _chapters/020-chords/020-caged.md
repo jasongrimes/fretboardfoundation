@@ -565,11 +565,56 @@ for a detailed discussion of seventh chords.
 
 ### D major shape
 
+{% include figure.html
+    caption="D major shape."
+    url="/assets/figures/caged2/D-maj.svg"
+    class="chord row"
+%}
+
 ### D minor shape
+
+{% include figure.html
+    caption="E minor shape."
+    url="/assets/figures/caged2/D-min.svg"
+    class="chord row"
+%}
 
 ### D diminished shape
 
+{% include figure.html
+    caption="D diminished shape."
+    url="/assets/figures/caged2/D-dim.svg"
+    class="chord row"
+%}
+
 ### D seventh shapes
+
+{% include figure.html
+    caption="D7 shape."
+    url="/assets/figures/caged2/D-dom7.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="D minor 7 shape."
+    url="/assets/figures/caged2/D-min7.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="D major 7 shape."
+    url="/assets/figures/caged2/D-maj7.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="D half-dim shape."
+    url="/assets/figures/caged2/D-m7b5.svg"
+    class="chord row"
+%}
+
+See {% include chapter-link.html slug="seventh-chords" %}
+for a detailed discussion of seventh chords.
 
 
 
