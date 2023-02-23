@@ -340,6 +340,13 @@ for a detailed discussion of seventh chords.
 
 ### A major shape
 
+{% include figure.html
+    caption="A major shape."
+    url="/assets/figures/caged2/A-maj.svg"
+    class="chord row"
+%}
+
+
 ### A minor shape
 
 ### A diminished shape
