@@ -381,7 +381,7 @@ and the side of the base of the finger
 More comfortably,
 we often don't need the extra fifth on the top string,
 so we can just play it like this:
-`x1333x` or `x1444x`,
+`x1333x` or `x1444x` or `x1334x`,
 muting the 1st string with the side of the third (or fourth) finger.
 
 We can also just play the treble triads by themselves:
