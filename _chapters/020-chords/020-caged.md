@@ -339,32 +339,23 @@ except play Bdim instead of Bm(no 5).
     class="chord row"
 %}
 
+See {% include chapter-link.html slug="seventh-chords" %}
+for a detailed discussion of seventh chords.
+
+## A shapes
+
+### A major shape
+
+### A minor shape
+
+### A dimimished shape
+
+### A seventh shapes
 
 ## --
 
 ---
 
-The C CAGED shape has roots on the second and fifth strings.
-
-{% include figure.html
-    caption="C major shape."
-    url="/assets/figures/caged/C-maj.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="C minor shape."
-    url="/assets/figures/caged/C-min.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="C diminished shape."
-    url="/assets/figures/caged/C-dim.svg"
-    class="chord row"
-%}
-
-## A shape
 
 The A CAGED shape adds notes above the third-string root treble triad.
 
