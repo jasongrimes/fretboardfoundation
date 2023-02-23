@@ -307,7 +307,7 @@ because Bdim and Bm are the same chord except for the fifth.
 
 One common grip for this shape is `x421xx`,
 and another is to play the root at the top with the treble triad `xx213x`.
-Sometimes it's also useful to grip it with `xx2134`.
+Sometimes it's also useful to grip it with `xx2134` or even `xx1x23`.
 
 To practice this shape,
 play the same harmonized chords as when practicing the C minor shape,
