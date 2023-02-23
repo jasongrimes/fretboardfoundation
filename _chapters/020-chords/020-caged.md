@@ -427,11 +427,15 @@ The treble triads can also be played by themselves:
 | 8                       | F    | minor  | Fm    |
 | 10                      | G    | minor  | Gm    |
 | 10                      | G    | major  | G     |
-| 15<br>(3+12)            | C    | minor  | Cm    |
 
-When both the C major and C minor shapes are familiar,
-practice them together by playing all the triads in the key of C major,
-as shown.
+
+### A diminished shape
+
+{% include figure.html
+    caption="A diminished shape."
+    url="/assets/figures/caged2/A-dim.svg"
+    class="chord row"
+%}
 
 *Practice with harmonized triads in the key of C major:*
 
@@ -443,16 +447,8 @@ as shown.
 | 8                       | F    | major  | F     |
 | 10                      | G    | major  | G     |
 | 12                      | A    | minor  | Am    |
-| 14<br>(2+12)            | B    | minor (no 5)<br>`x42x1x` | Bm (no 5)   |
+| 14<br>(2+12)            | B    | diminished | Bdim |
 
-
-### A diminished shape
-
-{% include figure.html
-    caption="A diminished shape."
-    url="/assets/figures/caged2/A-dim.svg"
-    class="chord row"
-%}
 
 ### A seventh shapes
 
