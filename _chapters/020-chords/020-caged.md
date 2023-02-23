@@ -209,7 +209,7 @@ Play around with these three "primary" chords for awhile to get familiar with th
 | 3                       | C    | major  | C     |
 | 8                       | F    | major  | F     |
 | 10                      | G    | major  | G     |
-| 15<br>(3+12)           | C    | major  | C     |
+| 15<br>(3+12)            | C    | major  | C     |
 
 ### C minor shape
 
@@ -386,6 +386,17 @@ muting the 1st string with the side of the third (or fourth) finger.
 
 We can also just play the treble triads by themselves:
 `xx333x` and `xxx341`.
+
+To get familiar with this shape up and down the neck,
+use it to play the primary chords in the key of C major.
+
+*Practice with primary chords in the key of C major:*
+
+| 5th string root on fret | Note | Shape  | Chord |
+|:-----------------------:|:----:|:------:|:-----:|
+| 3                       | C    | major  | C     |
+| 8                       | F    | major  | F     |
+| 10                      | G    | major  | G     |
 
 ### A minor shape
 
