@@ -253,7 +253,7 @@ another Cm chord.
 This is similar to the practice for the C major shape,
 but in the key of Cm.
 
-When both the C and Cm shapes are comfortable,
+When both the C major and C minor shapes are familiar,
 practice them together by playing all the chords in the key of C major,
 like this:
 
