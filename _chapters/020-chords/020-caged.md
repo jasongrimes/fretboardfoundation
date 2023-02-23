@@ -315,6 +315,23 @@ except play Bdim instead of Bm(no 5).
 
 ### C seventh shapes
 
+{% include figure.html
+    caption="C dominant 7 shape."
+    url="/assets/figures/caged2/C-dom7.svg"
+    class="chord row"
+%}
+{% include figure.html
+    caption="C major 7 shape."
+    url="/assets/figures/caged2/C-maj7.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="C minor 7 shape."
+    url="/assets/figures/caged2/C-min7.svg"
+    class="chord row"
+%}
+
 ## --
 
 ---
