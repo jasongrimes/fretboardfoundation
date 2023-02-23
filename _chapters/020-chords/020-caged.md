@@ -365,6 +365,11 @@ in which the chord tones are ordered `5-R-3`.
 This ordering is called the "second inversion" of the chord,
 which sounds noticeably different than the root position voicing.
 
+The bass note for this chord is played with the first finger on the 5th string. 
+As with the C shape,
+it’s common to reach the first finger over to the 6th string,
+to play the perfect fifth in an alternating bass line.
+
 Played as a barre chord,
 the fingering for this shape is `x13331`,
 or `x13341`.
