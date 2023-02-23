@@ -202,16 +202,12 @@ another C chord.
 
 Play around with these three "primary" chords for awhile to get familiar with the shape at different parts of the neck.
 
-<div class="table-wrapper" markdown="block">
-
+*C major primary chords*
 | 5th string root on fret | Note | Shape  | Chord |
-|:---------------:|:----:|:------:|:-----:|
-| 3               | C    | major  | C     |
-| 5               | D    | minor  | Dm    |
-| 7               | E    | minor  | Em    |
-
-</div>
-
+|:-----------------------:|:----:|:------:|:-----:|
+| 3                       | C    | major  | C     |
+| 8                       | F    | major  | F     |
+| 10                      | G    | minor  | G     |
 
 ### C minor shape
 
@@ -296,6 +292,12 @@ See discussion of the C diminished shape and the vii chord for details.
 (aka **3rd fret** past the octave),
 play a C **major** shape,
 another **C major** chord.
+
+| 5th string root on fret | Note | Shape  | Chord |
+|:-----------------------:|:----:|:------:|:-----:|
+| 3                       | C    | major  | C     |
+| 5                       | D    | minor  | Dm    |
+| 7                       | E    | minor  | Em    |
 
 ### C diminished shape
 
