@@ -374,8 +374,8 @@ Played as a barre chord,
 the fingering for this shape is `x13331`,
 or `x13341`.
 As when playing any barre chord,
-never try to clamp down the first finger across the whole fretboard like a vice.
-That will lead to pain.
+never try to clamp down the first finger across the whole fretboard like a vice,
+which will lead to pain.
 Instead,
 the first finger should be slightly curved,
 pressing down only at the tip 
