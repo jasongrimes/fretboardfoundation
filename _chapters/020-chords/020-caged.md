@@ -209,7 +209,7 @@ Play around with these three "primary" chords for awhile to get familiar with th
 | 3                       | C    | major  | C     |
 | 8                       | F    | major  | F     |
 | 10                      | G    | major  | G     |
-| 15<br>(3 +P8)           | C    | major  | C     |
+| 15<br>(3+12)           | C    | major  | C     |
 
 ### C minor shape
 
@@ -262,7 +262,7 @@ use it to play the primary chords in the key of C minor.
 | 8                       | F    | minor  | Fm    |
 | 10                      | G    | minor  | Gm    |
 | 10                      | G    | major  | G     |
-| 15<br>(3 +P8)           | C    | minor  | Cm    |
+| 15<br>(3+12)            | C    | minor  | Cm    |
 
 When both the C major and C minor shapes are familiar,
 practice them together by playing all the triads in the key of C major,
@@ -277,7 +277,9 @@ as shown.
 | 7                       | E    | minor  | Em    |
 | 8                       | F    | major  | F     |
 | 10                      | G    | major  | G     |
-P
+| 12                      | A    | minor  | Am    |
+| 14<br>(2+12)            | B    | minor (no 5)<br>`x42x1x` | Bm (no 5)   |
+| 15<br>(3+12)            | C    | major  | C     |
 
 ### C diminished shape
 
