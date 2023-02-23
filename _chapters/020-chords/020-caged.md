@@ -160,8 +160,8 @@ lined up with the strings.
 %}
 
 The basic C major shape is a straightforward triad chord.
-The root note is the lowest note of the chord
-(meaning the chord is in "root position"),
+The chord tones are in the order `R-3-5`,
+(which is called "root position"),
 the third and fifth are stacked directly on top of the root with no gaps
 (which is called a "closed voicing"),
 and then the root note is repeated again at the octave,
