@@ -333,6 +333,13 @@ except play Bdim instead of Bm(no 5).
     class="chord row"
 %}
 
+{% include figure.html
+    caption="C major shape."
+    url="/assets/figures/caged2/C-maj.svg"
+    class="chord row"
+%}
+
+
 ## --
 
 ---
