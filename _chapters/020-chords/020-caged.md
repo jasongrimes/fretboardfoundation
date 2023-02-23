@@ -202,7 +202,7 @@ another C chord.
 
 Play around with these three "primary" chords for awhile to get familiar with the shape at different parts of the neck.
 
-*Primary chords in key of C major:*
+*Practice with primary chords in the key of C major:*
 
 | 5th string root on fret | Note | Shape  | Chord |
 |:-----------------------:|:----:|:------:|:-----:|
@@ -254,7 +254,7 @@ and then rotating into `xx213x`.
 To get comfortable with the C minor shape in different places on the neck,
 use it to play the primary chords in the key of C minor.
 
-*Primary chords in key of C minor:*
+*Practice with primary chords in the key of C minor:*
 
 | 5th string root on fret | Note | Shape  | Chord |
 |:-----------------------:|:----:|:------:|:-----:|
@@ -268,7 +268,7 @@ When both the C major and C minor shapes are familiar,
 practice them together by playing all the triads in the key of C major,
 as shown.
 
-*Harmonized triads in key of C major:*
+*Practice with harmonized triads in the key of C major:*
 
 | 5th string root on fret | Note | Shape  | Chord |
 |:-----------------------:|:----:|:------:|:-----:|
