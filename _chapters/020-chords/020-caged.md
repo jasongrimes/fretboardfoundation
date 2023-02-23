@@ -334,7 +334,7 @@ except play Bdim instead of Bm(no 5).
 %}
 
 {% include figure.html
-    caption="C m7b5 shape."
+    caption="C half-dim shape."
     url="/assets/figures/caged2/C-m7b5.svg"
     class="chord row"
 %}
