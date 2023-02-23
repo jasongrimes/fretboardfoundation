@@ -202,7 +202,8 @@ another C chord.
 
 Play around with these three "primary" chords for awhile to get familiar with the shape at different parts of the neck.
 
-*C major primary chords*
+*Primary chords in key of C major:*
+
 | 5th string root on fret | Note | Shape  | Chord |
 |:-----------------------:|:----:|:------:|:-----:|
 | 3                       | C    | major  | C     |
