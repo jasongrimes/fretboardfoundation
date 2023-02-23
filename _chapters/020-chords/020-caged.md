@@ -346,6 +346,20 @@ for a detailed discussion of seventh chords.
     class="chord row"
 %}
 
+The A major shape is one of the two main barre chords first learned by beginner guitarists 
+(alongside the E major shape).
+
+Unlike the C major shape,
+the A major shape is an "open voicing".
+The third is an octave above the root.
+Play the chord tones in order to hear the difference:
+`R-5-R-3-5`.
+(But also notice that if we play just the top three strings,
+that _is_ a root position closed voice triad.)
+
+Played as a barre chord,
+the fingering for this shape is `x13331`.
+
 
 ### A minor shape
 
