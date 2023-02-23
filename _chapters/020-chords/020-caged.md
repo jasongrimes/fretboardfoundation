@@ -279,7 +279,8 @@ an **A minor** chord.
 (aka **2nd fret** past the octave),
 play a C **minor** shape **with no fifth**,
 `x42x1x`,
-a **B minor** chord (sort of, see the diminished chord shape for details).
+a **Bm(no 5)** chord. 
+See discussion of the C diminished shape and the vii chord for details.
 - At the **15th fret** root, 
 (aka **3rd fret** past the octave),
 play a C **major** shape,
