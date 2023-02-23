@@ -202,6 +202,17 @@ another C chord.
 
 Play around with these three "primary" chords for awhile to get familiar with the shape at different parts of the neck.
 
+<div class="table-wrapper" markdown="block">
+
+| 5th string fret | Note | Shape  | Chord |
+|:---------------:|:----:|:------:|:-----:|
+| 3               | C    | major  | C     |
+| 5               | D    | minor  | Dm    |
+| 7               | E    | minor  | Em    |
+
+</div>
+
+
 ### C minor shape
 
 {% include figure.html
