@@ -110,8 +110,8 @@ has a great deal more about optimal positioning of the body for playing guitar.
 ## Mind the intervals
 
 When learning and practicing these shapes,
-it's important to be mindful of what role each note plays in the chord,
-rather than mindlessly playing shapes.
+it's important to be mindful of the role each note serves in the chord,
+rather than thoughtlessly playing opaque shapes.
 We should always be aware of which note is the root, 
 third (or minor third), fifth, etc.
 
