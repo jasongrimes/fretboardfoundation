@@ -490,6 +490,14 @@ for a detailed discussion of seventh chords.
     class="chord row"
 %}
 
+**Practice G shape with primary chords in the key of C major:**
+
+| 6th string root on fret | Note | Shape  | Chord |
+|:-----------------------:|:----:|:------:|:-----:|
+| 8                       | C    | major  | C     |
+| 13 (1+12)               | F    | major  | F     |
+| 3                       | G    | major  | G     |
+
 ### G minor shape
 
 {% include figure.html
