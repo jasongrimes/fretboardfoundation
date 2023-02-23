@@ -111,7 +111,7 @@ has a great deal more about optimal positioning of the body for playing guitar.
 
 When learning and practicing these shapes,
 it's important to be mindful of the role each note serves in the chord,
-rather than thoughtlessly playing opaque shapes.
+rather than thoughtlessly playing occult chord shapes.
 We should always be aware of which note is the root, 
 third (or minor third), fifth, etc.
 
