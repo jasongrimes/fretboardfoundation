@@ -309,7 +309,7 @@ and another is to play the root at the top with the treble triad `xx213x`.
 Sometimes it's also useful to grip it with `xx2134`.
 
 To practice this shape,
-play the same harmonized chords as in the Cm shape practice,
+play the same harmonized chords as when practicing the C minor shape,
 except play Bdim instead of Bm(no 5).
 
 ### C seventh shapes
