@@ -355,15 +355,16 @@ The third is an octave above the root.
 Play the chord tones in order to hear the difference:
 `R-3-5-R`.
 
-The main triad in this chord shape is the 3-note barre on strings 2-4,
+The main triad in this chord shape is the 3-note mini-barre on strings 2-4,
 in which the chord tones are ordered `3-5-R`.
 (This ordering is called the "first inversion" of the chord.)
 
 Played as a barre chord,
-the fingering for this shape is `x13331`.
+the fingering for this shape is `x13331`,
+or more comfortably,
+`x1333x`,
+muting the top string with the side of the first finger.
 
- we play just the top three strings,
-that _is_ a root position closed voice triad.
 
 
 
