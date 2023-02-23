@@ -251,16 +251,8 @@ Try playing the chord tones in order,
 starting with the fingers in `x421xx`,
 and then rotating into `xx213x`.
 
-To get comfortable with the C minor shape,
-play it in open position,
-with the root on the 3rd fret of the 5th string 
-(a C, making it a Cm chord),
-move the root up to the 8th fret (Fm),
-then the 10th fret (Gm),
-then the 15th fret (3rd fret above the octave),
-another Cm chord.
-This is similar to the practice for the C major shape,
-but in the key of Cm.
+To get comfortable with the C minor shape in different places on the neck,
+use it to play the primary chords in the key of C minor.
 
 *Primary chords in key of C minor:*
 
@@ -273,37 +265,8 @@ but in the key of Cm.
 | 15<br>(3 +P8)           | C    | minor  | Cm    |
 
 When both the C major and C minor shapes are familiar,
-practice them together by playing all the chords in the key of C major,
-like this:
-
-- Play a C **major** shape in open position,
-(with the root at the **3rd fret**, 5th string).
-A **C major chord**.
-- At the **5th fret** root, 
-play a C **minor** shape,
-a **D minor** chord.
-- At the **7th fret** root, 
-play a C **minor** shape,
-an **E minor** chord.
-- At the **8th fret** root, 
-play a C **major** shape,
-an **F major** chord.
-- At the **10th fret** root, 
-play a C **major** shape,
-a **G major** chord.
-- At the **12th fret** root, 
-play a C **minor** shape,
-an **A minor** chord.
-- At the **14th fret** root
-(aka **2nd fret** past the octave),
-play a C **minor** shape *with no fifth*,
-`x42x1x`,
-a **Bm(no 5)** chord. 
-See discussion of the C diminished shape and the vii chord for details.
-- At the **15th fret** root, 
-(aka **3rd fret** past the octave),
-play a C **major** shape,
-another **C major** chord.
+practice them together by playing all the triads in the key of C major,
+as shown.
 
 *Harmonized triads in key of C major:*
 
@@ -314,6 +277,7 @@ another **C major** chord.
 | 7                       | E    | minor  | Em    |
 | 8                       | F    | major  | F     |
 | 10                      | G    | major  | G     |
+P
 
 ### C diminished shape
 
