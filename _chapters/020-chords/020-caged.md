@@ -316,7 +316,7 @@ except play Bdim instead of Bm(no 5).
 ### C seventh shapes
 
 {% include figure.html
-    caption="C dominant 7 shape."
+    caption="C7 shape."
     url="/assets/figures/caged2/C-dom7.svg"
     class="chord row"
 %}
