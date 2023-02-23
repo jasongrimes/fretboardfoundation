@@ -70,8 +70,8 @@ Joints are designed to move,
 not to hold rigid,
 especially against forces applied in the joint's weakest direction.
 This technique may seem to be powerful at first,
-but over time is likely to lead to injury, 
-and possibly basal joint arthritis.
+but over time it is likely to lead to injury,
+possibly including basal joint arthritis.
 
 Instead,
 the thumb should be pressed lightly against the neck,
