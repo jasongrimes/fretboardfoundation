@@ -65,7 +65,7 @@ A strap with a suede backing can help hold the guitar tilted in a comfortable fr
 **Our hands are not crowbars**
 
 While it is possible to use the thumb as a fulcrum to lever the fingers onto the fretboard with considerable pressure,
-our hands are full of joints that need to be held rigidly in place in order to treat the arm as a crowbar.
+our hands are full of joints that need to be held rigidly in place in order to do so.
 Joints are designed to move,
 not to hold rigid,
 especially against forces applied in the joint's weakest direction.
