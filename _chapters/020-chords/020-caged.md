@@ -360,7 +360,7 @@ The third is an octave above the root.
 Play the chord tones in order to hear the difference:
 `R-3-5-R`.
 
-The main triad in this chord shape is the 3-note mini-barre on strings 2-4,
+The main triad in this chord shape is the mini-barre on strings 234,
 in which the chord tones are ordered `5-R-3`.
 This ordering is called the "second inversion" of the chord,
 which sounds noticeably different than the root position voicing.
