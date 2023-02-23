@@ -240,7 +240,7 @@ with the root on the second string: `xx213x`.
 Try playing the chord tones in order,
 `R-b3-5-R`,
 starting with the fingers in `x421xx`,
-and then rotating into `xx213x`
+and then rotating into `xx213x`.
 
 To get comfortable with the C minor shape,
 play it in open position,
