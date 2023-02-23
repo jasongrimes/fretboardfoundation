@@ -443,7 +443,7 @@ The treble triads can also be played by themselves:
 %}
 
 {% include figure.html
-    caption="A m7b5 shape."
+    caption="A half-dim shape."
     url="/assets/figures/caged2/A-m7b5.svg"
     class="chord row"
 %}
@@ -498,7 +498,7 @@ for a detailed discussion of seventh chords.
 %}
 
 {% include figure.html
-    caption="G m7b5 shape."
+    caption="G half-dim shape."
     url="/assets/figures/caged2/G-m7b5.svg"
     class="chord row"
 %}
@@ -553,7 +553,7 @@ for a detailed discussion of seventh chords.
 %}
 
 {% include figure.html
-    caption="E m7b5 shape."
+    caption="E half-dim shape."
     url="/assets/figures/caged2/E-m7b5.svg"
     class="chord row"
 %}
