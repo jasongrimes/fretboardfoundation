@@ -349,6 +349,12 @@ for a detailed discussion of seventh chords.
 
 ### A minor shape
 
+{% include figure.html
+    caption="A minor shape."
+    url="/assets/figures/caged2/A-min.svg"
+    class="chord row"
+%}
+
 ### A diminished shape
 
 ### A seventh shapes
