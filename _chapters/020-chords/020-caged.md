@@ -479,6 +479,32 @@ for a detailed discussion of seventh chords.
 
 ### G seventh shapes
 
+{% include figure.html
+    caption="G7 shape."
+    url="/assets/figures/caged2/G-dom7.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="G minor 7 shape."
+    url="/assets/figures/caged2/G-min7.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="G major 7 shape."
+    url="/assets/figures/caged2/G-maj7.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="G m7b5 shape."
+    url="/assets/figures/caged2/G-m7b5.svg"
+    class="chord row"
+%}
+
+See {% include chapter-link.html slug="seventh-chords" %}
+for a detailed discussion of seventh chords.
 
 ## E shapes
 
