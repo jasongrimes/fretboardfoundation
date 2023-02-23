@@ -356,17 +356,33 @@ Play the chord tones in order to hear the difference:
 `R-3-5-R`.
 
 The main triad in this chord shape is the 3-note mini-barre on strings 2-4,
-in which the chord tones are ordered `3-5-R`.
-(This ordering is called the "first inversion" of the chord.)
+in which the chord tones are ordered `5-R-3`.
+This ordering is called the "second inversion" of the chord,
+which sounds noticeably different than the root position voicing.
 
 Played as a barre chord,
 the fingering for this shape is `x13331`,
-or more comfortably,
+or `x13341`.
+As when playing any barre chord,
+never try to clamp down the first finger across the whole fretboard like a vice.
+That will lead to pain.
+Instead,
+the first finger should be slightly curved,
+pressing down only at the tip 
+(on the 5th string)
+and the side of the base of the finger
+(on the first string).
+
+There are more comfortable grips for this shape than the standard barre chord.
+
+For example,
+we often don't need the extra fifth on the top string,
+so we can just play it like this:
 `x1333x`,
-muting the top string with the side of the first finger.
+muting the 1st string with the side of the third finger.
 
-
-
+We can also just play the treble triads by themselves:
+`xx333x` and `xxx341`.
 
 ### A minor shape
 
@@ -375,6 +391,13 @@ muting the top string with the side of the first finger.
     url="/assets/figures/caged2/A-min.svg"
     class="chord row"
 %}
+
+An interesting grip for this shape is `x1x432`.
+In this voicing,
+we're playing the treble triad on the top-3 strings,
+which is a root-position closed-voice triad,
+and then adding the root note in the bass.
+
 
 ### A diminished shape
 
