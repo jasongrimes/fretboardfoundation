@@ -342,7 +342,7 @@ for a detailed discussion of seventh chords.
 
 ### A minor shape
 
-### A dimimished shape
+### A diminished shape
 
 ### A seventh shapes
 
