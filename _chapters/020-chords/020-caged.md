@@ -202,7 +202,7 @@ another C chord.
 
 Play around with these three "primary" chords for awhile to get familiar with the shape at different parts of the neck.
 
-*Practice with primary chords in the key of C major:*
+**Practice with primary chords in the key of C major:**
 
 | 5th string root on fret | Note | Shape  | Chord |
 |:-----------------------:|:----:|:------:|:-----:|
@@ -254,7 +254,7 @@ and then rotating into `xx213x`.
 To get comfortable with the C minor shape in different places on the neck,
 use it to play the primary chords in the key of C minor.
 
-*Practice with primary chords in the key of C minor:*
+**Practice with primary chords in the key of C minor:**
 
 | 5th string root on fret | Note | Shape  | Chord |
 |:-----------------------:|:----:|:------:|:-----:|
@@ -268,7 +268,7 @@ When both the C major and C minor shapes are familiar,
 practice them together by playing all the triads in the key of C major,
 as shown.
 
-*Practice with harmonized triads in the key of C major:*
+**Practice with harmonized triads in the key of C major:**
 
 | 5th string root on fret | Note | Shape  | Chord |
 |:-----------------------:|:----:|:------:|:-----:|
@@ -390,7 +390,7 @@ We can also just play the treble triads by themselves:
 To get familiar with this shape up and down the neck,
 use it to play the primary chords in the key of C major.
 
-*Practice with primary chords in the key of C major:*
+**Practice with primary chords in the key of C major:**
 
 | 5th string root on fret | Note | Shape  | Chord |
 |:-----------------------:|:----:|:------:|:-----:|
@@ -419,7 +419,7 @@ It then adds the root note in the bass.
 The treble triads can also be played by themselves: 
 `xxx321` and `xx231x`.
 
-*Practice with primary chords in the key of C minor:*
+**Practice with primary chords in the key of C minor:**
 
 | 5th string root on fret | Note | Shape  | Chord |
 |:-----------------------:|:----:|:------:|:-----:|
@@ -437,7 +437,7 @@ The treble triads can also be played by themselves:
     class="chord row"
 %}
 
-*Practice with harmonized triads in the key of C major:*
+**Practice with harmonized triads in the key of C major:**
 
 | 5th string root on fret | Note | Shape  | Chord |
 |:-----------------------:|:----:|:------:|:-----:|
