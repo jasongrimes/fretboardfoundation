@@ -169,7 +169,7 @@ so the root is both the highest and lowest note.
 
 Play the chord tones in sequence `R-3-5-R`,
 and notice how it sounds just like walking up the stairs,
-all steps and no leaps.
+with all the tones packed together into a single octave.
 That's the sound of a closed voicing.
 This kind of closed-voice root-position triad sounds strong and clear.
 
