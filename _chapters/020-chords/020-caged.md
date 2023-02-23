@@ -20,7 +20,7 @@ The shapes are named after the familiar
 C, A, G, E, and D chord shapes in "open position"
 (that is, having open strings).
 
-## On pain and ergonomics
+## Ergonomics: pain and intonation
 
 Some of the CAGED chord shapes are awkward or even impossible to play in their entirety.
 Gripping them incorrectly can lead to considerable pain over time,
