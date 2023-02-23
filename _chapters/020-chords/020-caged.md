@@ -333,6 +333,12 @@ except play Bdim instead of Bm(no 5).
     class="chord row"
 %}
 
+{% include figure.html
+    caption="C m7b5 shape."
+    url="/assets/figures/caged2/C-m7b5.svg"
+    class="chord row"
+%}
+
 See {% include chapter-link.html slug="seventh-chords" %}
 for a detailed discussion of seventh chords.
 
@@ -424,6 +430,12 @@ and then adding the root note in the bass.
 {% include figure.html
     caption="A major 7 shape."
     url="/assets/figures/caged2/A-maj7.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="A m7b5 shape."
+    url="/assets/figures/caged2/A-m7b5.svg"
     class="chord row"
 %}
 
