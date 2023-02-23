@@ -463,7 +463,19 @@ for a detailed discussion of seventh chords.
 
 ### G minor shape
 
+{% include figure.html
+    caption="G minor shape."
+    url="/assets/figures/caged2/G-min.svg"
+    class="chord row"
+%}
+
 ### G diminished shape
+
+{% include figure.html
+    caption="G diminishes shape."
+    url="/assets/figures/caged2/G-dim.svg"
+    class="chord row"
+%}
 
 ### G seventh shapes
 
