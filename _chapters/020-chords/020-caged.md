@@ -195,7 +195,7 @@ Another variation is to play just the "treble triad" on the top three ("treble")
 with the root on the 2nd string,
 optionally adding the bass note with the little finger: `x4x121`.
 
-To get a feel for this chord shape,
+To get a feel for the C major chord shape,
 first play it in open position,
 with the little finger on the 3rd fret of the 5th string 
 (the note C, making it a C chord).
@@ -310,8 +310,8 @@ and another is to play the root at the top with the treble triad `xx213x`.
 Sometimes it's also useful to grip it with `xx2134` or even `xx1x23`.
 
 To practice this shape,
-play the same harmonized chords as when practicing the C minor shape,
-except play Bdim instead of Bm(no 5).
+play the harmonized triads from C major again,
+but play Bdim instead of Bm(no 5).
 
 ### C seventh shapes
 
