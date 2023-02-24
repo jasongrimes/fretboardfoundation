@@ -645,6 +645,13 @@ for a detailed discussion of seventh chords.
 
 The E major shape is normally the first barre chord learned by beginning guitarists,
 in order to play an F major chord.
+Unfortunately,
+it often causes pain and difficulty due to a improper grip.
+
+The typical barre chord grip is `134211`.
+
+But there are several more comfortable grips for this shape.
+
 
 **Practice the E shape with primary chords in the key of C major:**
 
