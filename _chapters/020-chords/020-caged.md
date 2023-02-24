@@ -811,10 +811,14 @@ The grip `xx13x4` is a full triad chord with the third at the top and the root i
 ### D minor shape
 
 {% include figure.html
-    caption="E minor shape."
+    caption="D minor shape."
     url="/assets/figures/caged2/D-min.svg"
     class="chord row"
 %}
+
+Compared to the D major shape,
+the D minor shape is refreshingly comfortable to play,
+typically gripped as `xx1342`.
 
 **Practice D shapes with primary chords in the key of C minor:**
 
