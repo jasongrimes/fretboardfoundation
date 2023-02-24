@@ -521,7 +521,7 @@ on the upper middle strings,
 but it builds out the chords below the treble triad,
 while the A shape builds chords above it. 
 
-The G shape is most usefully thought of as two different shapes:
+The G shape is most usefully thought of as two separate shapes:
 a bass shape,
 on the lower strings,
 and a treble shape,
