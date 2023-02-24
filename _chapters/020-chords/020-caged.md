@@ -680,6 +680,17 @@ for a detailed discussion of seventh chords.
     class="chord row"
 %}
 
+**Practice D shapes with primary chords in the key of C minor:**
+
+| 4th string root on fret | Note | Shape  | Chord |
+|:-----------------------:|:----:|:------:|:-----:|
+| 10                      | C    | minor  | Cm    |
+| 3                       | F    | minor  | Fm    |
+| 3                       | F    | minor  | Fm    |
+| 5                       | G    | minor  | Gm    |
+| 5                       | G    | major  | G     |
+
+
 ### D diminished shape
 
 {% include figure.html
