@@ -11,3 +11,4 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 
 #### Other copyrighted works included in this book
 
+["Circle of fifths"](https://commons.m.wikimedia.org/wiki/File:Circle_of_fifths_deluxe_4.svg),
