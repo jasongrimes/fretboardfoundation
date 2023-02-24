@@ -55,6 +55,9 @@ the problem can be solved almost magically by simply adjusting the elbow until t
 
 **Keep the fretting wrist at a neutral angle**
 
+The fretting wrist should be kept at a neutral angle,
+with the hand curved slightly forward so there is no bend where the tendons cross the wrist.
+In addition to improving dexterity and speed,
 Among other benefits,
 this prevents tendons from rubbing,
 which can cause inflammation and injuries like carpal tunnel syndrome.
