@@ -527,7 +527,7 @@ on the lower strings,
 and a treble shape,
 on the upper strings.
 The two shapes are never gripped at the same time,
-but can easily progress to one another.
+but it's easy to switch between them.
 The typical bass shape fingering is `43111x`,
 and the treble shape is `xx1114`.
 
