@@ -109,7 +109,7 @@ It's generally simpler to use the corresponding flat key instead.
 ## The circle of fifths
 
 {% include figure.html
-    caption="The circle of fifths. [markdown?](/)"
+    caption="Circle of fifths, by 'Just plain Bill' on Wikipedia. See copyright page for details."
     url="/assets/figures/keys/circle-of-fifths.svg"
     class=""
 %}
