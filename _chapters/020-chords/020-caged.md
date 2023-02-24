@@ -46,7 +46,7 @@ a few observations can be particularly helpful.
 The fretting hand's reach and range of motion changes dramatically depending on the position of the elbow.
 
 Move the elbow in toward the body to allow the 3rd and 4th fingers to reach down the neck more easily,
-or move out to the side of the body to allow the first finger to reach down the neck.
+or move it out to the side of the body to allow the first finger to reach down the neck.
 Move the elbow out in front of the body to improve the fingers' reach of the low strings,
 or pull it back to better reach the high strings.
 
