@@ -799,6 +799,11 @@ this grip is often perfect.
 
 The grip `xx13x4` is a full triad chord with the third at the top and the root in the bass.  
 
+One interesting grip for this chord is `2x134x`.
+Guitar virtuoso Joe Pass called this his "transitional D shape",
+because sometimes the third in the bass sounds great leading to another chord
+(as when playing a D shape V chord leading to a G shape I chord).
+
 **Practice the D shape with primary chords in the key of C major:**
 
 | 4th string root on fret | Note | Shape  | Chord |
