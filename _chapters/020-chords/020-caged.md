@@ -99,7 +99,7 @@ If the perfect intonation can't be achieved without the thumb,
 bring it into play by gently pinching the back of the neck directly behind the fingers, 
 just hard enough that the notes don't go sharp.
 Pinching too hard can cause the notes to bend sharp between the fret and the board,
-while not pinching hard enough allow the frets to buzz or the neck to bend sharp.
+while not pinching hard enough allows the frets to buzz or the neck to bend sharp.
 
 We need to adjust the pressure from the fingers and thumb until the notes are pitched true,
 and the joints are under minimal strain.
