@@ -107,3 +107,10 @@ which are more complicated to write and to speak.
 It's generally simpler to use the corresponding flat key instead.
 
 ## The circle of fifths
+
+{% include figure.html
+    caption="The circle of fifths."
+    url="/assets/figures/keys/circle-of-fifths.svg"
+    class=""
+%}
+
