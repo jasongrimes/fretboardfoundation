@@ -23,7 +23,8 @@ And both approaches promise *at best* a long and winding road toward mastery,
 requiring years of study and a somewhat blind faith that it will lead where we want to go. 
 
 The approach taken in this book is different.
-It's based on an idea of triage. 
+It's based on an idea of "triage",
+doing the most important things first to make the best of limited time or resources.
 In the long run, it would be ideal to learn everything. 
 But for *right now*, given the overwhelming amount there is to learn, 
 how can we make the most progress in the shortest time? 
