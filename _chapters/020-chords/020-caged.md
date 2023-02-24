@@ -533,7 +533,7 @@ like a big Beethoven finale.)
 
 The treble shape is normally gripped as `xx1114`.
 If this grip seems difficult,
-move the elbow out sideways from the body to increase the reach of the fourth finger.
+move the elbow in toward the body to increase the reach of the fourth finger.
 
 The typical bass shape fingering is 
 `43111x` or `4311xx` 
