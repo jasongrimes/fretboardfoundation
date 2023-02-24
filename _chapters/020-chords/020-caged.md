@@ -663,6 +663,15 @@ for a detailed discussion of seventh chords.
     class="chord row"
 %}
 
+**Practice D shape with primary chords in the key of C major:**
+
+| 4th string root on fret | Note | Shape  | Chord |
+|:-----------------------:|:----:|:------:|:-----:|
+| 10                      | C    | major  | C     |
+| 3                       | F    | major  | F     |
+| 5                       | G    | major  | G     |
+
+
 ### D minor shape
 
 {% include figure.html
