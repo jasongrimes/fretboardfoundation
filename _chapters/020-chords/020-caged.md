@@ -769,6 +769,15 @@ for a detailed discussion of seventh chords.
     class="chord row"
 %}
 
+The D major shape tends to sound weaker and thinner than the other shapes,
+because the lowest root note that can be reached is on the 4th string.
+It's a good effort,
+but it's never going to "boom" like a chord with a root on the 5th or 6th string.
+So the D major shape is often not a chord we want to "stay" on. 
+
+But,
+since it's the only chord shape with a 4th string root,
+it's often conveniently placed to transition between other chords.
 **Practice the D shape with primary chords in the key of C major:**
 
 | 4th string root on fret | Note | Shape  | Chord |
