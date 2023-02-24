@@ -686,6 +686,21 @@ and the grip is more comfortable without it.
     class="chord row"
 %}
 
+The E minor shape is essentially the same as the G minor shape,
+except gripped from below rather than above.
+
+This shape is commonly played as a barre chord,
+`144111`. 
+But like the E major shape,
+there are more comfortable choices.
+
+The easiest grip is `2xx111`.
+Like the similar E major grip,
+the little finger can optionally play root and fifth bass notes on the 4th and 5th strings.
+
+If we want the first finger to play the bass note,
+it's also possible to grip with `1xx444`.
+
 **Practice E shapes with primary chords in the key of C minor:**
 
 | 6th string root on fret | Note | Shape  | Chord |
