@@ -695,8 +695,7 @@ But like the E major shape,
 there are more comfortable choices.
 
 The easiest grip is `2xx111`.
-Like the similar E major grip,
-the little finger can optionally play root and fifth bass notes on the 4th and 5th strings.
+The little finger can then optionally play root and fifth bass notes on the 4th and 5th strings.
 
 If we want the first finger to play the bass note,
 it's also possible to grip with `1xx444`.
