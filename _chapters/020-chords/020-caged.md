@@ -523,9 +523,9 @@ while the A shape builds chords above it.
 
 The G shape is most usefully thought of as two different shapes:
 a bass shape,
-on the lower pitched strings,
+on the lower strings,
 and a treble shape,
-on the higher pitched strings.
+on the upper strings.
 The two shapes are never gripped at the same time,
 but can easily progress to one another.
 The typical bass shape fingering is `43111x`,
