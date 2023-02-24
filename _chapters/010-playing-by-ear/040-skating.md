@@ -13,7 +13,7 @@ and then turn a corner and play across strings for awhile.
 This free ability to range all over the instrument can be liberating and fun.
 The eloquent Mick Goodrick called it "the realm of the electric ice-skating rink"
 [(1987, p. 30)](references#goodrick-1987).
-The guitar's full tonal capabilities have been opened.
+The guitar's full tonal capabilities have been engaged.
 
 When skating around the fretboard,
 orientation becomes important.
