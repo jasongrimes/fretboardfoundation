@@ -462,6 +462,8 @@ The treble triads can also be played by themselves:
     class="chord row"
 %}
 
+This shape is typically fingered as `x1243x`.
+
 **Practice A shapes with harmonized triads in the key of C major:**
 
 | 5th string root on fret | Note | Shape  | Chord |
