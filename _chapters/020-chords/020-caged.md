@@ -41,7 +41,7 @@ before the painful way becomes habit.
 Aside from this general advice,
 a few observations can be particularly helpful.
 
-**Notice the elbow.**
+**Notice the elbow**
 
 The fretting hand's reach and range of motion changes dramatically depending on the position of the elbow.
 
