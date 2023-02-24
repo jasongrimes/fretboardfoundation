@@ -127,8 +127,7 @@ third or minor third, fifth, etc.
 This is important for two reasons. 
 First, it allows us to make any chord we need by adjusting a chord shape we already know.
 (For example,
-if we lower the third of a major chord by one fret,
-it becomes a minor chord.)
+lowering the third of a major chord by one fret makes it a minor chord.)
 
 Second, it leads to almost accidentally learning the most important interval shapes and sounds all over the fretboard,
 which is extremely useful for improvising and playing by ear.
