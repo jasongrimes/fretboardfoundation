@@ -53,7 +53,7 @@ or pull it back to better reach the high strings.
 Often, when we are struggling to place our fingers into a challenging chord grip,
 the problem can be solved almost magically by simply adjusting the elbow until the position is more comfortable. 
 
-**Keep the fretting wrist at a neutral angle.**
+**Keep the fretting wrist at a neutral angle**
 
 Among other benefits,
 this prevents tendons from rubbing,
