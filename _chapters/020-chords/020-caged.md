@@ -651,7 +651,7 @@ The typical barre chord grip is `134211`.
 Like all first-finger barres,
 the first finger should curve and touch only at the tip and base. 
 
-But there are several more comfortable grips for this shape.
+But there are other grips for this shape that are more comfortable.
 
 If we want to hear the root note at the top of the chord,
 the most comfortable way to do it is to barre *just the top two strings* with the first segment of the first finger,
