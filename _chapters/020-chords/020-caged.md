@@ -147,7 +147,8 @@ The dots in the chord diagrams that follow are labeled with the simple interval 
 Guitar strings are numbered from 1-6,
 with 1 being the highest pitched string and 6 the lowest.
 
-Chord fingerings are notated like this: `x4312x`.
+Chord fingerings are notated like this: 
+`x4312x`.
 The six symbols represent the six strings of the guitar from lowest pitch to highest, 
 6-1 from left to right,
 and indicate the number of the finger used to fret each string,
@@ -160,6 +161,14 @@ and 4 is the little finger.
 
 The fingering symbols are intuitive if we imagine them placed at the bottom of the chord diagrams,
 lined up with the strings.
+For example,
+imagine the `x4312x` fingering for the C major shape like this:
+
+{% include figure.html
+    caption="C major shape with example fingering."
+    url="/assets/figures/caged2/C-maj-x4312x.svg"
+    class="chord row"
+%}
 
 ## C shapes
 
