@@ -516,6 +516,11 @@ for a detailed discussion of seventh chords.
     class="chord row"
 %}
 
+The G major shape uses the same treble triad as the A major shape,
+on the upper middle strings,
+but it builds out the chords below the treble triad,
+while the A shape builds chords above it. 
+
 **Practice the G shape with primary chords in the key of C major:**
 
 | 6th string root on fret | Note | Shape  | Chord |
