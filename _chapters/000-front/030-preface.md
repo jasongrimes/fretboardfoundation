@@ -22,7 +22,8 @@ but with techniques that often don’t translate well to other styles because of
 And both approaches promise *at best* a long and winding road toward mastery, 
 requiring years of study and a somewhat blind faith that it will lead where we want to go. 
 
-The approach taken in this book is based on an idea of triage. 
+The approach taken in this book is different.
+It's based on an idea of triage. 
 In the long run, it would be ideal to learn everything. 
 But for *right now*, given the overwhelming amount there is to learn, 
 how can we make the most progress in the shortest time? 
