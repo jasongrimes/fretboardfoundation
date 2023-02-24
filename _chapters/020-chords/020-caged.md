@@ -32,7 +32,7 @@ If we ignore the pain and don't change what we are doing,
 the injury will get worse and take longer to heal. 
 Eventually, our bodies will _force_ us to stop doing it.
 
-It's far better to listen to our bodies from the beginning.
+Far better to listen to our bodies from the beginning.
 **If something hurts,
 stop doing it right away**,
 and figure out a painless way to do it
