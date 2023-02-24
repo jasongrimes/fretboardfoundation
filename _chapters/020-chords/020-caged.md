@@ -25,7 +25,7 @@ C, A, G, E, and D chord shapes in "open position"
 Some of the CAGED chord shapes are awkward or even impossible to play completely.
 Some CAGED grips,
 like barre chords,
-can lead to significant pain if done improperly,
+can lead to significant pain if done improperly.
 
 Pain is a signal from our bodies that we are doing something wrong.
 If we ignore the pain and don't change what we're doing,
