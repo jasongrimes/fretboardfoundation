@@ -104,7 +104,8 @@ while not pinching hard enough allows the frets to buzz or the neck to bend shar
 We need to adjust the pressure from the fingers and thumb until the notes are pitched true,
 and the joints are under minimal strain.
 
-This is the point at which intonation and ergonomics are in harmony---the perfect grip,
+This is the point at which intonation and ergonomics are in harmony.
+The perfect grip:
 the purest tone with the least effort.
 
 **More about guitar ergonomics**
