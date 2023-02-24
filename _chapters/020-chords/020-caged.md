@@ -561,11 +561,17 @@ it's common to switch between C and G shapes rooted on the same fret.)
     class="chord row"
 %}
 
+The G minor shape can also be thought of as two separate shapes.
+It can be gripped in a bass shape as a closed-voice triad:
+`4211xx`.
+
+More common,
+however,
+is this oddly comfortable grip that barres the treble strings while easily muting others:
 `3xx444`
+or
+`2xx333`.
 
-`2xx333`
-
-`4211xx`
 
 **Practice G shapes with primary chords in the key of C minor:**
 
