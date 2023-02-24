@@ -664,7 +664,7 @@ Another useful grip is `1x432x`.
 This is similar to the typical barre grip,
 without the barre.
 To occasionally add the root note on top of this shape,
-use the base of the first finger to stop the 1st string.
+use the base of the first finger to make a temporary barre at the 1st string.
 
 **Practice the E shape with primary chords in the key of C major:**
 
