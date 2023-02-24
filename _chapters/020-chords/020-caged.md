@@ -28,7 +28,7 @@ like barre chords,
 can lead to significant pain if done improperly.
 
 Pain is a signal from our bodies that we are doing something wrong.
-If we ignore the pain and don't change what we're doing,
+If we ignore the pain and don't change what we are doing,
 the injury will get worse and take longer to heal. 
 Eventually, our bodies will _force_ us to stop doing it.
 
