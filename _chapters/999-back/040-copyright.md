@@ -11,6 +11,7 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 
 #### Other copyrighted works included in this book
 
-["Circle of fifths"](https://commons.m.wikimedia.org/wiki/File:Circle_of_fifths_deluxe_4.svg),
-by ["Just plain Bill"](https://en.m.wikipedia.org/wiki/User:Just_plain_Bill),
-licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+["Circle of fifths"](https://commons.m.wikimedia.org/wiki/File:Circle_of_fifths_deluxe_4.svg)
+by ["Just plain Bill"](https://en.m.wikipedia.org/wiki/User:Just_plain_Bill)
+is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
