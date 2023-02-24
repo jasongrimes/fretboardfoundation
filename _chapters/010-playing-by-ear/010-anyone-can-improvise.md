@@ -86,7 +86,7 @@ and we can treat it as a “melodic approach” to our intended note.
 
 - By the law of chance, any note picked at random is going to be “in” most of the time (58%, 7/12 chance). 
 
-- Any note that is “out” is only one fret away in either direction from being “in”,
+- Any note that is “out” is only one fret in either direction from being “in”,
 so we can treat it as a “chromatic approach" into an "in" note,
 like we did it on purpose,
 and shift “in” by a fret in the chosen direction. 
