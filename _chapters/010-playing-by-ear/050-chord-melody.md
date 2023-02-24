@@ -1,7 +1,7 @@
 ---
 title: Chord melody
 slug: chord-melody
-abstract: Decorating lines with treble triads, shell voicings, and bass notes.
+abstract: Combining chord progressions, melodies, and bass lines.
 ---
 
 Chord melody improvisation may be the richest form of expression on guitar.
