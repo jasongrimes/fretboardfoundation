@@ -591,6 +591,16 @@ for a detailed discussion of seventh chords.
     class="chord row"
 %}
 
+**Practice E shapes with primary chords in the key of C minor:**
+
+| 6th string root on fret | Note | Shape  | Chord |
+|:-----------------------:|:----:|:------:|:-----:|
+| 8                       | C    | minor  | Cm    |
+| 13<br>(1+12)            | F    | minor  | Fm    |
+| 1                       | F    | minor  | Fm    |
+| 3                       | G    | minor  | Gm    |
+| 3                       | G    | major  | G     |
+
 ### E diminished shape
 
 {% include figure.html
