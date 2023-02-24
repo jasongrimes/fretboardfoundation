@@ -198,10 +198,10 @@ optionally adding the bass note with the little finger: `x4x121`.
 To get a feel for the C major chord shape,
 first play it in open position,
 with the little finger on the 3rd fret of the 5th string 
-(the note C, making it a C chord).
-Then move it up the neck so the root is on the 8th fret of the 5th string (F, making it an F chord).
-Then move the root up to the 10th fret of the 5th string (G).
-Finish by moving the root up to the 15th fret on the 5th string 
+(the note C, which makes it a C chord).
+Then move it up the neck so the root is on the 8th fret (note F, hence an F chord).
+Then move the root up to the 10th fret (G).
+Finish by moving the root up to the 15th fret
 (aka the 3rd fret above the octave),
 another C chord.
 
