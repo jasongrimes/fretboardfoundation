@@ -521,6 +521,16 @@ on the upper middle strings,
 but it builds out the chords below the treble triad,
 while the A shape builds chords above it. 
 
+The G shape is most usefully thought of as two different shapes:
+a bass shape,
+on the lower pitched strings,
+and a treble shape,
+on the higher pitched strings.
+The two shapes are never gripped at the same time,
+but can easily progress to one another.
+The typical bass shape fingering is `43111x`,
+and the treble shape is `xx1114`.
+
 **Practice the G shape with primary chords in the key of C major:**
 
 | 6th string root on fret | Note | Shape  | Chord |
