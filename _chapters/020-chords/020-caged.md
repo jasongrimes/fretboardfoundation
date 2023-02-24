@@ -207,7 +207,7 @@ another C chord.
 
 Play around with these three "primary" chords for awhile to get familiar with the shape at different parts of the neck.
 
-**Practice C shape with primary chords in the key of C major:**
+**Practice the C shape with primary chords in the key of C major:**
 
 | 5th string root on fret | Note | Shape  | Chord |
 |:-----------------------:|:----:|:------:|:-----:|
@@ -395,7 +395,7 @@ We can also just play the treble triads by themselves:
 To get familiar with this shape up and down the neck,
 use it to play the primary chords in the key of C major.
 
-**Practice A shape with primary chords in the key of C major:**
+**Practice the A shape with primary chords in the key of C major:**
 
 | 5th string root on fret | Note | Shape  | Chord |
 |:-----------------------:|:----:|:------:|:-----:|
@@ -494,7 +494,7 @@ for a detailed discussion of seventh chords.
     class="chord row"
 %}
 
-**Practice G shape with primary chords in the key of C major:**
+**Practice the G shape with primary chords in the key of C major:**
 
 | 6th string root on fret | Note | Shape  | Chord |
 |:-----------------------:|:----:|:------:|:-----:|
@@ -578,7 +578,7 @@ for a detailed discussion of seventh chords.
     class="chord row"
 %}
 
-**Practice E shape with primary chords in the key of C major:**
+**Practice the E shape with primary chords in the key of C major:**
 
 | 6th string root on fret | Note | Shape  | Chord |
 |:-----------------------:|:----:|:------:|:-----:|
@@ -663,7 +663,7 @@ for a detailed discussion of seventh chords.
     class="chord row"
 %}
 
-**Practice D shape with primary chords in the key of C major:**
+**Practice the D shape with primary chords in the key of C major:**
 
 | 4th string root on fret | Note | Shape  | Chord |
 |:-----------------------:|:----:|:------:|:-----:|
