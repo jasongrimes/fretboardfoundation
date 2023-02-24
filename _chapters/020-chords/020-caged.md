@@ -582,7 +582,6 @@ for a detailed discussion of seventh chords.
 | 1                       | F    | major  | F     |
 | 3                       | G    | major  | G     |
 
-
 ### E minor shape
 
 {% include figure.html
@@ -608,6 +607,18 @@ for a detailed discussion of seventh chords.
     url="/assets/figures/caged2/E-dim.svg"
     class="chord row"
 %}
+
+**Practice E shapes with harmonized triads in the key of C major:**
+
+| 6th string root on fret | Note | Shape  | Chord |
+|:-----------------------:|:----:|:------:|:-----:|
+| 8                       | C    | major  | C     |
+| 10                      | D    | minor  | Dm    |
+| 0 (open)                | E    | minor  | Em    |
+| 1                       | F    | major  | F     |
+| 3                       | G    | major  | G     |
+| 5                       | A    | minor  | Am    |
+| 7                       | B    | diminished | Bdim |
 
 ### E seventh shapes
 
