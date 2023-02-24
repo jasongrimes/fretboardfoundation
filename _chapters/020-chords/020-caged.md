@@ -699,6 +699,19 @@ for a detailed discussion of seventh chords.
     class="chord row"
 %}
 
+**Practice D shapes with harmonized triads in the key of C major:**
+
+| 4th string root on fret | Note | Shape  | Chord |
+|:-----------------------:|:----:|:------:|:-----:|
+| 10                      | C    | major  | C     |
+| 0 (open)                | D    | minor  | Dm    |
+| 2                       | E    | minor  | Em    |
+| 3                       | F    | major  | F     |
+| 5                       | G    | major  | G     |
+| 7                       | A    | minor  | Am    |
+| 9                       | B    | diminished | Bdim |
+
+
 ### D seventh shapes
 
 {% include figure.html
