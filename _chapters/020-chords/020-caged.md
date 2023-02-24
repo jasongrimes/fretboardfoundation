@@ -87,15 +87,19 @@ It's possible to fret a guitar without using the thumb at all,
 and it's a good practice to do so sometimes,
 to give the thumb a rest and to experiment with how little pressure is actually needed.
 
-Sometimes the pressure from the fingers is enough to bend the neck back slightly,
-causing the notes to bend sharp,
-and releasing enough pressure to solve it causes the strings to buzz against the frets.
+When playing without the thumb,
+the whole fretting arm has to pull back gently for the fingers to press down on the strings.
+If not enough pressure is applied,
+the strings will not sound or will buzz against the frets.
+If too much pressure is applied,
+the neck will bend back slightly,
+causing the notes to bend sharp.
 
-In that case, the thumb should gently pinch the back of the neck directly behind the fingers,
-pressing just hard enough that the notes don't go sharp.
+If the perfect intonation can't be achieved without the thumb, 
+bring it into play by gently pinching the back of the neck directly behind the fingers, 
+just hard enough that the notes don't go sharp.
 Pinching too hard can cause the notes to bend sharp between the fret and the board,
-while not pinching hard enough can cause them to bend sharp from finger pressure on the neck,
-or to buzz against the frets from lack of pressure.
+while not pinching hard enough allow the frets to buzz or the neck to bend sharp.
 
 We need to adjust the pressure from the fingers and thumb until the notes are pitched true,
 and the joints are under minimal strain.
