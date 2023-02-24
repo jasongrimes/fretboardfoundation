@@ -773,11 +773,29 @@ The D major shape tends to sound weaker and thinner than the other shapes,
 because the lowest root note that can be reached is on the 4th string.
 It's a good effort,
 but it's never going to "boom" like a chord with a root on the 5th or 6th string.
-So the D major shape is often not a chord we want to "land" on or stay on. 
-
+So the D major shape is often not a chord we want to "land" on or stay on.
 But,
 since it's the only chord shape with a 4th string root,
 it's often conveniently placed to transition between other chords.
+
+The conventional grip for this shape is `xx1243`,
+but in practice this grip is rarely comfortable,
+and the sound is so thin it's scarcely worth the effort anyway.
+
+One common way to grip this shape is as a treble triad,
+leaving out the awkward bass note: 
+`xxx121` or `xxx132`.
+
+To have the root note in the bass,
+the simplest and most expedient grip is often
+`xx134x`.
+This is really just a power chord,
+with just the root at the top and bottom and a perfect fifth between.
+It sounds a bit "vague" without the third.
+But for use in passing,
+on the way to another chord shape,
+this grip is often perfect.
+
 **Practice the D shape with primary chords in the key of C major:**
 
 | 4th string root on fret | Note | Shape  | Chord |
