@@ -562,9 +562,10 @@ it's common to switch between C and G shapes rooted on the same fret.)
 %}
 
 Like most G shape chords,
-the G minor shape is also best thought of as two separate shapes.
-It can be gripped in a bass shape as a closed-voice triad:
-`4211xx`.
+the G minor shape is best thought of as two separate shapes.
+
+The bass shape grip is `4211xx`,
+a closed-voice root-position triad.
 
 More common,
 however,
