@@ -658,7 +658,7 @@ the most comfortable way to do it is to barre *just the top two strings* with th
 and play the *bass note with the second finger*.
 Like this: `2xx311`.
 From this basic grip,
-the little finger can optionally alternate between the root on the 4th string and the perfect fifth on the 6th string.
+the little finger can optionally alternate between the root on the 4th string and the perfect fifth on the 5th string.
 
 Another useful grip is `1x432x`.
 This is similar to the typical barre grip,
