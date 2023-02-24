@@ -773,7 +773,7 @@ The D major shape tends to sound weaker and thinner than the other shapes,
 because the lowest root note that can be reached is on the 4th string.
 It's a good effort,
 but it's never going to "boom" like a chord with a root on the 5th or 6th string.
-So the D major shape is often not a chord we want to "stay" on. 
+So the D major shape is often not a chord we want to "land" on or stay on. 
 
 But,
 since it's the only chord shape with a 4th string root,
