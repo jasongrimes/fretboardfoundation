@@ -90,7 +90,7 @@ to give the thumb a rest and to experiment with how little pressure is actually 
 When playing without the thumb,
 the whole fretting arm has to pull back gently for the fingers to press down on the strings.
 If not enough pressure is applied,
-the strings will not sound or will buzz against the frets.
+the strings will be muted or will buzz against the frets.
 If too much pressure is applied,
 the neck will bend back slightly,
 causing the notes to bend sharp.
