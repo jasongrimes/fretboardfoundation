@@ -11,7 +11,7 @@ Blending together chords and melody makes a composition sound fuller and richer,
 like a complete performance rather than just a part.
 
 *Treble triads* can be used to improvise freely with chords. 
-See {% include chapter-link.html slug="caged" %}.
+See {% include chapter-link.html slug="caged" %} for details.
 
 A small trick for filling out a melody on the highest pitched string
 is to play the first and second strings at the same fret,
