@@ -439,6 +439,9 @@ This voicing focuses on the treble triad on the top-3 strings,
 which is a root-position closed-voice triad.
 It then adds the root note in the bass.
 
+Another comfortable grip is `x1342x`,
+like the barre chord without the top string.
+
 The treble triads can also be played by themselves: 
 `xxx321` and `xx231x`.
 
