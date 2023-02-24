@@ -70,7 +70,7 @@ A strap with a suede backing can help hold the guitar tilted in a comfortable fr
 
 While it is possible to use the thumb as a fulcrum to lever the fingers onto the fretboard with considerable pressure,
 our hands are full of joints that need to be held rigidly in place in order to do so.
-Joints are made to move,
+But joints are made to move,
 not to hold rigid,
 especially not against forces applied in the joint's weakest direction.
 This technique may seem powerful at first,
