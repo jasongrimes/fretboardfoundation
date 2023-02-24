@@ -364,6 +364,8 @@ The main triad in this chord shape is the mini-barre on strings `4-3-2`,
 in which the chord tones are ordered `5-R-3`.
 This ordering is called the "second inversion" of the chord,
 which sounds noticeably different than the root position voicing.
+The root note is somewhat overpowered by the other chord tones,
+because it's at neither the top nor bottom of the voicing.
 
 The bass note for this chord is played with the first finger on the 5th string. 
 As with the C shape,
