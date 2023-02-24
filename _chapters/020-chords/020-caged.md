@@ -125,7 +125,7 @@ We should always be aware of which note is the root,
 third or minor third, fifth, etc.
 
 This is important for two reasons. 
-First, it allows us to make any chord we need just by adjusting a known chord shape.
+First, it allows us to make any chord we need by adjusting a chord shape we already know.
 (For example,
 if we lower the third of a major chord by one fret,
 it becomes a minor chord.)
