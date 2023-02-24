@@ -653,6 +653,12 @@ the first finger should curve and touch only at the tip and base.
 
 But there are several more comfortable grips for this shape.
 
+If we want to hear the root note at the top of the chord,
+the most comfortable way to do it is to barre *just the top two strings* with the first segment of the first finger,
+and play the **bass note with the second finger**.
+Like this: `2xx311`.
+From this basic grip,
+the little finger can optionally alternate between the root on the 4th string and the perfect fifth on the 6th string.
 
 **Practice the E shape with primary chords in the key of C major:**
 
