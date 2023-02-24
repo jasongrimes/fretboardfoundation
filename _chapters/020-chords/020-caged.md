@@ -643,6 +643,9 @@ for a detailed discussion of seventh chords.
     class="chord row"
 %}
 
+The E major shape is normally the first barre chord learned by beginning guitarists,
+in order to play an F major chord.
+
 **Practice the E shape with primary chords in the key of C major:**
 
 | 6th string root on fret | Note | Shape  | Chord |
