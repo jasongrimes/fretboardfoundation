@@ -528,8 +528,17 @@ and a treble shape,
 on the upper strings.
 The two shapes are never gripped at the same time,
 but it's easy to switch between them.
+(And sometimes it sounds great to switch back and forth between them,
+like a big Beethoven finale.)
+
 The typical bass shape fingering is `43111x`,
 and the treble shape is `xx1114`.
+
+In the bass shape,
+the chord is a root-position closed-voiced triad,
+very similar to the C major shape.
+(In fact,
+it's common to switch between C and G shapes rooted on the same fret.)
 
 **Practice the G shape with primary chords in the key of C major:**
 
