@@ -769,14 +769,13 @@ for a detailed discussion of seventh chords.
     class="chord row"
 %}
 
-The D major shape tends to sound weaker and thinner than the other shapes,
-because the lowest root note that can be reached is on the 4th string.
+The D major shape tends to sound weaker and thinner than the other chord shapes,
+because the lowest reachable root note is on the 4th string.
 It's a good effort,
-but it's never going to "boom" like a chord with a root on the 5th or 6th string.
+but it's never going to "boom" like a chord with a root on the 5th or 6th strings.
 So the D major shape is often not a chord we want to "land" on or stay on.
-But,
-since it's the only chord shape with a 4th string root,
-it's often conveniently placed to transition between other chords.
+But since it's the only chord shape with a 4th-string root,
+it's often in a convenient place for transitioning between other chords.
 
 The conventional grip for this shape is `xx1243`,
 but in practice this grip is rarely comfortable,
@@ -786,15 +785,19 @@ One common way to grip this shape is as a treble triad,
 leaving out the awkward bass note: 
 `xxx121` or `xxx132`.
 
-To have the root note in the bass,
-the simplest and most expedient grip is often
-`xx134x`.
+To keep the root note in the bass,
+there are two comfortable grips,
+depending on which note we want on top.
+
+The grip `xx134x` has the root note at the top and bottom.
 This is really just a power chord,
-with just the root at the top and bottom and a perfect fifth between.
-It sounds a bit "vague" without the third.
+with the root and fifth but no third,
+which sounds a bit "vague" because it's neither major nor minor.
 But for use in passing,
 on the way to another chord shape,
 this grip is often perfect.
+
+The grip `xx13x4` is a full triad chord with the third at the top and the root in the bass.  
 
 **Practice the D shape with primary chords in the key of C major:**
 
