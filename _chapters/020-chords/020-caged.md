@@ -660,6 +660,12 @@ Like this: `2xx311`.
 From this basic grip,
 the little finger can optionally alternate between the root on the 4th string and the perfect fifth on the 6th string.
 
+Another useful grip is `1x432x`.
+This is similar to the typical barre grip,
+without the barre.
+To occasionally add the root note on top of this shape,
+use the base of the first finger to stop the 1st string.
+
 **Practice the E shape with primary chords in the key of C major:**
 
 | 6th string root on fret | Note | Shape  | Chord |
