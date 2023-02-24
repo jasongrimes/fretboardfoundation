@@ -523,6 +523,18 @@ for a detailed discussion of seventh chords.
     class="chord row"
 %}
 
+**Practice G shapes with harmonized triads in the key of C major:**
+
+| 6th string root on fret | Note | Shape  | Chord |
+|:-----------------------:|:----:|:------:|:-----:|
+| 8                       | C    | major  | C     |
+| 10                      | D    | minor  | Dm    |
+| 12                      | E    | minor  | Em    |
+| 13<br>(1+12)            | F    | major  | F     |
+| 3                       | G    | major  | G     |
+| 5                       | A    | minor  | Am    |
+| 7                       | B    | diminished | Bdim |
+
 ### G seventh shapes
 
 {% include figure.html
