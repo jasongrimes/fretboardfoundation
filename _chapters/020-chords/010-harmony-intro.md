@@ -367,7 +367,7 @@ See {% include chapter-link.html slug="major-scale" %} for details.
 
 ### Sharps and flats
 
-Since there are twelve distinct tones in the chromatic scale of Western music,
+To accommodate the twelve tones of Western music,
 the seven letters of the musical alphabet are supplemented with "accidentals":
 sharp (#) and flat (b) symbols that indicate a semitone above (#) or below (b) a given note from the musical alphabet.
 
