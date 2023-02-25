@@ -592,6 +592,9 @@ or
     class="chord row"
 %}
 
+The G diminished shape can be gripped as 
+`1xx324` it `2xx314`.
+
 **Practice G shapes with harmonized triads in the key of C major:**
 
 | 6th string root on fret | Note | Shape  | Chord |
