@@ -121,7 +121,7 @@ has a great deal more about optimal positioning of the body for playing guitar.
 When learning and practicing these shapes,
 it's important to be mindful of the purpose each note serves in the chord,
 rather than thoughtlessly memorizing occult chord shapes.
-We should always be aware of which note is the root, 
+We must always be aware of which note is the root, 
 third or minor third, fifth, etc.
 
 This is important for two reasons. 
