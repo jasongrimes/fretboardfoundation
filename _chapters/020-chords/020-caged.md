@@ -810,7 +810,7 @@ this grip is often perfect.
 
 The grip `xx13x4` is a full triad chord with the third at the top and the root in the bass.  
 
-One interesting grip for this chord,
+One interesting voicing for this chord,
 favored by guitar virtuoso Joe Pass,
 is `2x134x`.
 It's a little unusual,
