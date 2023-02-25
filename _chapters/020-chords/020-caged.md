@@ -899,7 +899,12 @@ The D diminished shape can be gripped with
 See {% include chapter-link.html slug="seventh-chords" %}
 for a detailed discussion of seventh chords.
 
-## Chord types on the fretboard
+## Primary chords in position
+
+The following figures illustrate how CAGED shapes fit together.
+For each CAGED position,
+practice changing between different shapes for C, F, and G chords in the same position on the fretboard.
+
 
 {% include figure.html
     caption="C major on the whole fretboard."
