@@ -366,7 +366,7 @@ for a detailed discussion of seventh chords.
     class="chord row"
 %}
 
-The A major shape is one of the first barre chords learned by beginner guitarists.
+The A major shape is one of the first barre chords learned by beginning guitarists.
 
 Unlike the C major shape,
 the A major shape is an "open voicing".
