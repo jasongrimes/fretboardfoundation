@@ -372,13 +372,22 @@ the seven letters of the musical alphabet are supplemented with "accidentals":
 sharp (#) and flat (b) symbols that indicate a semitone above (#) or below (b) a given note from the musical alphabet.
 
 For example,
-F# is the note a semitone above F,
-and a semitone below G.
-The note Gb is also a semitone below G,
-and a semitone above F.
-F# and Gb are actually the same note:
-they are "enharmonic" symbols for the same pitch.
+F# describes the note between F and G,
+a semitone above F and a semitone below G.
 
+The note Gb *also* describes the note between F and G.
+F# and Gb describe the same note,
+so they are called "enharmonic" symbols for one other.
+
+The purpose of allowing two different letter names to refer to the same note
+is so that each of the twelve different keys can have exactly one of each letter from the musical alphabet.
+Every diatonic key consists of the notes `A-B-C-D-E-F-G`,
+with some different combination of sharps or flats.
+
+### Notes in each key
+
+See {% include chapter-link.html slug="keys" %} 
+for details about which notes are in each key.
 
 ## Harmonic function
 
