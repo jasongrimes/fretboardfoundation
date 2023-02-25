@@ -367,6 +367,12 @@ See {% include chapter-link.html slug="major-scale" %} for details.
 
 ### Sharps and flats
 
+Since there are twelve distinct tones in the chromatic scale of Western music,
+the seven letters of the musical alphabet are supplemented with "accidentals":
+sharp (#) and flat (b) symbols that indicate a semitone above (#) or below (b) a given note from the musical alphabet.
+
+
+
 ## Harmonic function
 
 "Harmonic function" describes the theoretical tendency of certain chords to "want" to progress to other chords,
