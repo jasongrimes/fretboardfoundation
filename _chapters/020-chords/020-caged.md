@@ -657,7 +657,7 @@ the first finger should curve and touch only at the tip and base.
 But there are other grips for this shape that are more comfortable.
 
 If we want to hear the root note at the top of the chord,
-the most comfortable way to do it is to barre *just the top two strings* with the first segment of the first finger,
+a more comfortable way to do it is to barre *just the top two strings* with the first segment of the first finger,
 and play the *bass note with the second finger*.
 Like this: `2xx311`.
 From this basic grip,
@@ -667,10 +667,14 @@ Another useful grip is `1x432x`.
 This is similar to the typical barre grip,
 without the barre.
 To occasionally add the root note on top of this shape,
-use the base of the first finger to make a temporary barre at the 1st string:
-`1x4321`.
+use the base of the first finger to make a temporary barre at the 1st string,
+`1x4321`,
+or move the second finger to the 1st string,
+muting the 2nd string,
+as `1x43x2`.
+
 Either way,
-the extra perfect fifth on the 5th string is rarely missed,
+the extra `5` on the 5th string is rarely missed,
 and the grip is more comfortable without it.
 
 **Practice the E shape with primary chords in the key of C major:**
