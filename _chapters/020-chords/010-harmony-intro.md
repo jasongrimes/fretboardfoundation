@@ -343,7 +343,7 @@ Each note is named with one of the seven letters of the "musical alphabet",
 `A-B-C-D-E-F-G`, in English.
 
 Each letter represents a standard fundamental pitch.
-For example, A is 440 Hz.
+For example, A (above middle C) is 440 Hz.
 Each letter also represents the "pitch class" of all other pitches a whole number of octaves apart.
 For example, 
 the pitch class A consists of all the As in all octaves.
