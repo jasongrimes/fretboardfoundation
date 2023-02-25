@@ -275,7 +275,7 @@ To get comfortable with the C minor shape in different places on the neck,
 use it to play the secondary chords in the key of C major
 up and down the fretboard.
 
-**Practice C minor shapes with secondary chords in the key of C major:**
+**Practice the C minor shape with secondary chords in the key of C major:**
 
 | 5th string root on fret | Note | C Shape  | Chord |
 |:-----------------------:|:----:|:--------:|:-----:|
@@ -443,7 +443,7 @@ like the barre chord without the top string.
 The treble triads can also be played by themselves: 
 `xxx321` and `xx231x`.
 
-**Practice A minor shapes with secondary chords in the key of C major:**
+**Practice the A minor shape with secondary chords in the key of C major:**
 
 | 5th string root on fret | Note | A shape  | Chord |
 |:-----------------------:|:----:|:--------:|:-----:|
@@ -573,7 +573,7 @@ or
 `2xx333`.
 
 
-**Practice G minor shapes with secondary chords in the key of C major:**
+**Practice the G minor shape with secondary chords in the key of C major:**
 
 | 6th string root on fret | Note | G shape  | Chord |
 |:-----------------------:|:----:|:--------:|:-----:|
@@ -704,7 +704,7 @@ The little finger can then optionally play root and fifth bass notes on the 4th 
 If we want the first finger to play the bass note,
 it's also possible to grip with `1xx444`.
 
-**Practice E minor shapes with secondary chords in the key of C major:**
+**Practice the E minor shape with secondary chords in the key of C major:**
 
 | 6th string root on fret | Note | E shape  | Chord |
 |:-----------------------:|:----:|:--------:|:-----:|
@@ -819,7 +819,7 @@ and sometimes it just does not sound right.
 But it sounds amazing when leading to another chord having a bass note one semitone above it,
 as when playing a D shape V chord leading to a G shape I chord.
 
-**Practice the D shape with s chords in the key of C major:**
+**Practice the D shape with primary chords in the key of C major:**
 
 | 4th string root on fret | Note | D shape  | Chord |
 |:-----------------------:|:----:|:--------:|:-----:|
@@ -840,7 +840,7 @@ Compared to the D major shape,
 the D minor shape is refreshingly comfortable to play,
 typically gripped as `xx1342`.
 
-**Practice D minor shapes with secondary chords in the key of C major:**
+**Practice the D minor shape with secondary chords in the key of C major:**
 
 | 4th string root on fret | Note | D shape  | Chord |
 |:-----------------------:|:----:|:--------:|:-----:|
