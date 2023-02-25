@@ -348,7 +348,7 @@ Each letter also represents the "pitch class" of all other pitches a whole numbe
 For example, 
 the pitch class A consists of all the As in all octaves.
 
-A whole tone interval separated each note of the musical alphabet,
+A whole tone interval separates each note of the musical alphabet,
 except for semitones between B-C and E-F.
 When starting from C,
 the musical alphabet describes a major scale.
