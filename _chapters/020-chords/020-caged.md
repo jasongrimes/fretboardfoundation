@@ -854,6 +854,9 @@ typically gripped as `xx1342`.
     class="chord row"
 %}
 
+The D diminished shape can be gripped with
+`xx1242`.
+
 **Practice D shapes with harmonized triads in the key of C major:**
 
 | 4th string root on fret | Note | Shape  | Chord |
