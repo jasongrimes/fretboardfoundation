@@ -272,16 +272,16 @@ starting with the fingers in `x421xx`,
 and then rotating into `xx213x`.
 
 To get comfortable with the C minor shape in different places on the neck,
-use it to play the primary chords in the key of C minor.
+use it to play the secondary chords in the key of C major
+up and down the fretboard.
 
-**Practice C shapes with primary chords in the key of C minor:**
+**Practice C shapes with secondary chords in the key of C major:**
 
 | 5th string root on fret | Note | C Shape  | Chord |
 |:-----------------------:|:----:|:--------:|:-----:|
 | 3                       | C    | minor    | Cm    |
 | 8                       | F    | minor    | Fm    |
 | 10                      | G    | minor    | Gm    |
-| 10                      | G    | major    | G     |
 | 15<br>(3+12)            | C    | minor    | Cm    |
 
 When both the C major and C minor shapes are familiar,
@@ -444,14 +444,13 @@ like the barre chord without the top string.
 The treble triads can also be played by themselves: 
 `xxx321` and `xx231x`.
 
-**Practice A shapes with primary chords in the key of C minor:**
+**Practice A shapes with secondary chords in the key of C major:**
 
 | 5th string root on fret | Note | A shape  | Chord |
 |:-----------------------:|:----:|:--------:|:-----:|
 | 3                       | C    | minor    | Cm    |
 | 8                       | F    | minor    | Fm    |
 | 10                      | G    | minor    | Gm    |
-| 10                      | G    | major    | G     |
 
 
 ### A diminished shape
@@ -575,7 +574,7 @@ or
 `2xx333`.
 
 
-**Practice G shapes with primary chords in the key of C minor:**
+**Practice G shapes with secondary chords in the key of C major:**
 
 | 6th string root on fret | Note | G shape  | Chord |
 |:-----------------------:|:----:|:--------:|:-----:|
@@ -707,7 +706,7 @@ The little finger can then optionally play root and fifth bass notes on the 4th 
 If we want the first finger to play the bass note,
 it's also possible to grip with `1xx444`.
 
-**Practice E shapes with primary chords in the key of C minor:**
+**Practice E shapes with secondary chords in the key of C major:**
 
 | 6th string root on fret | Note | E shape  | Chord |
 |:-----------------------:|:----:|:--------:|:-----:|
@@ -715,7 +714,6 @@ it's also possible to grip with `1xx444`.
 | 13<br>(1+12)            | F    | minor    | Fm    |
 | 1                       | F    | minor    | Fm    |
 | 3                       | G    | minor    | Gm    |
-| 3                       | G    | major    | G     |
 
 ### E diminished shape
 
@@ -823,7 +821,7 @@ and sometimes it just does not sound right.
 But it sounds amazing when leading to another chord having a bass note one semitone above it,
 as when playing a D shape V chord leading to a G shape I chord.
 
-**Practice the D shape with primary chords in the key of C major:**
+**Practice the D shape with s chords in the key of C major:**
 
 | 4th string root on fret | Note | D shape  | Chord |
 |:-----------------------:|:----:|:--------:|:-----:|
@@ -844,7 +842,7 @@ Compared to the D major shape,
 the D minor shape is refreshingly comfortable to play,
 typically gripped as `xx1342`.
 
-**Practice D shapes with primary chords in the key of C minor:**
+**Practice D shapes with secondary chords in the key of C major:**
 
 | 4th string root on fret | Note | D shape  | Chord |
 |:-----------------------:|:----:|:--------:|:-----:|
@@ -852,7 +850,6 @@ typically gripped as `xx1342`.
 | 3                       | F    | minor    | Fm    |
 | 3                       | F    | minor    | Fm    |
 | 5                       | G    | minor    | Gm    |
-| 5                       | G    | major    | G     |
 
 
 ### D diminished shape
