@@ -339,7 +339,9 @@ See {% include chapter-link.html slug="diatonic-modes" %} for details.
 
 ### The musical alphabet
 
-Each note is named with one of the seven letters of the "musical alphabet",
+The name of a key,
+and of each note within it,
+comes from one of the seven letters of the "musical alphabet".
 `A-B-C-D-E-F-G`, in English.
 
 Each letter represents a standard fundamental pitch.
