@@ -902,9 +902,10 @@ for a detailed discussion of seventh chords.
 ## Position playing
 
 The following figures illustrate how CAGED shapes fit together on the fretboard,
-and suggest how we can play the chords in a given key without moving the fretting hand out of position.
-Though only the primary chords are shown here,
-all the other chords in the key can be played position as well.
+and point the way toward playing all the chords in a given key in one position,
+without moving the fretting hand up or down the fretboard.
+Though only primary chords are shown here,
+all chords in the key can be played in position using the different CAGED shapes.
 
 For each CAGED position,
 practice changing between different shapes for C, F, and G chords in the same position on the fretboard.
