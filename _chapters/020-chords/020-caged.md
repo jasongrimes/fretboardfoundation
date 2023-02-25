@@ -898,3 +898,17 @@ The D diminished shape can be gripped with
 
 See {% include chapter-link.html slug="seventh-chords" %}
 for a detailed discussion of seventh chords.
+
+## Chord types on the fretboard
+
+{% include figure.html
+    caption="C major on the whole fretboard."
+    url="/assets/figures/caged2/fretboard-C-maj.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="A minor on the whole fretboard."
+    url="/assets/figures/caged2/fretboard-A-min.svg"
+    class="chord row"
+%}
