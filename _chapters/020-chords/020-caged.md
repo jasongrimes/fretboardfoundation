@@ -721,6 +721,14 @@ it's also possible to grip with `1xx444`.
     class="chord row"
 %}
 
+The E diminished shape can be gripped with 
+`1342xx`.
+
+Roll into the G diminished shape treble triad 
+`xxx213`
+to arpeggiate the rest of the chord.
+
+
 **Practice E shapes with harmonized triads in the key of C major:**
 
 | 6th string root on fret | Note | Shape  | Chord |
