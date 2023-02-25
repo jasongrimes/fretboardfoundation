@@ -899,12 +899,22 @@ The D diminished shape can be gripped with
 See {% include chapter-link.html slug="seventh-chords" %}
 for a detailed discussion of seventh chords.
 
-## Primary chords in position
+## Position playing
 
-The following figures illustrate how CAGED shapes fit together.
+The following figures illustrate how CAGED shapes fit together on the fretboard,
+and suggest how we can play the chords in a given key without moving the fretting hand out of position.
+Though only the primary chords are shown here,
+all the other chords in the key can be played position as well.
+
 For each CAGED position,
 practice changing between different shapes for C, F, and G chords in the same position on the fretboard.
+For example,
+play C major in a G shape,
+F major in a C shape,
+and G major in a D shape.
 
+For more on position playing in a major key,
+see {% include chapter-link.html slug="major-harmony" %}.
 
 {% include figure.html
     caption="C major on the whole fretboard."
