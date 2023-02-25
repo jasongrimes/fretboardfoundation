@@ -520,10 +520,8 @@ but it builds out the chords below the treble triad,
 while the A shape builds chords above it. 
 
 The G shape is most usefully thought of as two separate shapes:
-a bass shape,
-on the lower strings,
-and a treble shape,
-on the upper strings.
+a bass shape on the lower strings,
+and a treble shape on the upper strings.
 The two shapes are never gripped at the same time,
 but it's easy to switch between them.
 (And sometimes it sounds great to switch back and forth between them,
