@@ -515,7 +515,7 @@ for a detailed discussion of seventh chords.
 %}
 
 The G major shape uses the same treble triad as the A major shape,
-on the upper middle strings,
+the `5-R-3` on the upper middle strings,
 but it builds out the chords below the treble triad,
 while the A shape builds chords above it. 
 
