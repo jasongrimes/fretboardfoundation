@@ -374,8 +374,7 @@ or remain at rest.
 
 This approach originated in euroclassical music in the 18th and 19th centuries,
 and still heavily influences jazz music.
-It is less apparent in modern and non-Western music,
-but it can still be useful to understand.
+It is less evident in modern and non-Western music.
 
 ### Euroclassical scale degree names
 
