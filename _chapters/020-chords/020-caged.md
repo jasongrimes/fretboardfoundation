@@ -20,7 +20,7 @@ The shapes are named after the familiar
 C, A, G, E, and D chord shapes in "open position"
 (that is, having open strings).
 
-## Ergonomics: pain and tone
+## Ergonomics for pain and tone
 
 Some of the CAGED chord shapes are awkward or even impossible to play completely.
 Some CAGED grips,
@@ -275,7 +275,7 @@ To get comfortable with the C minor shape in different places on the neck,
 use it to play the secondary chords in the key of C major
 up and down the fretboard.
 
-**Practice C shapes with secondary chords in the key of C major:**
+**Practice C minor shapes with secondary chords in the key of C major:**
 
 | 5th string root on fret | Note | C Shape  | Chord |
 |:-----------------------:|:----:|:--------:|:-----:|
@@ -443,7 +443,7 @@ like the barre chord without the top string.
 The treble triads can also be played by themselves: 
 `xxx321` and `xx231x`.
 
-**Practice A shapes with secondary chords in the key of C major:**
+**Practice A minor shapes with secondary chords in the key of C major:**
 
 | 5th string root on fret | Note | A shape  | Chord |
 |:-----------------------:|:----:|:--------:|:-----:|
@@ -573,14 +573,13 @@ or
 `2xx333`.
 
 
-**Practice G shapes with secondary chords in the key of C major:**
+**Practice G minor shapes with secondary chords in the key of C major:**
 
 | 6th string root on fret | Note | G shape  | Chord |
 |:-----------------------:|:----:|:--------:|:-----:|
-| 8                       | C    | minor    | Cm    |
-| 13<br>(1+12)            | F    | minor    | Fm    |
-| 3                       | G    | minor    | Gm    |
-| 3                       | G    | major    | G     |
+| 5                       | A    | minor    | Am    |
+| 10                      | D    | minor    | Dm    |
+| 12                      | E    | minor    | Em    |
 
 ### G diminished shape
 
@@ -705,14 +704,14 @@ The little finger can then optionally play root and fifth bass notes on the 4th 
 If we want the first finger to play the bass note,
 it's also possible to grip with `1xx444`.
 
-**Practice E shapes with secondary chords in the key of C major:**
+**Practice E minor shapes with secondary chords in the key of C major:**
 
 | 6th string root on fret | Note | E shape  | Chord |
 |:-----------------------:|:----:|:--------:|:-----:|
-| 8                       | C    | minor    | Cm    |
-| 13<br>(1+12)            | F    | minor    | Fm    |
-| 1                       | F    | minor    | Fm    |
-| 3                       | G    | minor    | Gm    |
+| 5                       | A    | minor    | Am    |
+| 10                      | D    | minor    | Dm    |
+| 12                      | E    | minor    | Em    |
+| 0 (open)                | E    | minor    | Em    |
 
 ### E diminished shape
 
