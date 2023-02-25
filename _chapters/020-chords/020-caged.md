@@ -224,12 +224,12 @@ Play around with these three "primary" chords for awhile to get familiar with th
 
 **Practice the C shape with primary chords in the key of C major:**
 
-| 5th string root on fret | Note | C shape  | Chord |
-|:-----------------------:|:----:|:--------:|:-----:|
-| 3                       | C    | major    | C     |
-| 8                       | F    | major    | F     |
-| 10                      | G    | major    | G     |
-| 15<br>(3+12)            | C    | major    | C     |
+| 5th string root on fret | C shape  | Chord |
+|:-----------------------:|:--------:|:-----:|
+| 3                       | major    | C     |
+| 8                       | major    | F     |
+| 10                      | major    | G     |
+| 15<br>(3+12)            | major    | C     |
 
 ### C minor shape
 
