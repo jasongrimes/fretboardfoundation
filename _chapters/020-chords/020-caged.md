@@ -224,12 +224,12 @@ Play around with these three "primary" chords for awhile to get familiar with th
 
 **Practice the C shape with primary chords in the key of C major:**
 
-| 5th string root on fret | Note | Shape  | Chord |
-|:-----------------------:|:----:|:------:|:-----:|
-| 3                       | C    | major  | C     |
-| 8                       | F    | major  | F     |
-| 10                      | G    | major  | G     |
-| 15<br>(3+12)            | C    | major  | C     |
+| 5th string root on fret | Note | C shape  | Chord |
+|:-----------------------:|:----:|:--------:|:-----:|
+| 3                       | C    | major    | C     |
+| 8                       | F    | major    | F     |
+| 10                      | G    | major    | G     |
+| 15<br>(3+12)            | C    | major    | C     |
 
 ### C minor shape
 
@@ -276,13 +276,13 @@ use it to play the primary chords in the key of C minor.
 
 **Practice C shapes with primary chords in the key of C minor:**
 
-| 5th string root on fret | Note | Shape  | Chord |
-|:-----------------------:|:----:|:------:|:-----:|
-| 3                       | C    | minor  | Cm    |
-| 8                       | F    | minor  | Fm    |
-| 10                      | G    | minor  | Gm    |
-| 10                      | G    | major  | G     |
-| 15<br>(3+12)            | C    | minor  | Cm    |
+| 5th string root on fret | Note | C Shape  | Chord |
+|:-----------------------:|:----:|:--------:|:-----:|
+| 3                       | C    | minor    | Cm    |
+| 8                       | F    | minor    | Fm    |
+| 10                      | G    | minor    | Gm    |
+| 10                      | G    | major    | G     |
+| 15<br>(3+12)            | C    | minor    | Cm    |
 
 When both the C major and C minor shapes are familiar,
 practice them together by playing all the triads in the key of C major,
@@ -290,16 +290,16 @@ as shown.
 
 **Practice C shapes with harmonized triads in the key of C major:**
 
-| 5th string root on fret | Note | Shape  | Chord |
-|:-----------------------:|:----:|:------:|:-----:|
-| 3                       | C    | major  | C     |
-| 5                       | D    | minor  | Dm    |
-| 7                       | E    | minor  | Em    |
-| 8                       | F    | major  | F     |
-| 10                      | G    | major  | G     |
-| 12                      | A    | minor  | Am    |
+| 5th string root on fret | Note | C shape  | Chord |
+|:-----------------------:|:----:|:--------:|:-----:|
+| 3                       | C    | major    | C     |
+| 5                       | D    | minor    | Dm    |
+| 7                       | E    | minor    | Em    |
+| 8                       | F    | major    | F     |
+| 10                      | G    | major    | G     |
+| 12                      | A    | minor    | Am    |
 | 14<br>(2+12)            | B    | minor (no 5)<br>`x42x1x` | Bm (no 5)   |
-| 15<br>(3+12)            | C    | major  | C     |
+| 15<br>(3+12)            | C    | major    | C     |
 
 ### C diminished shape
 
@@ -414,11 +414,11 @@ use it to play the primary chords in the key of C major.
 
 **Practice the A shape with primary chords in the key of C major:**
 
-| 5th string root on fret | Note | Shape  | Chord |
-|:-----------------------:|:----:|:------:|:-----:|
-| 3                       | C    | major  | C     |
-| 8                       | F    | major  | F     |
-| 10                      | G    | major  | G     |
+| 5th string root on fret | Note | A shape  | Chord |
+|:-----------------------:|:----:|:--------:|:-----:|
+| 3                       | C    | major    | C     |
+| 8                       | F    | major    | F     |
+| 10                      | G    | major    | G     |
 
 ### A minor shape
 
@@ -446,12 +446,12 @@ The treble triads can also be played by themselves:
 
 **Practice A shapes with primary chords in the key of C minor:**
 
-| 5th string root on fret | Note | Shape  | Chord |
-|:-----------------------:|:----:|:------:|:-----:|
-| 3                       | C    | minor  | Cm    |
-| 8                       | F    | minor  | Fm    |
-| 10                      | G    | minor  | Gm    |
-| 10                      | G    | major  | G     |
+| 5th string root on fret | Note | A shape  | Chord |
+|:-----------------------:|:----:|:--------:|:-----:|
+| 3                       | C    | minor    | Cm    |
+| 8                       | F    | minor    | Fm    |
+| 10                      | G    | minor    | Gm    |
+| 10                      | G    | major    | G     |
 
 
 ### A diminished shape
@@ -466,14 +466,14 @@ This shape is typically fingered as `x1243x`.
 
 **Practice A shapes with harmonized triads in the key of C major:**
 
-| 5th string root on fret | Note | Shape  | Chord |
-|:-----------------------:|:----:|:------:|:-----:|
-| 3                       | C    | major  | C     |
-| 5                       | D    | minor  | Dm    |
-| 7                       | E    | minor  | Em    |
-| 8                       | F    | major  | F     |
-| 10                      | G    | major  | G     |
-| 12                      | A    | minor  | Am    |
+| 5th string root on fret | Note | A shape  | Chord |
+|:-----------------------:|:----:|:--------:|:-----:|
+| 3                       | C    | major    | C     |
+| 5                       | D    | minor    | Dm    |
+| 7                       | E    | minor    | Em    |
+| 8                       | F    | major    | F     |
+| 10                      | G    | major    | G     |
+| 12                      | A    | minor    | Am    |
 | 2                       | B    | diminished | Bdim |
 
 
@@ -547,11 +547,11 @@ it's common to switch between C and G shapes rooted on the same fret.)
 
 **Practice the G shape with primary chords in the key of C major:**
 
-| 6th string root on fret | Note | Shape  | Chord |
-|:-----------------------:|:----:|:------:|:-----:|
-| 8                       | C    | major  | C     |
-| 13<br>(1+12)            | F    | major  | F     |
-| 3                       | G    | major  | G     |
+| 6th string root on fret | Note | G shape  | Chord |
+|:-----------------------:|:----:|:--------:|:-----:|
+| 8                       | C    | major    | C     |
+| 13<br>(1+12)            | F    | major    | F     |
+| 3                       | G    | major    | G     |
 
 ### G minor shape
 
@@ -577,12 +577,12 @@ or
 
 **Practice G shapes with primary chords in the key of C minor:**
 
-| 6th string root on fret | Note | Shape  | Chord |
-|:-----------------------:|:----:|:------:|:-----:|
-| 8                       | C    | minor  | Cm    |
-| 13<br>(1+12)            | F    | minor  | Fm    |
-| 3                       | G    | minor  | Gm    |
-| 3                       | G    | major  | G     |
+| 6th string root on fret | Note | G shape  | Chord |
+|:-----------------------:|:----:|:--------:|:-----:|
+| 8                       | C    | minor    | Cm    |
+| 13<br>(1+12)            | F    | minor    | Fm    |
+| 3                       | G    | minor    | Gm    |
+| 3                       | G    | major    | G     |
 
 ### G diminished shape
 
@@ -597,14 +597,14 @@ The G diminished shape can be gripped as
 
 **Practice G shapes with harmonized triads in the key of C major:**
 
-| 6th string root on fret | Note | Shape  | Chord |
-|:-----------------------:|:----:|:------:|:-----:|
-| 8                       | C    | major  | C     |
-| 10                      | D    | minor  | Dm    |
-| 12                      | E    | minor  | Em    |
-| 13<br>(1+12)            | F    | major  | F     |
-| 3                       | G    | major  | G     |
-| 5                       | A    | minor  | Am    |
+| 6th string root on fret | Note | G shape  | Chord |
+|:-----------------------:|:----:|:--------:|:-----:|
+| 8                       | C    | major    | C     |
+| 10                      | D    | minor    | Dm    |
+| 12                      | E    | minor    | Em    |
+| 13<br>(1+12)            | F    | major    | F     |
+| 3                       | G    | major    | G     |
+| 5                       | A    | minor    | Am    |
 | 7                       | B    | diminished | Bdim |
 
 ### G seventh shapes
@@ -675,11 +675,11 @@ and the grip is more comfortable without it.
 
 **Practice the E shape with primary chords in the key of C major:**
 
-| 6th string root on fret | Note | Shape  | Chord |
-|:-----------------------:|:----:|:------:|:-----:|
-| 8                       | C    | major  | C     |
-| 1                       | F    | major  | F     |
-| 3                       | G    | major  | G     |
+| 6th string root on fret | Note | E shape  | Chord |
+|:-----------------------:|:----:|:---------:|:-----:|
+| 8                       | C    | major    | C     |
+| 1                       | F    | major    | F     |
+| 3                       | G    | major    | G     |
 
 ### E minor shape
 
@@ -705,13 +705,13 @@ it's also possible to grip with `1xx444`.
 
 **Practice E shapes with primary chords in the key of C minor:**
 
-| 6th string root on fret | Note | Shape  | Chord |
-|:-----------------------:|:----:|:------:|:-----:|
-| 8                       | C    | minor  | Cm    |
-| 13<br>(1+12)            | F    | minor  | Fm    |
-| 1                       | F    | minor  | Fm    |
-| 3                       | G    | minor  | Gm    |
-| 3                       | G    | major  | G     |
+| 6th string root on fret | Note | E shape  | Chord |
+|:-----------------------:|:----:|:--------:|:-----:|
+| 8                       | C    | minor    | Cm    |
+| 13<br>(1+12)            | F    | minor    | Fm    |
+| 1                       | F    | minor    | Fm    |
+| 3                       | G    | minor    | Gm    |
+| 3                       | G    | major    | G     |
 
 ### E diminished shape
 
@@ -731,14 +731,14 @@ to arpeggiate the rest of the chord.
 
 **Practice E shapes with harmonized triads in the key of C major:**
 
-| 6th string root on fret | Note | Shape  | Chord |
-|:-----------------------:|:----:|:------:|:-----:|
-| 8                       | C    | major  | C     |
-| 10                      | D    | minor  | Dm    |
-| 0 (open)                | E    | minor  | Em    |
-| 1                       | F    | major  | F     |
-| 3                       | G    | major  | G     |
-| 5                       | A    | minor  | Am    |
+| 6th string root on fret | Note | E shape  | Chord |
+|:-----------------------:|:----:|:--------:|:-----:|
+| 8                       | C    | major    | C     |
+| 10                      | D    | minor    | Dm    |
+| 0 (open)                | E    | minor    | Em    |
+| 1                       | F    | major    | F     |
+| 3                       | G    | major    | G     |
+| 5                       | A    | minor    | Am    |
 | 7                       | B    | diminished | Bdim |
 
 ### E seventh shapes
@@ -816,11 +816,11 @@ Sometimes having the third in the bass sounds great leading to another chord
 
 **Practice the D shape with primary chords in the key of C major:**
 
-| 4th string root on fret | Note | Shape  | Chord |
-|:-----------------------:|:----:|:------:|:-----:|
-| 10                      | C    | major  | C     |
-| 3                       | F    | major  | F     |
-| 5                       | G    | major  | G     |
+| 4th string root on fret | Note | D shape  | Chord |
+|:-----------------------:|:----:|:--------:|:-----:|
+| 10                      | C    | major    | C     |
+| 3                       | F    | major    | F     |
+| 5                       | G    | major    | G     |
 
 
 ### D minor shape
@@ -837,13 +837,13 @@ typically gripped as `xx1342`.
 
 **Practice D shapes with primary chords in the key of C minor:**
 
-| 4th string root on fret | Note | Shape  | Chord |
-|:-----------------------:|:----:|:------:|:-----:|
-| 10                      | C    | minor  | Cm    |
-| 3                       | F    | minor  | Fm    |
-| 3                       | F    | minor  | Fm    |
-| 5                       | G    | minor  | Gm    |
-| 5                       | G    | major  | G     |
+| 4th string root on fret | Note | D shape  | Chord |
+|:-----------------------:|:----:|:--------:|:-----:|
+| 10                      | C    | minor    | Cm    |
+| 3                       | F    | minor    | Fm    |
+| 3                       | F    | minor    | Fm    |
+| 5                       | G    | minor    | Gm    |
+| 5                       | G    | major    | G     |
 
 
 ### D diminished shape
@@ -859,14 +859,14 @@ The D diminished shape can be gripped with
 
 **Practice D shapes with harmonized triads in the key of C major:**
 
-| 4th string root on fret | Note | Shape  | Chord |
-|:-----------------------:|:----:|:------:|:-----:|
-| 10                      | C    | major  | C     |
-| 0 (open)                | D    | minor  | Dm    |
-| 2                       | E    | minor  | Em    |
-| 3                       | F    | major  | F     |
-| 5                       | G    | major  | G     |
-| 7                       | A    | minor  | Am    |
+| 4th string root on fret | Note | D shape  | Chord |
+|:-----------------------:|:----:|:--------:|:-----:|
+| 10                      | C    | major    | C     |
+| 0 (open)                | D    | minor    | Dm    |
+| 2                       | E    | minor    | Em    |
+| 3                       | F    | major    | F     |
+| 5                       | G    | major    | G     |
+| 7                       | A    | minor    | Am    |
 | 9                       | B    | diminished | Bdim |
 
 
