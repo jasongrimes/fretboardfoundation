@@ -840,15 +840,13 @@ Compared to the D major shape,
 the D minor shape is refreshingly comfortable to play,
 typically gripped as `xx1342`.
 
-**Practice D shapes with secondary chords in the key of C major:**
+**Practice D minor shapes with secondary chords in the key of C major:**
 
 | 4th string root on fret | Note | D shape  | Chord |
 |:-----------------------:|:----:|:--------:|:-----:|
-| 10                      | C    | minor    | Cm    |
-| 3                       | F    | minor    | Fm    |
-| 3                       | F    | minor    | Fm    |
-| 5                       | G    | minor    | Gm    |
-
+| 7                       | A    | minor    | Am    |
+| 0 (open)                | D    | minor    | Dm    |
+| 2                       | E    | minor    | Em    |
 
 ### D diminished shape
 
