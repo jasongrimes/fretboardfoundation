@@ -671,7 +671,7 @@ muting the 2nd string,
 as `1x43x2`.
 
 Either way,
-the extra `5` on the 5th string is rarely missed,
+the omitted fifth on the 5th string is rarely missed,
 and the grip is more comfortable without it.
 
 **Practice the E shape with primary chords in the key of C major:**
