@@ -339,6 +339,15 @@ See {% include chapter-link.html slug="diatonic-modes" %} for details.
 
 ### The musical alphabet
 
+Notes are named with the seven letters from the "musical alphabet".
+In English: `A-B-C-D-E-F-G`.
+
+Each letter represents a standard fundamental pitch.
+For example, A is 440 Hz.
+Each letter also represents the "pitch class" of all other pitches a whole number of octaves apart.
+For example, 
+the pitch class A consists of all the As in all octaves.
+
 ### Sharps and flats
 
 ## Harmonic function
