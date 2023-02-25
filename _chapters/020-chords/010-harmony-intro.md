@@ -348,12 +348,20 @@ Each letter also represents the "pitch class" of all other pitches a whole numbe
 For example, 
 the pitch class A consists of all the As in all octaves.
 
-There is a whole tone interval between each note of the musical alphabet,
-except for a semitone between B-C and E-F.
+A whole tone interval separated each note of the musical alphabet,
+except for semitones between B-C and E-F.
 When starting from C,
 the musical alphabet describes a major scale.
 
-{% include chapter-link.html slug="major-scale" %}
+<div class="table-wrapper" markdown="block">
+
+| |T|T|S|T|T|T|S|
+|1|2|3|4|5|6|7|1|
+|C|D|E|F|G|A|B|C|
+
+</div>
+
+See {% include chapter-link.html slug="major-scale" %} for details.
 
 ### Sharps and flats
 
