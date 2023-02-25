@@ -279,10 +279,9 @@ up and down the fretboard.
 
 | 5th string root on fret | Note | C Shape  | Chord |
 |:-----------------------:|:----:|:--------:|:-----:|
-| 3                       | C    | minor    | Cm    |
-| 8                       | F    | minor    | Fm    |
-| 10                      | G    | minor    | Gm    |
-| 15<br>(3+12)            | C    | minor    | Cm    |
+| 12                      | A    | minor    | Am    |
+| 5                       | D    | minor    | Dm    |
+| 7                       | E    | minor    | Em    |
 
 When both the C major and C minor shapes are familiar,
 practice them together by playing all the triads in the key of C major,
@@ -448,10 +447,10 @@ The treble triads can also be played by themselves:
 
 | 5th string root on fret | Note | A shape  | Chord |
 |:-----------------------:|:----:|:--------:|:-----:|
-| 3                       | C    | minor    | Cm    |
-| 8                       | F    | minor    | Fm    |
-| 10                      | G    | minor    | Gm    |
-
+| 0 (open)                | A    | minor    | Am    |
+| 5                       | D    | minor    | Dm    |
+| 7                       | E    | minor    | Em    |
+| 12                      | A    | minor    | Am    |
 
 ### A diminished shape
 
