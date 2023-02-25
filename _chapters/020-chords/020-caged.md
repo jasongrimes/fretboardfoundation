@@ -810,9 +810,14 @@ this grip is often perfect.
 
 The grip `xx13x4` is a full triad chord with the third at the top and the root in the bass.  
 
-One interesting grip for this chord is `2x134x`.
-Sometimes having the third in the bass sounds great leading to another chord
-(as when playing a D shape V chord leading to a G shape I chord).
+One interesting grip for this chord,
+favored by guitar virtuoso Joe Pass,
+is `2x134x`.
+It's a little unusual,
+with the third in the bass,
+and sometimes it just does not sound right.
+But it sounds amazing when leading to another chord having a bass note one semitone above it,
+as when playing a D shape V chord leading to a G shape I chord.
 
 **Practice the D shape with primary chords in the key of C major:**
 
