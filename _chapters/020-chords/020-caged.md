@@ -593,7 +593,7 @@ or
 %}
 
 The G diminished shape can be gripped as 
-`1xx324` it `2xx314`.
+`1xx324` or `2xx314`.
 
 **Practice G shapes with harmonized triads in the key of C major:**
 
