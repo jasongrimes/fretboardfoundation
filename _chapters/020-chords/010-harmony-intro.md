@@ -371,6 +371,13 @@ Since there are twelve distinct tones in the chromatic scale of Western music,
 the seven letters of the musical alphabet are supplemented with "accidentals":
 sharp (#) and flat (b) symbols that indicate a semitone above (#) or below (b) a given note from the musical alphabet.
 
+For example,
+F# is the note a semitone above F,
+and a semitone below G.
+The note Gb is also a semitone below G,
+and a semitone above F.
+F# and Gb are actually the same note:
+they are "enharmonic" symbols for the same pitch.
 
 
 ## Harmonic function
