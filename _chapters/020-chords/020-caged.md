@@ -201,7 +201,7 @@ and the 6th string can be muted by either the tip of the little finger or the th
 
 The bass note for this chord is played with the little finger on the 5th string.
 It's common to reach the little finger over to the 6th string,
-to play an alternating bass line between the root on the 5th string and the perfect fifth on the 6th string. 
+to play an alternating bass line between the root and fifth and the 5th and 6th strings. 
 
 Sometimes it sounds good to add the major third on the highest string,
 which can be done by flattening the first finger: `x43121`
