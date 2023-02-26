@@ -928,3 +928,9 @@ see {% include chapter-link.html slug="major-harmony" %}.
     url="/assets/figures/caged2/fretboard-F-maj.svg"
     class="chord row"
 %}
+
+{% include figure.html
+    caption="G major on the whole fretboard."
+    url="/assets/figures/caged2/fretboard-G-maj.svg"
+    class="chord row"
+%}
