@@ -90,7 +90,7 @@ To practice in the key of C,
 play a C major chord and then play the tetrachord starting on C.
 
 {% include figure.html
-    caption="C Ionian mode tetrachords on 5th and 6th strings."
+    caption="C Ionian tetrachords on 5th and 6th strings."
     url="/assets/figures/modes/C-ionian.svg"
     class="chord row"
 %}
