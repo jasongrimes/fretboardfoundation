@@ -20,7 +20,11 @@ by starting on a different note they have a different tonal center,
 and the scale degree intervals are different because they are measured from a different note as 1&#x302;.
 This gives each mode a different sound and feel.
 
-
+Each mode is intimately linked to the corresponding chord in the harmonized major scale.
+For example,
+the second mode is the scale that underlies the ii chord,
+and the fifth mode is the scale from which the V chord is built.
+The sound and feel of each mode is the sound and feel of the corresponding chord.
 
 Diatonic modes are named with obscure Greek-related terms that make little sense and just have to be memorized.
 Starting with the first degree of the major scale,
