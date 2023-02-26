@@ -924,7 +924,7 @@ see {% include chapter-link.html slug="major-harmony" %}.
 %}
 
 {% include figure.html
-    caption="A minor on the whole fretboard."
-    url="/assets/figures/caged2/fretboard-A-min.svg"
+    caption="F major on the whole fretboard."
+    url="/assets/figures/caged2/fretboard-F-maj.svg"
     class="chord row"
 %}
