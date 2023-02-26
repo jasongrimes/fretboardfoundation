@@ -288,98 +288,7 @@ and play the same exercises with this new point of view.
 It can be constructive to switch perspective back and forth,
 thinking of a tone as a degree of both the minor scale and the relative major.
 
-## E form
-
-This combined scale includes the natural minor scale,
-plus highlighted additional major 6 and 7 degrees.
-
-- Played without highlighted notes,
-it's the natural minor scale.
-- Played with the highlighted major 7 instead of the b7, 
-it's harmonic minor.
-- Played with both highlighted 6 and 7 instead of b6 and b7,
-it's melodic minor.
-
-{% include figure.html
-    caption="Combined minor scales in E CAGED form."
-    url="/assets/figures/minor-scale/combined-minor-E.svg"
-    class="chord row"
-%}
-
-This form requires a slight shift of position to reach back to the 2
-(and sometimes the 6 and 7).
-This can be done by stretching the first finger back just enough to reach the 2.
-When playing the 2 and b3 in sequence,
-play them both with the same finger,
-and slide to the second note.
-
-Compare the relative major form below. 
-It has the exact same notes,
-but different intervals. 
-The 1 in the minor is the 6 in the
-major, and so on.
-
-The separate melodic, harmonic, and natural minors are also shown.
-
-{% include figure.html
-    caption="Relative major scale in G CAGED form."
-    url="/assets/figures/major-scale/major-G.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="Natural minor scale in E CAGED form."
-    url="/assets/figures/natural-minor-scale/natural-minor-E.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="Melodic minor scale in E CAGED form."
-    url="/assets/figures/minor-scale/melodic-minor-E.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="Harmonic minor scale in E CAGED form."
-    url="/assets/figures/minor-scale/harmonic-minor-E.svg"
-    class="chord row"
-%}
-
-
-## D form
-
-{% include figure.html
-    caption="Combined minor scales in D CAGED form."
-    url="/assets/figures/minor-scale/combined-minor-D.svg"
-    class="chord row"
-%}
-
-Compare the relative major and the separate minor scales below.
-
-{% include figure.html
-    caption="Relative major scale in E CAGED form."
-    url="/assets/figures/major-scale/major-E.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="Natural minor scale in D CAGED form."
-    url="/assets/figures/natural-minor-scale/natural-minor-D.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="Melodic minor scale in D CAGED form."
-    url="/assets/figures/minor-scale/melodic-minor-D.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="Harmonic minor scale in D CAGED form."
-    url="/assets/figures/minor-scale/harmonic-minor-D.svg"
-    class="chord row"
-%}
-
+## 
 
 ## C form
 
@@ -482,6 +391,101 @@ Compare the relative major and separate minor scales.
     url="/assets/figures/minor-scale/harmonic-minor-G.svg"
     class="chord row"
 %}
+
+E form
+
+This combined scale includes the natural minor scale,
+plus highlighted additional major 6 and 7 degrees.
+
+- Played without highlighted notes,
+it's the natural minor scale.
+- Played with the highlighted major 7 instead of the b7, 
+it's harmonic minor.
+- Played with both highlighted 6 and 7 instead of b6 and b7,
+it's melodic minor.
+
+Compare the relative major form below. 
+It has the exact same notes,
+but different intervals. 
+The 1 in the minor is the 6 in the
+major, and so on.
+
+The separate melodic, harmonic, and natural minors are also shown.
+
+{% include figure.html
+    caption="Combined minor scales in E CAGED form."
+    url="/assets/figures/minor-scale/combined-minor-E.svg"
+    class="chord row"
+%}
+
+This form requires a slight shift of position to reach back to the 2
+(and sometimes the 6 and 7).
+This can be done by stretching the first finger back just enough to reach the 2.
+When playing the 2 and b3 in sequence,
+play them both with the same finger,
+and slide to the second note.
+
+Compare the relative major and the separate minor scales below.
+
+{% include figure.html
+    caption="Relative major scale in G CAGED form."
+    url="/assets/figures/major-scale/major-G.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="Natural minor scale in E CAGED form."
+    url="/assets/figures/natural-minor-scale/natural-minor-E.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="Melodic minor scale in E CAGED form."
+    url="/assets/figures/minor-scale/melodic-minor-E.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="Harmonic minor scale in E CAGED form."
+    url="/assets/figures/minor-scale/harmonic-minor-E.svg"
+    class="chord row"
+%}
+
+
+## D form
+
+{% include figure.html
+    caption="Combined minor scales in D CAGED form."
+    url="/assets/figures/minor-scale/combined-minor-D.svg"
+    class="chord row"
+%}
+
+Compare the relative major and the separate minor scales below.
+
+{% include figure.html
+    caption="Relative major scale in E CAGED form."
+    url="/assets/figures/major-scale/major-E.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="Natural minor scale in D CAGED form."
+    url="/assets/figures/natural-minor-scale/natural-minor-D.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="Melodic minor scale in D CAGED form."
+    url="/assets/figures/minor-scale/melodic-minor-D.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="Harmonic minor scale in D CAGED form."
+    url="/assets/figures/minor-scale/harmonic-minor-D.svg"
+    class="chord row"
+%}
+
 
 ## Whole fretboard
 
