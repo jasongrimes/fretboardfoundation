@@ -78,12 +78,6 @@ which is responsible for the mode's unique sound and feel.
     class="string row"
 %}
 
-{% include figure.html
-    caption="C Ionian mode tetrachords on 5th and 6th strings."
-    url="/assets/figures/modes/C-ionian.svg"
-    class="chord row"
-%}
-
 Since the Ionian mode is the same as the major scale,
 it's the ultimate reference mode.
 All scales in Western music are implicitly compared against this mode,
@@ -91,6 +85,15 @@ because every degree is a major or perfect interval.
 Minor intervals can be found one fret below the major ones.
 
 Compare any tetrachord to this mode to quickly identify the intervals of its scale degrees. 
+
+To practice in the key of C,
+play a C major chord in the A shape with root on the 5th string 3rd fret.
+
+{% include figure.html
+    caption="C Ionian mode tetrachords on 5th and 6th strings."
+    url="/assets/figures/modes/C-ionian.svg"
+    class="chord row"
+%}
 
 ### (6) Aeolian - minor
 
