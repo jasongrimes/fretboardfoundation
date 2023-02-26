@@ -62,13 +62,12 @@ A simple way look at modes is to first determine if they are major or minor
 and then compare them to a major or minor "reference mode".
 
 Ionian is the major scale,
-so it's the major mode reference,
-against which all other major modes can be compared.
+so it's the major reference mode.
 
 Aeolian is the natural minor scale.
 It's the reference against which all minor modes can be compared.
 
-Each of the other modes differs from its reference mode by only a single tone,
+Each of the other modes differs from Ionian or Aeolian by only a single tone,
 which is responsible for the mode's unique sound and feel.
 
 ### (1) Ionian - major
