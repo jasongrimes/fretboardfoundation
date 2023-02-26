@@ -6,14 +6,21 @@ abstract: The diatonic modes are the seven modes of the major scale, including t
 
 ## What are diatonic modes
 
-The diatonic modes are the seven permutations of the major scale,
-with each permutation starting at a different degree of the major scale 
-and wrapping around the end as needed.
+The diatonic modes are the seven rotations of the major scale,
+with each starting at a different degree of the major scale 
+and wrapping around the end to the beginning as needed.
 
 For example,
-the notes in the first mode of C major are `C-D-E-F-G-A-B-C`.
-The notes in the second mode of C major are `D-E-F-G-A-B-C-D`.
+the first mode of C major has the notes `C-D-E-F-G-A-B-C`.
+The second mode of C major has the notes `D-E-F-G-A-B-C-D`,
+and the third mode `E-F-G-A-B-C-D-E`.
 
+While the different modes have all the same notes, 
+by starting on a different note they have a different tonal center,
+and the scale degree intervals are different because they are measured from a different note as 1&#x302;.
+This gives each mode a different sound and feel.
+
+Diatonic modes are names with obscure Greek-related terms that make little sense and just have to be memorized.
 Starting with the first degree of the major scale,
 the diatonic modes are
 (1) Ionian,
