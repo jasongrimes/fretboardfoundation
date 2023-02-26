@@ -663,7 +663,8 @@ The first adjustment that can be made is to lift the base of the finger so it mu
 `1342xx`. 
 
 If we want to hear the root note at the top of the chord,
-we can temporarily press down the barre again.
+we can temporarily press down the barre again,
+`1342x1`.
 
 Another option is to barre *just the top two strings* with the first segment of the first finger,
 and play the *bass note with the second finger*.
