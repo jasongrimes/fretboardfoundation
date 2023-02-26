@@ -20,7 +20,7 @@ by starting on a different note they have a different tonal center,
 and the scale degree intervals are different because they are measured from a different note as 1&#x302;.
 This gives each mode a different sound and feel.
 
-Diatonic modes are names with obscure Greek-related terms that make little sense and just have to be memorized.
+Diatonic modes are named with obscure Greek-related terms that make little sense and just have to be memorized.
 Starting with the first degree of the major scale,
 the diatonic modes are
 (1) Ionian,
@@ -31,7 +31,7 @@ the diatonic modes are
 (6) Aeolian (the natural minor scale), and 
 (7) Locrian.
 
-One mnemonic to help remember the modes is "I Don't Punch Like Mohammed A-Li".
+A mnemonic to help remember the modes is "I Don't Punch Like Mohammed A-Li".
 
 **Modes of the major scale**
 
