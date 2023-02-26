@@ -10,6 +10,10 @@ The diatonic modes are the seven permutations of the major scale,
 with each permutation starting at a different degree of the major scale 
 and wrapping around the end as needed.
 
+For example,
+the notes in the first mode of C major are `C-D-E-F-G-A-B-C`.
+The notes in the second mode of C major are `D-E-F-G-A-B-C-D`.
+
 Starting with the first degree of the major scale,
 the diatonic modes are
 (1) Ionian,
