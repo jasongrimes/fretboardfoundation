@@ -62,6 +62,8 @@ See "practicing scales" in {% include chapter-link.html slug="scale-intro" ancho
 
 ## C form
 
+Here is the major scale assembled in CAGED C form.
+
 The C form expands below the 2nd-string root treble triad.
 
 {% include figure.html
@@ -108,8 +110,6 @@ In cases when it's preferable to keep the barre intact,
 the 7 can also be played by reaching up with the fourth finger on the 4th string.
 
 ## E form
-
-Here is the major scale assembled in CAGED E form.
 
 The E form expands below the 1st-string root treble triad.
 
