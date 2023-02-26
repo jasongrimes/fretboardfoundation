@@ -15,10 +15,12 @@ the first mode of C major has the notes `C-D-E-F-G-A-B-C`.
 The second mode of C major has the notes `D-E-F-G-A-B-C-D`,
 and the third mode `E-F-G-A-B-C-D-E`.
 
-While the different modes have all the same notes, 
+While the different modes have the same notes, 
 by starting on a different note they have a different tonal center,
 and the scale degree intervals are different because they are measured from a different note as 1&#x302;.
 This gives each mode a different sound and feel.
+
+
 
 Diatonic modes are named with obscure Greek-related terms that make little sense and just have to be memorized.
 Starting with the first degree of the major scale,
