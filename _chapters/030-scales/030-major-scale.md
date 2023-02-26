@@ -60,48 +60,6 @@ then with tunes, licks, scale patterns and arpeggios.
 
 See "practicing scales" in {% include chapter-link.html slug="scale-intro" anchor="practicing-scales" %} for details. 
 
-## E form
-
-Here is the major scale assembled in CAGED E form.
-
-The E form expands below the 1st-string root treble triad.
-
-{% include figure.html
-    caption="Major scale in E CAGED form."
-    url="/assets/figures/major-scale/major-E.svg"
-    class="chord"
-%}
-
-Fingering is straightforward in this form.
-Start with the second finger on the sixth string tonic.
-
-Stay on the E form and learn as much as possible before moving on to another form.
-Move on when it becomes boring,
-but not before.
-
-## D form
-
-The D form expands above the 2nd-string root treble triad.
-
-{% include figure.html
-    caption="Major scale in D CAGED form."
-    url="/assets/figures/major-scale/major-D.svg"
-    class="chord"
-%}
-
-Fingerings for the D form involve some shifting around.
-
-One approach is to use the first finger for the lower 7 and 3 as well as the 1 and 4,
-with a lot of slides.
-This is a fast and fluid way to do it,
-when a legato sound is acceptable.
-
-Another approach is to shift the whole hand back,
-playing the lower 7 and 3 with the first finger,
-the 1 and 4 with second finger,
-and bringing the fourth finger into play as needed to enable the shift.
-It's a bit awkward at first but it feels more natural after awhile.
-
 ## C form
 
 The C form expands below the 2nd-string root treble triad.
@@ -148,6 +106,48 @@ sliding between the 1 as needed.
 
 In cases when it's preferable to keep the barre intact,
 the 7 can also be played by reaching up with the fourth finger on the 4th string.
+
+## E form
+
+Here is the major scale assembled in CAGED E form.
+
+The E form expands below the 1st-string root treble triad.
+
+{% include figure.html
+    caption="Major scale in E CAGED form."
+    url="/assets/figures/major-scale/major-E.svg"
+    class="chord"
+%}
+
+Fingering is straightforward in this form.
+Start with the second finger on the sixth string tonic.
+
+Stay on the E form and learn as much as possible before moving on to another form.
+Move on when it becomes boring,
+but not before.
+
+## D form
+
+The D form expands above the 2nd-string root treble triad.
+
+{% include figure.html
+    caption="Major scale in D CAGED form."
+    url="/assets/figures/major-scale/major-D.svg"
+    class="chord"
+%}
+
+Fingerings for the D form involve some shifting around.
+
+One approach is to use the first finger for the lower 7 and 3 as well as the 1 and 4,
+with a lot of slides.
+This is a fast and fluid way to do it,
+when a legato sound is acceptable.
+
+Another approach is to shift the whole hand back,
+playing the lower 7 and 3 with the first finger,
+the 1 and 4 with second finger,
+and bringing the fourth finger into play as needed to enable the shift.
+It's a bit awkward at first but it feels more natural after awhile.
 
 ## Whole fretboard
 
