@@ -23,7 +23,7 @@ This gives each mode a different sound and feel.
 Each mode is intimately linked to the corresponding chord in the harmonized major scale.
 For example,
 the second mode is the scale that underlies the ii chord,
-and the fifth mode is the scale from which the V chord is built.
+and the fifth mode is the scale under the V chord.
 The sound and feel of each mode is the sound and feel of the corresponding chord.
 
 Diatonic modes are named with obscure Greek-related terms that make little sense and just have to be memorized.
