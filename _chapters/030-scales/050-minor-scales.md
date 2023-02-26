@@ -288,8 +288,6 @@ and play the same exercises with this new point of view.
 It can be constructive to switch perspective back and forth,
 thinking of a tone as a degree of both the minor scale and the relative major.
 
-## 
-
 ## C form
 
 {% include figure.html
@@ -410,7 +408,7 @@ Compare the relative major and separate minor scales.
     class="chord row"
 %}
 
-E form
+## E form
 
 {% include figure.html
     caption="Combined minor scales in E CAGED form."
