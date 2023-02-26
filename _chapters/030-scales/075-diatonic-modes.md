@@ -55,7 +55,7 @@ A mnemonic to help remember the modes is "I Don't Punch Like Mohammed A-Li".
 
 </div>
 
-## Ionian
+## 1 - Ionian - the major scale
 
 {% include figure.html
     caption="Ionian mode tetrachords"
@@ -63,39 +63,7 @@ A mnemonic to help remember the modes is "I Don't Punch Like Mohammed A-Li".
     class="string row"
 %}
 
-## Dorian
-
-{% include figure.html
-    caption="Dorian mode tetrachords"
-    url="/assets/figures/tetrachords/dorian-tetrachords.svg"
-    class="string row"
-%}
-
-## Phrygian
-
-{% include figure.html
-    caption="Phrygian mode tetrachords"
-    url="/assets/figures/tetrachords/phrygian-tetrachords.svg"
-    class="string row"
-%}
-
-## Lydian
-
-{% include figure.html
-    caption="Lydian mode tetrachords"
-    url="/assets/figures/tetrachords/lydian-tetrachords.svg"
-    class="string row"
-%}
-
-## Mixolydian
-
-{% include figure.html
-    caption="Mixolydian mode tetrachords"
-    url="/assets/figures/tetrachords/mixolydian-tetrachords.svg"
-    class="string row"
-%}
-
-## Aeolian
+## 6 - Aeolian - natural minor
 
 {% include figure.html
     caption="Aeolian mode tetrachords"
@@ -103,7 +71,39 @@ A mnemonic to help remember the modes is "I Don't Punch Like Mohammed A-Li".
     class="string row"
 %}
 
-## Locrian
+## 2 - Dorian
+
+{% include figure.html
+    caption="Dorian mode tetrachords"
+    url="/assets/figures/tetrachords/dorian-tetrachords.svg"
+    class="string row"
+%}
+
+## 3 - Phrygian
+
+{% include figure.html
+    caption="Phrygian mode tetrachords"
+    url="/assets/figures/tetrachords/phrygian-tetrachords.svg"
+    class="string row"
+%}
+
+## 4 - Lydian
+
+{% include figure.html
+    caption="Lydian mode tetrachords"
+    url="/assets/figures/tetrachords/lydian-tetrachords.svg"
+    class="string row"
+%}
+
+## 5 - Mixolydian
+
+{% include figure.html
+    caption="Mixolydian mode tetrachords"
+    url="/assets/figures/tetrachords/mixolydian-tetrachords.svg"
+    class="string row"
+%}
+
+## 7 - Locrian
 
 {% include figure.html
     caption="Locrian mode tetrachords"
