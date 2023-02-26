@@ -59,7 +59,7 @@ A mnemonic to help remember the modes is "I Don't Punch Like Mohammed A-Li".
 
 A simple way look at modes is to first determine if they are major or minor
 (having a 3&#x302; or b3&#x302;)
-and then compare them to a "reference mode" for that key.
+and then compare them to a major or minor "reference mode".
 
 Ionian is the major scale,
 so it's the major mode reference,
