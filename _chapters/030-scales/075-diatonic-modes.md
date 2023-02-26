@@ -79,6 +79,10 @@ which is responsible for the mode's unique sound and feel.
     class="string row"
 %}
 
+Since the Ionian mode is the same as the major scale,
+it's the ultimate reference mode.
+All scales in Western music are implicitly compared against this mode.
+
 ### (6) Aeolian - minor
 
 {% include figure.html
