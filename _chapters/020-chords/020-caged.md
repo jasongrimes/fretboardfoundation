@@ -83,6 +83,8 @@ _if at all_.
 The fretting thumb's main use should be to keep the hand gently in contact with the neck,
 so it stays in one place instead of floating around in space when the fingers are off the fretboard.
 
+<!--
+
 It's possible to fret a guitar without using the thumb at all,
 and it's a good practice to do so sometimes,
 to give the thumb a rest and to experiment with how little pressure is actually needed.
@@ -107,6 +109,8 @@ and the joints are under minimal strain.
 This is the point at which intonation and ergonomics are in harmony.
 The perfect grip:
 the purest tone with the least effort.
+
+-->
 
 **More about guitar ergonomics**
 
