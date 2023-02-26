@@ -386,8 +386,26 @@ with some different combination of sharps or flats.
 
 ### Notes in each key
 
+<div class="table-wrapper" markdown="block">
+
+|**C (Am)**  |no sharps or flats |C |D |E |F |G |A |B  |
+|**G (Em)**  |1 sharp            |G |A |B |C |D |E |F# |
+|**D (Bm)**  |2 sharps           |D |E |F#|G |A |B |C# |
+|**A (F#m)** |3 sharps           |A |B |C#|D |E |F#|G# |
+|**E (C#m)** |4 sharps           |E |F#|G#|A |B |C#|D# |
+|**B (G#m)** |5 sharps           |B |C#|D#|E |F#|G#|A# |
+|**F# (D#m)**|6 sharps           |F#|G#|A#|B |C#|D#|E# |
+|**Gb (Ebm)**|6 flats            |Gb|Ab|Bb|Cb|Db|Eb|F  |
+|**Db (Bbm)**|5 flats            |Db|Eb|F |Gb|Ab|Bb|C  |
+|**Ab (Fm)** |4 flats            |Ab|Bb|C |Db|Eb|F |G  |
+|**Eb (Cm)** |3 flats            |Eb|F |G |Ab|Bb|C |D  |
+|**Bb (Gm)** |2 flats            |Bb|C |D |Eb|F |G |A  |
+|**F (Dm)**  |1 flat             |F |G |A |Bb|C |D |E  |
+
+</div>
+
 See {% include chapter-link.html slug="keys" %} 
-for details about which notes are in each key.
+for details and some tricks for determining which notes are in each key.
 
 ## Harmonic function
 
