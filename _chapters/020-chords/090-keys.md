@@ -13,7 +13,8 @@ The scale specifies the 7 out of 12 possible chromatic notes that are *diatonic*
 From this scale,
 the chords in the key are harmonized.
 See {% include chapter-link.html slug="major-harmony" %} 
-and {% include chapter-link.html slug="minor-harmony" %}.
+and {% include chapter-link.html slug="minor-harmony" %}
+for details.
 
 ## Order of sharps and flats
 
