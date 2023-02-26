@@ -8,7 +8,7 @@ abstract: The diatonic modes are the seven modes of the major scale, including t
 
 The diatonic modes are the seven rotations of the major scale,
 with each starting at a different degree of the major scale 
-and wrapping around the end to the beginning as needed.
+and wrapping around the end to the beginning.
 
 For example,
 the first mode of C major has the notes `C-D-E-F-G-A-B-C`.
@@ -81,7 +81,11 @@ which is responsible for the mode's unique sound and feel.
 
 Since the Ionian mode is the same as the major scale,
 it's the ultimate reference mode.
-All scales in Western music are implicitly compared against this mode.
+All scales in Western music are implicitly compared against this mode,
+because every degree is a major or perfect interval.
+Minor intervals can be found one fret below the major ones.
+
+Compare any tetrad to this mode to quickly identify the intervals of its scale degrees. 
 
 ### (6) Aeolian - minor
 
