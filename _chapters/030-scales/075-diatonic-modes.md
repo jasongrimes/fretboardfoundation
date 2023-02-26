@@ -57,12 +57,12 @@ A mnemonic to help remember the modes is "I Don't Punch Like Mohammed A-Li".
 
 ## Reference modes
 
-A simple way look at modes is to first determine if they are major or minor 
-(having a 3&#x302; or b3&#x302;)  
-and then compare them to the "reference mode" for that key.
+A simple way look at modes is to first determine if they are major or minor
+(having a 3&#x302; or b3&#x302;)
+and then compare them to a "reference mode" for that key.
 
-Ionian is the major scale.
-Therefore it's the major mode reference,
+Ionian is the major scale,
+so it's the major mode reference,
 against which all other major modes can be compared.
 
 Aeolian is the natural minor scale.
