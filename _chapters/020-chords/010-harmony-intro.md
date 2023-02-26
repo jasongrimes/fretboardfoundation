@@ -379,8 +379,8 @@ The note name Gb *also* describes the pitch between F and G.
 F# and Gb describe the same pitch,
 so they are called "enharmonic" symbols for that pitch.
 
-The purpose of allowing the same pitch to be described by two different letters
-is so that every key can have seven notes with exactly one of each letter from the musical alphabet,
+It's useful for the same pitch to be described by two different letters in this way,
+because it allows every key to have seven notes with exactly one of each letter from the musical alphabet,
 `A-B-C-D-E-F-G`,
 with some different combination of sharps or flats.
 
