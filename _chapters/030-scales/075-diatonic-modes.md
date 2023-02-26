@@ -8,7 +8,7 @@ abstract: The diatonic modes are the seven modes of the major scale, including t
 
 The diatonic modes are the seven permutations of the major scale,
 with each permutation starting at a different degree of the major scale 
-and wrapping around to the beginning as needed.
+and wrapping around the end as needed.
 
 Starting with the first degree of the major scale,
 the diatonic modes are
