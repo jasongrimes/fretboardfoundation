@@ -27,15 +27,15 @@ But it violates the principle of triage if there are other more productive ways 
 It's usually going to be more productive to spend two hours practicing something in C major 
 than 10 minutes practicing it in each of 12 keys.
 
-The time to add another key to our practice is when there's a real-world need to play in that key,
-or we have become bored with every key we have already practiced.
-Otherwise, it's best to continue working with an already-practiced key.
-
 Transposing keys is much easier on guitar than on an instrument like the piano.
 On guitar the fingerings in different keys are mostly the same,
 anchored around a different part of the fretboard.
 As a result,
 on guitar it is more efficient to learn a few keys well than it is to practice in every key.
+
+The time to add another key to our practice is when there's a real-world need to play in that key,
+or we have become bored with every key we have already practiced.
+Otherwise, it's best to continue working with an already-practiced key.
 
 ## Order of sharps and flats
 
