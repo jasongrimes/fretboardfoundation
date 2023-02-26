@@ -98,7 +98,7 @@ play a C major chord and then play the tetrachord starting on C.
 ### (6) Aeolian - minor
 
 {% include figure.html
-    caption="A Aeolian tetrachords on 5th and 6th strings."
+    caption="A Aeolian tetrachords in C major on 5th and 6th strings."
     url="/assets/figures/modes/A-aeolian.svg"
     class="chord row"
 %}
