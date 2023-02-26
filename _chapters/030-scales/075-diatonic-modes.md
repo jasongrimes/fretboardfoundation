@@ -87,7 +87,7 @@ Minor intervals can be found one fret below the major ones.
 Compare any tetrachord to this mode to quickly identify the intervals of its scale degrees. 
 
 To practice in the key of C,
-play a C major chord in the A shape with root on the 5th string 3rd fret.
+play a C major chord and then play the tetrachord starting on C.
 
 {% include figure.html
     caption="C Ionian mode tetrachords on 5th and 6th strings."
