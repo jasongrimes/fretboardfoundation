@@ -298,6 +298,24 @@ thinking of a tone as a degree of both the minor scale and the relative major.
     class="chord row"
 %}
 
+This combined scale includes the natural minor scale,
+plus highlighted additional major 6 and 7 degrees.
+
+- Played without highlighted notes,
+it's the natural minor scale.
+- Played with the highlighted major 7 instead of the b7, 
+it's harmonic minor.
+- Played with both highlighted 6 and 7 instead of b6 and b7,
+it's melodic minor.
+
+Compare the relative major form below. 
+It has the exact same notes,
+but different intervals. 
+The 1 in the minor is the 6 in the
+major, and so on.
+
+The separate melodic, harmonic, and natural minors are also shown.
+
 Compare the relative major and separate minor scales.
 
 {% include figure.html
@@ -393,24 +411,6 @@ Compare the relative major and separate minor scales.
 %}
 
 E form
-
-This combined scale includes the natural minor scale,
-plus highlighted additional major 6 and 7 degrees.
-
-- Played without highlighted notes,
-it's the natural minor scale.
-- Played with the highlighted major 7 instead of the b7, 
-it's harmonic minor.
-- Played with both highlighted 6 and 7 instead of b6 and b7,
-it's melodic minor.
-
-Compare the relative major form below. 
-It has the exact same notes,
-but different intervals. 
-The 1 in the minor is the 6 in the
-major, and so on.
-
-The separate melodic, harmonic, and natural minors are also shown.
 
 {% include figure.html
     caption="Combined minor scales in E CAGED form."
