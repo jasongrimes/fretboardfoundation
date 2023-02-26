@@ -73,7 +73,7 @@ A mnemonic to help remember the modes is "I Don't Punch Like Mohammed A-Li".
     class="string row"
 %}
 
-## 2 - Dorian
+## (2) Dorian
 
 {% include figure.html
     caption="Dorian mode tetrachords"
@@ -81,7 +81,7 @@ A mnemonic to help remember the modes is "I Don't Punch Like Mohammed A-Li".
     class="string row"
 %}
 
-## 3 - Phrygian
+## (3) Phrygian
 
 {% include figure.html
     caption="Phrygian mode tetrachords"
@@ -89,7 +89,7 @@ A mnemonic to help remember the modes is "I Don't Punch Like Mohammed A-Li".
     class="string row"
 %}
 
-## 4 - Lydian
+## (4) Lydian
 
 {% include figure.html
     caption="Lydian mode tetrachords"
@@ -97,7 +97,7 @@ A mnemonic to help remember the modes is "I Don't Punch Like Mohammed A-Li".
     class="string row"
 %}
 
-## 5 - Mixolydian
+## (5) Mixolydian
 
 {% include figure.html
     caption="Mixolydian mode tetrachords"
@@ -105,7 +105,7 @@ A mnemonic to help remember the modes is "I Don't Punch Like Mohammed A-Li".
     class="string row"
 %}
 
-## 7 - Locrian
+## (7) Locrian
 
 {% include figure.html
     caption="Locrian mode tetrachords"
