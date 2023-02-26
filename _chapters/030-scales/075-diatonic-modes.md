@@ -55,7 +55,9 @@ A mnemonic to help remember the modes is "I Don't Punch Like Mohammed A-Li".
 
 </div>
 
-## 1 - Ionian - the major scale
+## Reference modes
+
+### (1) Ionian - major
 
 {% include figure.html
     caption="Ionian mode tetrachords"
@@ -63,7 +65,7 @@ A mnemonic to help remember the modes is "I Don't Punch Like Mohammed A-Li".
     class="string row"
 %}
 
-## 6 - Aeolian - natural minor
+### (6) Aeolian - minor
 
 {% include figure.html
     caption="Aeolian mode tetrachords"
