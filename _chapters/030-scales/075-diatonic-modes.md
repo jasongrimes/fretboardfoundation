@@ -73,15 +73,15 @@ which is responsible for the mode's unique sound and feel.
 ### (1) Ionian - major
 
 {% include figure.html
-    caption="Ionian mode tetrachords"
-    url="/assets/figures/tetrachords/major-tetrachords.svg"
-    class="string row"
-%}
-
-{% include figure.html
     caption="C Ionian tetrachords on 5th and 6th strings."
     url="/assets/figures/modes/C-ionian.svg"
     class="chord row"
+%}
+
+{% include figure.html
+    caption="Ionian mode tetrachords"
+    url="/assets/figures/tetrachords/major-tetrachords.svg"
+    class="string row"
 %}
 
 Since the Ionian mode is the same as the major scale,
@@ -98,15 +98,15 @@ play a C major chord and then play the tetrachord starting on C.
 ### (6) Aeolian - minor
 
 {% include figure.html
-    caption="Aeolian mode tetrachords"
-    url="/assets/figures/tetrachords/natural-minor-tetrachords.svg"
-    class="string row"
-%}
-
-{% include figure.html
     caption="A Aeolian tetrachords on 5th and 6th strings."
     url="/assets/figures/modes/A-aeolian.svg"
     class="chord row"
+%}
+
+{% include figure.html
+    caption="Aeolian mode tetrachords"
+    url="/assets/figures/tetrachords/natural-minor-tetrachords.svg"
+    class="string row"
 %}
 
 ## (2) Dorian
