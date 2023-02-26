@@ -103,6 +103,12 @@ play a C major chord and then play the tetrachord starting on C.
     class="string row"
 %}
 
+{% include figure.html
+    caption="A Aeolian tetrachords on 5th and 6th strings."
+    url="/assets/figures/modes/A-aeolian.svg"
+    class="chord row"
+%}
+
 ## (2) Dorian
 
 {% include figure.html
