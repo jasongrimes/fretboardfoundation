@@ -6,8 +6,8 @@ abstract: The diatonic modes are the seven modes of the major scale, including t
 
 ## What are diatonic modes
 
-The diatonic modes are the seven rotations of the major scale,
-with each starting at a different degree of the major scale 
+The diatonic modes are the seven rotations of the major scale, 
+each starting at a different degree of the major scale 
 and wrapping around the end to the beginning.
 
 For example,
