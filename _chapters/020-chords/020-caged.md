@@ -85,7 +85,7 @@ so it stays in one place instead of floating around in space when the fingers ar
 
 If the perfect intonation can't be achieved without the thumb, 
 bring it into play by gently pinching the back of the neck directly behind the fingers, 
-just hard enough that the notes don't go sharp.
+just hard enough that the frets don't buzz.
 
 <!--
 
