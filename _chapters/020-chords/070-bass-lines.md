@@ -1,7 +1,7 @@
 ---
-title: Adding bass lines
+title: Bass lines
 slug: bass
-abstract: Focus on the bass line to hold changes together.
+abstract: Hold chord changes together with a nice bass line.
 ---
 
 ## 1st-string root, 6th-string bass
