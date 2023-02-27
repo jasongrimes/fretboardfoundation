@@ -227,8 +227,21 @@ and then play another Dm.
     class="string row"
 %}
 
+The Phrygian mode describes the harmonic environment of the ii chord.
+
+** Phrygian** is the only diatonic **minor** mode with a **b2**.
+
 The b2 interval tends to sound "foreign" to Western ears,
 vaguely Arabic or Spanish.
+
+To get familiar with the sound of this mode,
+play a iii chord,
+then play the scale starting from the chord root to the octave above it,
+`3-4-5-6-7-1-2-3`
+(remembering the semitone between 3-4 and 7-1),
+and then play another iii chord.
+Improvise for awhile within those notes,
+dwelling on the 3&#x302; as "home".
 
 ## (4) Lydian
 
