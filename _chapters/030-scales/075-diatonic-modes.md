@@ -57,7 +57,7 @@ A mnemonic to help remember the modes is "I Don't Punch Like Mohammed A-Li".
 
 ## Reference modes
 
-A simple way look at modes is to first determine if they are major or minor
+A simple way get familiar with modes is to first determine if they are major or minor
 (having a 3&#x302; or b3&#x302;)
 and then compare them to a major or minor "reference mode".
 
