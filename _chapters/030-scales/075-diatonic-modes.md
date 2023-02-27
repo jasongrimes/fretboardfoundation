@@ -148,7 +148,7 @@ Compare the assembled tetrachords to Ionian to quickly identify the intervals.
 
 {% include figure.html
     caption="Aeolian mode tetrachords relative to keycenter"
-    url="/assets/figures/tetrachords/6-aeolian.svg"
+    url="/assets/figures/modes/6-aeolian.svg"
     class="string row"
 %}
 
