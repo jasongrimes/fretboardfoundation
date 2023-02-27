@@ -200,7 +200,11 @@ then play the scale starting from the chord root to the octave above it,
 (remembering the semitone between 3-4 and 7-1),
 and then play another ii chord.
 Improvise for awhile within those notes,
-making a point of dwelling on the 2&#x302; as "home".
+dwelling on the 2&#x302; as "home".
+Pay particular attention to the unique sound of the natural 6 in this mode.
+In D Dorian (aka the key of C major),
+it's the B note.
+This sound is the defining characteristic of the Dorian mode.
 
 To compare the sound of this mode to others in the key of C major,
 play a Dm chord with its root on the 5th string 5th fret,
