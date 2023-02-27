@@ -125,8 +125,13 @@ play a vi chord in a major key,
 then play the major scale tones ascending from the root note of the chord (6&#x302;)
 to the 6&#x302; an octave above,
 and ending with another vi chord.
+Then improvise for awhile within those notes,
+making a point of dwelling on the 6&#x302; as "home".
 
-
+To hear the sound of this mode in the context of C major,
+play an Am chord with its root on the open 5th string,
+and play the tetrachord on the 5th and 6th strings,
+as shown.
 
 
 ## (2) Dorian
