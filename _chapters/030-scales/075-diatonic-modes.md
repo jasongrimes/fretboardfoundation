@@ -92,9 +92,6 @@ Minor intervals can then be found one fret below the major ones.
 
 Compare any tetrachord to this mode to quickly identify the intervals of its scale degrees. 
 
-To practice in the key of C,
-play a C major chord and then play the tetrachord starting on C.
-
 ### (6) Aeolian - minor
 
 {% include figure.html
