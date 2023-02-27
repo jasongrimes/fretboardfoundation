@@ -104,11 +104,11 @@ The Ionian mode is the major scale.
 It describes the harmonic environment of the 
 **I chord**.
 
-Since the Ionian mode is the major scale,
+As the major scale,
 it's the ultimate reference mode.
 All scales in Western music are implicitly compared against this mode,
 because it describes every major and perfect interval.
-Minor intervals can then be found one fret below the major ones.
+The minor intervals are then one fret below.
 
 Compare any tetrachord to this mode to quickly identify the intervals of its scale degrees. 
 
