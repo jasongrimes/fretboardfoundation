@@ -76,11 +76,11 @@ it's much easier to remember that Phrygian is "a minor with a b2" rather than th
 
 This is an example of the memory technique "chunking".
 By learning the natural minor mode well,
-we can then learn other minor modes as 
+it becomes one "chunk".
+We can then learn other minor modes as 
 "minor with one difference",
-essentially using two "chunks" in memory (Phrygian is "minor" with "b2")
-to represent the mode,
-rather than seven "things" (Phrygian is `1-b2-b3-4-5-b6-b7`).
+essentially holding two "chunks" in memory to define Phrygian ("minor" and "b2"),
+rather than seven "chunks" (`1-b2-b3-4-5-b6-b7`).
 
 ### (1) Ionian - major
 
