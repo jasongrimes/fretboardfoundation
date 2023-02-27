@@ -118,6 +118,7 @@ It describes the harmonic environment of the vi chord
 compared to the Ionian mode.
 
 The b3 is the sound of a minor mode.
+
 The b7 is a whole tone below the tonic rather than being a leading tone.
 The absence of a leading tone is the cause of all the mischief with harmonic and melodic minor scales.
 See {% include chapter-link.html slug="minor-scales" %}
