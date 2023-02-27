@@ -227,6 +227,9 @@ and then play another Dm.
     class="string row"
 %}
 
+The b2 interval tends to sound "foreign" to Western ears,
+vaguely Arabic or Spanish.
+
 ## (4) Lydian
 
 {% include figure.html
@@ -240,6 +243,12 @@ and then play another Dm.
     url="/assets/figures/tetrachords/lydian-tetrachords.svg"
     class="string row"
 %}
+
+The #4 is a tritone,
+enharmonic with the b5 which is well-known as a dissonant tone.
+But sometimes,
+as in Lydian,
+it can evoke a brighter and dreamier sound.
 
 ## (5) Mixolydian
 
@@ -255,6 +264,8 @@ and then play another Dm.
     class="string row"
 %}
 
+
+
 ## (7) Locrian
 
 {% include figure.html
@@ -268,3 +279,8 @@ and then play another Dm.
     url="/assets/figures/tetrachords/locrian-tetrachords.svg"
     class="string row"
 %}
+
+Locrian is a disagreeable sort of mode.
+It flattens almost everything.
+It's rumored to be popular among heavy metal guitarists because of its dissonance,
+but examples are hard to find.
