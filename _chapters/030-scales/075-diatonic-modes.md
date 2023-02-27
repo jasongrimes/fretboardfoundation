@@ -100,6 +100,10 @@ rather than seven "chunks" (`1-b2-b3-4-5-b6-b7`).
     class="string row"
 %}
 
+The Ionian mode is the major scale.
+It describes the harmonic environment of the 
+**I chord**.
+
 Since the Ionian mode is the major scale,
 it's the ultimate reference mode.
 All scales in Western music are implicitly compared against this mode,
