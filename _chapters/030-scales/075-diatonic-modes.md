@@ -176,7 +176,7 @@ play an Am chord with its root on the open 5th string,
 assemble the tetrachord on the 5th and 6th strings starting from the root of the chord,
 and then play another Am.
 
-## (2) Dorian
+## ii: Dorian
 
 {% include figure.html
     caption="D Dorian tetrachords relative to C major on bottom strings."
@@ -216,7 +216,7 @@ play a Dm chord with its root on the 5th string 5th fret,
 assemble the tetrachord on the 5th and 6th strings starting from the root of the chord,
 and then play another Dm.
 
-## (3) Phrygian
+## iii: Phrygian
 
 {% include figure.html
     caption="E Phrygian tetrachords relative to C major on bottom strings."
@@ -259,7 +259,7 @@ play an Em chord with its root on the 5th string 7th fret,
 assemble the tetrachord on the 5th and 6th strings starting from the root of the chord,
 and then play another Em.
 
-## (4) Lydian
+## IV: Lydian
 
 {% include figure.html
     caption="F Lydian tetrachords relative to C major on bottom strings."
@@ -306,7 +306,7 @@ play an F chord with its root on the 5th string 8th fret,
 assemble the tetrachord on the 5th and 6th strings starting from the root of the chord,
 and then play another F.
 
-## (5) Mixolydian
+## V: Mixolydian
 
 {% include figure.html
     caption="G Mixolydian tetrachords relative to C major on bottom strings."
@@ -354,7 +354,7 @@ assemble the tetrachord on the 5th and 6th strings starting from the root of the
 and then play another F.
 
 
-## (7) Locrian
+## vii: Locrian
 
 {% include figure.html
     caption="B Locrian tetrachords relative to C major on bottom strings."
