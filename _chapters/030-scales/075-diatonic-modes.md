@@ -126,12 +126,24 @@ play a C major chord and then play the tetrachord starting on C.
 ## (3) Phrygian
 
 {% include figure.html
+    caption="E Phrygian tetrachords relative to C major on bottom strings."
+    url="/assets/figures/modes/E-phrygian.svg"
+    class="chord row"
+%}
+
+{% include figure.html
     caption="Phrygian mode tetrachords"
     url="/assets/figures/tetrachords/phrygian-tetrachords.svg"
     class="string row"
 %}
 
 ## (4) Lydian
+
+{% include figure.html
+    caption="F Lydian tetrachords relative to C major on bottom strings."
+    url="/assets/figures/modes/F-lydian.svg"
+    class="chord row"
+%}
 
 {% include figure.html
     caption="Lydian mode tetrachords"
@@ -142,12 +154,24 @@ play a C major chord and then play the tetrachord starting on C.
 ## (5) Mixolydian
 
 {% include figure.html
+    caption="G Mixolydian tetrachords relative to C major on bottom strings."
+    url="/assets/figures/modes/G-mixolydian.svg"
+    class="chord row"
+%}
+
+{% include figure.html
     caption="Mixolydian mode tetrachords"
     url="/assets/figures/tetrachords/mixolydian-tetrachords.svg"
     class="string row"
 %}
 
 ## (7) Locrian
+
+{% include figure.html
+    caption="B Locrian tetrachords relative to C major on bottom strings."
+    url="/assets/figures/modes/B-locrian.svg"
+    class="chord row"
+%}
 
 {% include figure.html
     caption="Locrian mode tetrachords"
