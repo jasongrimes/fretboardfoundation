@@ -67,8 +67,10 @@ is the major reference mode.
 Aeolian, the natural minor scale,
 is the minor reference mode.
 
-Each of the other modes differs from Ionian or Aeolian by only a single tone,
-which creates the mode's unique sound and feel.
+Each of the other modes differs from Ionian or Aeolian by only a single interval
+(except the dissonant Locrian,
+which flattens every Ionian interval *but* one).
+This single interval difference creates the mode's unique sound and feel.
 
 We can focus on these small differences to summarize the mode in our mind.
 For example, 
@@ -353,7 +355,6 @@ play an F chord with its root on the 5th string 8th fret,
 assemble the tetrachord on the 5th and 6th strings starting from the root of the chord,
 and then play another F.
 
-
 ## vii: Locrian
 
 {% include figure.html
@@ -374,8 +375,23 @@ The Locrian mode describes the harmonic environment of the
 **Locrian** is the only diatonic 
 **minor** mode with a **b5**.
 
-
 Locrian is a disagreeable sort of mode.
-It flattens almost everything.
+Compared to Ionian,
+it flattens every degree but the 4&#x302;.
 It's rumored to be popular among heavy metal guitarists because of its dissonance,
 but examples are hard to find.
+
+To get familiar with the sound of this mode,
+play a vii chord,
+then play the parent major scale starting from the chord root to the octave above it,
+`7-1-2-3-4-5-6-7-1`
+(remembering the semitone between 3-4 and 7-1),
+and then play another vii chord.
+Improvise for awhile within those notes,
+dwelling on the 7&#x302; as "home".
+
+To compare the sound of this mode to others in the key of C major,
+play a Bdim chord with its root on the 5th string 2nd fret,
+assemble the tetrachord on the 5th and 6th strings starting from the root of the chord,
+and then play another Bdim.
+
