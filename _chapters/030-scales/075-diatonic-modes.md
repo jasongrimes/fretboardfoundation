@@ -128,23 +128,23 @@ To get familiar with the sound of the Aeolian mode,
 play a vi chord in a major key,
 then starting from the root note of the vi chord,
 6&#x302;,
-play the major scale ascending to the 6&#x302; an octave above,
+play the major scale ascending from the 6&#x302; to the octave above it,
+`6-7-1-2-3-4-5-6`
+(remembering the semitone between 3-4 and 7-1),
 and then play another vi chord.
 Improvise for awhile within those notes,
 making a point of dwelling on the 6&#x302; as "home".
 
-To hear the sound of this mode in the key of C major,
-play an Am chord with its root on the open 5th string.
-Then assemble the tetrachord on the 5th and 6th strings by counting up the degrees of the major scale,
-`6-7-1-2-3-4-5-6`
-(remembering the semitone between 3-4 and 7-1),
-as shown in the diagram.
-
 In this way,
-we don't have to memorize the shapes of all the modes' tetrachords,
-we just have to know the major scale.
+we don't have to memorize the shapes of all the tetrachords of all the modes,
+we just have to memorize the major scale.
 
 Then compare the assembled tetrachords to the Ionian tetrachord to identify the intervals.
+
+To hear the sound of this mode in the key of C major,
+play an Am chord with its root on the open 5th string,
+assemble the tetrachord by continuing the major scale from the root of the chord,
+as shown in the diagram.
 
 
 ## (2) Dorian
