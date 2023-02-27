@@ -70,6 +70,18 @@ is the minor reference mode.
 Each of the other modes differs from Ionian or Aeolian by only a single tone,
 which creates the mode's unique sound and feel.
 
+We can focus on these small differences to summarize the mode in our mind.
+For example, 
+it's much easier to remember that Phrygian is "a minor with a b2" rather than that it has scale degrees `1-b2-b3-4-5-b6-b7`.
+
+This is an example of the memory technique "chunking".
+By learning the natural minor mode well,
+we can then learn other minor modes as 
+"minor with one difference",
+essentially using two "chunks" in memory (Phrygian is "minor" with "b2")
+to represent the mode,
+rather than seven "things" (Phrygian is `1-b2-b3-4-5-b6-b7`).
+
 ### (1) Ionian - major
 
 {% include figure.html
