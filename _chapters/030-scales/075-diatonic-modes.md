@@ -189,6 +189,10 @@ and then play another Am.
     class="string row"
 %}
 
+The Dorian mode describes the harmonic environment of the ii chord.
+
+Dorian is the only diatonic **minor** mode with a **natural 6**.
+
 ## (3) Phrygian
 
 {% include figure.html
