@@ -1,7 +1,7 @@
 ---
 title: Diatonic modes
 slug: diatonic-modes
-abstract: The seven modes of the major scale, including the major ("Ionian") and natural minor ("Aeolian") already covered. The modes describe the harmonic environment of the diatonic chords.
+abstract: The seven modes of the major scale, including the major ("Ionian") and natural minor ("Aeolian") already covered, describe the harmonic environments of the diatonic chords.
 ---
 
 ## What are diatonic modes
