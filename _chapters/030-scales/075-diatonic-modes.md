@@ -92,8 +92,8 @@ Minor intervals can then be found one fret below the major ones.
 
 Compare any tetrachord to this mode to quickly identify the intervals of its scale degrees. 
 
-The Ionian tetrachord shape should be memorized.
-It allows us to almost immediately identify the interval between any two notes up to an octave apart on the fretboard.
+The Ionian mode should be memorized.
+It allows us to immediately identify the interval between any two notes up to an octave apart on the fretboard.
 
 ### (6) Aeolian - minor
 
