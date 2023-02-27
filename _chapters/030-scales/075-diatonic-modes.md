@@ -191,7 +191,21 @@ and then play another Am.
 
 The Dorian mode describes the harmonic environment of the ii chord.
 
-Dorian is the only diatonic **minor** mode with a **natural 6**.
+**Dorian** is the only diatonic **minor** mode with a **natural 6**.
+
+To get familiar with the sound of this mode,
+play a ii chord,
+then play the scale starting from the chord root to the octave above it,
+`2-3-4-5-6-7-1-2`
+(remembering the semitone between 3-4 and 7-1),
+and then play another ii chord.
+Improvise for awhile within those notes,
+making a point of dwelling on the 2&#x302; as "home".
+
+To compare the sound of this mode to others in the key of C major,
+play a Dm chord with its root on the 5th string 5th fret,
+assemble the tetrachord on the 5th and 6th strings starting from the root of the chord,
+and then play another Dm.
 
 ## (3) Phrygian
 
