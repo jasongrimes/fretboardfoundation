@@ -141,8 +141,20 @@ We just have to memorize the major scale and the Ionian tetrachord.
 Compare the assembled tetrachords to Ionian to quickly identify the intervals.
 
 {% include figure.html
+    caption="Aeolian mode tetrachords"
+    url="/assets/figures/tetrachords/natural-minor-tetrachords.svg"
+    class="string row"
+%}
+
+{% include figure.html
     caption="Ionian mode tetrachords"
     url="/assets/figures/tetrachords/major-tetrachords.svg"
+    class="string row"
+%}
+
+{% include figure.html
+    caption="Aeolian mode tetrachords"
+    url="/assets/figures/tetrachords/natural-minor-tetrachords.svg"
     class="string row"
 %}
 
