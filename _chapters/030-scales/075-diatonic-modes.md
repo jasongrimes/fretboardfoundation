@@ -120,6 +120,14 @@ The absence of a leading tone is the cause of all the mischief with harmonic and
 See {% include chapter-link.html slug="minor-scales" %}
 for details.
 
+To get familiar with the sound of the Aeolian mode,
+play a vi chord in a major key,
+then play the major scale tones ascending from the root note of the chord (6&#x302;)
+to the 6&#x302; an octave above,
+and ending with another vi chord.
+
+
+
 
 ## (2) Dorian
 
