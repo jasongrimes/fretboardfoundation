@@ -109,7 +109,7 @@ It allows us to almost immediately know the interval between any two notes withi
     class="string row"
 %}
 
-The Aeolian mode is the same as the natural minor scale.
+The Aeolian mode is the natural minor scale.
 
 It describes the harmonic environment of the vi chord
 (or the i chord in a minor key).
