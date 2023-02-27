@@ -61,11 +61,11 @@ A simple way look at modes is to first determine if they are major or minor
 (having a 3&#x302; or b3&#x302;)
 and then compare them to a major or minor "reference mode".
 
-Ionian is the major scale,
-so it's the major reference mode.
+Ionian, the major scale,
+is the major reference mode.
 
-Aeolian is the natural minor scale.
-It's the reference against which all minor modes can be compared.
+Aeolian, the natural minor scale,
+is the minor reference mode.
 
 Each of the other modes differs from Ionian or Aeolian by only a single tone,
 which is responsible for the mode's unique sound and feel.
@@ -110,6 +110,12 @@ play a C major chord and then play the tetrachord starting on C.
 %}
 
 ## (2) Dorian
+
+{% include figure.html
+    caption="D Dorian tetrachords relative to C major on bottom strings."
+    url="/assets/figures/modes/D-dorian.svg"
+    class="chord row"
+%}
 
 {% include figure.html
     caption="Dorian mode tetrachords"
