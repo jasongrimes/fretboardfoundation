@@ -84,7 +84,7 @@ which creates the mode's unique sound and feel.
     class="string row"
 %}
 
-Since the Ionian mode is the same as the major scale,
+Since the Ionian mode is the major scale,
 it's the ultimate reference mode.
 All scales in Western music are implicitly compared against this mode,
 because it describes every major and perfect interval.
