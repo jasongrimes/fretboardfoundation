@@ -147,7 +147,7 @@ Compare the assembled tetrachords to Ionian to quickly identify the intervals.
 %}
 
 {% include figure.html
-    caption="Aeolian mode tetrachords relative to the tonic of the key"
+    caption="Aeolian mode tetrachords relative to keycenter"
     url="/assets/figures/tetrachords/natural-minor-tetrachords.svg"
     class="string row"
 %}
