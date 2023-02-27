@@ -68,7 +68,7 @@ Aeolian, the natural minor scale,
 is the major reference mode.
 
 Each of the other modes differs from Ionian or Aeolian by only a single tone,
-which is responsible for the mode's unique sound and feel.
+which creates the mode's unique sound and feel.
 
 ### (1) Ionian - major
 
