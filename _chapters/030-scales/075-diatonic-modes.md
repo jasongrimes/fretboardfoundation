@@ -233,7 +233,7 @@ and then play another Dm.
 The Phrygian mode describes the harmonic environment of the 
 **iii chord**.
 
-**Phrygian** is the only diatonic **minor** mode with a **b2**.
+**Phrygian** is a diatonic **minor** mode with a **b2**.
 
 The b2 interval tends to sound "foreign" to Western ears,
 vaguely Arabic or Spanish.
@@ -323,7 +323,7 @@ and then play another F.
 The Mixolydian mode describes the harmonic environment of the 
 **V chord**.
 
-** Mixolydian** is the only diatonic 
+**Mixolydian** is the only diatonic 
 **major** mode with a **b7**.
 
 The b7 interval is kind of a gritty sound.
@@ -367,6 +367,13 @@ and then play another F.
     url="/assets/figures/tetrachords/locrian-tetrachords.svg"
     class="string row"
 %}
+
+The Locrian mode describes the harmonic environment of the 
+**vii chord**.
+
+**Locrian** is the only diatonic 
+**minor** mode with a **b5**.
+
 
 Locrian is a disagreeable sort of mode.
 It flattens almost everything.
