@@ -136,8 +136,8 @@ making a point of dwelling on the 6&#x302; as "home".
 To hear the sound of this mode in the key of C major,
 play an Am chord with its root on the open 5th string.
 Then assemble the tetrachord on the 5th and 6th strings by counting up the degrees of the major scale,
-`6-7-1-2-3-4-5-6`,
-remembering the semitone between 3-4 and 7-1,
+`6-7-1-2-3-4-5-6`
+(remembering the semitone between 3-4 and 7-1),
 as shown in the diagram.
 
 In this way,
