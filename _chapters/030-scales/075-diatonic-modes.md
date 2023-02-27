@@ -87,8 +87,8 @@ which is responsible for the mode's unique sound and feel.
 Since the Ionian mode is the same as the major scale,
 it's the ultimate reference mode.
 All scales in Western music are implicitly compared against this mode,
-because every degree is a major or perfect interval.
-Minor intervals can be found one fret below the major ones.
+because it describes every major and perfect interval.
+Minor intervals can then be found one fret below the major ones.
 
 Compare any tetrachord to this mode to quickly identify the intervals of its scale degrees. 
 
