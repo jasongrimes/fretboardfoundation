@@ -73,7 +73,7 @@ which is responsible for the mode's unique sound and feel.
 ### (1) Ionian - major
 
 {% include figure.html
-    caption="C Ionian tetrachords on 5th and 6th strings."
+    caption="C Ionian tetrachords on bottom strings."
     url="/assets/figures/modes/C-ionian.svg"
     class="chord row"
 %}
