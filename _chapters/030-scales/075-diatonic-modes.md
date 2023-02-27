@@ -127,7 +127,7 @@ It describes the harmonic environment of the
 **vi chord**
 (or the i chord in a minor key).
 
-**Aeolian has a b3, b6, and b7**,
+**Aeolian**, natural minor, has a **b3, b6, and b7**,
 compared to the Ionian mode.
 
 The b3 is the sound of a minor mode.
