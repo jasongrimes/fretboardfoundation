@@ -123,7 +123,8 @@ It allows us to immediately identify the interval between any two notes up to an
 
 The Aeolian mode is the natural minor scale.
 
-It describes the harmonic environment of the vi chord
+It describes the harmonic environment of the 
+**vi chord**
 (or the i chord in a minor key).
 
 **Aeolian has a b3, b6, and b7**,
@@ -189,7 +190,8 @@ and then play another Am.
     class="string row"
 %}
 
-The Dorian mode describes the harmonic environment of the ii chord.
+The Dorian mode describes the harmonic environment of the 
+**ii chord**.
 
 **Dorian** is the only diatonic **minor** mode with a **natural 6**.
 
@@ -204,7 +206,7 @@ dwelling on the 2&#x302; as "home".
 
 Pay particular attention to the unique sound of the natural 6 in this mode.
 It's the 7&#x302; degree of the parent major key.
-In D Dorian (aka the key of C major),
+In D Dorian (the second mode C major),
 it's the B note.
 This sound is the defining characteristic of the Dorian mode.
 
@@ -227,9 +229,10 @@ and then play another Dm.
     class="string row"
 %}
 
-The Phrygian mode describes the harmonic environment of the ii chord.
+The Phrygian mode describes the harmonic environment of the 
+**iii chord**.
 
-** Phrygian** is the only diatonic **minor** mode with a **b2**.
+**Phrygian** is the only diatonic **minor** mode with a **b2**.
 
 The b2 interval tends to sound "foreign" to Western ears,
 vaguely Arabic or Spanish.
@@ -242,6 +245,17 @@ then play the scale starting from the chord root to the octave above it,
 and then play another iii chord.
 Improvise for awhile within those notes,
 dwelling on the 3&#x302; as "home".
+
+Pay particular attention to the unique sound of the b2 in this mode.
+It's the 4&#x302; degree of the parent major key.
+In E Phrygian (the third mode of C major),
+it's the F note.
+This sound is the defining characteristic of the Phrygian mode.
+
+To compare the sound of this mode to others in the key of C major,
+play an Em chord with its root on the 5th string 7th fret,
+assemble the tetrachord on the 5th and 6th strings starting from the root of the chord,
+and then play another Em.
 
 ## (4) Lydian
 
@@ -257,11 +271,37 @@ dwelling on the 3&#x302; as "home".
     class="string row"
 %}
 
+The Lydian mode describes the harmonic environment of the 
+**IV chord**.
+
+**Lydian** is the only diatonic 
+**major** mode with a **#4**.
+
 The #4 is a tritone,
 enharmonic with the b5 which is well-known as a dissonant tone.
 But sometimes,
 as in Lydian,
 it can evoke a brighter and dreamier sound.
+
+To get familiar with the sound of this mode,
+play a IV chord,
+then play the scale starting from the chord root to the octave above it,
+`4-5-6-7-1-2-3-4`
+(remembering the semitone between 3-4 and 7-1),
+and then play another IV chord.
+Improvise for awhile within those notes,
+dwelling on the 4&#x302; as "home".
+
+Pay particular attention to the unique sound of the #4 in this mode.
+It's the 7&#x302; degree of the parent major key.
+In F Lydian (the fourth mode of C major),
+it's the B note.
+This sound is the defining characteristic of the Phrygian mode.
+
+To compare the sound of this mode to others in the key of C major,
+play an F chord with its root on the 5th string 8th fret,
+assemble the tetrachord on the 5th and 6th strings starting from the root of the chord,
+and then play another F.
 
 ## (5) Mixolydian
 
