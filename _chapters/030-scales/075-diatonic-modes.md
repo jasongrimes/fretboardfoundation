@@ -82,7 +82,7 @@ We can then learn other minor modes as
 essentially holding two "chunks" in memory to define Phrygian ("minor" and "b2"),
 rather than seven "chunks" (`1-b2-b3-4-5-b6-b7`).
 
-### (1) Ionian - major
+### I: Ionian - major
 
 {% include figure.html
     caption="C Ionian tetrachords on bottom strings."
@@ -107,7 +107,7 @@ Compare any tetrachord to this mode to quickly identify the intervals of its sca
 The Ionian mode should be memorized.
 It allows us to immediately identify the interval between any two notes up to an octave apart on the fretboard.
 
-### (6) Aeolian - minor
+### vi: Aeolian - minor
 
 {% include figure.html
     caption="A Aeolian tetrachords relative to C major on bottom strings."
