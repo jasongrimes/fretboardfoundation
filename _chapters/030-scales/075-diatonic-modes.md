@@ -109,7 +109,7 @@ As the major scale,
 it's the ultimate reference mode.
 All scales in Western music are implicitly compared against this mode,
 because it describes every major and perfect interval.
-The minor intervals are then found one fret below the major ones.
+The minor intervals are then found one fret below them.
 
 Compare any tetrachord to this mode to quickly identify the intervals of its scale degrees. 
 
