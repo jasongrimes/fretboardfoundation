@@ -16,8 +16,10 @@ The second mode of C major has the notes `D-E-F-G-A-B-C-D`,
 and the third mode `E-F-G-A-B-C-D-E`.
 
 While the different modes have the same notes, 
-by starting on a different note they have a different tonal center,
-and the scale degree intervals are different because they are measured from a different note as 1&#x302;.
+they have a different note as the 1&#x302;,
+which changes the tonal center
+and all the scale degree intervals, 
+since they are measured from the 1&#x302;.
 This gives each mode a different sound and feel.
 
 Each mode is intimately linked to the corresponding chord in the harmonized major scale.
