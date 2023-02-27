@@ -106,6 +106,21 @@ Compare any tetrachord to this mode to quickly identify the intervals of its sca
     class="string row"
 %}
 
+The Aeolian mode is the same as the natural minor scale.
+
+It describes the harmonic environment of the vi chord
+(or the i chord in a minor key).
+
+**Aeolian has a b3, b6, and b7**,
+compared to the Ionian mode.
+
+The b3 is the sound of a minor mode.
+The b7 is a whole tone below the tonic rather than being a leading tone.
+The absence of a leading tone is the cause of all the mischief with harmonic and melodic minor scales.
+See {% include chapter-link.html slug="minor-scales" %}
+for details.
+
+
 ## (2) Dorian
 
 {% include figure.html
