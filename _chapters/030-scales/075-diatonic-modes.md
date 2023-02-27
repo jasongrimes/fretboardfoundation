@@ -135,11 +135,12 @@ and then play another vi chord.
 Improvise for awhile within those notes,
 making a point of dwelling on the 6&#x302; as "home".
 
-In this way,
-we don't have to memorize the shapes of all the tetrachords of all the modes,
-we just have to memorize the major scale.
+Assembling modes in this way is easier than memorizing the shapes of all the tetrachords of all the modes.
+We just have to memorize the major scale and the Ionian mode.
 
-Then compare the assembled tetrachords to the Ionian tetrachord to identify the intervals.
+Compare the assembled tetrachords to Ionian to quickly identify the intervals.
+
+
 
 To hear the sound of this mode in the key of C major,
 play an Am chord with its root on the open 5th string,
