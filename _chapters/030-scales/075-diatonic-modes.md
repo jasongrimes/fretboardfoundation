@@ -268,7 +268,7 @@ The b7 interval is kind of a gritty sound.
 It is common in blues,
 and well-known as a way to add dissonance to a chord.
 The interval between the major 3&#x302; and the b7&#x302; is a tritone,
-and the basic shell of a dominant 7 chord.
+and the basic sound of a dominant 7 chord.
 
 
 ## (7) Locrian
