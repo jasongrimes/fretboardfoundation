@@ -197,7 +197,7 @@ The Dorian mode describes the harmonic environment of the
 
 To get familiar with the sound of this mode,
 play a ii chord,
-then play the scale starting from the chord root to the octave above it,
+then play the parent major scale starting from the chord root to the octave above it,
 `2-3-4-5-6-7-1-2`
 (remembering the semitone between 3-4 and 7-1),
 and then play another ii chord.
@@ -208,7 +208,8 @@ Pay particular attention to the unique sound of the natural 6 in this mode.
 It's the 7&#x302; degree of the parent major key.
 In D Dorian (the second mode C major),
 it's the B note.
-This sound is the defining characteristic of the Dorian mode.
+This sound is the defining characteristic of the 
+Dorian mode.
 
 To compare the sound of this mode to others in the key of C major,
 play a Dm chord with its root on the 5th string 5th fret,
@@ -239,7 +240,7 @@ vaguely Arabic or Spanish.
 
 To get familiar with the sound of this mode,
 play a iii chord,
-then play the scale starting from the chord root to the octave above it,
+then play the parent major scale starting from the chord root to the octave above it,
 `3-4-5-6-7-1-2-3`
 (remembering the semitone between 3-4 and 7-1),
 and then play another iii chord.
@@ -250,7 +251,8 @@ Pay particular attention to the unique sound of the b2 in this mode.
 It's the 4&#x302; degree of the parent major key.
 In E Phrygian (the third mode of C major),
 it's the F note.
-This sound is the defining characteristic of the Phrygian mode.
+This sound is the defining characteristic of the 
+Phrygian mode.
 
 To compare the sound of this mode to others in the key of C major,
 play an Em chord with its root on the 5th string 7th fret,
@@ -285,7 +287,7 @@ it can evoke a brighter and dreamier sound.
 
 To get familiar with the sound of this mode,
 play a IV chord,
-then play the scale starting from the chord root to the octave above it,
+then play the parent major scale starting from the chord root to the octave above it,
 `4-5-6-7-1-2-3-4`
 (remembering the semitone between 3-4 and 7-1),
 and then play another IV chord.
@@ -296,7 +298,8 @@ Pay particular attention to the unique sound of the #4 in this mode.
 It's the 7&#x302; degree of the parent major key.
 In F Lydian (the fourth mode of C major),
 it's the B note.
-This sound is the defining characteristic of the Phrygian mode.
+This sound is the defining characteristic of the 
+Lydian mode.
 
 To compare the sound of this mode to others in the key of C major,
 play an F chord with its root on the 5th string 8th fret,
@@ -317,11 +320,38 @@ and then play another F.
     class="string row"
 %}
 
+The Mixolydian mode describes the harmonic environment of the 
+**V chord**.
+
+** Mixolydian** is the only diatonic 
+**major** mode with a **b7**.
+
 The b7 interval is kind of a gritty sound.
 It is common in blues,
 and well-known as a way to add dissonance to a chord.
 The interval between the major 3&#x302; and the b7&#x302; is a tritone,
 and the basic sound of a dominant 7 chord.
+
+To get familiar with the sound of this mode,
+play a V chord,
+then play the parent major scale starting from the chord root to the octave above it,
+`5-6-7-1-2-3-4-5`
+(remembering the semitone between 3-4 and 7-1),
+and then play another V chord.
+Improvise for awhile within those notes,
+dwelling on the 5&#x302; as "home".
+
+Pay particular attention to the unique sound of the b7 in this mode.
+It's the 4&#x302; degree of the parent major key.
+In G Mixolydian (the fifth mode of C major),
+it's the F note.
+This sound is the defining characteristic of the 
+Mixolydian mode.
+
+To compare the sound of this mode to others in the key of C major,
+play an F chord with its root on the 5th string 8th fret,
+assemble the tetrachord on the 5th and 6th strings starting from the root of the chord,
+and then play another F.
 
 
 ## (7) Locrian
