@@ -210,7 +210,7 @@ dwelling on the 2&#x302; as "home".
 
 Pay particular attention to the unique sound of the natural 6 in this mode.
 It's the 7&#x302; degree of the parent major key.
-In D Dorian (the second mode C major),
+In D Dorian (the second mode of C major),
 it's the B note.
 This sound is the defining characteristic of the 
 Dorian mode.
