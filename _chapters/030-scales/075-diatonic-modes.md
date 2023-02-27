@@ -170,10 +170,9 @@ Compare the assembled tetrachords to Ionian to quickly identify the intervals.
     class="string row"
 %}
 
-To hear the sound of this mode in the key of C major,
+To compare the sound of this mode to others in the key of C major,
 play an Am chord with its root on the open 5th string,
-assemble the tetrachord by continuing the major scale from the root of the chord,
-as shown in the diagram,
+assemble the tetrachord on the 5th and 6th strings starting from the root of the chord,
 and then play another Am.
 
 ## (2) Dorian
