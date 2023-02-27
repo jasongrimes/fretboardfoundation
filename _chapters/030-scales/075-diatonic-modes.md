@@ -135,8 +135,8 @@ and then play another vi chord.
 Improvise for awhile within those notes,
 making a point of dwelling on the 6&#x302; as "home".
 
-Assembling modes in this way is easier than memorizing the shapes of all the notes of all the modes.
-We just have to memorize the major scale and the Ionian mode.
+Assembling modes in this way is easier than memorizing the shapes of all the notes of all the modes on the fretboard.
+We just have to memorize the major scale and the Ionian tetrachord.
 
 Compare the assembled tetrachords to Ionian to quickly identify the intervals.
 
