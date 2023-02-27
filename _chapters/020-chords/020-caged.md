@@ -160,7 +160,6 @@ The six symbols represent the six strings of the guitar from lowest pitch to hig
 6-1 from left to right,
 and indicate the number of the finger used to fret each string,
 or an "x" indicating the string is muted.
-
 Finger 1 is the index finger, 
 2 is the middle finger,
 3 is the ring finger,
