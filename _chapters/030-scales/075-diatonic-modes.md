@@ -92,6 +92,9 @@ Minor intervals can then be found one fret below the major ones.
 
 Compare any tetrachord to this mode to quickly identify the intervals of its scale degrees. 
 
+The Ionian tetrachord shape should be memorized.
+It allows us to almost immediately know the interval between any two notes within one octave on the fretboard.
+
 ### (6) Aeolian - minor
 
 {% include figure.html
@@ -122,16 +125,25 @@ for details.
 
 To get familiar with the sound of the Aeolian mode,
 play a vi chord in a major key,
-then play the major scale tones ascending from the root note of the chord (6&#x302;)
-to the 6&#x302; an octave above,
-and ending with another vi chord.
-Then improvise for awhile within those notes,
+then starting from the root note of the vi chord,
+6&#x302;,
+play the major scale ascending to the 6&#x302; an octave above,
+and then play another vi chord.
+Improvise for awhile within those notes,
 making a point of dwelling on the 6&#x302; as "home".
 
-To hear the sound of this mode in the context of C major,
-play an Am chord with its root on the open 5th string,
-and play the tetrachord on the 5th and 6th strings,
-as shown.
+To hear the sound of this mode in the key of C major,
+play an Am chord with its root on the open 5th string.
+Then assemble the tetrachord on the 5th and 6th strings by counting up the degrees of the major scale,
+`6-7-1-2-3-4-5-6`,
+remembering the semitone between 3-4 and 7-1,
+as shown in the diagram.
+
+In this way,
+we don't have to memorize the shapes of all the modes' tetrachords,
+we just have to know the major scale.
+
+Then compare the assembled tetrachords to the Ionian tetrachord to identify the intervals.
 
 
 ## (2) Dorian
