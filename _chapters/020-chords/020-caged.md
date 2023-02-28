@@ -51,7 +51,7 @@ or move it out to the side of the body to allow the first finger to reach down t
 Move the elbow out in front of the body to improve the fingers' reach of the low strings,
 or pull it back to better reach the high strings.
 
-Often, when we are struggling to place our fingers into a challenging chord grip,
+Often when we are struggling to place our fingers into a challenging chord grip,
 the problem can be solved almost magically by simply adjusting the elbow until the position is more comfortable. 
 
 **Keep the fretting wrist at a neutral angle**
