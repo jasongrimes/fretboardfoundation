@@ -790,7 +790,7 @@ because the lowest reachable root note is on the 4th string.
 It's a good effort,
 but it's never going to resonate like a chord with a root on the 5th or 6th strings.
 So the D major shape is often not a chord we want to land on or linger on.
-But since it's the only chord shape with a 4th-string root,
+But as the only chord shape with a 4th-string root,
 it's often in a convenient place for transitioning between other chords.
 
 The conventional grip for this shape is `xx1243`,
@@ -821,7 +821,8 @@ is `2x134x`.
 It's a little unusual,
 with the third in the bass,
 and sometimes it just does not sound right.
-But it sounds amazing when leading to another chord having a bass note one semitone above it,
+But sometimes it sounds amazing,
+especially when leading to another chord with a nearby bass note,
 as when playing a D shape V chord leading to a G shape I chord.
 
 **Practice the D shape with primary chords in the key of C major:**
