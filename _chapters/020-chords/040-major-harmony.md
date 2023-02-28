@@ -250,6 +250,14 @@ The diminished vii is rather practical after all.
 
 ## A shape I chord position
 
+## G shape I chord position
+
+## E shape I chord position
+
+## D shape I chord position
+
+<!--
+
 ## Shapes around a second-string tonic
 
 {% include figure.html 
@@ -373,6 +381,8 @@ The diminished vii is rather practical after all.
     url="/assets/figures/major-key-triads/3-I.svg" 
     class="uke-chord row"
 %}
+
+-->
 
 ## Shapes on the whole fretboard
 
