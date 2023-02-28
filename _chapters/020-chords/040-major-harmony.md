@@ -62,7 +62,7 @@ as they would if composed for singing by a choir of human voices.
 
 A useful,
 movable way to identify fretboard positions is by specifying the CAGED shape used for the I chord,
-resulting in five positions around the neck.
+resulting in five different positions.
 
 ## C shape I chord position
 
