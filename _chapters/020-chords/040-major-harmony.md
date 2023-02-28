@@ -349,138 +349,107 @@ The diminished vii is rather practical after all.
     class="chord row" 
 %}
 
-
 ## E shape I chord position
+
+{% include figure.html
+    caption="I chord in E shape I chord position."
+    url="/assets/figures/major-harmony/E-1.svg" 
+    class="chord row" 
+%}
+
+{% include figure.html
+    caption="ii chord in E shape I chord position."
+    url="/assets/figures/major-harmony/E-2.svg" 
+    class="chord row" 
+%}
+
+{% include figure.html
+    caption="iii chord in E shape I chord position."
+    url="/assets/figures/major-harmony/E-3.svg" 
+    class="chord row" 
+%}
+
+{% include figure.html
+    caption="IV chord in E shape I chord position."
+    url="/assets/figures/major-harmony/E-4.svg" 
+    class="chord row" 
+%}
+
+{% include figure.html
+    caption="V chord in E shape I chord position."
+    url="/assets/figures/major-harmony/E-5.svg" 
+    class="chord row" 
+%}
+
+{% include figure.html
+    caption="vi chord in E shape I chord position."
+    url="/assets/figures/major-harmony/E-6.svg" 
+    class="chord row" 
+%}
+
+{% include figure.html
+    caption="vii chord in E shape I chord position."
+    url="/assets/figures/major-harmony/E-7.svg" 
+    class="chord row" 
+%}
+
+{% include figure.html
+    caption="V7 chord in E shape I chord position."
+    url="/assets/figures/major-harmony/E-5-dom7.svg" 
+    class="chord row" 
+%}
+
 
 ## D shape I chord position
 
-<!--
-
-## Shapes around a second-string tonic
-
-{% include figure.html 
-    caption="Major scale on treble strings with 2nd-string tonic." 
-    url="/assets/figures/major-key-triads/2-major-scale.svg" 
-    class="chord" 
+{% include figure.html
+    caption="I chord in D shape I chord position."
+    url="/assets/figures/major-harmony/D-1.svg" 
+    class="chord row" 
 %}
 
 {% include figure.html
-    caption="I chord in major key with 2nd-string tonic."
-    url="/assets/figures/major-key-triads/2-I.svg" 
-    class="uke-chord row" 
+    caption="ii chord in D shape I chord position."
+    url="/assets/figures/major-harmony/D-2.svg" 
+    class="chord row" 
 %}
 
 {% include figure.html
-    caption="ii chord in major key with 2nd-string tonic."
-    url="/assets/figures/major-key-triads/2-ii.svg" 
-    class="uke-chord row" 
+    caption="iii chord in D shape I chord position."
+    url="/assets/figures/major-harmony/D-3.svg" 
+    class="chord row" 
 %}
 
 {% include figure.html
-    caption="iii chord in major key with 2nd-string tonic."
-    url="/assets/figures/major-key-triads/2-iii.svg" 
-    class="uke-chord row" 
+    caption="IV chord in D shape I chord position."
+    url="/assets/figures/major-harmony/D-4.svg" 
+    class="chord row" 
 %}
 
 {% include figure.html
-    caption="IV chord in major key with 2nd-string tonic."
-    url="/assets/figures/major-key-triads/2-IV.svg" 
-    class="uke-chord row" 
+    caption="V chord in D shape I chord position."
+    url="/assets/figures/major-harmony/D-5.svg" 
+    class="chord row" 
 %}
 
 {% include figure.html
-    caption="V chord in major key with 2nd-string tonic."
-    url="/assets/figures/major-key-triads/2-V.svg" 
-    class="uke-chord row" 
+    caption="vi chord in D shape I chord position."
+    url="/assets/figures/major-harmony/D-6.svg" 
+    class="chord row" 
 %}
 
 {% include figure.html
-    caption="vi chord in major key with 2nd-string tonic."
-    url="/assets/figures/major-key-triads/2-vi.svg" 
-    class="uke-chord row" 
+    caption="vii chord in D shape I chord position."
+    url="/assets/figures/major-harmony/D-7.svg" 
+    class="chord row" 
 %}
 
 {% include figure.html
-    caption="vii chord in major key with 2nd-string tonic."
-    url="/assets/figures/major-key-triads/2-vii.svg" 
-    class="uke-chord row" 
+    caption="V7 chord in D shape I chord position."
+    url="/assets/figures/major-harmony/D-5-dom7.svg" 
+    class="chord row" 
 %}
 
-{% include figure.html
-    caption="V7 chord in major key with 2nd-string tonic."
-    url="/assets/figures/major-key-triads/2-V7.svg" 
-    class="uke-chord row" 
-%}
-
-{% include figure.html
-    caption="I chord in major key with 2nd-string tonic."
-    url="/assets/figures/major-key-triads/2-I.svg" 
-    class="uke-chord row" 
-%}
-
-## Shapes around a third-string tonic
-
-{% include figure.html 
-    caption="Major scale on treble strings with 3rd-string tonic." 
-    url="/assets/figures/major-key-triads/3-major-scale.svg" 
-    class="chord" 
-%}
-
-{% include figure.html
-    caption="I chord in major key with 3rd-string tonic."
-    url="/assets/figures/major-key-triads/3-I.svg" 
-    class="uke-chord row" 
-%}
-
-{% include figure.html
-    caption="ii chord in major key with 3rd-string tonic."
-    url="/assets/figures/major-key-triads/3-ii.svg" 
-    class="uke-chord row" 
-%}
-
-{% include figure.html
-    caption="iii chord in major key with 3rd-string tonic."
-    url="/assets/figures/major-key-triads/3-iii.svg" 
-    class="uke-chord row" 
-%}
-
-{% include figure.html
-    caption="IV chord in major key with 3rd-string tonic."
-    url="/assets/figures/major-key-triads/3-IV.svg" 
-    class="uke-chord row" 
-%}
-
-{% include figure.html
-    caption="V chord in major key with 3rd-string tonic."
-    url="/assets/figures/major-key-triads/3-V.svg" 
-    class="uke-chord row" 
-%}
-
-{% include figure.html
-    caption="vi chord in major key with 3rd-string tonic."
-    url="/assets/figures/major-key-triads/3-vi.svg" 
-    class="uke-chord row" 
-%}
-
-{% include figure.html
-    caption="vii chord in major key with 3rd-string tonic."
-    url="/assets/figures/major-key-triads/3-vii.svg" 
-    class="uke-chord row" 
-%}
-
-{% include figure.html
-    caption="V7 chord in major key with 3rd-string tonic."
-    url="/assets/figures/major-key-triads/3-V7.svg" 
-    class="uke-chord row" 
-%}
-
-{% include figure.html
-    caption="I chord in major key with 3rd-string tonic."
-    url="/assets/figures/major-key-triads/3-I.svg" 
-    class="uke-chord row"
-%}
-
--->
 
 ## Shapes on the whole fretboard
 
