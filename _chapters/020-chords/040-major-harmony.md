@@ -248,6 +248,8 @@ or the 7&#x302; (for a richer diminished triad) as desired.
  
 The diminished vii is rather practical after all. 
 
+## A shape I chord position
+
 ## Shapes around a second-string tonic
 
 {% include figure.html 
