@@ -36,7 +36,7 @@ the diatonic modes are
 (3) Phrygian,
 (4) Lydian,
 (5) Mixolydian,
-(6) Aeolian (the natural minor scale), and 
+(6) Aeolian, and 
 (7) Locrian.
 
 A mnemonic to help remember the modes is "I Don't Punch Like Mohammed A-Li".
