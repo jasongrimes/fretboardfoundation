@@ -83,6 +83,57 @@ If desired, it's straightforward to fill out the chord voicings with bass notes 
 
 The two lowest-pitched strings (5 and 6) have been left out of the diagrams in order to save space.
 
+## C shape I chord position
+
+{% include figure.html
+    caption="I chord in C shape I chord position."
+    url="/assets/figures/major-harmony/C-1.svg" 
+    class="chord row" 
+%}
+
+{% include figure.html
+    caption="ii chord in C shape I chord position."
+    url="/assets/figures/major-harmony/C-2.svg" 
+    class="chord row" 
+%}
+
+{% include figure.html
+    caption="iii chord in C shape I chord position."
+    url="/assets/figures/major-harmony/C-3.svg" 
+    class="chord row" 
+%}
+
+{% include figure.html
+    caption="IV chord in C shape I chord position."
+    url="/assets/figures/major-harmony/C-4.svg" 
+    class="chord row" 
+%}
+
+{% include figure.html
+    caption="V chord in C shape I chord position."
+    url="/assets/figures/major-harmony/C-5.svg" 
+    class="chord row" 
+%}
+
+{% include figure.html
+    caption="vi chord in C shape I chord position."
+    url="/assets/figures/major-harmony/C-6.svg" 
+    class="chord row" 
+%}
+
+{% include figure.html
+    caption="vii chord in C shape I chord position."
+    url="/assets/figures/major-harmony/C-7.svg" 
+    class="chord row" 
+%}
+
+{% include figure.html
+    caption="V7 chord in C shape I chord position."
+    url="/assets/figures/major-harmony/C-5-dom7.svg" 
+    class="chord row" 
+%}
+
+
 ## Shapes around a first-string tonic
 
 {% include figure.html
