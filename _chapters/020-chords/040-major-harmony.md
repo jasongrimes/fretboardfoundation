@@ -114,57 +114,6 @@ resulting in five different positions.
     class="chord row" 
 %}
 
-
-## Shapes around a first-string tonic
-
-{% include figure.html
-    caption="I chord in major key with 1st-string tonic."
-    url="/assets/figures/major-key-triads/1-I.svg" 
-    class="uke-chord row" 
-%}
-
-{% include figure.html
-    caption="ii chord in major key with 1st-string tonic."
-    url="/assets/figures/major-key-triads/1-ii.svg" 
-    class="uke-chord row" 
-%}
-
-{% include figure.html
-    caption="iii chord in major key with 1st-string tonic."
-    url="/assets/figures/major-key-triads/1-iii.svg" 
-    class="uke-chord row" 
-%}
-
-{% include figure.html
-    caption="IV chord in major key with 1st-string tonic."
-    url="/assets/figures/major-key-triads/1-IV.svg" 
-    class="uke-chord row" 
-%}
-
-{% include figure.html
-    caption="V chord in major key with 1st-string tonic."
-    url="/assets/figures/major-key-triads/1-V.svg" 
-    class="uke-chord row" 
-%}
-
-{% include figure.html
-    caption="vi chord in major key with 1st-string tonic."
-    url="/assets/figures/major-key-triads/1-vi.svg" 
-    class="uke-chord row" 
-%}
-
-{% include figure.html
-    caption="vii chord in major key with 1st-string tonic."
-    url="/assets/figures/major-key-triads/1-vii.svg" 
-    class="uke-chord row" 
-%}
-
-{% include figure.html
-    caption="I chord in major key with 1st-string tonic."
-    url="/assets/figures/major-key-triads/1-I.svg" 
-    class="uke-chord row" 
-%}
-
 ## Practicing these chords
 
 ### Ascending and descending
