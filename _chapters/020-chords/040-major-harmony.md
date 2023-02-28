@@ -60,28 +60,9 @@ It also makes for smooth "voice leading",
 meaning the chord tones change only by small intervals from one chord to the next,
 as they would if composed for singing by a choir of human voices.
 
-A useful way to identify fretboard positions is by specifying which string contains the tonic.
-
-The position around the first-string tonic will be presented first.
-
-Here is the major scale with a first-string tonic, on the upper strings.
-(See {% include chapter-link.html slug="major-scale" %} for details.)
-
-{% include figure.html 
-    caption="Major scale on treble strings with 1st-string tonic." 
-    url="/assets/figures/major-key-triads/1-major-scale.svg" 
-    class="chord" 
-%}
-
-We can assemble the diatonic chords using just those notes,
-all residing in position around the first-string tonic.
-
-The following diagrams show diatonic triads around the first-string tonic.
-Minimalist treble-string chord shapes are used for simplification,
-to allow more focus on harmony and less on chord shapes.
-If desired, it's straightforward to fill out the chord voicings with bass notes or full CAGED chord shapes.
-
-The two lowest-pitched strings (5 and 6) have been left out of the diagrams in order to save space.
+A useful,
+movable way to identify fretboard positions is by specifying the CAGED shape used for the I chord,
+resulting in five positions around the neck.
 
 ## C shape I chord position
 
