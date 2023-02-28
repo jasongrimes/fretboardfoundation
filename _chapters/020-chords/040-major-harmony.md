@@ -387,57 +387,51 @@ The diminished vii is rather practical after all.
 ## Shapes on the whole fretboard
 
 {% include figure.html
-    caption="I chord in major key on whole fretboard."
-    url="/assets/figures/major-key-triads/all-I.svg" 
-    class="uke-chord row" 
+    caption="I chord on whole fretboard."
+    url="/assets/figures/major-harmony/fretboard-1.svg" 
+    class="chord row" 
 %}
 
 {% include figure.html
-    caption="ii chord in major key on whole fretboard."
-    url="/assets/figures/major-key-triads/all-ii.svg" 
-    class="uke-chord row" 
+    caption="ii chord on whole fretboard."
+    url="/assets/figures/major-harmony/fretboard-2.svg" 
+    class="chord row" 
 %}
 
 {% include figure.html
-    caption="iii chord in major key on whole fretboard."
-    url="/assets/figures/major-key-triads/all-iii.svg" 
-    class="uke-chord row" 
+    caption="iii chord on whole fretboard."
+    url="/assets/figures/major-harmony/fretboard-3.svg" 
+    class="chord row" 
 %}
 
 {% include figure.html
-    caption="IV chord in major key on whole fretboard."
-    url="/assets/figures/major-key-triads/all-IV.svg" 
-    class="uke-chord row" 
+    caption="IV chord on whole fretboard."
+    url="/assets/figures/major-harmony/fretboard-4.svg" 
+    class="chord row" 
 %}
 
 {% include figure.html
-    caption="V chord in major key on whole fretboard."
-    url="/assets/figures/major-key-triads/all-V.svg" 
-    class="uke-chord row" 
+    caption="V chord on whole fretboard."
+    url="/assets/figures/major-harmony/fretboard-5.svg" 
+    class="chord row" 
 %}
 
 {% include figure.html
-    caption="vi chord in major key on whole fretboard."
-    url="/assets/figures/major-key-triads/all-vi.svg" 
-    class="uke-chord row" 
+    caption="vi chord on whole fretboard."
+    url="/assets/figures/major-harmony/fretboard-6.svg" 
+    class="chord row" 
 %}
 
 {% include figure.html
-    caption="vii chord in major key on whole fretboard."
-    url="/assets/figures/major-key-triads/all-vii.svg" 
-    class="uke-chord row" 
+    caption="vii chord on whole fretboard."
+    url="/assets/figures/major-harmony/fretboard-7.svg" 
+    class="chord row" 
 %}
 
 {% include figure.html
-    caption="V7 chord in major key on whole fretboard."
-    url="/assets/figures/major-key-triads/all-V7.svg" 
-    class="uke-chord row" 
-%}
-
-{% include figure.html
-    caption="I chord in major key on whole fretboard."
-    url="/assets/figures/major-key-triads/all-I.svg" 
-    class="uke-chord row"
+    caption="V7 chord on whole fretboard."
+    url="/assets/figures/major-harmony/fretboard-5-dom7.svg" 
+    class="chord row" 
 %}
 
 
