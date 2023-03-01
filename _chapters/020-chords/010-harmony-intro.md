@@ -404,8 +404,8 @@ with some different combination of sharps or flats.
 
 </div>
 
-See {% include chapter-link.html slug="keys" %} 
-for details and some tricks for determining which notes are in each key.
+See {% include chapter-link.html slug="keys" %} for details,
+and some tricks for determining which notes are in each key.
 
 ## Harmonic function
 
