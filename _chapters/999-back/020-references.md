@@ -8,6 +8,9 @@ class: references
 Berg, C. (1997). *Mastering Guitar Technique: Process and Essence (Classic Guitar).* Mel Bay Publications, Inc.
 [ISBN search](https://en.wikipedia.org/wiki/Special:BookSources?isbn=9781610650588){:#berg-1997}
 
+Berg, C. (2019). *Practicing Music by Design: Historic Virtuosi on Peak Performance* (1st ed.). Routledge.
+[ISBN search](https://en.wikipedia.org/wiki/Special:BookSources?isbn= 9780429576317){:#berg-2019}
+
 Friedland, E. (1995). *Building Walking Bass Lines.* United States: Hal Leonard.
 [ISBN search](https://en.wikipedia.org/wiki/Special:BookSources?isbn=9780793542048){:#friedland-1995}
 
