@@ -64,8 +64,6 @@ See "practicing scales" in {% include chapter-link.html slug="scale-intro" ancho
 
 Here is the major scale assembled in CAGED C form.
 
-The C form expands below the 2nd-string root treble triad.
-
 {% include figure.html
     caption="Major scale in C CAGED form."
     url="/assets/figures/major-scale/major-C.svg"
@@ -77,8 +75,6 @@ with the fourth finger on the 5th-string tonic.
 
 ## A form
 
-The A form expands above the 3rd-string root treble triad.
-
 {% include figure.html
     caption="Major scale in A CAGED form."
     url="/assets/figures/major-scale/major-A.svg"
@@ -89,8 +85,6 @@ Fingering for the A form is mostly straightforward except for the 4 on the 2nd s
 Use the fourth finger to play both the 3 and the 4.
 
 ## G form
-
-The G form expands below the 3rd-string root treble triad.
 
 {% include figure.html
     caption="Major scale in G CAGED form."
@@ -111,8 +105,6 @@ the 7 can also be played by reaching up with the fourth finger on the 4th string
 
 ## E form
 
-The E form expands below the 1st-string root treble triad.
-
 {% include figure.html
     caption="Major scale in E CAGED form."
     url="/assets/figures/major-scale/major-E.svg"
@@ -127,8 +119,6 @@ Move on when it becomes boring,
 but not before.
 
 ## D form
-
-The D form expands above the 2nd-string root treble triad.
 
 {% include figure.html
     caption="Major scale in D CAGED form."
