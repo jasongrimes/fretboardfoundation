@@ -17,7 +17,7 @@ a point of reference and a point of rest,
 and typically use the tonic note more frequently than any other note in the scale.
 
 Music that revolves around a tonic in this way is called "tonical",
-or (confusingly but commonly) "tonal"---see ["tonal" in the glossary](glossary#tonal).
+or (confusingly but commonly) "tonal"---see ["tonal"](glossary#tonal) in the glossary.
 
 
 ## Chords in a major key
