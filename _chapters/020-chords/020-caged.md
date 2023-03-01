@@ -438,15 +438,15 @@ use it to play the primary chords in the key of C major.
 The A minor shape is another common barre chord learned by beginners.
 Played as a barre, the fingering is `x13421`.
 
-There are other grips that can be more comfortable than the barre chord. 
+There are other grips that can be more comfortable than the barre chord.
+
+One comfortable grip is `x1342x`,
+like the barre chord without the top string.
 
 An interesting grip for this shape is `x1x432`.
 This voicing focuses on the treble triad on the top-3 strings,
 which is a root-position closed-voice triad.
 It then adds the root note in the bass.
-
-Another comfortable grip is `x1342x`,
-like the barre chord without the top string.
 
 The treble triads can also be played by themselves: 
 `xxx321` and `xx231x`.
