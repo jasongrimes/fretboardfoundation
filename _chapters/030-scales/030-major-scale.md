@@ -1,5 +1,5 @@
 ---
-title: The major scale
+title: Major scale
 slug: major-scale
 abstract: The foundation of Western music for the past 400 years. 
 ---
