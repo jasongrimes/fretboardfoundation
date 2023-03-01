@@ -50,7 +50,7 @@ Here are the two tetrachords of the major scale.
 
 Both tetrachords of a major scale are the same,
 with intervals **1-2-3-4** (**T-T-S**).
-This is sometimes called the *major tetrachord*.
+This is sometimes called the **major tetrachord**.
 
 ## Practicing scale forms
 
