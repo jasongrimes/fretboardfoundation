@@ -16,8 +16,9 @@ Major key compositions treat the tonic as home,
 a point of reference and a point of rest,
 and typically use the tonic note more frequently than any other note in the scale.
 
-Music that revolves around a tonic in this way is called "tonical",
-or (confusingly but commonly) "tonal"---see ["tonal"](glossary#tonal) in the glossary.
+Music that revolves around a tonic in this way is called "tonical".
+(Or, unfortunately, "tonal". 
+See ["tonal"](glossary#tonal) in the glossary for argument against that usage.)
 
 
 ## Chords in a major key
