@@ -184,9 +184,12 @@ So the book is designed to be read until one gets stuck, confused, or bored,
 and then skimmed ahead to the next section, chapter, or part.
 For example,
 unless you already have an encyclopedic knowledge of CAGED voicings,
-it's probably better to work through just the C CAGED shapes at first,
-and then skip ahead to reading about major harmony,
-rather than trying to grind through scores of CAGED shapes and fingerings before moving on.
+you might want to work through just the C CAGED shapes at first,
+and then skim ahead to the next chapter on major harmony,
+rather than trying to grind through scores of CAGED shapes and fingerings in one sitting.
+In the major harmony chapter,
+if you find you need to learn a couple more chord shapes to play in one of the positions,
+refer back to the CAGED chapter to learn up those specific shapes and then continue on with major key position playing.
 
 Once an overview of the topics has been acquired,
 the book is designed to be used as a reference,
