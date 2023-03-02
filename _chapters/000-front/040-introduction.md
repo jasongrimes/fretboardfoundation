@@ -25,7 +25,7 @@ Musical staff notation is not as well suited to guitar as it is to other instrum
 in part because on guitar 
 the exact same pitch can be found at multiple places on the fretboard.
 
-Therefore,
+As a result of these differences,
 on guitar it can be more efficient to study music by focusing more on intervals,
 and less on note names and staff notation.
 
