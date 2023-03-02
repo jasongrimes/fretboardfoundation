@@ -101,7 +101,7 @@ here's a quick summary of some of Berg's findings about the most efficient ways 
 
 ### Chunking
 
-"Chunking" means breaking information into constituent *chunks*,
+"Chunking" means breaking information into constituent "chunks",
 learning each chunk separately,
 then learning them in combination as a larger chunk.
 
