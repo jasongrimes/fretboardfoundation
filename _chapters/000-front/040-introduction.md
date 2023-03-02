@@ -170,8 +170,7 @@ It's more of an encyclopedia.
 Or maybe a grimoire.
 
 The best way to get started with this book is with an overview of the subject matter.
-Read the {% include chapter-link.html slug="toc" %},
-if you haven't already.
+Read the {% include chapter-link.html slug="toc" %} first.
 
 The topics in this book are presented in a deliberate order,
 with a narrative through line that could be read from beginning to end.
