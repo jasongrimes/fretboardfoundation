@@ -145,6 +145,18 @@ incorporating visualization into practice is reported to dramatically increase t
 
 ### Variety in repetition
 
+Research shows that repeatedly practicing the same thing over and over is actually harmful in several ways.
+Instead of mindless repetition,
+a more effective approach is to analyze a particular subject and practice it from multiple angles.
+
+Varying rhythm, dynamics, accents, 
+and articulation
+keeps practice interesting,
+helps to solve technical problems,
+improves the ability to effect musical nuance,
+and trains us to make sophisticated adjustments in real time to adapt to unexpected circumstances.
+
+
 ## How to use this book
 
 This book does not present a step-by-step method for learning guitar.
