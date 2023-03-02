@@ -185,8 +185,8 @@ and then skimmed ahead to the next section, chapter, or part.
 
 For example,
 unless you already have an encyclopedic knowledge of CAGED voicings,
-after working through the C CAGED shapes,
-you might want to digest them for awhile 
+after working through the C CAGED shapes
+you might want to digest them for awhile,
 rather than trying to grind through scores of CAGED shapes and fingerings in one sitting.
 So skim ahead to the next chapter on major harmony.
 Later on,
