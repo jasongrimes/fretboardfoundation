@@ -41,7 +41,7 @@ That means listening, essentially,
 though "tuning" might be more precise.
 Listening, making adjustments, and listening again,
 in a feedback loop until the tone suits our taste.
-Without this basic habit,
+Without this fundamental habit,
 it's hard to make music. 
 
 The simplest way to practice using our ears,
