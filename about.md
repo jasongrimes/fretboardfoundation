@@ -13,7 +13,8 @@ and the [author page](author) for more about me.
 The book is freely available on this website, 
 and will remain so after it is completed. 
 
-Though still in its early stages, 
+Though the book is not yet complete,
+the core chapters are available.
 I hope it is already useful to some. 
 I aim for the book to be able to stand on its own as a useful resource during the entire writing process, 
 even without the support of pages yet unwritten.
