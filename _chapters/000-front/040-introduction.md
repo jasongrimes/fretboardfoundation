@@ -191,7 +191,7 @@ rather than trying to grind through scores of CAGED shapes and fingerings in one
 So skim ahead to the next chapter on major harmony.
 Later on,
 if you find you need to learn a couple more chord shapes to play in one of the major key positions,
-refer back to the CAGED chapter to learn those specific shapes.
+refer back to the CAGED chapter to study those shapes.
 
 Once an overview of the topics has been acquired,
 the book is designed to be used as a reference,
