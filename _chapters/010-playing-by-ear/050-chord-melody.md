@@ -16,9 +16,9 @@ and listen for the melody in the chord tones.
 Begin emphasizing the melody notes in the chords,
 and then gradually let the melody lead on its own,
 adding in non-chord tones as necessary,
-playing chords more sparsely and intermittently.
+playing chords more sparsely.
 
-*Treble triads* can be used to improvise freely with chords. 
+"Treble triads" can be used to improvise freely with chords. 
 See {% include chapter-link.html slug="caged" %} for details.
 
 A small trick for filling out a melody on the highest pitched string
