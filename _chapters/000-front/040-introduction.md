@@ -107,7 +107,18 @@ Trying to learn more than 5-7 new things at a time will result in learning none 
 
 ### Slow practice
 
+Berg presents neuroscience research and the words of old masters
+to argue convincingly that **the slower we practice,
+the faster we advance**.
 
+The main point is to carefully avoid mistakes in early practice,
+and addressing mistakes by doing it the correct way many multiples of times,
+so the correct information encodes itself into the physical structures of our brain.
+For a variety of reasons and by expert consensus,
+slow practice can result in learning several times faster than otherwise.
+
+Some metaphors that can help to think about slow practice include starting a saw cut in a piece of wood,
+or scratching an irrigation channel into the dirt with a stick.
 
 ### Mental work
 ### Variety in repetition
