@@ -34,8 +34,8 @@ and less on note names and staff notation.
 ### Playing by ear
 
 The most important skill for learning to play an instrument is "using your ears".
-Listening, essentially,
-but "tuning" might be more precise.
+This means listening, essentially,
+though "tuning" might be more precise.
 Listening, making adjustments, and listening again,
 in a feedback loop until the tone suits our taste.
 Without this basic habit,
