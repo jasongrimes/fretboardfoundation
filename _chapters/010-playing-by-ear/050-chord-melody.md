@@ -30,7 +30,7 @@ will be "in tune" (diatonic).
 
 Another way to fill out melodies 
 is to add bass notes on the lower strings.
-Start by playing the chord root notes on their own before playing the chord.
+Start by playing the chord root notes on their own before (or instead of) playing the chord.
 Add more variety to the bass line by playing fifths, octaves, and approach tones.
 See {% include chapter-link.html slug="bass" %}.
 
