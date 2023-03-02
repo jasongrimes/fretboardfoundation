@@ -114,7 +114,6 @@ the faster we advance**.
 The main point is to carefully avoid mistakes in early practice,
 and to address mistakes by replaying them correctly several times over,
 so the correct information encodes itself into the physical structures of our brain.
-
 Imagine starting a saw cut in a piece of wood,
 or scratching an irrigation channel into the dirt with a stick.
 
