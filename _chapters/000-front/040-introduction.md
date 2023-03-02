@@ -89,6 +89,10 @@ But in the interest of triage,
 here's a quick summary of some of Berg's findings about the most efficient ways to learn.
 
 ### Chunking
+
+
+
+
 ### Slow practice
 ### Mental work
 ### Variety in repetition
