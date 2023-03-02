@@ -112,7 +112,7 @@ to argue convincingly that **the slower we practice,
 the faster we advance**.
 
 The main point is to carefully avoid mistakes in early practice,
-and addressing mistakes by doing it the correct way many multiples of times,
+and addressing mistakes by replaying them correcrly many multiples of times,
 so the correct information encodes itself into the physical structures of our brain.
 For a variety of reasons and by expert consensus,
 slow practice can result in learning several times faster than otherwise.
