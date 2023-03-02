@@ -106,6 +106,9 @@ The key is to master the smaller chunks thoroughly before moving on.
 Trying to learn more than 5-7 new things at a time will result in learning none of them well.
 
 ### Slow practice
+
+
+
 ### Mental work
 ### Variety in repetition
 
