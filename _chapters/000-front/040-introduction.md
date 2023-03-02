@@ -31,7 +31,7 @@ and less on note names and staff notation.
 
 ## An overview of the ideas in this book
 
-### Playing by ear and improvisation
+### Playing by ear
 
 The most important skill for learning to play an instrument is "using your ears".
 Listening, essentially,
