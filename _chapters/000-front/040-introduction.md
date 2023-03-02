@@ -28,7 +28,7 @@ in part because on guitar
 the exact same pitch can be found at multiple places on the fretboard.
 
 As a result of these differences,
-on guitar it can be more efficient to study music by focusing more on intervals,
+on guitar it can be efficient to study music by focusing more on intervals,
 and less on note names and staff notation.
 That's the approach taken in this book.
 
