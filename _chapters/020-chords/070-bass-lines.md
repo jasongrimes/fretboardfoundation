@@ -1,7 +1,7 @@
 ---
 title: Bass lines
 slug: bass
-abstract: Hold chord changes together with a smooth bass line.
+abstract: Tie chord changes together with a smooth bass line.
 ---
 
 <!--
