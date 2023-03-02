@@ -125,7 +125,7 @@ this kind of slow practice can result in learning several times faster than othe
 ### Mental work
 
 It turns out that the same brain structures we carefully grow through slow practice and chunking
-can also be developed by using just our imagination--away from the instrument.
+can also be developed by using just our imagination---away from the instrument.
 
 Reasoning about the music,
 and visualizing ourselves playing it,
