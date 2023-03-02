@@ -78,7 +78,7 @@ Part 3 describes a practical and hopefully enlightening approach to scales.
 Master guitar educator Christopher Berg wrote an invaluable book that must be mentioned here:
 *Practicing Music by Design: Historic Virtuosi on Peak Performance*
 [(Berg, 2019)](references#berg-2019).
-He reviewed recent "peak performance" literature,
+He reviewed "peak performance" literature,
 about research into the development of expert skill,
 and combined it with his expertise on the techniques of centuries of master musicians.
 The result is a gold mine of practical advice for learning an instrument with maximum efficiency.
