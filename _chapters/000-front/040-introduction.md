@@ -187,9 +187,9 @@ unless you already have an encyclopedic knowledge of CAGED voicings,
 you might want to work through just the C CAGED shapes at first,
 and then skim ahead to the next chapter on major harmony,
 rather than trying to grind through scores of CAGED shapes and fingerings in one sitting.
-In the major harmony chapter,
-if you find you need to learn a couple more chord shapes to play in one of the positions,
-refer back to the CAGED chapter to learn up those specific shapes and then continue on with major key position playing.
+Later on,
+if you find you need to learn a couple more chord shapes to play in one of the major key positions,
+refer back to the CAGED chapter to learn those specific shapes.
 
 Once an overview of the topics has been acquired,
 the book is designed to be used as a reference,
