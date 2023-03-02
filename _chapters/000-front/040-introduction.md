@@ -74,6 +74,14 @@ we might eventually reinvent diatonic harmony from first principles.
 
 Part 3 describes a practical and hopefully enlightening approach to scales.
 
+### What's not covered
+
+Technique.
+
+Rhythm.
+
+Basics.
+
 ## How to learn
 
 Master guitar educator Christopher Berg wrote an invaluable book that must be mentioned here:
