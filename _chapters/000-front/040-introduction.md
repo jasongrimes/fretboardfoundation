@@ -98,15 +98,15 @@ This book does not present a step-by-step method for learning guitar.
 It's more of an encyclopedia.
 Or maybe a grimoire.
 
-It's always good to start by getting an overview of the subject.
+The best way to get started with this book is with an overview of the subject matter.
 Read the {% include chapter-link.html slug="toc" %},
 if you haven't already.
 
-The topics are presented in a deliberate order,
+The topics in this book are presented in a deliberate order,
 with a narrative through line that could be read from beginning to end.
+
 But perhaps more practically,
 each section starts out simply and gets denser and more complex as it proceeds.
-
 So the book is designed to be read until one gets stuck, confused, or bored,
 and then skipped ahead to the next section, chapter, or part.
 For example,
