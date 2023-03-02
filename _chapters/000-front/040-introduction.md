@@ -101,6 +101,7 @@ or "chunks",
 can themselves be a composite of 5-7 chunks,
 each of which can be composed of more chunks,
 ad infinitum.
+Experts can rapidly chunk together bits of new material because they can relate it to a foundation of prior knowledge.
 
 The key is to master the smaller chunks thoroughly before moving on.
 Trying to learn more than 5-7 new things at a time will result in learning none of them well.
@@ -114,6 +115,7 @@ the faster we advance**.
 The main point is to carefully avoid mistakes in early practice,
 and to address mistakes by replaying them correctly several times over,
 so the correct information encodes itself into the physical structures of our brain.
+
 Imagine starting a saw cut in a piece of wood,
 or scratching an irrigation channel into the dirt with a stick.
 
@@ -121,6 +123,17 @@ For a variety of reasons,
 this kind of slow practice can result in learning several times faster than otherwise.
 
 ### Mental work
+
+It turns out that the same brain structures we carefully grow through slow practice and chunking
+can also be developed by using just our imagination--away from the instrument.
+
+Reasoning about the music,
+and visualizing ourselves playing it,
+allows us to practice in a pure and focused way,
+without the distractions of physical reality.
+
+As with these other techniques,
+incorporating visualization into practice is reported to dramatically increase the speed of learning.
 
 ### Variety in repetition
 
