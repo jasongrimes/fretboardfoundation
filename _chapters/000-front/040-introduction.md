@@ -90,8 +90,20 @@ here's a quick summary of some of Berg's findings about the most efficient ways 
 
 ### Chunking
 
+"Chunking" means breaking information into constituent *chunks*,
+learning each chunk separately,
+then learning them in combination as a larger chunk.
 
+Most people can hold about 5-7 things in mind at any one time.
+This seems like a pretty strict limit,
+but fortunately each of those "things",
+or "chunks",
+can themselves be a composite of 5-7 chunks,
+each of which can be composed of more chunks,
+ad infinitum.
 
+The key is to master the smaller chunks thoroughly before moving on.
+Trying to learn more than 5-7 new things at a time will result in learning none of them well.
 
 ### Slow practice
 ### Mental work
