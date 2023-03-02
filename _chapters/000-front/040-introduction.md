@@ -85,12 +85,12 @@ The result is a gold mine of practical advice for learning an instrument with ma
 
 It is well-worth the time of any aspiring guitarist to read the entire book and put it into practice.
 But in the interest of triage,
-here's a quick summary of some of Berg's findings about the most efficient ways to learn guitar (among other things).
+here's a quick summary of some of Berg's findings about the most efficient ways to learn.
 
-- Chunking
-- Slow practice
-- Mental work
-- Variety in repetition
+### Chunking
+### Slow practice
+### Mental work
+### Variety in repetition
 
 ## How to use this book
 
