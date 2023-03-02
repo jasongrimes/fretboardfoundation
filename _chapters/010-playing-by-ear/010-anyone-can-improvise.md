@@ -29,6 +29,9 @@ adding our own embellishments as we are moved to do so.
 
 ## Why improvise
 
+For one thing,
+improvisation is so much fun.
+
 It’s worth bearing in mind that the whole point of all this is to create music.
 To create art, to express ourselves, to make our novel contribution to the universe.
 And in order to do so,
