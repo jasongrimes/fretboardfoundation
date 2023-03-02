@@ -40,7 +40,7 @@ though "tuning" might be more precise.
 Listening, making adjustments, and listening again,
 in a feedback loop until the tone suits our taste.
 Without this basic habit,
-it's hard to get far making music. 
+it's hard to make music. 
 
 The simplest way to practice using our ears,
 and actually the simplest way to play a guitar at all,
