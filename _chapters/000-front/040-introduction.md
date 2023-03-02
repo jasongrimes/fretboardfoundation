@@ -82,6 +82,9 @@ Rhythm.
 
 Basics.
 
+See {% include chapter-link.html slug="references" %}
+for better sources on these topics.
+
 ## How to learn
 
 Master guitar educator Christopher Berg wrote an invaluable book that must be mentioned here:
