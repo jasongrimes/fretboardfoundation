@@ -6,7 +6,7 @@ abstract: A practical approach to minor keys. Relative major and minor, plus the
 
 ## What is a minor key
 
-Minor keys are the dark counterparts of major keys. 
+Minor keys are the moody counterparts of major keys. 
 In Western music,
 minor keys tend to be considered sad and dark, 
 and major keys happy and bright,
