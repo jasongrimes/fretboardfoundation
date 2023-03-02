@@ -54,7 +54,8 @@ Most beginning guitar players start by learning open position chords,
 and gradually become adept at changing between them.
 Then it's common to learn a few movable barre chord shapes.
 
-The next step toward fluency is to understand the intervals of the chords and how they harmonize together.
+To achieve fluency and command of the entire fretboard,
+it's necessary to understand the intervals of the chords and how they harmonize together.
 This is the objective of Part 2.
 The CAGED chord shapes will be thoroughly explored
 and used as a basis for organizing this effort.
