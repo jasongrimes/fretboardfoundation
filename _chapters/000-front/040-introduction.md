@@ -108,7 +108,7 @@ with a narrative through line that could be read from beginning to end.
 But perhaps more practically,
 each section starts out simply and gets denser and more complex as it proceeds.
 So the book is designed to be read until one gets stuck, confused, or bored,
-and then skipped ahead to the next section, chapter, or part.
+and then skimmed ahead to the next section, chapter, or part.
 For example,
 unless you already have an encyclopedic knowledge of CAGED voicings,
 it's probably better to work through just the C CAGED shapes at first,
