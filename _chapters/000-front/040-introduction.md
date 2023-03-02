@@ -149,7 +149,7 @@ incorporating visualization into practice is reported to dramatically increase t
 
 ### Variety in repetition
 
-Research shows that repeatedly practicing the same thing over and over is actually harmful in several ways.
+Studies show that repeatedly practicing the same thing over and over is actually harmful in several ways.
 Instead of mindless repetition,
 a more effective approach is to analyze a particular subject and practice it from multiple angles.
 
