@@ -10,6 +10,14 @@ melodies, and bass lines in a fluid and captivating way.
 Blending together chords and melody makes a composition sound fuller and richer, 
 like a complete performance rather than just a part.
 
+The way to get started with chord melody is to play the chord progression delicately,
+articulating each note,
+and listen for the melody in the chord tones.
+Begin emphasizing the melody notes in the chords,
+and then gradually let the melody lead on its own,
+adding in non-chord tones as necessary,
+playing chords more sparsely and intermittently.
+
 *Treble triads* can be used to improvise freely with chords. 
 See {% include chapter-link.html slug="caged" %} for details.
 
