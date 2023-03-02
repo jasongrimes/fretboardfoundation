@@ -80,7 +80,7 @@ Master guitar educator Christopher Berg wrote an invaluable book that must be me
 [(Berg, 2019)](references#berg-2019).
 He reviewed "peak performance" literature,
 about research into the development of expert skill,
-and combined it with his expertise on the techniques of centuries of master musicians.
+and combined it with his own expertise on the techniques of centuries of master musicians.
 The result is a gold mine of practical advice for learning an instrument with maximum efficiency.
 
 It is well-worth the time of any aspiring guitarist to read the entire book and put it into practice.
