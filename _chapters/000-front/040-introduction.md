@@ -37,7 +37,7 @@ That's the approach taken in this book.
 ### Playing by ear
 
 The most important skill for learning a musical instrument is "using your ears".
-This means listening, essentially,
+That means listening, essentially,
 though "tuning" might be more precise.
 Listening, making adjustments, and listening again,
 in a feedback loop until the tone suits our taste.
