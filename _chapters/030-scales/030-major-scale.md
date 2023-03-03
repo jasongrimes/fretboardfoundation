@@ -114,10 +114,6 @@ the 7 can also be played by reaching up with the fourth finger on the 4th string
 Fingering is straightforward in this form.
 Start with the second finger on the sixth string tonic.
 
-Stay on the E form and learn as much as possible before moving on to another form.
-Move on when it becomes boring,
-but not before.
-
 ## D form
 
 {% include figure.html
