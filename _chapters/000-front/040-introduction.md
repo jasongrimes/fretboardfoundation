@@ -188,8 +188,12 @@ Or maybe a grimoire.
 The best way to get started with this book is with an overview of the subject matter.
 Read the {% include chapter-link.html slug="toc" %} first.
 
-The headings used throughout this book are designed to be readable on their own,
+This book is designed to be "skimmed" effectively.
+
+The headings throughout the text are written as an outline,
+intended to be readable on their own,
 as a summary of the text.
+
 This makes it easy to quickly skim through tables of contents and chapter texts to take in an overview.
 
 ### Skim the narrative
