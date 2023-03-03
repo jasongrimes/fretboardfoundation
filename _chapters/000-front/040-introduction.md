@@ -179,7 +179,7 @@ The best way to get started with this book is with an overview of the subject ma
 Read the {% include chapter-link.html slug="toc" %} first.
 
 The headings used throughout this book are designed to be readable on their own,
-as a summary of the material.
+as a summary of the text.
 This makes it easy to quickly skim through tables of contents and chapter texts to take in an overview.
 
 ### Skim the narrative
