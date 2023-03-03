@@ -59,8 +59,9 @@ Then it's common to learn a few movable barre chord shapes.
 To achieve fluency and command of the entire fretboard,
 we need to understand the intervals of the chords and how they harmonize together.
 That's the objective of Part 2.
-The CAGED chord shapes will be thoroughly explored
-and used as a basis for organizing this effort.
+
+As a basis for organizing this effort,
+the "CAGED" chord shapes will be thoroughly explored.
 
 ### Scales and melody
 
