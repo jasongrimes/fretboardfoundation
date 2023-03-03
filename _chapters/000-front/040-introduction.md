@@ -29,6 +29,12 @@ Musical staff notation is not as well suited to guitar as it is to other instrum
 in part because on guitar 
 the exact same pitch can be found at multiple places on the fretboard.
 
+On a fretboard,
+intervals are always the same shape,
+but notes are hard to identify.
+On a piano keyboard,
+it's the opposite.
+
 ### Intervals over notes
 
 As a result of these differences,
