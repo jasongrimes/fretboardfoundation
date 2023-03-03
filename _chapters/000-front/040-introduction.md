@@ -185,7 +185,7 @@ This makes it easy to quickly skim through tables of contents and chapter texts 
 ### Skim the narrative
 
 The topics in this book are presented in a deliberate order,
-with a narrative through line that could be read from beginning to end.
+with a narrative through line that can be read from beginning to end.
 
 But perhaps more practically,
 each section starts out simply and gets denser and more complex as it proceeds.
