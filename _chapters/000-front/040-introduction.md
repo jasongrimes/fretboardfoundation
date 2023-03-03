@@ -18,10 +18,10 @@ the guitar is an ideal instrument on which to explore music ourselves in a simil
 There are some basic differences when studying music on guitar as compared to a more conventional instrument like the piano.
 
 For one thing,
-"transposition",
-playing the same song in a different key,
-is easier on guitar than on other instruments,
-because different keys can often be played with the same fingerings at a different fret.
+on guitar it's easier to play the same tune in different keys,
+known as "transposition".
+On guitar,
+different keys can often be played with the same fingerings at a different fret.
 It's therefore less important on guitar to devote equal practice to all 12 keys.
 It's more useful to have C major down cold than to be partially fluent in many keys.
 
