@@ -57,9 +57,10 @@ however clumsy or imperfect the result,
 because making music is the whole point.
 Then practicing chords and changes,
 to play a bunch of songs.
-And finally,
+Then
 refining with scale practice.
-Then make some more music.
+Finally,
+start over and make some more music.
 Repeat, for life.
 
 ### Playing by ear
