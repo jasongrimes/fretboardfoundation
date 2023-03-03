@@ -173,8 +173,16 @@ This book does not present a step-by-step method for learning guitar.
 It's more of an encyclopedia.
 Or maybe a grimoire.
 
+### Get an overview
+
 The best way to get started with this book is with an overview of the subject matter.
 Read the {% include chapter-link.html slug="toc" %} first.
+
+The headings used throughout this book are designed to be readable on their own,
+as a summary of the material.
+This makes it easy to quickly skim through tables of contents and chapter texts to take in an overview.
+
+### Skim through the narrative
 
 The topics in this book are presented in a deliberate order,
 with a narrative through line that could be read from beginning to end.
@@ -183,6 +191,8 @@ But perhaps more practically,
 each section starts out simply and gets denser and more complex as it proceeds.
 So the book is designed to be read until one gets stuck, confused, or bored,
 and then skimmed ahead to the next section, chapter, or part.
+
+### Work through a bit at a time
 
 For example,
 unless you already have an encyclopedic knowledge of CAGED voicings,
@@ -193,6 +203,8 @@ So skim ahead to the next chapter on major harmony.
 Later on,
 if you find you need to learn a couple more chord shapes to play in one of the major key positions,
 refer back to the CAGED chapter to study those shapes.
+
+### Use it as a reference
 
 Once an overview of the topics has been acquired,
 the book is designed to be used as a reference,
