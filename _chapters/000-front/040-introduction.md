@@ -29,11 +29,12 @@ Musical staff notation is not as well suited to guitar as it is to other instrum
 in part because on guitar 
 the exact same pitch can be found at multiple places on the fretboard.
 
-### Intervals first
+### Intervals over notes
 
 As a result of these differences,
 on guitar it can be efficient to study music by focusing more on intervals,
 and less on note names and staff notation.
+
 That's the approach taken in this book.
 
 ## An overview of the ideas in this book
