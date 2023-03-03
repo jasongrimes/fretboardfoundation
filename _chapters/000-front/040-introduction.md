@@ -65,7 +65,7 @@ and used as a basis for organizing this effort.
 ### Scales and melody
 
 Scales are often misunderstood or misused,
-to the extent that some guitar players avoid them almost entirely,
+to the extent that some guitar players avoid them entirely,
 while others memorize and repetitively practice arcane shapes with little understanding or melody.
 
 This is unfortunate,
