@@ -52,13 +52,15 @@ and finally improvisation,
 chord melody, and playing by ear.
 
 But I have found it more effective to study guitar in the opposite order.
-First creating music,
-however clumsy or imperfect.
+First improvising,
+however clumsy or imperfect the result,
+because making music is the whole point.
 Then practicing chords and changes,
 to play a bunch of songs.
 And finally,
 refining with scale practice.
-Then repeat, for life.
+Then make some more music.
+Repeat, for life.
 
 ### Playing by ear
 
