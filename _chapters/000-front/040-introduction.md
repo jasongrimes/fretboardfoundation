@@ -44,6 +44,20 @@ That's the approach taken in this book.
 
 ## An overview of the ideas in this book
 
+If this were a step-by-step guitar method,
+it might be organized backwards.
+First teaching scales,
+then assembling scales into chords,
+and finally improvising chord melody by ear.
+
+But I have found it more effective to study guitar in the opposite order.
+First creating music,
+however clumsy or imperfect.
+Then practicing chords and changes,
+to play a bunch of songs.
+And finally,
+refining with scale practice.
+
 ### Playing by ear
 
 The most important skill for learning a musical instrument is "using your ears".
