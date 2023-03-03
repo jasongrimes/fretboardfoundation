@@ -46,7 +46,7 @@ That's the approach taken in this book.
 
 If this were a step-by-step guitar method,
 it might be organized backwards.
-First teaching scales,
+First it would teach scales,
 then assembling scales into chords,
 and finally improvising chord melody by ear.
 
