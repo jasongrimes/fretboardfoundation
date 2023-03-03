@@ -47,8 +47,9 @@ That's the approach taken in this book.
 If this were a step-by-step guitar method,
 it might be organized backwards.
 First it would teach scales,
-then assembling scales into chords,
-and finally improvising chord melody by ear.
+then how to assemble the scales into chords,
+and finally improvisation, 
+chord melody, and playing by ear.
 
 But I have found it more effective to study guitar in the opposite order.
 First creating music,
@@ -57,6 +58,7 @@ Then practicing chords and changes,
 to play a bunch of songs.
 And finally,
 refining with scale practice.
+Then repeat, for life.
 
 ### Playing by ear
 
