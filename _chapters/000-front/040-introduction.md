@@ -13,6 +13,8 @@ by studying the properties of vibrating strings.
 Today,
 the guitar is an ideal instrument on which to explore music ourselves in a similar way.
 
+## Differences from other instruments
+
 There are some basic differences when studying music on guitar as compared to a more conventional instrument like the piano.
 
 For one thing,
