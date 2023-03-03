@@ -182,7 +182,7 @@ The headings used throughout this book are designed to be readable on their own,
 as a summary of the material.
 This makes it easy to quickly skim through tables of contents and chapter texts to take in an overview.
 
-### Skim through the narrative
+### Skim the narrative
 
 The topics in this book are presented in a deliberate order,
 with a narrative through line that could be read from beginning to end.
@@ -204,7 +204,7 @@ Later on,
 if you find you need to learn a couple more chord shapes to play in one of the major key positions,
 refer back to the CAGED chapter to study those shapes.
 
-### Use it as a reference
+### Use for reference
 
 Once an overview of the topics has been acquired,
 the book is designed to be used as a reference,
