@@ -104,8 +104,8 @@ essentially, "not musical",
 seems clearly a poor choice of words.
 Tagg suggests the term "[tonical](#tonical)" instead of "tonal" for "music that has a [tonic](#tonic)",
 and using "tonal" for "any music which has the properties of a [tone](#tone)"
-(including contemporary classical music, 
-which may be [atonical](#atonical) but is not [atonal](#atonal)).
+(including contemporary symphonies, 
+which may be [atonical](#atonical) but are not [atonal](#atonal)).
 This book generally follows these terminology suggestions.
 
 - **tone**{:#tone}: (1) A [note](#note) with an easily discernible fundamental [pitch](#pitch).
