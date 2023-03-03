@@ -112,8 +112,8 @@ Most people can hold about 5-7 things in mind at any one time.
 This seems like a pretty strict limit,
 but fortunately each of those "things",
 or "chunks",
-can themselves be a composite of 5-7 chunks,
-each of which can be composed of more chunks,
+can themselves be composed of 5-7 chunks,
+each of which can be a composite of more chunks,
 ad infinitum.
 Experts can rapidly chunk together bits of new material because they can relate it to a foundation of prior knowledge.
 
