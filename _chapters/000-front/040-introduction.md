@@ -4,7 +4,7 @@ slug: introduction
 abstract: An overview of the topics ahead and how to use this book.
 ---
 
-## Learning music on guitar
+## Studying music on guitar
 
 Over 2000 years ago,
 the Greek philosopher and mathematician Pythagoras laid the foundations of Western music 
