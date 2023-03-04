@@ -43,7 +43,7 @@ That's the approach taken in this book.
 
 ## An overview of the ideas in this book
 
-If this were a step-by-step guitar method,
+If this was a step-by-step guitar method,
 it might be organized backward.
 First it would teach scales,
 then how to assemble the scales into chords,
