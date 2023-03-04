@@ -9,6 +9,8 @@ disable_toc: true
 
 This book exists to fill a gap I find in guitar instructional material. 
 
+### Intermediate material needed
+
 Countless resources are available for beginners, 
 and excellent materials exist for advanced musicians with a solid background in theory and practice.
 But for those in-between, the “intermediate” guitarists, 
@@ -21,6 +23,8 @@ Jazz digs deep into improvisation and theory,
 but with techniques that often don’t translate well to other styles because of an emphasis on dissonance and extended chords. 
 And both approaches promise *at best* a long and winding road toward mastery, 
 requiring years of study and a somewhat blind faith that it will lead where we want to go. 
+
+### Triage
 
 The approach taken in this book is different.
 It's based on an idea of "triage",
