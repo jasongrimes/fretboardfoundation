@@ -33,7 +33,7 @@ doing the most important things first to make the best of limited time and resou
 In the long run, 
 it would be ideal to learn everything.
 But life is rarely ideal,
-and the length of our "run" is unknown.
+and the length of our run is unknown.
 
 What if our studies are interrupted a few months from now,
 and we are unable to return to them for years,
