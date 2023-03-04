@@ -14,7 +14,7 @@ and finally improvisation,
 chord melody, and playing by ear.
 
 But I have found it more effective to study guitar in the opposite order,
-and in small iterations rather than a linear path.
+and in small iterations rather than a long straight path.
 First improvising by ear,
 however clumsy or imperfect,
 because making music is the whole point.
