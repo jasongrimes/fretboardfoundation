@@ -51,7 +51,8 @@ then how to assemble the scales into chords,
 and finally improvisation, 
 chord melody, and playing by ear.
 
-But I have found it more effective to study guitar in the opposite order.
+But I have found it more effective to study guitar in the opposite order,
+and in small iterations rather than a linear path.
 First improvising,
 however clumsy or imperfect the result,
 because making music is the whole point.
