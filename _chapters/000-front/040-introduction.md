@@ -59,7 +59,7 @@ Then practicing chords and changes,
 to play a bunch of songs.
 Then
 refining with scale practice.
-Finally,
+And then
 start over and make some more music.
 Repeat, for life.
 
