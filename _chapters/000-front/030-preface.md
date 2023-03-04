@@ -9,7 +9,7 @@ disable_toc: true
 
 This book exists to fill a gap I find in guitar instructional material. 
 
-### Intermediate material needed
+### Intermediate material is needed
 
 Countless resources are available for beginners, 
 and excellent materials exist for advanced musicians with a solid background in theory and practice.
