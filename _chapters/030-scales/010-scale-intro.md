@@ -310,8 +310,9 @@ or starting a saw cut in a piece of wood.
 While ascending or descending,
 switch directions at will to prevent boredom and make little melodic phrases.
 This may reveal tunes from melodies long buried in deep memories.
-It can be surprising how many classical, 
-folk, cultural,
+It can be surprising how many popular,
+classical, 
+folk,
 and religious traditional songs 
 consist largely of snippets of scales.
 
