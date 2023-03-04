@@ -217,7 +217,7 @@ That's "skimming" the chapter.
 The headings throughout the text are written as an outline,
 intended to be readable on their own,
 as a summary of the text. 
-This makes it easy to quickly skim through tables of contents and chapter texts to take in an overview.
+This makes it easy to take in an overview by quickly skimming tables of contents and chapter texts.
 
 ### Skim the narrative
 
