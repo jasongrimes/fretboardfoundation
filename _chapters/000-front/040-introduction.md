@@ -191,6 +191,7 @@ keeps practice interesting,
 helps to solve technical problems,
 improves the ability to effect musical nuance,
 and trains us to make sophisticated adjustments in real time to adapt to unexpected circumstances.
+
 The appearance of fluid grace by expert performers
 is a sort of illusion created by these skillful micro-adjustments and compensations. 
 
