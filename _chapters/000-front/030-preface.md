@@ -24,7 +24,7 @@ but with techniques that often don’t translate well to other styles because of
 And both approaches promise *at best* a long and winding road toward mastery, 
 requiring years of study and a somewhat blind faith that it will lead where we want to go. 
 
-### Triage
+### Triage is needed
 
 The approach taken in this book is different.
 It's based on an idea of "triage",
