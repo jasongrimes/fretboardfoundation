@@ -202,11 +202,6 @@ This book does not present a step-by-step method for learning guitar.
 It's more of an encyclopedia.
 Or maybe a grimoire.
 
-### Get an overview
-
-The best way to get started with this book is with an overview of the subject matter.
-Read the {% include chapter-link.html slug="toc" %} first.
-
 ### Skimming 
 
 This book is designed to be "skimmed".
@@ -221,7 +216,10 @@ intended to be readable on their own,
 as a summary of the text. 
 This makes it easy to take in an overview by quickly skimming tables of contents and chapter texts.
 
-### Skim the narrative
+### Get an overview
+
+The best way to get started with this book is with an overview of the subject matter.
+Read the {% include chapter-link.html slug="toc" %} first.
 
 The topics in this book are presented in a deliberate order,
 with a narrative through line that can be read from beginning to end.
