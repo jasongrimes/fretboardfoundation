@@ -35,7 +35,7 @@ Without this fundamental habit,
 it's hard to make music. 
 
 The simplest way to practice using our ears,
-and actually the simplest way to play a guitar at all,
+and arguably the simplest way to play a guitar at all,
 is to "play by ear".
 This turns out to be easier than most people can believe,
 until they actually try it as described in Part 1.
