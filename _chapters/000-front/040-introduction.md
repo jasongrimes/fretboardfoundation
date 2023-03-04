@@ -127,7 +127,7 @@ about research into the development of expert skill,
 and combined it with his own expertise on the techniques of centuries of master musicians.
 The result is a gold mine of practical advice for learning an instrument with maximum efficiency.
 
-It is well-worth the time of any aspiring guitarist to read the entire book and put it into practice.
+It is well worth the time of any aspiring guitarist to read the entire book and put it into practice.
 But in the interest of triage,
 here's a quick summary of some of Berg's findings about the most efficient ways to learn.
 
