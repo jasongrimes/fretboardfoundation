@@ -4,43 +4,7 @@ slug: introduction
 abstract: An overview of the topics ahead and how to use this book.
 ---
 
-## Studying music on guitar
-
-Over 2000 years ago,
-the Greek philosopher and mathematician Pythagoras laid the foundations of Western music 
-by studying the properties of vibrating strings.
-
-Today,
-the guitar is an ideal instrument on which to explore music ourselves in a similar way.
-
-### Differences from piano
-
-There are some basic differences when studying music on guitar as compared to a more conventional instrument like the piano.
-
-For one thing,
-on guitar it's easier to play the same tune in different keys,
-known as "transposition".
-Different keys can often be played with the same fingerings at a different fret.
-It's therefore less important on guitar to devote equal practice to all 12 keys.
-It's more useful to have C major down cold than to be partially fluent in many keys.
-
-Musical staff notation is not as well suited to guitar as it is to other instruments like piano,
-in part because on guitar 
-the exact same pitch can be found at multiple places on the fretboard.
-
-The intervals on a fretboard are always the same shape,
-but notes are hard to identify.
-On a piano keyboard,
-it's the opposite.
-
-### Intervals over notes
-
-As a result of these differences,
-on guitar it can be efficient to study music by focusing more on intervals,
-and less on note names and staff notation.
-
-That's the approach taken in this book.
-
+## 
 ## An overview of the ideas in this book
 
 If this was a step-by-step guitar method,
@@ -117,6 +81,43 @@ Basics.
 
 See {% include chapter-link.html slug="references" %}
 for better sources on these topics.
+
+Studying music on guitar
+
+Over 2000 years ago,
+the Greek philosopher and mathematician Pythagoras laid the foundations of Western music 
+by studying the properties of vibrating strings.
+
+Today,
+the guitar is an ideal instrument on which to explore music ourselves in a similar way.
+
+### Differences from piano
+
+There are some basic differences when studying music on guitar as compared to a more conventional instrument like the piano.
+
+For one thing,
+on guitar it's easier to play the same tune in different keys,
+known as "transposition".
+Different keys can often be played with the same fingerings at a different fret.
+It's therefore less important on guitar to devote equal practice to all 12 keys.
+It's more useful to have C major down cold than to be partially fluent in many keys.
+
+Musical staff notation is not as well suited to guitar as it is to other instruments like piano,
+in part because on guitar 
+the exact same pitch can be found at multiple places on the fretboard.
+
+The intervals on a fretboard are always the same shape,
+but notes are hard to identify.
+On a piano keyboard,
+it's the opposite.
+
+### Intervals over notes
+
+As a result of these differences,
+on guitar it can be efficient to study music by focusing more on intervals,
+and less on note names and staff notation.
+
+That's the approach taken in this book.
 
 ## How to learn
 
