@@ -240,6 +240,7 @@ refer back to the CAGED chapter to study those shapes.
 ### Use for reference
 
 Once an overview of the topics has been acquired,
-the book is designed to be used as a reference,
-to quickly find and review any topic or diagram,
+the book is meant to be used as a reference.
+
+It's designed to make it quick and easy to find and review any topic or diagram,
 in order to support your own guitar studies.
