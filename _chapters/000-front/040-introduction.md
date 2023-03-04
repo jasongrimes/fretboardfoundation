@@ -208,10 +208,11 @@ The best way to get started with this book is with an overview of the subject ma
 Read the {% include chapter-link.html slug="toc" %} first.
 
 This book is designed to be "skimmed".
+
 Try relaxing your eye muscles to soften your focus,
 and scan rapidly through a chapter,
 so that all you can really see are the headlines and the general shape of the text.
-That's "skimming" the text.
+That's "skimming" the chapter.
 
 The headings throughout the text are written as an outline,
 intended to be readable on their own,
