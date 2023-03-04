@@ -22,7 +22,7 @@ Then practicing chords and changes,
 to play a bunch of songs.
 Then
 refining with scale practice.
-And then repeating the cycle again with more improvisation.
+And then repeating the cycle again with more (and better) improvisation.
 
 ### Playing by ear
 
