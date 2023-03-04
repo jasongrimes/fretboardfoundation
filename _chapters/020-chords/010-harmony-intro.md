@@ -64,7 +64,9 @@ and comes home transformed.
 ## Intervals: the building blocks
 
 Intervals are the basic building blocks of harmony.
-They are responsible for the way music sounds and how it makes us feel. 
+
+They are responsible for the way music sounds,
+and how it makes us feel. 
 
 ### Pitch and frequency
 
