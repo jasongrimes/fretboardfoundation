@@ -207,6 +207,8 @@ Or maybe a grimoire.
 The best way to get started with this book is with an overview of the subject matter.
 Read the {% include chapter-link.html slug="toc" %} first.
 
+### Skimming 
+
 This book is designed to be "skimmed".
 
 Try relaxing your eye muscles to soften your focus,
