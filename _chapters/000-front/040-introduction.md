@@ -60,8 +60,8 @@ Then practicing chords and changes,
 to play a bunch of songs.
 Then
 refining with scale practice.
-And then
-start over and make some more music.
+And then start over, 
+making more music.
 Repeat, for life.
 
 ### Playing by ear
