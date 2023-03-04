@@ -231,7 +231,7 @@ each section starts out simply and gets denser and more complex as it proceeds.
 So the book is designed to be read until one gets stuck, confused, or bored,
 and then skimmed ahead to the next section, chapter, or part.
 
-### Work a bit at a time
+### Work on a bit at a time
 
 For example,
 unless you already have an encyclopedic knowledge of CAGED voicings,
