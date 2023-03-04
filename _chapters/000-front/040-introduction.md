@@ -4,7 +4,6 @@ slug: introduction
 abstract: An overview of the topics ahead and how to use this book.
 ---
 
-## 
 ## An overview of the ideas in this book
 
 If this was a step-by-step guitar method,
@@ -80,7 +79,7 @@ Basics.
 See {% include chapter-link.html slug="references" %}
 for better sources on these topics.
 
-Studying music on guitar
+## Studying music on guitar
 
 Over 2000 years ago,
 the Greek philosopher and mathematician Pythagoras laid the foundations of Western music 
