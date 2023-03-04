@@ -74,7 +74,7 @@ Technique.
 
 Rhythm.
 
-Basics.
+Guitar basics.
 
 See {% include chapter-link.html slug="references" %}
 for better sources on these topics.
