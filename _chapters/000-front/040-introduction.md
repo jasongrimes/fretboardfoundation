@@ -230,6 +230,7 @@ unless you already have an encyclopedic knowledge of CAGED voicings,
 after working through the C CAGED shapes
 you might want to digest them for awhile,
 rather than trying to grind through scores of CAGED shapes and fingerings in one sitting.
+
 So skim ahead to the next chapter on major harmony.
 Later on,
 if you find you need to learn a couple more chord shapes to play in one of the major key positions,
