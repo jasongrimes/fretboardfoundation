@@ -53,7 +53,7 @@ chord melody, and playing by ear.
 But I have found it more effective to study guitar in the opposite order,
 and in small iterations rather than a linear path.
 First improvising,
-however clumsy or imperfect the result,
+however clumsy or imperfect the outcome,
 because making music is the whole point.
 Then practicing chords and changes,
 to play a bunch of songs.
