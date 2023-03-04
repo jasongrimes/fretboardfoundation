@@ -242,5 +242,5 @@ refer back to the CAGED chapter to study those shapes.
 Once an overview of the topics has been acquired,
 the book is meant to be used as a reference.
 
-It's designed to make it quick and easy to find and review any topic or diagram,
+It's designed to be quick to find and review any topic or diagram,
 in order to support your own guitar studies.
