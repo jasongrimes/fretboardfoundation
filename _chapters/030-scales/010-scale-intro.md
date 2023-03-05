@@ -319,4 +319,4 @@ so they will become part of our personal style.
 
 - Thirds: Ascending thirds up and down, then descending thirds up and down
 - 3-note diatonic arpeggios: ascending up and down, then descending up and down
-- Cyclical quadruplets
+- Cyclical quadruplets (3123, 3213, 1321, 1231)
