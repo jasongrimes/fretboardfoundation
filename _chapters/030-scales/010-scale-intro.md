@@ -265,11 +265,6 @@ Most people can hold about 5-7 things in mind at any one time.
 Chunking makes optimal use of this capability. 
 
 It's important to take the necessary time to learn a chunk thoroughly before trying to combine it with others.
-One way to gauge when to move on to learn another chunk is to follow our sense of interest and boredom.
-This is a decent rule of thumb:
-move on when a thing becomes boring, 
-but not before.
-Then circle back later when it becomes interesting again.
 
 ### Focus on intervals, not scale shapes
 
