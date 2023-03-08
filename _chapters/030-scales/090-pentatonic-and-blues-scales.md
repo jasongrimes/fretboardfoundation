@@ -35,8 +35,8 @@ Only instruments like the guitar which support "microtone" intervals by bending 
 
 ### Major pentatonic and its modes
 
-Like the diatonic major scale,
-the pentatonic major scale is the most commonly used pentatonic scale.
+Like the major diatonic scale,
+the major pentatonic scale is the most commonly used pentatonic scale.
 
 As with any scale,
 modes can be derived from each degree of the major pentatonic scale.
