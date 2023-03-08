@@ -10,8 +10,8 @@ A pentatonic scale is a musical scale with five notes in an octave.
 
 Pentatonic scales are often the first scales learned by beginning guitarists
 because they are easy to play,
-with two notes per string,
-and they sound good over many modes and harmonies.  
+having two notes per string,
+and because they sound good over many modes and harmonies.  
 
 ### Ancient and universal 
 
