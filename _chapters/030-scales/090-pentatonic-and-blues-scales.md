@@ -17,8 +17,8 @@ and because they sound good over many modes and harmonies.
 
 Pentatonic scales were developed independently by many ancient civilizations.
 
-This may be because the five notes of a major pentatonic scale are acoustically linked by simple pitch ratios.
-It can be constructed by stacking five perfect fifths.
+This may be because the notes of pentatonic scales are acoustically linked by simple pitch ratios.
+The pentatonic major scale can be constructed by stacking five perfect fifths.
 
 ### Just intonation vs. equal tempered tuning
 
