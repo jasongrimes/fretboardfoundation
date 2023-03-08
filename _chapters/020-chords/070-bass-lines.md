@@ -87,7 +87,7 @@ and sixth and first strings (below).
 
 -->
 
-Practice playing a bass note in a steady and consistent rhythm,
+Start by playing a bass note on down beats,
 in its own line that leads and complements the chords.
 
 Start by just playing the root note in the bass.
