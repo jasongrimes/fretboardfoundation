@@ -266,7 +266,8 @@ When euroclassical music theorists began trying to analyze Blues music,
 they struggled to understand and even to hear the microtones required to produce Blues intonation on 12-TET Western instruments.
 
 In an effort to simplify Blues tonality for purposes of instruction,
-the "blues scale" was often described as a minor pentatonic scale with an added b5/#4.
+the "blues scale" was often described as a minor pentatonic scale with an added b5/#4,
+or a major pentatonic with a #2/b3.
 This added tone is often called a "blue note".
 But this is an oversimplification,
 and playing the scale as defined does not really sound like the Blues.
@@ -286,7 +287,7 @@ Blues musicians treat these pitch areas each as its own distinct "toneme",
 a single unit of sound similar to a note,
 which is then inflected as appropriate based on tonal environment and emotional nuance.
 
-### Blues scale with pitch areas
+### Pentatonic blues scale with pitch areas
 
 Here's a practical way to think of a blues scale.
 Scale degrees are labeled with generic intervals,
