@@ -8,7 +8,7 @@ abstract: Pentatonic scales are the most commonly used modes in the world outsid
 
 A pentatonic scale is a musical scale with five notes in an octave.
 
-Pentatonic scales are often the first scale learned by beginning guitarists
+Pentatonic scales are often the first scales learned by beginning guitarists
 because they are easy to play,
 with two notes per string,
 and they sound good over many modes and harmonies.  
