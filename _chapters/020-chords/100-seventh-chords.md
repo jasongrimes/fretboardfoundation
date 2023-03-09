@@ -133,7 +133,7 @@ we just need to remember a few things about drop voicings on guitar.
 
 These are examples of "drop 2" voicings.
 
-*Drop 2 voicings** on guitar have the following properties.
+**Drop 2 voicings** on guitar have the following properties.
 - A **5th-string** or **4th-string root**.
 - Four contiguous strings, with **no string skip**.
 - The **third** factor **raised by an octave**.
