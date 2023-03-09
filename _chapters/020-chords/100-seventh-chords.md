@@ -111,7 +111,7 @@ See ["More about drop voicings"](#more-about-drop-voicings) later in this chapte
 For simplicity,
 we just need to remember a few things about drop voicings on guitar.
 
-Remember that **drop 3 voicings** on guitar have the following.
+**Drop 3 voicings** on guitar have the following properties.
 - A **6th-string root**.
 - A signature **string skip** over the muted 5th string.
 - **Third** and **fifth** factors **raised by an octave**.
@@ -133,7 +133,7 @@ Remember that **drop 3 voicings** on guitar have the following.
 
 These are examples of "drop 2" voicings.
 
-Remember that **drop 2 voicings** on guitar have the following.
+*Drop 2 voicings** on guitar have the following properties.
 - A **5th-string** or **4th-string root**.
 - Four contiguous strings, with **no string skip**.
 - The **third** factor **raised by an octave**.
