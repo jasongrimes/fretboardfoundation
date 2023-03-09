@@ -55,9 +55,15 @@ the "minor pentatonic" mode is the next most common.
 
 The pentatonic scales used most commonly around the world contain no semitones.
 Scales without semitones are called "anhemitonic".
+They are very consonant and "harmonious" scales that blend well in many contexts.
+
 Pentatonic scales with semitones,
 called "hemitonic",
-exist as well, but are less common.
+are a different and more dissonant beast.
+Examples include the Japanese "in" or "Sakura" pentatonic scale,
+and certain interpretations of the Blues scale. 
+They are less common.
+The rest of this section will focus on pentatonic scales without semitones.
 
 Pentatonic scales without semitones can be played using only the black keys on a piano keyboard.
 
