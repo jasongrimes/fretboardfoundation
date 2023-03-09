@@ -43,7 +43,22 @@ and then the jekyll gem.
 
     bundle exec jekyll serve
 
-Open the site locally at http://127.0.0.1:4000/ 
+Open the site locally at http://127.0.0.1:4000/
+
+## Connect to local site from mobile, etc.
+
+Find your IP address:
+
+    IP=`ifconfig en0 | grep "inet " | awk '{print $2}'`
+    echo $IP
+
+Bind jekyll serve to it:
+
+    bundle exec jekyll serve --host=$IP
+
+Then connect to it from a mobile or other device on the same network using the IP address from $IP and port 4000.
+
+For example: http://10.0.0.10:4000
 
 # Copyright
 
