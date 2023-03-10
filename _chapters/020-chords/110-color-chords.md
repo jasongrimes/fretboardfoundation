@@ -6,11 +6,11 @@ abstract: Sixth, sus, add, extended, and altered chords can add color and more t
 
 ## About color chords
 
-The basic triad and seventh chords of Western harmony can be enriched in order to create "color" and tension,
-and to express emotion.
-This is done by adding one or more tones from outside the chord.
+To increase tension,
+add "color" and express a range of emotion,
+the diatonic chords of Western harmony can be enriched by adding one or more tones from outside the chord.
 
-The bewildering variety of guitar chords presented to intermediate guitarists can seem endless,
+This leads to a bewildering variety of guitar chords that can seem endless,
 disorganized, and confusing.
 And there really are quite a lot of wonderful chord voicings and grips to be explored.
 
@@ -28,7 +28,7 @@ Color chords can be grouped into three main families: major, minor, and dominant
 Suspended chords are neither major nor minor,
 so they fit into both families.
 
-Color chords can be used in progression to replace any chord from the same family (ex. C major could be replaced by C6 or Cadd9, C7 could be replaced by C13 or C7#9, etc.).
+Color chords can be used in a progression to replace any chord from the same family (ex. C major could be replaced by C6 or Cadd9, C7 could be replaced by C13 or C7#9, etc.).
 
 ### Understanding chord names
 
@@ -39,7 +39,7 @@ Chord names follow a basic convention.
 - **major**: If the chord is specifically called major, it implies a major seventh interval. Ex. Cmaj6, which is different than C6.
 - **minor**: Implies a minor seventh interval (except "m6" chords).
 - **7,9,11,13**: A chord name with just a number implies a dominant chord (having a M3 and a b7). Ex. C7, C13
-- **#/b 5,9,11,13**: A dominant seventh chord with the given tones altered as specified.
+- **b/# 5,9,11,13**: A dominant seventh chord with the given tones altered as specified.
 
 ### Compound intervals
 
