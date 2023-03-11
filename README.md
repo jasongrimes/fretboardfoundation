@@ -60,6 +60,43 @@ Then connect to it from a mobile or other device on the same network using the I
 
 For example: http://10.0.0.10:4000
 
+# Making simple staff notation with VexFlow
+
+https://jsfiddle.net/m2kjgLbs/
+
+```javascript
+const note = 'C/4';
+const filename = 'note-C4.svg';
+
+// Create a VexFlow renderer attached to the DIV element with id="output".
+const { Factory, StaveNote } = Vex.Flow;
+const vf = new Factory({renderer: { 
+  elementId: 'output', 
+  width: 80, 
+  height: 130 
+}});
+// Create a guitar staff, displaced down one octave
+vf.System().addStave({voices:[vf.EasyScore().voice([
+	new StaveNote({ 
+    keys: [note], 
+    duration: "w", 
+    octave_shift: -1
+  })
+])]})
+.addClef('treble', 'default', '8vb');
+vf.draw();
+
+// Hack to append a download link for the generated SVG
+const svgData = $('#output')[0].innerHTML.replace('<svg ', '<svg xmlns="http://www.w3.org/2000/svg" ');
+const svgBlob = new Blob([svgData], {type:"image/svg+xml;charset=utf-8"});
+const svgUrl = URL.createObjectURL(svgBlob);
+const downloadLink = document.createElement("a");
+downloadLink.innerText = 'Download';
+downloadLink.href = svgUrl;
+downloadLink.download = filename;
+$('#output')[0].after(downloadLink);
+```
+
 # Copyright
 
 Copyright &copy; 2022-2023 by Jason Grimes.
