@@ -29,7 +29,7 @@ Hijaz is one of the most common scales used in Flamenco.
 </div>
 
 {% include figure.html
-    caption="Hijaz maqmat in C on 2nd string"
+    caption="Hijaz maqam in C on 2nd string"
     url="/assets/figures/misc-scales/hijaz-string.svg"
     class="chord row"
 %}
