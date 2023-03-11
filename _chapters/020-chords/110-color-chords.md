@@ -8,7 +8,7 @@ abstract: Sixth, sus, add, extended, and altered chords can add color and more t
 
 To increase tension,
 add "color" and express a range of emotion,
-the diatonic chords of Western harmony can be enriched by adding one or more tones from outside the chord.
+diatonic chords of Western harmony can be enriched by adding one or more tones from outside the chord.
 
 This leads to a bewildering variety of guitar chords that can seem endless,
 disorganized, and confusing.
@@ -39,7 +39,7 @@ Chord names follow a basic convention.
 - **major**: If the chord is specifically called major, it implies a major seventh interval. Ex. Cmaj6, which is different than C6.
 - **minor**: Implies a minor seventh interval (except "m6" chords).
 - **7,9,11,13**: A chord name with just a number implies a dominant chord (having a M3 and a b7). Ex. C7, C13
-- **b/# 5,9,11,13**: A dominant seventh chord with the given tones altered as specified.
+- **#/b 5,9,11,13**: A dominant seventh chord with the given tones altered as specified.
 
 ### Compound intervals
 
