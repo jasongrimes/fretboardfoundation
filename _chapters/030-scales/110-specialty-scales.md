@@ -82,18 +82,19 @@ This is also called the "dominant bebop scale".
 
 ## Jazz minor and its modes
 
-Jazz musicians are fond of the melodic minor scale,
-which is the simplest possible minor scale:
-the major scale with a b3.
+Jazz musicians are fond of the melodic minor scale.
+
+It's the simplest possible minor scale:
+a major scale with a b3.
 It includes a leading tone and no tone-and-a-half interval,
 simplifying minor key tonality.
 See {% include chapter-link.html slug="minor-scales" %} for details.
 
 In the context of jazz,
-melodic minor is called "jazz minor",
+melodic minor is often called "jazz minor",
 and it's played the same ascending and descending.
 
-The seven modes of jazz minor are common jazz scales.
+The seven modes of jazz minor are also commonly used jazz scales.
 
 **Modes of jazz minor**
 
@@ -229,4 +230,4 @@ This has just been a taste of the abundant variety of scales to be explored.
 Jazz guitarists in particular will come across many, many more.
 
 By this point,
-it should be easy to break down and study new scales on our own.
+hopefully it's easy to break down and study new scales on our own.
