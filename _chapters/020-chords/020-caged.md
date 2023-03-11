@@ -42,7 +42,7 @@ before the painful way becomes habit.
 Aside from this general advice,
 a few observations can be particularly helpful.
 
-**Notice the elbow**
+#### Notice the elbow
 
 The fretting hand's reach and range of motion changes dramatically depending on the position of the elbow.
 
@@ -54,7 +54,7 @@ or pull it back to better reach the high strings.
 Often when we are struggling to place our fingers into a challenging chord grip,
 the problem can be solved almost magically by simply adjusting the elbow until the position is more comfortable. 
 
-**Keep the fretting wrist at a neutral angle**
+#### Keep the fretting wrist at a neutral angle
 
 The fretting wrist should be kept at a neutral angle,
 with the hand curved slightly forward so there is no bend where the tendons cross the wrist.
@@ -67,7 +67,7 @@ as already described,
 and by tilting the guitar neck upward. 
 A strap with a suede backing can help hold the guitar tilted in a comfortable fretting position.
 
-**Our hands are not crowbars**
+#### Our hands are not crowbars
 
 While it is possible to use the thumb as a fulcrum to lever the fingers onto the fretboard with considerable force,
 our hands are full of joints that need to be held rigidly in place in order to do so.
@@ -117,7 +117,7 @@ the purest tone with the least effort.
 
 -->
 
-**More about guitar ergonomics**
+#### More on guitar ergonomics
 
 Christopher Berg’s excellent 
 *Mastering Guitar Technique: Process and Essence* 
