@@ -196,20 +196,6 @@ The seven modes of jazz minor are also commonly used jazz scales.
     class="string row"
 %}
 
-### vi: Locrian #2
-
-{% include figure.html
-    caption="F Locrian #2 tetrachords relative to A minor on bottom strings."
-    url="/assets/figures/misc-scales/jazzminor-6-fretboard.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="Locrian #2 tetrachords"
-    url="/assets/figures/misc-scales/jazzminor-6-tetrachords.svg"
-    class="string row"
-%}
-
 ### vii: Altered scale
 
 {% include figure.html
