@@ -220,4 +220,4 @@ This has just been a taste of the abundant variety of scales to be explored.
 Jazz guitarists in particular will come across many, many more.
 
 By this point,
-we should be able to break down and study new scales on our own.
+it should be easy to break down and study new scales on our own.
