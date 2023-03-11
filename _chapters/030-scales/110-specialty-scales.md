@@ -1,10 +1,8 @@
 ---
 title: Specialty scales
 slug: specialty-scales
-abstract: There are countless other scales and modes. This chapter presents a few of the more interesting ones used in jazz and non-Western styles. 
+abstract: A few of the more interesting scales used in jazz and non-Western styles. 
 ---
-
-## About these scales
 
 ## Hijaz
 
