@@ -13,5 +13,14 @@ figure.string {
 figure.string img {
     padding-left: 25px;
     padding-right: 25px;
+}
+figure.staff-note {
+    width: 75px;
+}
+/* figure.staff-note img {
+    background-color: #fff; 
+} */
 
+figure.float-left {
+    float: left;
 }
