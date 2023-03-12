@@ -7,7 +7,7 @@ It's possible to go a long way in guitar studies without knowing how to read mus
 Many guitarists never learn at all.
 
 But most of the best guitar books express their ideas in music staff notation.
-If we want to read these advanced guitar materials,
+If we want to read these advanced materials,
 we need to acquire a minimal ability to read music for guitar.
 
 Typically this only requires knowing enough to decipher the notes on the staff and locate them on the guitar.
