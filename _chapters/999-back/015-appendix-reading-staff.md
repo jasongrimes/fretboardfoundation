@@ -1,6 +1,6 @@
 ---
-title: "Appendix II: Reading music for guitar"
-slug: appendix-guitar-staff
+title: "Appendix B: Reading music for guitar"
+slug: reading-music-for-guitar
 ---
 
 It's possible to go a long way in guitar studies without knowing how to read music.
