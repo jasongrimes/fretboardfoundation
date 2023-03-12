@@ -94,7 +94,7 @@ In the context of jazz,
 melodic minor is often called "jazz minor",
 and it's played the same ascending and descending.
 
-The seven modes of jazz minor are also commonly used jazz scales.
+The different modes of jazz minor are also commonly used jazz scales.
 
 **Modes of jazz minor**
 
