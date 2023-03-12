@@ -90,8 +90,10 @@ it's a curated list aiming to include the most common chord grips for some of th
     class="chord row" 
 %}
 
-### Major 6th (with a major 7)
 ### add9
+
+
+
 ### add11
 ### 6add9
 
