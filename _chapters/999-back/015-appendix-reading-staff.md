@@ -23,7 +23,8 @@ in ascending order from bottom to top.
 
 A "clef" sign indicates which notes fall on which lines and spaces.
 Guitar music is written in the "treble" clef,
-also known as the "G" clef because it identifies the location of "G" on the staff.
+also known as the "G clef" because it identifies the location of "G" on the staff.
+Notice how the clef is a stylized G that curls around the G line. 
 
 {% include figure.html
     caption="Treble clef (aka G clef)."
