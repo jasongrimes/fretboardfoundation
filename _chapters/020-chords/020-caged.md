@@ -700,7 +700,7 @@ The E minor shape is essentially the same as the G minor shape,
 except gripped from below rather than above.
 
 This shape is commonly played as a barre chord,
-`144111`. 
+`134111`. 
 But like the E major shape,
 there are more comfortable choices.
 
