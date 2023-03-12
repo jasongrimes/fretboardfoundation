@@ -84,18 +84,18 @@ When a sharp or flat appears in the "key signature",
 immediately after the clef sign,
 it is used throughout the entire piece.
 
-The number of sharps or flats in the key signature determines what key is is in.
+The number of sharps or flats in the key signature identifies the key.
 See {% include chapter-link.html slug="keys" %} for details.
 
 {% include figure.html
-    caption="Example key signature for key of G."
+    caption="Example key signature for key of G major."
     url="/assets/figures/staff-notation/staff-key-signature.svg"
     class="collapse"
 %}
 
 ## Accidentals
 
-When a sharp or flat that is not in the key signature appears is added to a note,
+When a sharp or flat that is not in the key signature is added to a note,
 it is called an "accidental" and continues for the remainder of the measure.
 The next bar line cancels it out.
 
