@@ -27,11 +27,11 @@ favicon_path: /assets/gitbook/images/favicon.ico
 sidebar_nav_top:
 - label: About this site
   url: /about
-- label: Draft outline
-  url: /outline
 
 # Links shown below the TOC in the sidebar
 sidebar_nav_bottom:
+- label: Draft outline
+  url: /outline
 - label: Privacy statement
   url: /privacy
 
