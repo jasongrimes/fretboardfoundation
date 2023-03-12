@@ -18,7 +18,8 @@ and B3 is the B below middle C.
 
 The lowest note on guitar is E2
 (the open low E string),
-and the highest is around E5.
+and the highest is around E5
+(the 12th fret on the high E string).
 
 ## C notes
 
