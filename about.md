@@ -13,15 +13,8 @@ and the [author page](author) for more about me.
 The book is freely available on this website, 
 and will remain so after it is completed. 
 
-Though the book is not yet complete,
-the core chapters are available.
-I hope it is already useful to some. 
-I aim for the book to be able to stand on its own as a useful resource during the entire writing process, 
-even without the support of pages yet unwritten.
+See a list of topics available in the [table of contents](toc). 
 
-For a list of what’s available so far, 
-see the [table of contents](toc). 
-The [outline](outline) has details about what’s to come. 
 
 ## Technology
 
@@ -31,7 +24,7 @@ that I created to support a proper book format and my preferred workflow.
 
 ## Contact
 
-**Please note:**
+Please note:
 I cannot promise to get back to you in any reasonable amount of time, if ever. 
 I sincerely don’t mean to be rude, 
 but that’s just the reality. 
