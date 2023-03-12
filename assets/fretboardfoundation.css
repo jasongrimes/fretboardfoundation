@@ -24,3 +24,6 @@ figure.staff-note {
 figure.float-left {
     float: left;
 }
+figure.collapse {
+    display: table;
+}

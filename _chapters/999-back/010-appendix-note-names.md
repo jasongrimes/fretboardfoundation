@@ -4,11 +4,23 @@ slug: note-names
 abstract: Locating the natural notes on the fretboard, with attention to distinguishing between octaves. 
 ---
 
+## Octaves and scientific pitch notation
 
+To distinguish between the same note in different octaves,
+"scientific pitch notation" adds an octave number to the note name.
+
+C4 is "middle C",
+the C in between the bass and treble clefs,
+and near the middle of a piano keyboard.
+
+B4 is the B above middle C,
+and B3 is the B below middle C.
+
+The lowest note on guitar is E2
+(the open low E string),
+and the highest is around E5.
 
 ## C notes
-
-
 
 {% include figure.html
     caption="C notes on fretboard in standard tuning."
