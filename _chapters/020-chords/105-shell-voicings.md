@@ -27,6 +27,19 @@ and they are used as the basis for many extended and altered chords later on.
 
 ## Shell chord grips
 
+Shell voicings are given for major seventh,
+minor seventh,
+and dominant chords,
+which enough to cover all the diatonic chords of Western harmony.
+A min7 shell voicing can be played for a m7b5 chord,
+since it omits the fifth.
+
+Major seventh chords can sound a bit harsh at times,
+especially as the I chord 
+(which should typically feel like a place of rest).
+Major sixth shell voicings can substitute for major 7 chords as a more relaxed alternative.
+See {% include chapter-link.html slug="color-chords" %} for more about substituting chords in this way.
+
 ### 6th string root
 
 {% include figure.html
