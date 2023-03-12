@@ -1,7 +1,7 @@
 ---
 title: "Appendix B: Reading music for guitar"
 slug: reading-music-for-guitar
----
+abstract: A minimal introduction to understanding music staff notation for guitar, and mapping it onto the fretboard.
 
 It's possible to go a long way in guitar studies without knowing how to read music.
 Many guitarists never learn at all.
