@@ -148,7 +148,7 @@ or "Phrygidorian".
 ### bIII: Lydian #5
 
 Lydian #5 is also known as
-"Lydian Augmented".
+"Lydian augmented".
 
 {% include figure.html
     caption="C Lydian #5 tetrachords relative to A minor on bottom strings."
