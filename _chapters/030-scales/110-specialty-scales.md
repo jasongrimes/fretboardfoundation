@@ -237,7 +237,7 @@ or "Altered dominant".
 ## And many more...
 
 This has just been a taste of the abundant variety of scales to be explored.
-Jazz guitarists in particular will come across many, many more.
+Jazz guitarists in particular will come across a great deal more.
 
 By this point,
 hopefully it's easy to break down and study new scales on our own.
