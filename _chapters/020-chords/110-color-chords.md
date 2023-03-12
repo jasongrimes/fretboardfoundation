@@ -219,6 +219,9 @@ it's a curated list aiming to include the most common chord grips for some of th
 
 ### 7#9
 
+The 7#9 chord is also called the "Hendrix chord",
+because it was favored by Jimi Hendrix.
+
 {% include figure.html
     caption="Dominant 7#9 chord with 5th string root."
     url="/assets/figures/color-chords/7sharp9-5.svg" 
