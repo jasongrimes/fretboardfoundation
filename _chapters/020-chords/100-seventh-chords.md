@@ -112,7 +112,7 @@ For simplicity,
 we just need to remember a few things about drop voicings on guitar.
 
 **Drop 3 voicings** on guitar have the following properties.
-- A **6th-string root**.
+- A **6th-string root** (mostly, but 5th string roots are also possible).
 - A `R-7-3-5` voicing.
 - A signature **string skip** over the muted 5th string.
 - **Third** and **fifth** factors **raised an octave**.
