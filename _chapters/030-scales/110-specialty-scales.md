@@ -42,7 +42,7 @@ Hijaz is one of the most common scales used in Flamenco.
 
 A maqam like Hijaz is understood in terms of an upper and lower part,
 usually tetrachords (called "jins" in Arabic). 
-The lower tetrachord of the Hijaz maqmat is also called Hijaz.
+The lower tetrachord of the Hijaz maqam is also called Hijaz.
 Its intervals are `1-b2-3-4`.
 The upper tetrachord is called "Kurd" in Arabic,
 but it's the same as the phrygian tetrachord, `1-b2-b3-4`.
