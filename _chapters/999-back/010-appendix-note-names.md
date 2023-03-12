@@ -1,5 +1,5 @@
 ---
-title: "Appendix I: Notes on the fretboard"
+title: "Appendix A: Notes on the fretboard"
 slug: note-names
 abstract: Locating the natural notes on the fretboard, with attention to distinguishing between octaves. 
 ---
