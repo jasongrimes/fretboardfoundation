@@ -30,7 +30,7 @@ and they are used as the basis for many extended and altered chords later on.
 Shell voicings are given for major seventh,
 minor seventh,
 and dominant chords,
-which enough to cover all the diatonic chords of Western harmony.
+which are enough to cover all the diatonic chords of Western harmony.
 A min7 shell voicing can be played for a m7b5 chord,
 since it omits the fifth.
 
