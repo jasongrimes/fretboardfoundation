@@ -128,6 +128,11 @@ The different modes of jazz minor are also commonly used jazz scales.
 
 ### ii: Dorian b2
 
+Dorian b2 is also known as 
+"Phrygian #6", 
+"Assyrian", 
+or "Phrygidorian".
+
 {% include figure.html
     caption="B Dorian b2 tetrachords relative to A minor on bottom strings."
     url="/assets/figures/misc-scales/jazzminor-2-fretboard.svg"
@@ -141,6 +146,9 @@ The different modes of jazz minor are also commonly used jazz scales.
 %}
 
 ### bIII: Lydian #5
+
+Lydian #5 is also known as
+"Lydian Augmented".
 
 {% include figure.html
     caption="C Lydian #5 tetrachords relative to A minor on bottom strings."
@@ -156,6 +164,9 @@ The different modes of jazz minor are also commonly used jazz scales.
 
 ### IV: Lydian b7
 
+Lydian b7 is also known as
+"Lydian dominant".
+
 {% include figure.html
     caption="D Lydian b7 tetrachords relative to A minor on bottom strings."
     url="/assets/figures/misc-scales/jazzminor-4-fretboard.svg"
@@ -169,6 +180,11 @@ The different modes of jazz minor are also commonly used jazz scales.
 %}
 
 ### V: Mixolydian b6
+
+Mixolydian b6 is also known as
+"Melodic major",
+"Hindu",
+or "Myxaeolian".
 
 {% include figure.html
     caption="Eb Mixolydian b6 tetrachords relative to A minor on bottom strings."
@@ -184,6 +200,10 @@ The different modes of jazz minor are also commonly used jazz scales.
 
 ### vi: Locrian #2
 
+Locrian #2 is also known as
+"Half-diminished"
+or "Aeolocrian".
+
 {% include figure.html
     caption="F Locrian #2 tetrachords relative to A minor on bottom strings."
     url="/assets/figures/misc-scales/jazzminor-6-fretboard.svg"
@@ -197,6 +217,10 @@ The different modes of jazz minor are also commonly used jazz scales.
 %}
 
 ### vii: Altered scale
+
+The altered scale is also known as
+"Super Locrian"
+or "Altered dominant".
 
 {% include figure.html
     caption="G Altered scale tetrachords relative to A minor on bottom strings."
