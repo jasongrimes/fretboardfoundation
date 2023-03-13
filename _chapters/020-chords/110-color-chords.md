@@ -326,7 +326,34 @@ because it was favored by Jimi Hendrix.
 
 These chords are often played without the root note.
 
+{% include figure.html
+    caption="Dominant 7b5b9 chord with 6th string root."
+    url="/assets/figures/color-chords/7b5b9-6.svg" 
+    class="chord row" 
+%}
+
+{% include figure.html
+    caption="Dominant 7b5b9 chord with 5th string root."
+    url="/assets/figures/color-chords/7b5b9-5.svg" 
+    class="chord row" 
+%}
+
+
 ### 7b5#9
+
+These chords are often played without the root note.
+
+{% include figure.html
+    caption="Dominant 7b5#9 chord with 6th string root."
+    url="/assets/figures/color-chords/7b5sharp9-6.svg" 
+    class="chord row" 
+%}
+
+{% include figure.html
+    caption="Dominant 7b5#9 chord with 5th string root."
+    url="/assets/figures/color-chords/7b5sharp9-5.svg" 
+    class="chord row" 
+%}
 
 ### 7#5b9
 
