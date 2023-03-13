@@ -200,7 +200,32 @@ it's a curated list aiming to include the most common chord grips for some of th
 ## Suspended chords
 
 ### sus2
+
+{% include figure.html
+    caption="sus2 chord with 6th string root."
+    url="/assets/figures/color-chords/sus2-6.svg" 
+    class="chord row" 
+%}
+
+{% include figure.html
+    caption="sus2 chord with 5th string root."
+    url="/assets/figures/color-chords/sus2-5.svg" 
+    class="chord row" 
+%}
+
 ### sus4
+
+{% include figure.html
+    caption="sus4 chord with 6th string root."
+    url="/assets/figures/color-chords/sus4-6.svg" 
+    class="chord row" 
+%}
+
+{% include figure.html
+    caption="sus4 chord with 5th string root."
+    url="/assets/figures/color-chords/sus4-4.svg" 
+    class="chord row" 
+%}
 
 ## Dominant chords
 
