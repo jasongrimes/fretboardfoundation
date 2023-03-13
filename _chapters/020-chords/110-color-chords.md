@@ -322,10 +322,13 @@ because it was favored by Jimi Hendrix.
     class="chord row" 
 %}
 
-### 7b9b13
-
 ### 7b5b9
+
+These chords are often played without the root note.
+
 ### 7b5#9
+
 ### 7#5b9
+
 ### 7#5#9
 
