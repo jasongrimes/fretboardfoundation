@@ -92,10 +92,53 @@ it's a curated list aiming to include the most common chord grips for some of th
 
 ### add9
 
+{% include figure.html
+    caption="add9 chord with 5th string root."
+    url="/assets/figures/color-chords/add9-5.svg" 
+    class="chord row"
+%}
 
+{% include figure.html
+    caption="add9 chord with 4th string root."
+    url="/assets/figures/color-chords/add9-4.svg" 
+    class="chord row" 
+%}
 
 ### add11
+
+{% include figure.html
+    caption="add11 chord with 6th string root."
+    url="/assets/figures/color-chords/add11-6.svg" 
+    class="chord row" 
+%}
+
+{% include figure.html
+    caption="add11 chord with 5th string root."
+    url="/assets/figures/color-chords/add11-5.svg" 
+    class="chord row" 
+%}
+
 ### 6add9
+
+6add9 chords are also known as "6/9" chords.
+
+{% include figure.html
+    caption="6add9 chord with 6th string root."
+    url="/assets/figures/color-chords/6add9-6.svg" 
+    class="chord row" 
+%}
+
+{% include figure.html
+    caption="6add9 chord with 5th string root."
+    url="/assets/figures/color-chords/6add9-5.svg" 
+    class="chord row" 
+%}
+
+{% include figure.html
+    caption="6add9 chord with 4th string root."
+    url="/assets/figures/color-chords/6add9-4.svg" 
+    class="chord row" 
+%}
 
 ## Minor chords
 
