@@ -50,7 +50,9 @@ how can we make the most progress in the shortest time?
 What’s the minimum information needed, 
 and what’s the fastest way to learn it?
 
-Obviously the answer depends in part on where we want to go.
+Obviously the answer depends,
+in part,
+on where we want to go.
 But there is a common foundation that is often required.
 This book aims to provide that foundation in a practical way. 
 
