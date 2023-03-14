@@ -41,6 +41,7 @@ and then the jekyll gem.
 
 ## Run the site
 
+    rvm use 2.7.4
     bundle exec jekyll serve
 
 Open the site locally at http://127.0.0.1:4000/
@@ -59,6 +60,17 @@ Bind jekyll serve to it:
 Then connect to it from a mobile or other device on the same network using the IP address from $IP and port 4000.
 
 For example: http://10.0.0.10:4000
+
+# Generating offline site with httrack
+
+    datestamp=`date -I`
+    httrack http://127.0.0.1:4000 -w -O ./fretboardfoundation-$datestamp -v --max-rate=1000000000 --sockets=50 --disable-security-limits --display --assume svg=application/octet-stream -o0
+
+    rm -rf fretboardfoundation-$datestamp/hts-cache
+
+    zip -r fretboardfoundation-$datestamp.zip fretboardfoundation-$datestamp
+
+
 
 # Making simple staff notation with VexFlow
 
