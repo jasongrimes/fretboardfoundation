@@ -190,8 +190,9 @@ with adjustable sixth and seventh degrees.
     class="string row"
 %}
 
-Notice that the lower tetrachord (**1-2-b3-1**) is always the same.
-It can be useful to learn licks and tunes in the lower tetrachord since they will work regardless of what's happening with the 6 and 7.
+Notice that the lower tetrachord (**1-2-b3-4**) is always the same,
+as is the perfect fifth.
+It can be useful to learn licks and phrases with the lower tetrachord and fifth since they will work regardless of what's happening with the 6 and 7.
 
 ## Relative major and minor
 
