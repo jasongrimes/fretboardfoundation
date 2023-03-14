@@ -121,8 +121,8 @@ which is determined by how many "semitones" or frets they span.
 #### Semitones, tones, and frets 
 
 A "semitone" is the smallest interval in most Western music.
-It's the smallest interval on a guitar fretboard,
-the distance across one fret on one string. 
+On a guitar fretboard,
+it's the distance across one fret on one string. 
 Semitones are sometimes called "half steps",
 or (on guitar) "frets".
 
