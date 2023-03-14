@@ -21,14 +21,15 @@ so it won't be covered here.
 The music staff consists of five lines and four spaces,
 each of which represents a natural note,
 in ascending order from bottom to top.
+The staff is broken into "measures" by "bar lines".
 
-A "clef" sign indicates which notes fall on which lines and spaces.
+A "clef" sign indicates where notes fall on the staff.
 Guitar music is written in the "treble" clef,
 also known as the "G clef" because it identifies the location of "G" on the staff.
 Notice how the clef is a stylized G that curls around the G line. 
 
 {% include figure.html
-    caption="Treble clef (aka G clef)."
+    caption="Treble clef (G clef) with two measures."
     url="/assets/figures/staff-notation/staff-treble-G4.svg"
     class="collapse"
 %}

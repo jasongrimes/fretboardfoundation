@@ -113,6 +113,6 @@ It's generally simpler to use the corresponding flat key instead.
 {% include figure.html
     caption="Circle of fifths, by 'Just plain Bill' on Wikipedia. See copyright page for details."
     url="/assets/figures/keys/circle-of-fifths.svg"
-    class=""
+    class="collapse"
 %}
 
