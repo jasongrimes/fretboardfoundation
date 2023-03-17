@@ -5,15 +5,15 @@ layout: page
 ---
 
 This site is a tool for creating and sharing a book I’m slowly writing called
-[_Fretboard Foundation: Practical building blocks for intermediate guitarists_](/).
+[_Fretboard Foundation: Practical building blocks for intermediate guitarists_](index.html).
 
-See the [preface](preface) for more about the book, 
-and the [author page](author) for more about me.
+See the [preface](preface.html) for more about the book, 
+and the [author page](author.html) for more about me.
 
 The book is freely available on this website, 
 and will remain so after it is completed. 
 
-See a list of topics available in the [table of contents](toc). 
+See a list of topics available in the [table of contents](toc.html). 
 
 
 ## Technology

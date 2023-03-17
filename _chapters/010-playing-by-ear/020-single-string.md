@@ -22,7 +22,7 @@ since the entire lenth of the fingerboard is utilized from the very beginning.
 * ...Elements of fundamental theory can be shown to a beginner in clear and simple visual and aural terms:
 intervals, scale constructions, chords, arpeggios, etc.
 The same could be said for dynamics, articulations, and timbre."
-[(Goodrick, 1987, p. 10)](references#goodrick-1987)
+[(Goodrick, 1987, p. 10)](references.html#goodrick-1987)
 
 Playing on one string also has the benefit that we don't have to worry about being in tune,
 in the sense that a string is always in tune with itself.

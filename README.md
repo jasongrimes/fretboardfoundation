@@ -61,7 +61,18 @@ Then connect to it from a mobile or other device on the same network using the I
 
 For example: http://10.0.0.10:4000
 
-# Generating offline site with httrack
+# Generating offline site 
+
+## With jekyll
+
+    RMDIRS=(tmp assets/archives assets/demo)
+    RMFILES=(CNAME Gemfile Gemfile.lock *.code-workspace)
+    bundle exec jekyll build --baseurl=. \
+        && for dir in $RMDIRS; do echo "Removing $dir"; rm -rf _site/$dir; done \
+        && for file in $RMFILES; do echo "Removing $file"; rm _site/$file; done \
+        && du -sh _site
+
+## With httrack
 
     datestamp=`date -I`
     httrack http://127.0.0.1:4000 -w -O ./fretboardfoundation-$datestamp -v --max-rate=1000000000 --sockets=50 --disable-security-limits --display --assume svg=application/octet-stream -o0
@@ -70,6 +81,7 @@ For example: http://10.0.0.10:4000
 
     zip -r fretboardfoundation-$datestamp.zip fretboardfoundation-$datestamp
 
+# G
 
 # Making simple staff notation with VexFlow
 

@@ -86,7 +86,7 @@ We can then learn other minor modes as
 essentially holding two "chunks" in memory to define Phrygian ("minor" and "b2"),
 rather than seven "chunks" (`1-b2-b3-4-5-b6-b7`).
 
-See ["How to learn"](introduction#how-to-learn) in the Introduction for details.
+See ["How to learn"](introduction.html#how-to-learn) in the Introduction for details.
 
 ### I: Ionian - major
 

@@ -121,7 +121,7 @@ That's the approach taken in this book.
 
 Master guitar educator Christopher Berg wrote an invaluable book that must be mentioned here:
 *Practicing Music by Design: Historic Virtuosi on Peak Performance*
-[(Berg, 2019)](references#berg-2019).
+[(2019)](references.html#berg-2019).
 He reviewed "peak performance" literature
 about research into the development of expert skill,
 and combined it with his own expertise on the techniques of centuries of master musicians.

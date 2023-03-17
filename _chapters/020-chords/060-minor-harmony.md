@@ -138,7 +138,7 @@ These contortions are collectively called "melodic minor"
 %}
 
 Compare these diatonic minor chords around a C shape i chord with their relative 
-[diatonic major chords in D shape I chord position](major-harmony#d-shape-i-chord-position).
+[diatonic major chords in D shape I chord position](major-harmony.html#d-shape-i-chord-position).
 
 {% include figure.html
     caption="i chord in C shape i chord position."
@@ -266,7 +266,7 @@ thinking of a chord in context of both the minor and relative major scales.
 %}
 
 Compare these diatonic minor chords around an A shape i chord with their relative 
-[diatonic major chords in C shape I chord position](major-harmony#c-shape-i-chord-position).
+[diatonic major chords in C shape I chord position](major-harmony.html#c-shape-i-chord-position).
 
 {% include figure.html
     caption="i chord in A shape i chord position."
@@ -343,7 +343,7 @@ Compare these diatonic minor chords around an A shape i chord with their relativ
 %}
 
 Compare these diatonic minor chords around a G shape i chord with their relative 
-[diatonic major chords in A shape I chord position](major-harmony#a-shape-i-chord-position).
+[diatonic major chords in A shape I chord position](major-harmony.html#a-shape-i-chord-position).
 
 {% include figure.html
     caption="i chord in G shape i chord position."
@@ -420,7 +420,7 @@ Compare these diatonic minor chords around a G shape i chord with their relative
 %}
 
 Compare these diatonic minor chords around an E shape i chord with their relative 
-[diatonic major chords in G shape I chord position](major-harmony#g-shape-i-chord-position).
+[diatonic major chords in G shape I chord position](major-harmony.html#g-shape-i-chord-position).
 
 {% include figure.html
     caption="i chord in E shape i chord position."
@@ -498,7 +498,7 @@ Compare these diatonic minor chords around an E shape i chord with their relativ
 %}
 
 Compare these diatonic minor chords around an D shape i chord with their relative 
-[diatonic major chords in E shape I chord position](major-harmony#e-shape-i-chord-position).
+[diatonic major chords in E shape I chord position](major-harmony.html#e-shape-i-chord-position).
 
 {% include figure.html
     caption="i chord in D shape i chord position."

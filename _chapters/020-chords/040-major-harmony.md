@@ -18,7 +18,7 @@ and typically use the tonic note more frequently than any other note in the scal
 
 Music that revolves around a tonic in this way is called "tonical".
 (Or, unfortunately, "tonal". 
-See ["tonal"](glossary#tonal) in the glossary for argument against that usage.)
+See ["tonal"](glossary.html#tonal) in the glossary for argument against that usage.)
 
 
 ## Chords in a major key

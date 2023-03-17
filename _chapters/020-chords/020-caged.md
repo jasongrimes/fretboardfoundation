@@ -121,7 +121,7 @@ the purest tone with the least effort.
 
 Christopher Berg’s excellent 
 *Mastering Guitar Technique: Process and Essence* 
-[(Berg, 1997)](references#berg-1997) 
+[(1997)](references.html#berg-1997) 
 has a great deal more about optimal positioning of the body for playing guitar.
 
 

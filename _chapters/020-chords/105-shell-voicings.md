@@ -323,5 +323,5 @@ Notice how smooth the voice leading is in this progression.
 ## More on shell voicings
 
 To learn more about shell voicings,
-the book *Three-Note Voicings and Beyond*, by Randy Vincent ([2011](references#vincent-2011)),
+the book *Three-Note Voicings and Beyond*, by Randy Vincent [(2011)](references.html#vincent-2011),
 is an excellent resource.

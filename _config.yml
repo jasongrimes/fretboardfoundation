@@ -14,10 +14,10 @@ description: >
 # Set copyright: false to disable.
 copyright:
   start_year: 2022
-  link_slug: copyright
+  url: /copyright.html
 
 # Customize the link favicon in header. Will be {{site.baseurl}}/{{site.favicon_path}}
-favicon_path: /assets/gitbook/images/favicon.ico
+favicon_path: assets/gitbook/images/favicon.ico
 
 #
 # Navigation menus
@@ -26,25 +26,25 @@ favicon_path: /assets/gitbook/images/favicon.ico
 # Links shown above the TOC in the sidebar
 sidebar_nav_top:
 - label: About this site
-  url: /about
+  url: /about.html
 
 # Links shown below the TOC in the sidebar
 sidebar_nav_bottom:
 - label: Draft outline
-  url: /outline
+  url: /outline.html
 - label: Privacy statement
-  url: /privacy
+  url: /privacy.html
 
 # Navigation shown at the bottom of the page
 bottom_nav:
 - label: Home
-  url: /
+  url: /index.html
 - label: Contents
-  url: /toc
+  url: /toc.html
 - label: About
-  url: /about
+  url: /about.html
 - label: Privacy
-  url: /privacy
+  url: /privacy.html
 
 # Whether to show chapter headings as a table of contents at the top of each chapter page.
 # Override in page front matter with disable_toc: true

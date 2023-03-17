@@ -137,7 +137,7 @@ Sometimes the terms "whole tone" or "whole step" are used instead.
 
 Be aware that the term "tone" has other meanings as well,
 such as "any note with a discernible pitch".
-See ["tone" in the glossary](glossary#tone) for details. 
+See ["tone" in the glossary](glossary.html#tone) for details. 
 
 ### Interval table
 
@@ -219,7 +219,7 @@ As Bert Ligon said in *Comprehensive Technique for Jazz Musicians*,
 the major triad consists of "the first three pitches in the overtone series 
 and the natural laws of physics insist that the planet vibrates with these tones when the winds blow, 
 which may explain the universal occurrence of the triad in melodies."
-[(Ligon, 1999)](references#ligon-1999)
+[(1999)](references.html#ligon-1999)
 
 #### Types of triad chord
 
@@ -435,7 +435,7 @@ The rest are defined in relation to those.
 | 2      | Supertonic   | The degree above (super) the tonic. |
 | 3      | Mediant      | Midway (medi) between the tonic and dominant |
 | 4      | Subdominant  | Lower (sub) dominant. A perfect fifth *below* the tonic. |
-| 5      | Dominant     | A perfect fifth above the tonic. The fifth is the dominant harmonic (i.e. the most common) in the [overtone series](glossary#overtone-series). |
+| 5      | Dominant     | A perfect fifth above the tonic. The fifth is the dominant harmonic (i.e. the most common) in the [overtone series](glossary.html#overtone-series). |
 | 6      | Submediant   | Lower (sub) mediant, midway (medi) between the tonic and the subdominant. |
 | b7     | Subtonic     | The note below (sub) the tonic when it's a whole tone below, as in the natural minor scale. |
 | 7      | Leading tone | The note a semitone below the tonic, as in the major scale. It leads to the tonic. |
