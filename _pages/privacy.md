@@ -1,6 +1,6 @@
 ---
 title: Privacy statement
-permalink: /privacy
+slug: privacy
 layout: page
 ---
 

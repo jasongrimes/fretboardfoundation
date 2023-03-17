@@ -1,6 +1,6 @@
 ---
 title: Draft outline
-permalink: /outline
+slug: outline
 layout: page
 ---
 

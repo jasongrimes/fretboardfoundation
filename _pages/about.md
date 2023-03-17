@@ -1,6 +1,6 @@
 ---
 title: About this site
-permalink: /about
+slug: about
 layout: page
 ---
 
