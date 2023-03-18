@@ -1,7 +1,7 @@
 ---
 title: Preface
 slug: preface
-abstract: Why this book exists, and who it's for.
+abstract: Why this book exists and who it's for.
 disable_toc: true
 ---
 
