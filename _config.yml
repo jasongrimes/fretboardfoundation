@@ -18,7 +18,7 @@ copyright:
   url: copyright.html
 
 # Customize the link favicon in header. Will be {{site.baseurl}}/{{site.favicon_path}}
-favicon_path: assets/gitbook/images/favicon.ico
+favicon_path: favicon.ico
 
 #
 # Navigation menus

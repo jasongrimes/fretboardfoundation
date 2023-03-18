@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 512 512" width="512px" height="512px" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:grid x="508.092" y="510.48" width="500" height="500.025"/>
+  </defs>
+  <rect width="508" height="508.026" rx="74.375" ry="74.375" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0); stroke-width: 3px;" x="2" y="2"/>
+  <rect x="21.059" width="40.657" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" y="240.237"/>
+  <rect x="67.752" width="68.126" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" y="240.237"/>
+  <rect x="141.915" width="68.126" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" y="240.237"/>
+  <rect x="216.08" width="68.126" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" y="240.237"/>
+  <rect x="290.243" width="68.126" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" y="240.237"/>
+  <rect x="290.243" width="68.126" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" y="240.237"/>
+  <rect x="364.403" width="68.126" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" y="240.237"/>
+  <rect x="438.566" width="59.554" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" y="240.237"/>
+  <rect x="19.922" y="287.47" width="76.418" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="102.378" y="287.47" width="68.126" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="176.539" y="287.47" width="68.126" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="250.699" y="287.47" width="68.126" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="324.864" y="287.47" width="68.126" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="399.026" y="287.47" width="68.126" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="473.188" y="287.47" width="21.984" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="19.386" y="333.43" width="41.932" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="67.355" y="333.43" width="68.126" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="141.516" y="333.43" width="68.126" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="215.678" y="333.43" width="68.126" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="289.843" y="333.43" width="68.126" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="289.843" y="333.43" width="68.126" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="364.002" y="333.43" width="68.126" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="438.165" y="333.43" width="57.931" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="20.472" y="380.66" width="75.472" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="101.98" y="380.66" width="68.126" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="176.142" y="380.66" width="68.126" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="250.305" y="380.66" width="68.126" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="324.468" y="380.66" width="68.126" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="398.631" y="380.66" width="68.126" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="472.79" y="380.66" width="22.752" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="19.177" y="426.255" width="42.864" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="68.075" y="426.255" width="68.126" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="142.239" y="426.255" width="68.126" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="216.402" y="426.255" width="68.126" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="290.562" y="426.255" width="68.126" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="290.562" y="426.255" width="68.126" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="364.724" y="426.255" width="68.126" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="438.886" y="426.255" width="57.084" height="38.724" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <circle style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);" cx="101.597" cy="353.255" r="11.292"/>
+  <circle style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);" cx="250.028" cy="353.903" r="11.292"/>
+  <circle style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);" cx="434.672" cy="306.726" r="11.292"/>
+  <circle style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);" cx="433.336" cy="400.946" r="11.292"/>
+  <g transform="matrix(1, 0, 0, 1, 8, 1)">
+    <g>
+      <g>
+        <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 85px; font-weight: 700; text-anchor: middle; white-space: pre;" transform="matrix(1, 0, 0, 1, 172.934952, 20.012646)"><tspan x="76.088" y="87.095">Fretboard</tspan><tspan x="76.08799743652344" dy="1.1em">​</tspan><tspan>Foundation</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
