@@ -163,7 +163,7 @@ Some common tetrachord names:
 |harmonic minor|S-TS-S   |1-b2-3-4 |C-Db-E-F |
 |phrygian      |S-T-T    |1-b2-b3-4|C-Db-Eb-F|
 |lydian        |T-T-T    |1-2-3-#4 |C-D-E-F# |
-|hijaz         |S-TS-T   |1-b2-3-4 |C-Db-Eb-F|
+|hijaz         |S-TS-S   |1-b2-3-4 |C-Db-E-F |
 
 </div>
 
