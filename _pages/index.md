@@ -9,8 +9,10 @@ subtitle: Practical building blocks for intermediate guitarists.
 This is a free book about playing guitar,
 written for intermediate guitarists. 
 
-[Read the book](toc.html).
+<div class="font-larger" markdown="block">
 
-[About this site](about.html).
+**[The Book](book.html)**
 
+**[About this site](about.html)**
 
+</div>

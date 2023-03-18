@@ -27,3 +27,10 @@ figure.float-left {
 figure.collapse {
     display: table;
 }
+
+.font-larger {
+    font-size: 200%;
+}
+.font-smaller {
+    font-size: 50%;
+}
