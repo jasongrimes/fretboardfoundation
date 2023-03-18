@@ -28,7 +28,7 @@ And then repeating the cycle again with more (and better) improvisation.
 
 The most important skill for learning a musical instrument is "using your ears".
 That means listening, essentially,
-though "tuning" might be more precise.
+though "tuning" might be a better word.
 Listening, making adjustments, and listening again,
 in a feedback loop until the tone suits our taste.
 Without this fundamental habit,
