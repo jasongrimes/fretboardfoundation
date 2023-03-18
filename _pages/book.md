@@ -11,8 +11,8 @@ abstract:
 </div>
 
 This edition: **{{ site.latest_edition }}**
+with updates through {{ "now" | date: "%B %e, %Y" }}.
 ([editions](editions.html))  
-Rendered: {{ "now" | date: "%Y-%m-%d" }}
 
 <div class="font-larger" markdown="block">
 
