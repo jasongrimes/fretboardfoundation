@@ -57,6 +57,14 @@ but it is always implied.
 The lines on the treble staff represent the notes `E-G-B-D-F`.
 A mnemonic to help remember them is "Every Good Boy Does Fine".
 
+Notice how the lines represent every other note
+(every "third" note),
+just like stacked thirds in triad chords.
+`E-G-B` is E minor, 
+`G-B-D` is G major,
+`G-B-D-F` is G7,
+etc.
+
 {% include figure.html
     caption="Notes on staff lines."
     url="/assets/figures/staff-notation/staff-EGBDF.svg"
@@ -64,6 +72,15 @@ A mnemonic to help remember them is "Every Good Boy Does Fine".
 %}
 
 The spaces on the treble staff represent the notes `F-A-C-E`.
+
+The spaces are also separated by thirds,
+like triad chords.
+`F-A-C` is F major,
+`A-C-E` is A minor,
+etc.
+
+See {% include chapter-link.html slug="major-harmony" %} 
+for details about "harmonizing" chords like this.
 
 {% include figure.html
     caption="Notes on staff spaces."
