@@ -15,8 +15,6 @@ and will remain so after it is completed.
 
 ## Contact and corrections
 
-Corrections are gratefully accepted.
-
 Please send any corrections or other correspondence through the [GitHub issue tracker](https://github.com/jasongrimes/fretboardfoundation/issues) for this project,
 which does require a free GitHub account but which makes changes much easier to manage.
 
