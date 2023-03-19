@@ -160,7 +160,7 @@ i.e. how many frets they span on one string.
 | 8  | augmented fifth/ minor sixth (m6) | G#/ Ab | #5/ b6 | sharp five/ flat six | 8:5 |
 | 9  | major sixth (M6)   | A      | 6      | six                   | 5:3   |
 | 10 | minor seventh (m7) | A#/ Bb | b7     | flat seven            | 9:5   |
-| 11 | major seventh (M7) | B      | 7      | major seven, sharp seven, leading tone | 15:8 |
+| 11 | major seventh (M7) | B      | 7      | major seven, raised seven, leading tone | 15:8 |
 | 12 | octave (P8)        | C      | 8      | tonic, eight          | 2:1   |
 
 </div>
