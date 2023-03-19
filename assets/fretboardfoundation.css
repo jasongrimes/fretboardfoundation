@@ -34,3 +34,10 @@ figure.collapse {
 .font-smaller {
     font-size: 50%;
 }
+
+.book-page .page-subtitle {
+    margin-bottom: 1em;
+}
+.book-page h1 {
+    margin: 0;
+}
