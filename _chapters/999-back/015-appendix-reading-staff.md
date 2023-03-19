@@ -4,6 +4,8 @@ slug: reading-music-for-guitar
 abstract: A minimal introduction to understanding music staff notation for guitar.
 ---
 
+## Why read music
+
 It's possible to go a long way in our guitar studies without knowing how to read music.
 Many guitarists never learn at all.
 
