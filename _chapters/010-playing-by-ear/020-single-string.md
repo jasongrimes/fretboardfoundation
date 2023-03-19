@@ -7,7 +7,7 @@ abstract: The most natural way to find the next note is also the easiest way to 
 When getting started with improvisation,
 it's simplest to first play a melody up and down a single string.
 
-## The best way to begin on guitar
+## The most logical place to begin
 
 In _The Advancing Guitarist_, 
 Mick Goodrick explained it beautifully.
