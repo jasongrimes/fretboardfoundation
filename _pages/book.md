@@ -17,7 +17,7 @@ plus revisions through **{{ "now" | date: "%B %e, %Y" }}**.
 
 <div class="font-larger" markdown="block">
 **[Start reading](toc.html)**   
-**[Contents](toc.html)**
+**[Table of Contents](toc.html)**
 </div>
 
 
