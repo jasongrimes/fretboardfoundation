@@ -169,7 +169,7 @@ Notice that this table **maps directly onto the fretboard**.
 For example,
 place the first finger on the 2nd string, 1st fret, the note C,
 and consider that fret 0 in the interval table above.
-Every row in the table describes the corresponding fret down the 2nd string.
+Every row in the table describes the matching fret down the 2nd string.
 
 The table gives the corresponding note of a C chromatic scale for reference,
 and the short and long names commonly used for those scale degrees.
