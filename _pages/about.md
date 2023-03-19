@@ -20,7 +20,7 @@ which does require a free GitHub account but which makes changes much easier to 
 
 Correspondence can also be sent to
 [contact@fretboardfoundation.com](mailto:contact@fretboardfoundation.com),
-but please note that this address is rarely monitored.
+but please note this address is rarely monitored.
 
 ## Technology
 
