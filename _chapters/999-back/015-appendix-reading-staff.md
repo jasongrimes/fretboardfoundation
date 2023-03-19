@@ -24,9 +24,9 @@ in ascending order from bottom to top.
 The staff is broken into "measures" by "bar lines".
 
 A "clef" sign indicates where notes fall on the staff.
-Guitar music is written in the "treble" clef,
-also known as the "G clef" because it identifies the location of "G" on the staff.
-Notice how the clef is a stylized G that curls around the G line. 
+Guitar music is written in the "treble clef",
+also known as the "G clef" because it identifies the location of the note "middle G" on the staff.
+Notice how the clef is a stylized letter G that curls around the G staff line. 
 
 {% include figure.html
     caption="Treble clef (G clef) with two measures."
