@@ -8,16 +8,15 @@ abstract: A free book about learning guitar for intermediate guitarists. It aims
 
 ![Fretboard Foundation logo](assets/logos/logo-wide.svg)
 
+This edition: **{{ site.latest_edition }}** ([editions](editions.html))  
+plus revisions as of **{{ "now" | date: "%B %e, %Y" }}**.
+
 <div class="chapter-abstract color-callout-dark">
   {{page.abstract}}
 </div>
 
-This edition: **{{ site.latest_edition }}**
-([editions](editions.html))  
-plus revisions as of **{{ "now" | date: "%B %e, %Y" }}**.  
-
 <div class="font-larger" markdown="block">
-**[Start reading](toc.html)**   
+**[Start reading:](toc.html)**   
 **[Table of Contents](toc.html)**
 </div>
 
