@@ -68,30 +68,31 @@ Intervals are the basic building blocks of harmony.
 They are responsible for the way music sounds,
 and how it makes us feel. 
 
-### Pitch and frequency
+### The difference between two pitches
 
 An interval describes the difference in pitch between two notes.
 The greater the difference in pitch,
 the larger the interval.
 The difference in pitch creates the sound and feeling of the interval.
 
+### Pitch and frequency
+
 *Pitch* is the frequency at which a sound wave vibrates.
 The higher the frequency,
 the faster the vibration,
 and the higher the pitch sounds to our ears.
+
 An interval is defined as 
 the difference in frequency between two pitches. 
+
+### Interval names
 
 Each interval is also given a name, 
 like "major third" or "perfect fifth".
 
-### Interval names
-
-An interval has a name,
-like "major third",
-which is comprised of two parts: 
-*quality* (major) and 
-*number* (third).
+Interval names are comprised of two parts: 
+*quality* (like "major") and 
+*number* (like "third").
 
 #### Interval numbers
 
@@ -159,15 +160,21 @@ i.e. how many frets they span on one string.
 | 8  | augmented fifth/ minor sixth (m6) | G#/ Ab | #5/ b6 | sharp five/ flat six | 8:5 |
 | 9  | major sixth (M6)   | A      | 6      | six                   | 5:3   |
 | 10 | minor seventh (m7) | A#/ Bb | b7     | flat seven            | 9:5   |
-| 11 | major seventh (M7) | B      | 7      | major seven, sharp seven, leading tone | 15:8 |
+| 11 | major seventh (M7) | B      | 7      | major seven, raised seven, leading tone | 15:8 |
 | 12 | octave (P8)        | C      | 8      | tonic, eight          | 2:1   |
 
 </div>
 
-The table shows the corresponding note of a C chromatic scale for reference,
+Notice that this table **maps directly onto the fretboard**.
+For example,
+place the first finger on the 2nd string, 1st fret, the note C,
+and consider that fret 0 in the interval table above.
+Every row in the table describes the matching fret down the 2nd string.
+
+The table gives the corresponding note of a C chromatic scale for reference,
 and the short and long names commonly used for those scale degrees.
 
-The table also shows the dissonance of each interval,
+It also shows the dissonance of each interval,
 in terms of its frequency ratio to the tonic.
 Ratios with bigger numbers are more complex and therefore more dissonant.
 

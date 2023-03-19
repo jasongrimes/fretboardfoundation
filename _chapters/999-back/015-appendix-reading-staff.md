@@ -8,10 +8,10 @@ It's possible to go a long way in our guitar studies without knowing how to read
 Many guitarists never learn at all.
 
 But most of the best guitar books express their ideas in music staff notation.
-If we want to read these advanced materials,
+If we want to read those advanced materials,
 we need to acquire a minimal ability to read music for guitar.
 
-Typically this only requires knowing enough to decipher the notes on the staff and locate them on the guitar.
+Fortunately, in most cases this just means being able to decipher the notes on the staff and locate them on the fretboard.
 Reading rhythms is a bit harder,
 but it's not strictly necessary in order to extract the basic melodic ideas,
 so it won't be covered here.
@@ -24,9 +24,9 @@ in ascending order from bottom to top.
 The staff is broken into "measures" by "bar lines".
 
 A "clef" sign indicates where notes fall on the staff.
-Guitar music is written in the "treble" clef,
-also known as the "G clef" because it identifies the location of "G" on the staff.
-Notice how the clef is a stylized G that curls around the G line. 
+Guitar music is written in the "treble clef",
+also known as the "G clef" because it identifies the location of the G note on the staff.
+Notice how the clef is a stylized letter G that curls around the G staff line. 
 
 {% include figure.html
     caption="Treble clef (G clef) with two measures."
@@ -63,6 +63,14 @@ A mnemonic to help remember them is "Every Good Boy Does Fine".
     class="collapse"
 %}
 
+Notice how the lines represent every other note
+(every "third" note),
+just like stacked thirds in triad chords.
+`E-G-B` is E minor, 
+`G-B-D` is G major,
+`G-B-D-F` is G7,
+etc.
+
 The spaces on the treble staff represent the notes `F-A-C-E`.
 
 {% include figure.html
@@ -70,6 +78,15 @@ The spaces on the treble staff represent the notes `F-A-C-E`.
     url="/assets/figures/staff-notation/staff-FACE.svg"
     class="collapse"
 %}
+
+The spaces are also separated by thirds,
+like triad chords.
+`F-A-C` is F major,
+`A-C-E` is A minor,
+etc.
+
+See {% include chapter-link.html slug="harmony-intro" %} 
+for more about stacking thirds to make triad chords.
 
 Notes can continue above and below the staff,
 with additional lines added as needed.
