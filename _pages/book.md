@@ -11,7 +11,7 @@ layout: page
 
 This edition: **{{ site.latest_edition }}**
 ([editions](editions.html))  
-plus revisions through {{ "now" | date: "%B %e, %Y" }}.  
+plus revisions through **{{ "now" | date: "%B %e, %Y" }}**.  
 
 **Start reading:**  
 <div class="font-larger" markdown="block">
