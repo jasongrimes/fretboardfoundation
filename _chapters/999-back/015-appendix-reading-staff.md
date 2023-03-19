@@ -85,8 +85,8 @@ like triad chords.
 `A-C-E` is A minor,
 etc.
 
-See {% include chapter-link.html slug="major-harmony" %} 
-for details about "harmonizing" chords like this.
+See {% include chapter-link.html slug="harmony-intro" %} 
+for more about stacking thirds to make triad chords.
 
 Notes can continue above and below the staff,
 with additional lines added as needed.
