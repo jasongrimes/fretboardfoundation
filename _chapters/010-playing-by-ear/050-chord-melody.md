@@ -24,9 +24,9 @@ See {% include chapter-link.html slug="caged" %} for details.
 A small trick for filling out a melody on the highest pitched string
 is to play the first and second strings at the same fret,
 a little two-note chord called a "double stop" or "power chord".
-For the most part,
+In most cases,
 a power chord played on a scale tone
-will be "in tune" (diatonic).
+will be "in tune" ("diatonic").
 
 Another way to fill out melodies 
 is to add bass notes on the lower strings.
