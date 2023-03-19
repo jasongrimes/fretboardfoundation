@@ -6,20 +6,19 @@ layout: page
 ---
 
 <div class="chapter-abstract color-callout-dark">
-     {{site.description}}
+  {{site.description}}
 </div>
 
-This edition: **{{ site.latest_edition }}**
-with updates through {{ "now" | date: "%B %e, %Y" }}.
-([editions](editions.html))  
+This edition: **{{ site.latest_edition }}**  
+plus revisions through {{ "now" | date: "%B %e, %Y" }}.  
+[Editions](editions.html).
 
+**Start reading:**
 <div class="font-larger" markdown="block">
-
-**[Start reading: Contents](toc.html)**
-
+**[Contents](toc.html)**
 </div>
 
-The latest edition of this book can always be found at:   
+The latest version of this book can always be found at:   
 [https://fretboardfoundation.com/book.html](https://fretboardfoundation.com/book.html)
 
 
