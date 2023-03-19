@@ -67,7 +67,7 @@ as already described,
 and by tilting the guitar neck upward. 
 A strap with a suede backing can help hold the guitar tilted in a comfortable fretting position.
 
-#### Our hands are not crowbars
+#### Hands are not crowbars
 
 While it is possible to use the thumb as a fulcrum to lever the fingers onto the fretboard with considerable force,
 our hands are full of joints that need to be held rigidly in place in order to do so.
