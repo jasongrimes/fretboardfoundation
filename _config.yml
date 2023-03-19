@@ -28,6 +28,13 @@ favicon_path: favicon.ico
 # Navigation menus
 #
 
+# Breadcrumbs for book contents.
+# The book and contents pages need to be made manually.
+bookcrumbs:
+  book_url: book.html
+  contents_url: toc.html
+  book_icon: assets/logos/logo-square-16x16.svg
+
 # Links shown above the TOC in the sidebar
 sidebar_nav_top:
 - label: About this site
