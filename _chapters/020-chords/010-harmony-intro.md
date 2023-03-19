@@ -68,30 +68,31 @@ Intervals are the basic building blocks of harmony.
 They are responsible for the way music sounds,
 and how it makes us feel. 
 
-### Pitch and frequency
+### The difference between two pitches
 
 An interval describes the difference in pitch between two notes.
 The greater the difference in pitch,
 the larger the interval.
 The difference in pitch creates the sound and feeling of the interval.
 
+### Pitch and frequency
+
 *Pitch* is the frequency at which a sound wave vibrates.
 The higher the frequency,
 the faster the vibration,
 and the higher the pitch sounds to our ears.
+
 An interval is defined as 
 the difference in frequency between two pitches. 
+
+### Interval names
 
 Each interval is also given a name, 
 like "major third" or "perfect fifth".
 
-### Interval names
-
-An interval has a name,
-like "major third",
-which is comprised of two parts: 
-*quality* (major) and 
-*number* (third).
+Interval names are comprised of two parts: 
+*quality* (like "major") and 
+*number* (like "third").
 
 #### Interval numbers
 
