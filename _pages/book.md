@@ -9,7 +9,7 @@ abstract: A free book about learning guitar for intermediate guitarists. It aims
 ![Fretboard Foundation logo](assets/logos/logo-wide.svg)
 
 <div class="chapter-abstract color-callout-dark">
-  {{site.description}}
+  {{page.abstract}}
 </div>
 
 This edition: **{{ site.latest_edition }}**
