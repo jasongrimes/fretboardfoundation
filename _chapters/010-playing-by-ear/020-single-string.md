@@ -5,7 +5,9 @@ abstract: The most natural way to find the next note is also the easiest way to 
 ---
 
 When getting started with improvisation,
-it's helpful to first play a melody up and down a single string.
+it's simplest to first play a melody up and down a single string.
+
+## The best way to begin on guitar
 
 In _The Advancing Guitarist_, 
 Mick Goodrick explained it beautifully.
@@ -24,6 +26,8 @@ intervals, scale constructions, chords, arpeggios, etc.
 The same could be said for dynamics, articulations, and timbre."
 [(Goodrick, 1987, p. 10)](references.html#goodrick-1987)
 
+## No tuning required
+
 Playing on one string also has the benefit that we don't have to worry about being in tune,
 in the sense that a string is always in tune with itself.
 
@@ -33,8 +37,12 @@ how old or in disrepair,
 as long as the instrument has one string that can vibrate,
 it can make music.
 
-Nearly everyone knows how to do this without training.
-On some level we all know how to make music with a vibrating string.
+## No training required
+
+Nearly everyone seems to know how to do this without training,
+to some degree.
+
+On a basic level we all know how to make music with a vibrating string.
 
 
 
