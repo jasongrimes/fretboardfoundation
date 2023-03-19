@@ -38,7 +38,7 @@ The simplest way to practice using our ears,
 and arguably the simplest way to play a guitar at all,
 is to "play by ear".
 This turns out to be easier than most people can believe,
-until they actually try it as described in Part 1.
+until they actually try it as described in [Part 1](playing-by-ear.html).
 
 ### Chords and harmony
 
