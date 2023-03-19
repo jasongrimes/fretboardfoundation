@@ -393,7 +393,7 @@ but examples are hard to find.
 To get familiar with the sound of this mode,
 play a vii chord,
 then play the parent major scale starting from the chord root to the octave above it,
-`7-1-2-3-4-5-6-7-1`
+`7-1-2-3-4-5-6-7`
 (remembering the semitone between 3-4 and 7-1),
 and then play another vii chord.
 Improvise for awhile within those notes,
