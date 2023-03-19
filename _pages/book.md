@@ -9,12 +9,12 @@ layout: page
   {{site.description}}
 </div>
 
-This edition: **{{ site.latest_edition }}**  
+This edition: **{{ site.latest_edition }}**
+([editions](editions.html))  
 plus revisions through {{ "now" | date: "%B %e, %Y" }}.  
-[Editions](editions.html).
 
 **Start reading:**
-<div class="font-larger" markdown="block">
+<div class="font-larger" markdown="inline">
 **[Contents](toc.html)**
 </div>
 
