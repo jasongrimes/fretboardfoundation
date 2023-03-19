@@ -21,6 +21,6 @@ plus revisions through **{{ "now" | date: "%B %e, %Y" }}**.
 </div>
 
 
-The latest version of this book can always be found at:   
-[https://fretboardfoundation.com/book.html](https://fretboardfoundation.com/book.html)
+The latest version of this book can always be found at
+[fretboardfoundation.com/book.html](https://fretboardfoundation.com/book.html)
 
