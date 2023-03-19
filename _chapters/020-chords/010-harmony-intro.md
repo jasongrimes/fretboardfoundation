@@ -165,10 +165,16 @@ i.e. how many frets they span on one string.
 
 </div>
 
-The table shows the corresponding note of a C chromatic scale for reference,
+Notice that this table **maps directly onto the fretboard**.
+For example,
+place the first finger on the 2nd string, 1st fret, the note C,
+and consider that fret 0 in the interval table above.
+Every row in the table describes the corresponding fret down the 2nd string.
+
+The table gives the corresponding note of a C chromatic scale for reference,
 and the short and long names commonly used for those scale degrees.
 
-The table also shows the dissonance of each interval,
+It also shows the dissonance of each interval,
 in terms of its frequency ratio to the tonic.
 Ratios with bigger numbers are more complex and therefore more dissonant.
 
