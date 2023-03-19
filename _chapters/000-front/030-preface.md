@@ -21,6 +21,7 @@ Classical guitar instruction tends to focus on the precise reproduction of a com
 with little emphasis on improvisation or creativity. 
 Jazz digs deep into improvisation and theory, 
 but with techniques that often don’t translate well to other styles because of an emphasis on dissonance and extended chords. 
+
 And both approaches promise *at best* a long and winding road toward mastery, 
 requiring years of study and a somewhat blind faith that it will lead where we want to go. 
 
@@ -35,7 +36,7 @@ it would be ideal to learn everything.
 But life is rarely ideal,
 and the length of our run is unknown.
 
-What if our studies are interrupted a few months from now,
+What will happen if our studies are interrupted a few months from now,
 and we are unable to return to them for years,
 if ever?
 Will the next months of study have been well spent,
