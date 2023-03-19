@@ -11,7 +11,7 @@ But most of the best guitar books express their ideas in music staff notation.
 If we want to read these advanced materials,
 we need to acquire a minimal ability to read music for guitar.
 
-Typically this only requires knowing enough to decipher the notes on the staff and locate them on the guitar.
+Fortunately, in most cases this just means being able to decipher the notes on the staff and locate them on the fretboard.
 Reading rhythms is a bit harder,
 but it's not strictly necessary in order to extract the basic melodic ideas,
 so it won't be covered here.
