@@ -13,7 +13,7 @@ layout: page
 
 This edition: **{{ site.latest_edition }}**
 ([editions](editions.html))  
-plus revisions through **{{ "now" | date: "%B %e, %Y" }}**.  
+plus revisions as of **{{ "now" | date: "%B %e, %Y" }}**.  
 
 <div class="font-larger" markdown="block">
 **[Start reading](toc.html)**   
