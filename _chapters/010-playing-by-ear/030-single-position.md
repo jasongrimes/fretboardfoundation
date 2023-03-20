@@ -21,7 +21,7 @@ all the strings are tuned the same distance apart except strings 2-3.
 (Strings on a guitar are numbered from 1-6 with 1 as the highest pitched string (high E)
 and 6 the lowest (low E).)
 
-## Perfect fourths and fifths
+## Thirds, fourths and fifths
 
 On a guitar in standard tuning,
 all the strings except 2-3 are tuned a "perfect fourth" interval apart,
@@ -39,6 +39,21 @@ By gently exploring tones on neighboring strings at the same fret,
 we can begin to feel how the strings relate to each other
 and draw out these familiar sounds.
 
+The following chord diagrams show examples of how triad chord intervals fall on neighboring strings.
+
+{% include figure.html
+    caption="G major shape."
+    url="/assets/figures/caged2/G-maj.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="E minor shape."
+    url="/assets/figures/caged2/E-min.svg"
+    class="chord row"
+%}
+
+See {% include chapter-link.html slug="caged" %} for more about triad chord shapes.
 
 ## Finding notes across strings
 
