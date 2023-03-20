@@ -21,7 +21,7 @@ Pentatonic scales were developed independently by many ancient civilizations.
 This may be because the notes of pentatonic scales are acoustically linked by simple pitch ratios.
 The pentatonic major scale can be constructed by stacking five perfect fifths.
 
-### Just intonation vs. equal tempered tuning
+### Just intonation vs. equal tempered
 
 Often,
 cultures that developed pentatonic modes originally used a system of tuning called "just intonation",
