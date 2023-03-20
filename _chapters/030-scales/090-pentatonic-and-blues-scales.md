@@ -285,7 +285,7 @@ the "blues scale" was often described as a minor pentatonic scale with an added 
 or a major pentatonic with a #2/b3.
 This added tone is often called a "blue note".
 But this is an oversimplification,
-and playing the scale as defined does not really sound like the Blues.
+and playing the scale that way does not really sound like the Blues.
 
 A more practical way to view the blues scale is as a series of flexible "pitch areas",
 rather than as specific notes.
