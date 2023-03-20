@@ -18,9 +18,8 @@ and then remembering what we find.
 It gets easier over time.
 It's like a memory game that never resets.
 
-The following figure shows how to assemble stepwise scales across strings,
-by indicating where to find "semitone" (S) and "whole tone" (T) intervals on neighboring strings.
-Moving from the blank dot to the S on the neighboring string is the same as moving one fret higher on the same string.
+The following figure shows how to find the next highest or lowest pitched notes on neighboring strings.
+Play around with it to get the idea.
 
 {% include figure.html
     caption="Semitone and whole tone intervals on neighboring strings."
@@ -28,7 +27,8 @@ Moving from the blank dot to the S on the neighboring string is the same as movi
     class="chord row"
 %}
 
-See {% include chapter-link.html slug="scale-intro" %} for more about assembling scales across strings.
+Studying scales makes it easier to find notes across strings.
+See {% include chapter-link.html slug="scale-intro" %} for details.
 
 ## Neighboring strings and intervals
 
