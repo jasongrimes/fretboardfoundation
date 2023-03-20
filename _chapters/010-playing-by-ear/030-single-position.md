@@ -32,12 +32,14 @@ See {% include chapter-link.html slug="scale-intro" %} for details.
 
 ## Neighboring strings and intervals
 
-The tuning of the guitar affects where the notes are found on neighboring strings.
-
 On a guitar in standard tuning,
 it quickly becomes apparent that
 all the strings are tuned the same distance apart except strings 2-3 
 (strings are numbered 1-6 from lowest pitch to highest).
+
+The distance between two pitches is called an "interval".
+Intervals determine how music sounds, 
+and how it makes us feel.
 
 ## Thirds, fourths and fifths
 
