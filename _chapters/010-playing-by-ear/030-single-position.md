@@ -10,15 +10,6 @@ After thoroughly exploring a melody on a single string,
 try playing the same melody across strings,
 without moving the fretting hand out of position.
 
-## Neighboring strings and intervals
-
-The tuning of the guitar affects where the notes are found on neighboring strings.
-
-On a guitar in standard tuning,
-it quickly becomes apparent that
-all the strings are tuned the same distance apart except strings 2-3 
-(strings are numbered 1-6 from lowest pitch to highest).
-
 ## Finding notes across strings
 
 At first,
@@ -39,6 +30,14 @@ Moving from the blank dot to the S on the neighboring string is the same as movi
 
 See {% include chapter-link.html slug="scale-intro" %} for more about assembling scales across strings.
 
+## Neighboring strings and intervals
+
+The tuning of the guitar affects where the notes are found on neighboring strings.
+
+On a guitar in standard tuning,
+it quickly becomes apparent that
+all the strings are tuned the same distance apart except strings 2-3 
+(strings are numbered 1-6 from lowest pitch to highest).
 
 ## Thirds, fourths and fifths
 
