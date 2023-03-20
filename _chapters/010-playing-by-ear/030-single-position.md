@@ -40,7 +40,7 @@ we can begin to feel how the strings relate to each other
 and draw out these familiar sounds.
 
 
-## Finding tones across strings
+## Finding notes across strings
 
 At first,
 picking out a melody across strings seems like a matter of random guessing,
