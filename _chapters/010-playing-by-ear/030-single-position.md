@@ -19,8 +19,7 @@ it quickly becomes apparent that
 all the strings are tuned the same distance apart except strings 2-3.
 
 (Strings on a guitar are numbered from 1-6 with 1 as the highest pitched string (high E)
-and 6 the lowest (low E),
-so strings 2-3 are therefore G (3) and B (2) strings.)
+and 6 the lowest (low E).)
 
 ## Perfect fourths and fifths
 
