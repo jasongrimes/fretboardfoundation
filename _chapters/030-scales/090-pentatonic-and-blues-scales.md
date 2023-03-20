@@ -8,11 +8,11 @@ abstract: Pentatonic scales are the most commonly used modes in the world outsid
 
 A pentatonic scale is a musical scale with five notes in an octave.
 
-Pentatonic scales sound good over many modes and harmonies.
+Pentatonic scales tend to sound good over many modes and harmonies.
 They are easy to play on guitar,
-having two notes per string.
+in comfortable positions having two notes per string.
 
-They're often the first scales guitarists learn.
+They're often the first scales learned by beginning guitarists.
 
 ### Ancient and universal 
 
@@ -61,9 +61,12 @@ Pentatonic scales with semitones,
 called "hemitonic",
 are a different and more dissonant beast.
 Examples include the Japanese "in" or "Sakura" pentatonic scale,
-and certain interpretations of the Blues scale. 
-They are less common.
-The rest of this section will focus on pentatonic scales without semitones.
+and certain interpretations of the Blues scale,
+such as the one given later in this chapter. 
+
+Pentatonic scales with semitones are less common.
+In most cases,
+when people talk about pentatonic scales they are referring to scales without semitones.
 
 Pentatonic scales without semitones can be played using only the black keys on a piano keyboard.
 
