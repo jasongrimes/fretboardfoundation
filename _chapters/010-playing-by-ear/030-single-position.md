@@ -16,10 +16,8 @@ The tuning of the guitar affects where the notes are found on neighboring string
 
 On a guitar in standard tuning,
 it quickly becomes apparent that
-all the strings are tuned the same distance apart except strings 2-3.
-
-Strings on a guitar are numbered from 1-6 with 1 as the highest pitched string (high E)
-and 6 the lowest (low E).
+all the strings are tuned the same distance apart except strings 2-3 
+(strings are numbered 1-6 from lowest pitch to highest).
 
 ## Thirds, fourths and fifths
 
@@ -54,26 +52,6 @@ The following chord diagrams show examples of how triad chord intervals fall on 
 %}
 
 See {% include chapter-link.html slug="caged" %} for more about triad chord shapes.
-
-## Finding notes across strings
-
-At first,
-picking out a melody across strings seems like a matter of random guessing,
-and then remembering what we find.
-It gets easier over time.
-It's like a memory game that never resets.
-
-The following figure shows how to assemble stepwise scales across strings,
-by indicating where to find "semitone" (S) and "whole tone" (T) intervals on neighboring strings.
-Moving from the blank dot to the S on the neighboring string is the same as moving one fret higher on the same string.
-
-{% include figure.html
-    caption="Semitone and whole tone intervals on neighboring strings."
-    url="/assets/figures/major-scale/neighboring-st.svg"
-    class="chord row"
-%}
-
-See {% include chapter-link.html slug="scale-intro" %} for more about assembling scales across strings.
 
 For more information about playing in a single position,
 see {% include chapter-link.html slug="major-harmony" %}.
