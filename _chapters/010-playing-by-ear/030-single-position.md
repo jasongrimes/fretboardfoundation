@@ -48,5 +48,17 @@ and then remembering what we find.
 It gets easier over time.
 It's like a memory game that never resets.
 
-One way to get better at it is to study scales.
-See {% include chapter-link.html slug="scale-intro" %}.
+The following figure shows how to assemble stepwise scales across strings,
+by indicating where to find "semitone" (S) and "whole tone" (T) intervals on neighboring strings.
+Moving from the blank dot to the S on the neighboring string is the same as moving one fret higher on the same string.
+
+{% include figure.html
+    caption="Semitone and whole tone intervals on neighboring strings."
+    url="/assets/figures/major-scale/neighboring-st.svg"
+    class="chord row"
+%}
+
+See {% include chapter-link.html slug="scale-intro" %} for more about assembling scales across strings.
+
+For more information about playing in a single position,
+see {% include chapter-link.html slug="major-harmony" %}.
