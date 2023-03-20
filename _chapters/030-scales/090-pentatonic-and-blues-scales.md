@@ -75,9 +75,9 @@ the pentatonic scales have two fewer notes.
 They don't have the two notes that create a tritone together,
 and also create semitones with other scale degrees.
 In the major scale,
-it's 4 and 7;
+it's the 4&#x302; and 7&#x302;;
 in the minor scale,
-it's 2 and b6.
+it's the 2&#x302; and b6&#x302;.
 
 The absence of the two most dissonant intervals in Western music make these pentatonic scales highly consonant.
 
