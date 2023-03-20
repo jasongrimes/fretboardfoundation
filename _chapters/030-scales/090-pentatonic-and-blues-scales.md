@@ -55,7 +55,7 @@ the "minor pentatonic" mode is the next most common.
 
 The pentatonic scales used most commonly around the world contain no semitones.
 Scales without semitones are called "anhemitonic".
-They are very consonant and "harmonious" scales that blend well in many contexts.
+They are very consonant and blend well in many contexts.
 
 Pentatonic scales with semitones,
 called "hemitonic",
