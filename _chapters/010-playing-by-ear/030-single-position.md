@@ -44,7 +44,7 @@ and draw out these familiar sounds.
 ## Finding tones across strings
 
 At first,
-finding notes across strings is a matter of random guessing,
+picking out a melody across strings seems like a matter of random guessing,
 and then remembering what we find.
 It gets easier over time.
 It's like a memory game that never resets.
