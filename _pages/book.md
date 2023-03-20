@@ -13,14 +13,12 @@ abstract: This is a free book about learning guitar for intermediate guitarists.
   {{page.abstract}}
 </div>
 
-This edition: **{{ site.latest_edition }}** ([editions](editions.html))  
-plus revisions as of **{{ "now" | date: "%B %e, %Y" }}**.
-
-
 <div class="font-larger" markdown="block">
 **[Start reading: Contents](toc.html)**
 </div>
 
+This edition: **{{ site.latest_edition }}** ([editions](editions.html))  
+plus revisions as of **{{ "now" | date: "%B %e, %Y" }}**.
 
 The latest version of this book can always be found at
 [fretboardfoundation.com/book.html](https://fretboardfoundation.com/book.html)
