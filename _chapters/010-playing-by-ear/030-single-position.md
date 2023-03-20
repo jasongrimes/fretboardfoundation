@@ -10,7 +10,7 @@ After thoroughly exploring a melody on a single string,
 try playing the same melody across strings,
 without moving the fretting hand out of position.
 
-## Neighboring string intervals
+## Neighboring strings and intervals
 
 The tuning of the guitar affects where the notes are found on neighboring strings.
 
@@ -36,7 +36,8 @@ and major third intervals are some of the most fundamental musical sounds in the
 and have been used for millenia as the core intervals of Western tonality.
 
 By gently exploring tones on neighboring strings at the same fret,
-we can begin to feel how the strings relate to each other.
+we can begin to feel how the strings relate to each other
+and draw out these familiar sounds.
 
 
 ## Finding tones across strings
