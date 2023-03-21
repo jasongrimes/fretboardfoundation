@@ -231,9 +231,7 @@ The way to avoid accidentally programming ourselves into scale-playing robots is
 We have to think about each note as we play it. 
 
 For example, which note is it? 
-Which scale degree?
-What's the interval from the previous and next degrees?
-What’s the interval from the tonic? 
+What scale degree / interval from the tonic?
 What’s the interval from the root of the chord? 
 How does it sound and feel in this context? 
 (If it sounds really good, play it again!)
@@ -256,8 +254,8 @@ It's like carving a rut into the dirt to direct the future flow of rain water to
 
 ### Chunking
 
-Scales can be practiced most effectively by *chunking*,
-breaking information into *chunks*,
+Scales can be practiced most effectively by *chunking*.
+This means breaking information into *chunks*,
 learning each chunk separately,
 then learning them in combination as a larger chunk.
 
@@ -304,7 +302,7 @@ or starting a saw cut in a piece of wood.
 
 While ascending or descending,
 switch directions at will to prevent boredom and make little melodic phrases.
-This may reveal tunes from melodies long buried in deep memories.
+This may reveal melodies from tunes long buried in deep memories.
 It can be surprising how many popular,
 classical, 
 folk,
