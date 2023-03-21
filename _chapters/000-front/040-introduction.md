@@ -138,7 +138,7 @@ learning each chunk separately,
 then learning them in combination as a larger chunk.
 
 Most people can hold about 5-7 things in mind at any one time.
-This seems like a pretty strict limit,
+This seems like a pretty low limit,
 but fortunately each of those "things",
 or "chunks",
 can themselves be composed of 5-7 chunks,
