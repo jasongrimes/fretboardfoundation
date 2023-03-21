@@ -14,8 +14,6 @@ It aims to organize and simplify the information required for fluency on guitar,
 including playing by ear, chords and harmony, and scales and melody.
 </div>
 
-## [Next: Table of Contents &raquo;](toc.html)
-
 ## Versions
 
 This edition: **{{ site.latest_edition }}**  
@@ -41,3 +39,5 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 by ["Just plain Bill"](https://en.m.wikipedia.org/wiki/User:Just_plain_Bill)
 is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 Used in {% include chapter-link.html slug="keys" %}.
+
+## [Next: Table of Contents &raquo;](toc.html)
