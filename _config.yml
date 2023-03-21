@@ -1,6 +1,6 @@
 remote_theme: jasongrimes/jekyll-chapterbook
 
-canonicalurl: https://fretboardfoundation.com
+baseurl_canonical: https://fretboardfoundation.com
 title: Fretboard Foundation
 longtitle: "Fretboard Foundation: Practical building blocks for intermediate guitarists."
 author: Jason Grimes
