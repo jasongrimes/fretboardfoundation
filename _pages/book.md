@@ -14,12 +14,10 @@ It aims to organize and simplify the information required for fluency on guitar,
 including playing by ear, chords and harmony, and scales and melody.
 </div>
 
-<div class="font-larger" markdown="block">
-**[Start reading: Contents](toc.html)**
-</div>
-
 This edition: **{{ site.latest_edition }}** ([editions](editions.html))  
 plus revisions as of **{{ "now" | date: "%B %e, %Y" }}**.
 
 The latest version of this book can always be found at
 [fretboardfoundation.com/book.html](https://fretboardfoundation.com/book.html)
+
+**[Next: Table of Contents &raquo;](toc.html)**
