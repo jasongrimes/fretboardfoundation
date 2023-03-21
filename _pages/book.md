@@ -14,7 +14,7 @@ It aims to organize and simplify the information required for fluency on guitar,
 including playing by ear, chords and harmony, and scales and melody.
 </div>
 
-## Versions
+## Version
 
 This edition: **{{ site.latest_edition }}**  
 plus revisions as of **{{ "now" | date: "%B %e, %Y" }}**.
