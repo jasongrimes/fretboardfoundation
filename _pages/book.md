@@ -4,13 +4,14 @@ subtitle: Practical building blocks for intermediate guitarists. By Jason Grimes
 slug: book
 layout: page
 class: book-page
-abstract: This is a free book about learning guitar for intermediate guitarists. It aims to organize and simplify the information needed for fluency on guitar, and to be a thorough reference for playing by ear, chords and harmony, and scales and melody.
 ---
 
 ![Fretboard Foundation logo](assets/logos/logo-wide.svg)
 
 <div class="chapter-abstract color-callout-dark">
-  {{page.abstract}}
+This is a free book about learning guitar for intermediate guitarists.
+Its aim is to organize and simplify all the information needed to achieve fluency on guitar,
+including playing by ear, chords and harmony, and scales and melody.
 </div>
 
 <div class="font-larger" markdown="block">
@@ -22,4 +23,3 @@ plus revisions as of **{{ "now" | date: "%B %e, %Y" }}**.
 
 The latest version of this book can always be found at
 [fretboardfoundation.com/book.html](https://fretboardfoundation.com/book.html)
-
