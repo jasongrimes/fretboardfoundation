@@ -19,5 +19,7 @@ plus revisions as of **{{ "now" | date: "%B %e, %Y" }}**.
 
 The latest version of this book can always be found at
 [fretboardfoundation.com/book.html](https://fretboardfoundation.com/book.html)
+Other editions are available at 
+[fretboardfoundation.com/editions.html](https://fretboardfoundation.com/editions.html)
 
-**[Next: Table of Contents &raquo;](toc.html)**
+## [Next: Table of Contents &raquo;](toc.html)
