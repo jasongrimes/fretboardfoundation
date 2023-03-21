@@ -9,8 +9,8 @@ class: book-page
 ![Fretboard Foundation logo](assets/logos/logo-wide.svg)
 
 <div class="chapter-abstract color-callout-dark">
-This is a free book about learning guitar for intermediate guitarists.
-Its aim is to organize and simplify all the information needed to achieve fluency on guitar,
+A free book about learning guitar for intermediate guitarists.
+It aims to organize and simplify the information needed to achieve fluency on guitar,
 including playing by ear, chords and harmony, and scales and melody.
 </div>
 
