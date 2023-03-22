@@ -81,8 +81,6 @@ For example: http://10.0.0.10:4000
 
     zip -r fretboardfoundation-$datestamp.zip fretboardfoundation-$datestamp
 
-# G
-
 # Making simple staff notation with VexFlow
 
 https://jsfiddle.net/m2kjgLbs/
