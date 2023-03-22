@@ -1,6 +1,5 @@
 remote_theme: jasongrimes/jekyll-chapterbook
 
-baseurl_canonical: https://fretboardfoundation.com
 title: Fretboard Foundation
 longtitle: "Fretboard Foundation: Practical building blocks for intermediate guitarists."
 author: Jason Grimes
@@ -11,7 +10,7 @@ description: >
   A thorough reference for playing guitar by ear, 
   chords and harmony, 
   and scales and melody.
-
+baseurl_canonical: https://fretboardfoundation.com
 latest_edition: "First Draft, 2023"
 
 # A copyright notice will be shown at the bottom of each page,
