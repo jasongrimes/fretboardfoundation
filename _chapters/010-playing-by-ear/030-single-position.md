@@ -103,5 +103,5 @@ which may explain the universal occurrence of the triad in melodies."
 
 Lowering the major third by one fret turns it into a minor chord.
 
-For more information about intervals between chords and playing in position,
+For more information about chord intervals and playing in position,
 see {% include chapter-link.html slug="major-harmony" %}.
