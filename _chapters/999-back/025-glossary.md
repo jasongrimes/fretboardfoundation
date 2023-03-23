@@ -11,7 +11,9 @@ See discussion of [tonal](#tonal).
 
 - **atonical**{:#atonical}: Music without a [tonic](#tonic).
 
-- **chromatic**{:#chromatic}: Notes outside of the [diatonic](#diatonic) [mode](#mode) or scale upon which a composition is based.
+- **chromatic**{:#chromatic}:
+(1) Relating to the complete scale of 12 tones available in euroclassical tonality. 
+(2) Notes outside of the [diatonic](#diatonic) [mode](#mode) or scale upon which a composition is based.
 
 - **diatonic**{:#diatonic}: (1) Conforming to a seven-note [mode](#mode) or scale which,
 when arranged in ascending order with the initial note repeated at the octave,
