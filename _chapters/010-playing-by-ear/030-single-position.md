@@ -92,9 +92,8 @@ It's arguably the most important sound in Western harmony,
 and it's the *next* most distinguishable harmonic in the overtone series.
 
 Between them,
-the root, major third, 
-and perfect fifth intervals describe a major triad chord.
-Lowering the major third by one fret turns it into a minor chord.
+these intervals (`R-3-5`) describe a major triad chord.
+Lowering the major third by one fret turns it into a minor triad chord.
 
 As Bert Ligon said in *Comprehensive Technique for Jazz Musicians*, 
 the major triad consists of "the first three pitches in the overtone series 
