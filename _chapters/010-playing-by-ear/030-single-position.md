@@ -43,22 +43,6 @@ To get better at finding notes across strings,
 it's helpful to explore scales.
 See {% include chapter-link.html slug="scale-intro" %} for details.
 
-## Intervals between strings
-
-The differences in pitch between the strings on a guitar are carefully chosen to be some of the most fundamental sounds in music. 
-Differences in pitch are called "intervals".
-
-The interval between a string and its neighbor to the left (except 2-3) is called a "perfect fifth".
-It's the most common musical sound in the world 
-(partly because it is the dominant harmonic in the "overtone series", [see glossary](glossary.html)).
-
-The interval between the 3rd and 2nd string is called a "major third".
-It's arguably the most important sound in Western harmony.
-Between them,
-the root, major third, 
-and perfect fifth intervals compose a major chord.
-Lowering the major third by one fret turns it into a minor chord.
-
 ## Finding chords across strings
 
 These major and minor "triad chords" are the most common chords used in all of Western harmony.
@@ -92,6 +76,22 @@ The following figures show some examples.
 %}
 
 See {% include chapter-link.html slug="caged" %} for more about triad chord shapes.
+
+## Intervals between strings
+
+The differences in pitch between the strings on a guitar are carefully chosen to be some of the most fundamental sounds in music. 
+Differences in pitch are called "intervals".
+
+The interval between a string and its neighbor to the left (except 2-3) is called a "perfect fifth".
+It's the most common musical sound in the world 
+(partly because it is the dominant harmonic in the "overtone series", [see glossary](glossary.html)).
+
+The interval between the 3rd and 2nd string is called a "major third".
+It's arguably the most important sound in Western harmony.
+Between them,
+the root, major third, 
+and perfect fifth intervals compose a major chord.
+Lowering the major third by one fret turns it into a minor chord.
 
 For more information about playing in a single position,
 see {% include chapter-link.html slug="major-harmony" %}.
