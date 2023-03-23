@@ -18,17 +18,28 @@ and then remembering what we find.
 It gets easier over time.
 It's like a memory game that never resets.
 
-The following figure shows how to find the next highest or lowest pitched notes on neighboring strings.
-Play around with it to get the idea.
+The following figures show where notes are located on neighboring strings.
+
+Every pair of neighboring strings has the same relationship between their notes,
+**except between strings 2 and 3**.
+While all the other guitar strings are tuned to pitches the same distance apart,
+there is a slightly smaller difference in pitch between strings 2 and 3.
 
 {% include figure.html
-    caption="Semitone and whole tone intervals on neighboring strings."
-    url="/assets/figures/major-scale/neighboring-st.svg"
+    caption="Identical notes on all neighboring strings tuned a perfect fourth apart (all string pairs except 2-3). "
+    url="/assets/figures/playing-by-ear/neighboring-P4.svg"
+    class="string row"
+%}
+
+{% include figure.html
+    caption="Identical notes on strings 2-3, which are tuned a major third apart."
+    url="/assets/figures/playing-by-ear/neighboring-M3-stringnums.svg"
     class="chord row"
 %}
 
-Studying scales makes it easier to find notes across strings.
-See {% include chapter-link.html slug="scale-intro" %} for details.
+## Finding some chords
+
+
 
 ## Neighboring strings and intervals
 
