@@ -39,11 +39,11 @@ Tension and release can also be created by playing with listeners' expectations.
 
 All the music we have previously heard creates expectations about music we will hear in the future.
 
-If we have a similar enough background to the listener to know what their expectations are,
+If we have a similar enough background to the listener to understand their expectations,
 we can play with those expectations to provoke a response. 
 
 For example,
-we can give them something they expect,
+we can produce something they expect,
 provoking familiarity;
 delay meeting their expectations, provoking tension;
 give them something they didn't expect but are also familiar with,
