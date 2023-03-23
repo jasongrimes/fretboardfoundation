@@ -82,15 +82,25 @@ See {% include chapter-link.html slug="caged" %} for more about triad chord shap
 The differences in pitch between the strings on a guitar are carefully chosen to be some of the most fundamental sounds in music. 
 Differences in pitch are called "intervals".
 
-The interval between a string and its neighbor to the left (other than 2-3) is called a **perfect fifth*+.
+The interval between a string and its neighbor to the left (other than strings 2-3) is called a **perfect fifth**.
 It's the most common musical sound in the world 
-(partly because it is the dominant harmonic in the "[overtone series](glossary.html#overtone-series)").
+(partly because it is the dominant harmonic in the "[overtone series](glossary.html#overtone-series)",
+a natural phenomenon of acoustics).
 
 The interval between the 3rd and 2nd string is called a **major third**.
-It's arguably the most important sound in Western harmony.
+It's arguably the most important sound in Western harmony,
+and it's the *next* most distinguishable harmonic in the overtone series.
+
 Between them,
 the root, major third, 
 and perfect fifth intervals compose a major chord.
+
+As Bert Ligon said in *Comprehensive Technique for Jazz Musicians*, 
+the major triad consists of "the first three pitches in the overtone series 
+and the natural laws of physics insist that the planet vibrates with these tones when the winds blow, 
+which may explain the universal occurrence of the triad in melodies."
+[(Ligon, 1999)](references.html#ligon-1999)
+
 Lowering the major third by one fret turns it into a minor chord.
 
 For more information about intervals between chords and playing in position,
