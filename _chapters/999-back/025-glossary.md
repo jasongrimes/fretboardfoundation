@@ -5,7 +5,7 @@ slug: glossary
 
 - **atonal**{:#atonal}: (1) Music or other sounds without [tones](#tone).
 (2) Confusingly but commonly
-(and somewhat offensively),
+(and somewhat disrespectfully),
 *atonal* can also refer to music that is *[atonical](#atonical)*.
 See discussion of [tonal](#tonal).
 
