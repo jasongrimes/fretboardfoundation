@@ -93,15 +93,14 @@ and it's the *next* most distinguishable harmonic in the overtone series.
 
 Between them,
 the root, major third, 
-and perfect fifth intervals compose a major chord.
+and perfect fifth intervals describe a major triad chord.
+Lowering the major third by one fret turns it into a minor chord.
 
 As Bert Ligon said in *Comprehensive Technique for Jazz Musicians*, 
 the major triad consists of "the first three pitches in the overtone series 
 and the natural laws of physics insist that the planet vibrates with these tones when the winds blow, 
 which may explain the universal occurrence of the triad in melodies."
 [(Ligon, 1999)](references.html#ligon-1999)
-
-Lowering the major third by one fret turns it into a minor chord.
 
 For more information about chord intervals and playing in position,
 see {% include chapter-link.html slug="major-harmony" %}.
