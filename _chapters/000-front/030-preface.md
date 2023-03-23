@@ -23,7 +23,7 @@ Jazz digs deep into improvisation and theory,
 but with techniques that often don’t translate well to other styles because of an emphasis on dissonance and extended chords. 
 
 And both approaches promise *at best* a long and winding road toward mastery, 
-requiring years of study and a somewhat blind faith that it will lead where we want to go. 
+requiring years of study and a somewhat blind faith that it will lead somewhere we want to go. 
 
 ### Triage is needed
 
