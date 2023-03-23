@@ -123,7 +123,7 @@ we can often feel it “pulling” to resolve.
 If we *don’t* feel this pull,
 we should try going two frets in either direction and see what happens.
 
-#### Vibrato can make intonation "close enough"
+#### Vibrato can make intonation close enough
 
 A trick for blending in with other musicians:
 differences in tuning and intonation between instruments can sometimes be covered with *vibrato*. 
