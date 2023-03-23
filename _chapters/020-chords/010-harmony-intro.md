@@ -226,7 +226,7 @@ As Bert Ligon said in *Comprehensive Technique for Jazz Musicians*,
 the major triad consists of "the first three pitches in the overtone series 
 and the natural laws of physics insist that the planet vibrates with these tones when the winds blow, 
 which may explain the universal occurrence of the triad in melodies."
-[(1999)](references.html#ligon-1999)
+[(Ligon, 1999)](references.html#ligon-1999)
 
 #### Types of triad chord
 
