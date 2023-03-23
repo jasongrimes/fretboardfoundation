@@ -79,7 +79,8 @@ See {% include chapter-link.html slug="caged" %} for more about triad chord shap
 
 ## Intervals between strings
 
-The differences in pitch between the strings on a guitar are carefully chosen as some of the most fundamental sounds in music. 
+In standard guitar tuning,
+the differences in pitch between the strings are carefully chosen as some of the most fundamental sounds in music. 
 Differences in pitch are called "intervals".
 
 The interval between a string and its neighbor to the left (other than strings 2-3) is called a **perfect fifth**.
