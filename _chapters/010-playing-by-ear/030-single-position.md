@@ -52,25 +52,25 @@ Listen and explore to find them.
 The following figures show some examples.
 
 {% include figure.html
-    caption="Major triad on upper-middle strings, based on A CAGED shape.
+    caption="Major triad on upper-middle strings, based on A CAGED shape."
     url="/assets/figures/playing-by-ear/triad-A.svg"
     class="chord row"
 %}
 
 {% include figure.html
-    caption="Major triad on upper-middle strings, based on E CAGED shape.
+    caption="Major triad on upper-middle strings, based on E CAGED shape."
     url="/assets/figures/playing-by-ear/triad-E.svg"
     class="chord row"
 %}
 
 {% include figure.html
-    caption="Minor triad on upper strings, based on Am CAGED shape.
+    caption="Minor triad on upper strings, based on Am CAGED shape."
     url="/assets/figures/playing-by-ear/triad-Am.svg"
     class="chord row"
 %}
 
 {% include figure.html
-    caption="Minor triad on upper strings, based on Em CAGED shape.
+    caption="Minor triad on upper strings, based on Em CAGED shape."
     url="/assets/figures/playing-by-ear/triad-Em.svg"
     class="chord row"
 %}
