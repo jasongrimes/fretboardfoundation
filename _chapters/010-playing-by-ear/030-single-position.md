@@ -10,7 +10,7 @@ After thoroughly exploring a melody on a single string,
 try playing the same melody across strings,
 without moving the fretting hand out of position.
 
-This is called "position playing".
+This is sometimes called "position playing".
 
 ## Finding notes across strings
 
