@@ -40,12 +40,12 @@ there is a slightly smaller difference in pitch between strings 2 and 3.
 %}
 
 To get better at finding notes across strings,
-it's helpful to explore scales.
-See {% include chapter-link.html slug="scale-intro" %} for details.
+it can be helpful to study scales.
+See {% include chapter-link.html slug="scale-intro" %}.
 
 ## Finding chords across strings
 
-These major and minor "triad chords" are the most common chords used in all of Western harmony.
+Major and minor "triad chords" are the most common chords used in all of Western harmony.
 
 There are many of these three-note triad chords around the fretboard.
 Listen and explore to find them.
@@ -93,5 +93,5 @@ the root, major third,
 and perfect fifth intervals compose a major chord.
 Lowering the major third by one fret turns it into a minor chord.
 
-For more information about playing in a single position,
+For more information about intervals between chords and playing in position,
 see {% include chapter-link.html slug="major-harmony" %}.
