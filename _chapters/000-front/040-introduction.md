@@ -198,7 +198,7 @@ is a sort of illusion created by these skillful micro-adjustments and compensati
 
 ## How to use this book
 
-This book does not present a step-by-step method for learning guitar.
+This book does not provide a step-by-step method for learning guitar.
 It's more of an encyclopedia.
 Or maybe a grimoire.
 
