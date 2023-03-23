@@ -10,6 +10,8 @@ After thoroughly exploring a melody on a single string,
 try playing the same melody across strings,
 without moving the fretting hand out of position.
 
+This is called "position playing".
+
 ## Finding notes across strings
 
 At first,
@@ -27,62 +29,42 @@ there is a slightly smaller difference in pitch between strings 2 and 3.
 
 {% include figure.html
     caption="Identical notes on all neighboring strings tuned a perfect fourth apart (all string pairs except 2-3). "
-    url="/assets/figures/playing-by-ear/neighboring-P4.svg"
+    url="/assets/figures/playing-by-ear/neighboring-strings-P4.svg"
     class="string row"
 %}
 
 {% include figure.html
     caption="Identical notes on strings 2-3, which are tuned a major third apart."
-    url="/assets/figures/playing-by-ear/neighboring-M3-stringnums.svg"
+    url="/assets/figures/playing-by-ear/neighboring-strings-M3-stringnums.svg"
     class="chord row"
 %}
 
-## Finding some chords
+## Intervals between strings
 
+The differences in pitch between the strings on a guitar are carefully chosen to be some of the most fundamental sounds in music. 
+Differences in pitch are called "intervals".
 
+The interval between a string and its neighbor to the left (except 2-3) is called a "perfect fifth".
+It's the most common musical sound in the world 
+(partly because it is the dominant harmonic in the "overtone series", [see glossary](glossary.html)).
 
-## Neighboring strings and intervals
+The interval between the 3rd and 2nd string is called a "major third".
+It's arguably the most important sound in Western harmony.
+Between them,
+the root, major third, 
+and perfect fifth intervals compose a major chord.
+Lowering the major third by one fret turns it into a minor chord.
 
-On a guitar in standard tuning,
-it quickly becomes apparent that
-all the strings are tuned the same distance apart except strings 2-3 
-(strings are numbered 1-6 from lowest pitch to highest).
-
-The distance between two pitches is called an "interval".
-Intervals determine how music sounds, 
-and how it makes us feel.
-
-## Thirds, fourths and fifths
-
-On a guitar in standard tuning,
-all the strings except 2-3 are tuned a "perfect fourth" interval apart,
-when played ascending,
-which is also a "perfect fifth" apart when descending.
-The interval between the 2-3 strings is a "major third",
-which is arguably the most crucial interval in Western harmony. 
-
-These perfect fifth,
-perfect fourth,
-and major third intervals are some of the most fundamental musical sounds in the world,
-and have been used for millenia as the core intervals of Western tonality.
-
-By gently exploring tones on neighboring strings at the same fret,
-we can begin to feel how the strings relate to each other
-and draw out these familiar sounds.
-
-The following chord diagrams show examples of how triad chord intervals fall on neighboring strings.
+There are many of these three-note "triad chords" around the fretboard.
+Listen and explore to find them.
+The following figures show some examples.
 
 {% include figure.html
-    caption="G major shape."
-    url="/assets/figures/caged2/G-maj.svg"
+    caption="Major triad on upper-middle strings, based on A CAGED shape.
+    url="/assets/figures/playing-by-ear/triad-A.svg"
     class="chord row"
 %}
 
-{% include figure.html
-    caption="E minor shape."
-    url="/assets/figures/caged2/E-min.svg"
-    class="chord row"
-%}
 
 See {% include chapter-link.html slug="caged" %} for more about triad chord shapes.
 
