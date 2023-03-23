@@ -21,110 +21,6 @@ The shapes are named after the familiar
 C, A, G, E, and D chord shapes in "open position"
 (that is, having open strings).
 
-## Ergonomics
-
-Some of the CAGED chord shapes are awkward or even impossible to play completely.
-Some CAGED grips,
-notably barre chords,
-can lead to significant pain if done improperly.
-
-Pain is a signal from our bodies that we are doing something wrong.
-If we ignore the pain and don't change what we are doing,
-the injury will get worse and take longer to heal. 
-Eventually, our bodies will _force_ us to stop doing it.
-
-Far better to listen to our bodies from the beginning.
-**If something hurts,
-stop doing it right away**,
-and figure out a painless way to do it
-before the painful way becomes habit.
-
-Aside from this general advice,
-a few observations can be particularly helpful.
-
-#### Notice the elbow
-
-The fretting hand's reach and range of motion changes dramatically depending on the position of the elbow.
-
-Move the elbow in toward the body to allow the 3rd and 4th fingers to reach down the neck and the first finger to reach back up the neck more easily,
-or move it out to the side of the body to allow the first finger to reach down the neck.
-Move the elbow out in front of the body to improve the fingers' reach of the low strings,
-or pull it back to better reach the high strings.
-
-Often when we are struggling to place our fingers into a challenging chord grip,
-the problem can be solved almost magically by simply adjusting the elbow until the position is more comfortable. 
-
-#### Fretting wrist at neutral angle
-
-The fretting wrist should be kept at a neutral angle,
-with the hand curved slightly forward so there is no bend where the tendons cross the wrist.
-In addition to improving dexterity and speed,
-this prevents tendons from rubbing,
-which can cause inflammation and injuries like carpal tunnel syndrome.
-
-Keeping the wrist at a neutral angle can be made easier by adjusting the elbow,
-as already described,
-and by tilting the guitar neck upward. 
-A strap with a suede backing can help hold the guitar tilted in a comfortable fretting position.
-
-#### Hands are not crowbars
-
-While it is possible to use the thumb as a fulcrum to lever the fingers onto the fretboard with considerable force,
-our hands are full of joints that need to be held rigidly in place in order to do so.
-But joints are made to move,
-not to hold rigid,
-especially not against forces applied in the joint's weakest direction.
-This technique may seem powerful at first,
-but over time it is likely to lead to injury,
-possibly including basal joint arthritis.
-
-Instead,
-the thumb should be pressed lightly against the neck,
-_if at all_.
-The fretting thumb's main use should be to keep the hand gently in contact with the neck,
-so it stays in one place instead of floating around in space when the fingers are off the fretboard.
-
-If the perfect intonation can't be achieved without the thumb, 
-bring it into play by gently pinching the back of the neck directly behind the fingers, 
-just hard enough that the frets don't buzz.
-
-<!--
-
-It's possible to fret a guitar without using the thumb at all,
-and it's a good practice to do so sometimes,
-to give the thumb a rest and to experiment with how little pressure is actually needed.
-
-When playing without the thumb,
-the whole fretting arm has to pull back gently for the fingers to press down on the strings.
-If not enough pressure is applied,
-the strings will be muted or will buzz against the frets.
-If too much pressure is applied,
-the neck will bend back slightly,
-causing the notes to bend sharp.
-
-If the perfect intonation can't be achieved without the thumb, 
-bring it into play by gently pinching the back of the neck directly behind the fingers, 
-just hard enough that the notes don't go sharp.
-Pinching too hard can cause the notes to bend sharp between the fret and the board,
-while not pinching hard enough allows the frets to buzz or the neck to bend sharp.
-
-We need to adjust the pressure from the fingers and thumb until the notes are pitched true,
-and the joints are under minimal strain.
-
-This is the point at which intonation and ergonomics are in harmony.
-The perfect grip:
-the purest tone with the least effort.
-
--->
-
-#### More on guitar ergonomics
-
-Christopher Berg’s excellent 
-*Mastering Guitar Technique: Process and Essence* 
-[(1997)](references.html#berg-1997) 
-has a great deal more about optimal positioning of the body for playing guitar.
-
-
 ## Mind the intervals
 
 When learning and practicing these shapes,
@@ -943,3 +839,108 @@ see {% include chapter-link.html slug="major-harmony" %}.
     url="/assets/figures/caged2/fretboard-G-maj.svg"
     class="chord row"
 %}
+
+## Ergonomics
+
+Some of the CAGED chord shapes are awkward or even impossible to play completely.
+Some CAGED grips,
+notably barre chords,
+can lead to significant pain if done improperly.
+
+Pain is a signal from our bodies that we are doing something wrong.
+If we ignore the pain and don't change what we are doing,
+the injury will get worse and take longer to heal. 
+Eventually, our bodies will _force_ us to stop doing it.
+
+Far better to listen to our bodies from the beginning.
+**If something hurts,
+stop doing it right away**,
+and figure out a painless way to do it
+before the painful way becomes habit.
+
+Aside from this general advice,
+a few observations can be particularly helpful.
+
+#### Notice the elbow
+
+The fretting hand's reach and range of motion changes dramatically depending on the position of the elbow.
+
+Move the elbow in toward the body to allow the 3rd and 4th fingers to reach down the neck and the first finger to reach back up the neck more easily,
+or move it out to the side of the body to allow the first finger to reach down the neck.
+Move the elbow out in front of the body to improve the fingers' reach of the low strings,
+or pull it back to better reach the high strings.
+
+Often when we are struggling to place our fingers into a challenging chord grip,
+the problem can be solved almost magically by simply adjusting the elbow until the position is more comfortable. 
+
+#### Fretting wrist at neutral angle
+
+The fretting wrist should be kept at a neutral angle,
+with the hand curved slightly forward so there is no bend where the tendons cross the wrist.
+In addition to improving dexterity and speed,
+this prevents tendons from rubbing,
+which can cause inflammation and injuries like carpal tunnel syndrome.
+
+Keeping the wrist at a neutral angle can be made easier by adjusting the elbow,
+as already described,
+and by tilting the guitar neck upward. 
+A strap with a suede backing can help hold the guitar tilted in a comfortable fretting position.
+
+#### Hands are not crowbars
+
+While it is possible to use the thumb as a fulcrum to lever the fingers onto the fretboard with considerable force,
+our hands are full of joints that need to be held rigidly in place in order to do so.
+But joints are made to move,
+not to hold rigid,
+especially not against forces applied in the joint's weakest direction.
+This technique may seem powerful at first,
+but over time it is likely to lead to injury,
+possibly including basal joint arthritis.
+
+Instead,
+the thumb should be pressed lightly against the neck,
+_if at all_.
+The fretting thumb's main use should be to keep the hand gently in contact with the neck,
+so it stays in one place instead of floating around in space when the fingers are off the fretboard.
+
+If the perfect intonation can't be achieved without the thumb, 
+bring it into play by gently pinching the back of the neck directly behind the fingers, 
+just hard enough that the frets don't buzz.
+
+<!--
+
+It's possible to fret a guitar without using the thumb at all,
+and it's a good practice to do so sometimes,
+to give the thumb a rest and to experiment with how little pressure is actually needed.
+
+When playing without the thumb,
+the whole fretting arm has to pull back gently for the fingers to press down on the strings.
+If not enough pressure is applied,
+the strings will be muted or will buzz against the frets.
+If too much pressure is applied,
+the neck will bend back slightly,
+causing the notes to bend sharp.
+
+If the perfect intonation can't be achieved without the thumb, 
+bring it into play by gently pinching the back of the neck directly behind the fingers, 
+just hard enough that the notes don't go sharp.
+Pinching too hard can cause the notes to bend sharp between the fret and the board,
+while not pinching hard enough allows the frets to buzz or the neck to bend sharp.
+
+We need to adjust the pressure from the fingers and thumb until the notes are pitched true,
+and the joints are under minimal strain.
+
+This is the point at which intonation and ergonomics are in harmony.
+The perfect grip:
+the purest tone with the least effort.
+
+-->
+
+#### More on guitar ergonomics
+
+Christopher Berg’s excellent 
+*Mastering Guitar Technique: Process and Essence* 
+[(1997)](references.html#berg-1997) 
+has a great deal more about optimal positioning of the body for playing guitar.
+
+
