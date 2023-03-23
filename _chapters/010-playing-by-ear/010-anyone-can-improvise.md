@@ -78,7 +78,7 @@ listen and learn.
 
 There are some tricks that can make it easier to improvise in this way. 
 
-#### Beginner's mind (aka "lighten up")
+#### Beginner's mind (aka lighten up)
 
 The most important trick for improvising on guitar is to lighten up about what sounds "good".
 
@@ -105,7 +105,7 @@ and we can treat it as a “melodic approach” to our intended note.
 By the law of chance, 
 any note picked at random is going to be “in” most of the time (58%, 7/12 chance). 
 
-#### "Out" notes are nearly "in"
+#### Out notes are nearly in
 
 Any note that is “out” is only one fret in either direction from being “in”,
 so we can treat it as a “chromatic approach" into an "in" note,
