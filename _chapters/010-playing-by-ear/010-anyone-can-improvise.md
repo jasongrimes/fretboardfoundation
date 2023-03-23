@@ -116,8 +116,10 @@ and shift “in” by a fret in the chosen direction.
 
 From an “in” note, 
 the next closest “in” note is most likely two frets away (70%, 5/7 chance). 
+
 If the next “in” note is only one fret away,
 we can often feel it “pulling” to resolve.
+
 If we *don’t* feel this pull,
 we should try going two frets in either direction and see what happens.
 
