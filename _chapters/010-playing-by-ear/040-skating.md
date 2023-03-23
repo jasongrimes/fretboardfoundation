@@ -13,11 +13,10 @@ We can follow a melody up and down a string,
 and then turn a corner and play across strings for awhile.
 
 This free ability to range all over the fretboard can be liberating and fun.
+We can engage the complete tonal reach of the instrument.
 
 The eloquent Mick Goodrick called it "the realm of the electric ice-skating rink"
 [(1987, p. 30)](references.html#goodrick-1987).
-
-We can engage the complete tonal reach of the instrument.
 
 ## Orientation and landmarks
 
