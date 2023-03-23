@@ -39,6 +39,10 @@ there is a slightly smaller difference in pitch between strings 2 and 3.
     class="chord row"
 %}
 
+To get better at finding notes across strings,
+it's helpful to explore scales.
+See {% include chapter-link.html slug="scale-intro" %} for details.
+
 ## Intervals between strings
 
 The differences in pitch between the strings on a guitar are carefully chosen to be some of the most fundamental sounds in music. 
@@ -75,6 +79,17 @@ The following figures show some examples.
     class="chord row"
 %}
 
+{% include figure.html
+    caption="Minor triad on upper strings, based on Am CAGED shape.
+    url="/assets/figures/playing-by-ear/triad-Am.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="Minor triad on upper strings, based on Em CAGED shape.
+    url="/assets/figures/playing-by-ear/triad-Em.svg"
+    class="chord row"
+%}
 
 See {% include chapter-link.html slug="caged" %} for more about triad chord shapes.
 
