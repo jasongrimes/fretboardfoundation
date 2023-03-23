@@ -78,30 +78,52 @@ listen and learn.
 
 There are some tricks that can make it easier to improvise in this way. 
 
-- If we are unsure what a note is going to sound like, 
+### Beginner's mind (aka "lighten up")
+
+The very first and most important trick to improvising on guitar is to lighten up about what sounds "good".
+Rather than worry about how it will sound,
+or whether others would appreciate it,
+it is far more effective to let go and discover whatever emerges,
+like a beginner or a child.
+With curiosity, innocence, and joy, 
+and without expectations.
+
+### Quiet quiet loud loud
+
+If we are unsure what a note is going to sound like, 
 we can play it quietly at first,
 to get our bearings,
 before playing louder with a more certain note. 
 
-- Finding an “in” note is almost as good as finding the “right” note. If we land on a note that wasn’t intended but which is still “in” the key,
+### Any random note is probably "in"
+
+Finding an “in” note is almost as good as finding the “right” note. If we land on a note that wasn’t intended but which is still “in” the key,
 it still sounds musical,
 and we can treat it as a “melodic approach” to our intended note. 
 
-- By the law of chance, any note picked at random is going to be “in” most of the time (58%, 7/12 chance). 
+By the law of chance, 
+any note picked at random is going to be “in” most of the time (58%, 7/12 chance). 
 
-- Any note that is “out” is only one fret in either direction from being “in”,
+### "Out" notes are nearly "in"
+
+Any note that is “out” is only one fret in either direction from being “in”,
 so we can treat it as a “chromatic approach" into an "in" note,
 like we did it on purpose,
 and shift “in” by a fret in the chosen direction. 
 
-- From an “in” note, 
+### "In" notes are usually two frets apart
+
+From an “in” note, 
 the next closest “in” note is most likely two frets away (70%, 5/7 chance). 
 If the next “in” note is only one fret away,
 we can often feel it “pulling” to resolve.
 If we *don’t* feel this pull,
 we should try going two frets in either direction and see what happens.
 
-And a trick for blending in with other musicians:
+### Vibrato can make intonation "close enough"
+
+A trick for blending in with other musicians:
 differences in tuning and intonation between instruments can sometimes be covered with *vibrato*. 
+
 A note doesn’t have to be perfectly in tune if it is passing back and forth 
 (vibrating) through the perfect pitch. 
