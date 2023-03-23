@@ -55,6 +55,8 @@ the root, major third,
 and perfect fifth intervals compose a major chord.
 Lowering the major third by one fret turns it into a minor chord.
 
+## Finding chords across strings
+
 These major and minor "triad chords" are the most common chords used in all of Western harmony.
 
 There are many of these three-note triad chords around the fretboard.
@@ -64,6 +66,12 @@ The following figures show some examples.
 {% include figure.html
     caption="Major triad on upper-middle strings, based on A CAGED shape.
     url="/assets/figures/playing-by-ear/triad-A.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="Major triad on upper-middle strings, based on E CAGED shape.
+    url="/assets/figures/playing-by-ear/triad-E.svg"
     class="chord row"
 %}
 
