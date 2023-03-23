@@ -28,7 +28,7 @@ While all the other guitar strings are tuned to pitches the same distance apart,
 there is a slightly smaller difference in pitch between strings 2 and 3.
 
 {% include figure.html
-    caption="Identical notes on all neighboring strings tuned a perfect fourth apart (all string pairs except 2-3). "
+    caption="Identical notes on all neighboring strings except 2-3, i.e. strings tuned a perfect fourth apart. "
     url="/assets/figures/playing-by-ear/neighboring-strings-P4.svg"
     class="string row"
 %}
