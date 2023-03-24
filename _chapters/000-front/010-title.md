@@ -3,8 +3,8 @@ title: Fretboard Foundation
 abstract: Practical building blocks for intermediate guitarists. By Jason Grimes.
 slug: book
 disable_toc: true
-logo_top: true
-logo_bottom: true
+logo_top: false
+logo_bottom: false
 ---
 
 A free book about learning guitar for intermediate guitarists.
