@@ -11,7 +11,7 @@ This book exists to fill a gap I find in guitar instructional material.
 
 ### Intermediate material is needed
 
-Countless resources are available for beginners, 
+Countless resources are available for beginning guitarists, 
 and excellent materials exist for advanced musicians with a solid background in theory and practice.
 But for those in-between, the “intermediate” guitarists, 
 it can be a long and hard slog to master the instrument well enough to truly express ourselves. 
@@ -72,7 +72,7 @@ in some cases,
 
 It is common knowledge among music theorists that Western music theories of harmonic function and other euroclassical concepts are not very useful for describing modern popular music,
 or even the quintessentially American tonality of the Blues,
-let alone rap or ambient styles.
+let alone styles like rap or ambient music.
 
 Then consider that most other cultures use more than the twelve tones of Western music,
 and that some have arguably more advanced and useful theoretical frameworks

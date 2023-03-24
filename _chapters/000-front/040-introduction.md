@@ -176,12 +176,12 @@ and visualizing ourselves playing it,
 allows us to practice in a pure and focused way,
 without the distractions of physical reality.
 
-As with these other techniques,
+As with all of these techniques,
 incorporating visualization into practice is reported to dramatically increase the speed of learning.
 
 ### Variety in repetition
 
-Studies show that repeatedly practicing the same thing over and over is actually harmful in several ways.
+Studies show that repeatedly practicing the same thing over and over is actually harmful in many ways.
 Instead of mindless repetition,
 a more effective approach is to analyze a particular subject and practice it from multiple angles.
 
@@ -243,10 +243,10 @@ Later on,
 if you find you need to learn a couple more chord shapes to play in one of the major key positions,
 refer back to the CAGED chapter to study those particular shapes.
 
-### Use for reference
+### Use for quick reference
 
 Once an overview of the topics has been acquired,
-the book is designed to be used as a reference.
-
-Any topic or diagram should be easy to find within a few "clicks" through the tables of contents,
+the book is designed to be used as a quick and fairly comprehensive reference,
 in order to support your own guitar studies.
+
+Any topic or diagram should be easy to find within a few "taps" through the tables of contents.
