@@ -4,7 +4,7 @@ slug: skating
 abstract: Ranging freely over the entire instrument. 
 ---
 
-## Electric ice-skating rink
+## The electric ice-skating rink
 
 Once we can play a melody on both one string and across strings,
 it's natural to combine approaches and play all over the fretboard.
