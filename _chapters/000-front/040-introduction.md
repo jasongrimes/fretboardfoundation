@@ -176,12 +176,12 @@ and visualizing ourselves playing it,
 allows us to practice in a pure and focused way,
 without the distractions of physical reality.
 
-As with these other techniques,
+As with all of these techniques,
 incorporating visualization into practice is reported to dramatically increase the speed of learning.
 
 ### Variety in repetition
 
-Studies show that repeatedly practicing the same thing over and over is actually harmful in several ways.
+Studies show that repeatedly practicing the same thing over and over is actually harmful in many ways.
 Instead of mindless repetition,
 a more effective approach is to analyze a particular subject and practice it from multiple angles.
 
