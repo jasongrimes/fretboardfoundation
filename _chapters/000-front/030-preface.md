@@ -25,6 +25,44 @@ but with techniques that often don’t translate well to other styles because of
 And both approaches promise *at best* a long and winding road toward mastery, 
 requiring years of study and a somewhat blind faith that it will lead somewhere we want to go. 
 
+## A broader perspective is needed
+
+The pedagogy of Western music is somewhat insular.
+
+Teachers tend to present material from a single theoretical perspective,
+a "euroclassical" framework that was popular among affluent Europeans in the 18th and 19th centuries.
+
+These ideas tend to be presented as facts,
+like "the V chord wants to resolve to the I chord",
+even though they are really just elegant descriptions of one particular way of doing things that 
+*isn't even all that common anymore*.
+
+It's common knowledge among music theorists that theories of harmonic function and other euroclassical concepts are not very useful for describing modern popular music,
+or even the Blues,
+let alone rap or ambient styles.
+
+Then consider that most other cultures use more than the twelve tones of Western music,
+and that some have arguably more advanced and useful theoretical frameworks
+(such as the Arabic maqmat).
+In these other systems,
+Western major key harmony is treated as just one mode (the Ionian mode) among many.
+
+By simply taking a step back and realizing that Western harmony is just one framework among many
+(albeit one that is very well-suited to Western musicians),
+many otherwise confusing concepts can suddenly become clear.
+
+For example,
+why doesn't popular music follow the harmonic functions of having the V chord pull home to the I chord?
+Because that's just one way of doing things,
+and popular music does it different ways.
+
+Why doesn't the "blues scale" actually sound like playing the Blues?
+Because it's just one (poor) way of describing a style of music that uses tones outside of euroclassical tonality.
+
+This book tries to keep this broader perspective,
+In the hope that it both simplifies the material
+and encourages others to take a broader perspective about music outside the traditional Western tonal system.
+
 ### Triage is needed
 
 The approach taken in this book is different.
