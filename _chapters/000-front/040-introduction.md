@@ -237,10 +237,11 @@ after working through the C CAGED shapes
 you might want to digest them for awhile,
 rather than trying to grind through scores of CAGED shapes and fingerings in one sitting.
 
-So skim ahead to the next chapter on major harmony.
+So skim ahead to the next section on ergonomics,
+and then continue on to the chapter on major harmony.
 Later on,
 if you find you need to learn a couple more chord shapes to play in one of the major key positions,
-refer back to the CAGED chapter to study those shapes.
+refer back to the CAGED chapter to study those particular shapes.
 
 ### Use for reference
 
