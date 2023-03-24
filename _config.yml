@@ -20,7 +20,7 @@ latest_edition: "First Draft, 2023"
 # Set copyright: false to disable.
 copyright:
   start_year: 2022
-  url: copyright.html
+  url: /copyright.html
 
 # Customize the link favicon in header. Will be {{site.baseurl}}/{{site.favicon_path}}
 favicon_path: favicon.ico
@@ -32,8 +32,8 @@ favicon_path: favicon.ico
 # Breadcrumbs for book contents.
 # The book and contents pages need to be made manually.
 bookcrumbs:
-  book_url: book.html
-  contents_url: toc.html
+  book_url: /book.html
+  contents_url: /toc.html
   book_icon: assets/logos/logo-square-16x16.svg
 
 # Links shown above the TOC in the sidebar
