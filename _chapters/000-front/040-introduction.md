@@ -208,7 +208,7 @@ This book is designed to be "skimmed".
 
 Try relaxing your eye muscles to soften your focus,
 and scroll rapidly through a chapter,
-so that all you can really see are the headings and the general shape of the text.
+so that all you can really see are the headings and figures and the general shape of the text.
 That's "skimming" the chapter.
 
 The headings throughout the text are written as an outline,
