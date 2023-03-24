@@ -1,6 +1,6 @@
 ---
-title: "Fretboard Foundation: The Book"
-subtitle: Practical building blocks for intermediate guitarists. By Jason Grimes.
+title: Fretboard Foundation
+abstract: Practical building blocks for intermediate guitarists. By Jason Grimes.
 slug: book
 layout: chapter
 ---
