@@ -4,7 +4,7 @@ slug: skating
 abstract: Ranging freely over the entire instrument. 
 ---
 
-## Electric ice-skating rink
+## The electric ice-skating rink
 
 Once we can play a melody on both one string and across strings,
 it's natural to combine approaches and play all over the fretboard.
@@ -12,7 +12,7 @@ We can follow a melody up and down a string,
 and then turn a corner and play across strings for awhile.
 
 This free ability to range all over the fretboard can be liberating and fun.
-It feels like we have engaged the complete tonal reach of the instrument.
+It feels like we have unlocked the complete tonal reach of the instrument.
 
 The eloquent Mick Goodrick called it "the realm of the electric ice-skating rink"
 [(1987, p. 30)](references.html#goodrick-1987).
@@ -24,7 +24,7 @@ orientation becomes important.
 It's useful to have landmarks to locate where we are on the fretboard and where we want to go.
 
 Look at the dots on the fretboard to identify the location of a fret.
-Sometimes it helps to think of the fret number and string number coordinates,
+Sometimes it helps to think of the coordinates of the fret number and string number,
 to focus the mind.
 
 Try to remember meaningful locations.
