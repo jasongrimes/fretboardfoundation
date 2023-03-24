@@ -243,10 +243,10 @@ Later on,
 if you find you need to learn a couple more chord shapes to play in one of the major key positions,
 refer back to the CAGED chapter to study those particular shapes.
 
-### Use for reference
+### Use for quick reference
 
 Once an overview of the topics has been acquired,
-the book is designed to be used as a reference.
+the book is designed to be used as a quick reference.
 
 Any topic or diagram should be easy to find within a few "clicks" through the tables of contents,
 in order to support your own guitar studies.
