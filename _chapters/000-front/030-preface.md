@@ -57,7 +57,7 @@ on where we want to go.
 But there is a common foundation that is often required.
 This book aims to provide that foundation in a practical way. 
 
-### A broader perspective is needed
+### Broader perspective is needed
 
 The pedagogy of Western music is somewhat insular.
 
@@ -69,7 +69,7 @@ like "the V chord wants to resolve to the I chord",
 even though they are really just elegant descriptions of one particular way of doing things that 
 *isn't even all that common anymore*.
 
-It's common knowledge among music theorists that theories of harmonic function and other euroclassical concepts are not very useful for describing modern popular music,
+It is common knowledge among music theorists that Western music theories of harmonic function and other euroclassical concepts are not very useful for describing modern popular music,
 or even the quintessentially American tonality of the Blues,
 let alone rap or ambient styles.
 
@@ -84,9 +84,9 @@ By simply taking a step back and realizing that Western harmony is just one fram
 many otherwise confusing concepts can suddenly become clear.
 
 For example,
-why doesn't popular music follow the harmonic functions of having the V chord pull home to the I chord?
+why don't V chords in popular music follow the harmonic function of pulling home to the I chord?
 Because that's just one way of doing things,
-and popular music does it different ways.
+and most popular music does it in other ways.
 
 Why doesn't the "blues scale" actually sound like playing the Blues?
 Because it's just one (poor) way of describing a style of music that uses tones outside of euroclassical tonality.
