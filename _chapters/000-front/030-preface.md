@@ -70,7 +70,7 @@ even though they are really just elegant descriptions of one particular way of d
 *isn't even all that common anymore*.
 
 It's common knowledge among music theorists that theories of harmonic function and other euroclassical concepts are not very useful for describing modern popular music,
-or even the Blues,
+or even the quintessentially American tonality of the Blues,
 let alone rap or ambient styles.
 
 Then consider that most other cultures use more than the twelve tones of Western music,
