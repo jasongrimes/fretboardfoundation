@@ -204,7 +204,7 @@ so they are considered neither major nor minor,
 and can be substituted for chords of either quality.
 
 These chords are often created as side effects of a melody line,
-or for short riffs and flourishes.
+or of short riffs and flourishes.
 
 ### sus2
 
