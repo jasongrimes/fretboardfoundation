@@ -7,11 +7,9 @@ disable_toc: true
 
 ![Fretboard Foundation logo](assets/logos/logo-wide.svg)
 
-<div class="chapter-abstract color-callout-dark">
 A free book about learning guitar for intermediate guitarists.
 It aims to organize and simplify the information required for fluency on guitar,
 including playing by ear, chords and harmony, and scales and melody.
-</div>
 
 ## Version
 
