@@ -22,8 +22,8 @@ and five whole steps (whole tones).
 (2) Notes that are inside a diatonic mode,
 as opposed to [chromatic](#chromatic) notes which are outside the mode.
 
-- **diatonic mode**{:#diatonic-mode}: One of seven permutations of a [diatonic](#diatonic) scale,
-with each permutation starting on a different degree of the scale and wrapping around to the beginning as needed. 
+- **diatonic mode**{:#diatonic-mode}: One of seven rotations of a [diatonic](#diatonic) scale,
+with each mode starting on a different degree of the scale and wrapping around to the beginning. 
 Starting with the first degree of the major scale
 (the (1) Ionian mode),
 the other diatonic modes are 
