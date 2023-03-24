@@ -262,7 +262,7 @@ then learning them in combination as a larger chunk.
 Most people can hold about 5-7 things in mind at any one time.
 Chunking makes optimal use of this capability. 
 
-It's important to take the necessary time to learn a chunk thoroughly before trying to combine it with others.
+It's important to take the necessary time to learn a chunk thoroughly before trying to combine it with other chunks.
 
 ### Focus on intervals, not scale shapes
 
@@ -273,6 +273,7 @@ How they sound, where to find them, what they mean.
 
 Gradually it will become apparent that our fingers have learned the scale shapes on their own,
 wired into the sounds and feelings of the intervals. 
+
 It's efficient to learn something without effort in this way.
 But more importantly,
 this approach makes it possible to direct the fingers by thinking of a sound or an interval
