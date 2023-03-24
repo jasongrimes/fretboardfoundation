@@ -2,7 +2,6 @@
 title: Fretboard Foundation
 abstract: Practical building blocks for intermediate guitarists. By Jason Grimes.
 slug: book
-layout: chapter
 ---
 
 ![Fretboard Foundation logo](assets/logos/logo-wide.svg)
@@ -39,4 +38,3 @@ by ["Just plain Bill"](https://en.m.wikipedia.org/wiki/User:Just_plain_Bill)
 is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 Used in {% include chapter-link.html slug="keys" %}.
 
-## [Next: Table of Contents &raquo;](toc.html)
