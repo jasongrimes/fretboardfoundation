@@ -10,7 +10,7 @@ Chord melody improvisation may be the richest form of expression on guitar.
 It involves freely interweaving chord progressions,
 melodies, and bass lines in a fluid and captivating way.
 
-Blending together chords and melody makes a composition sound fuller and richer, 
+Chord melody makes a composition sound fuller and richer, 
 like a complete performance rather than just a part.
 
 ## Find the melody in the chords
