@@ -6,7 +6,7 @@ logo_top: true
 logo_bottom: true
 ---
 
-This is a free book about learning guitar,
+This site hosts a free book about learning guitar,
 written for intermediate guitarists. 
 
 <div class="font-larger" markdown="block">
