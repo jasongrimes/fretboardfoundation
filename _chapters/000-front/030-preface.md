@@ -55,7 +55,7 @@ Obviously the answer depends,
 in part,
 on where we want to go.
 But there is a common foundation that is often required.
-This book aims to provide that foundation in a practical way. 
+This book aims to provide that foundation in the most efficient and practical way. 
 
 ### Broader perspective is needed
 
