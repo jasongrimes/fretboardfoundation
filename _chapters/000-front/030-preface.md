@@ -86,7 +86,7 @@ many otherwise confusing concepts can suddenly become clear.
 For example,
 why don't V chords in popular music follow the harmonic function of pulling home to the I chord?
 Because that's just one way of doing things,
-and most popular music does it in other ways.
+and most popular music does things differently.
 
 Why doesn't the "blues scale" actually sound like playing the Blues?
 Because it's just one (poor) way of describing a style of music that uses tones outside of euroclassical tonality.
