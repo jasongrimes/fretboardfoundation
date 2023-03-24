@@ -80,9 +80,9 @@ and that some have arguably more advanced and useful theoretical frameworks
 In these other systems,
 Western major key harmony is treated as just one mode (the Ionian mode) among many.
 
-By simply taking a step back and realizing that Western harmony is just one framework among many
-(albeit one that is very well-suited to Western musicians),
-otherwise confusing concepts can suddenly become clear.
+By simply taking a step back and realizing that Western harmony is just one framework among many---albeit 
+one that is particularly suited to Western musicians---otherwise 
+confusing concepts can suddenly become clear.
 
 For example,
 why don't V chords in popular music follow the harmonic function of pulling home to the I chord?
