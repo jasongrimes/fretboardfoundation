@@ -24,7 +24,7 @@ orientation becomes important.
 It's useful to have landmarks to locate where we are on the fretboard and where we want to go.
 
 Look at the dots on the fretboard to identify the location of a fret.
-Sometimes it helps to think of the fret number and string number coordinates,
+Sometimes it helps to think of the coordinates of the fret number and string number,
 to focus the mind.
 
 Try to remember meaningful locations.
