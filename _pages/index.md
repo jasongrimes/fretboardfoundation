@@ -2,9 +2,8 @@
 layout: home
 title: Fretboard Foundation
 subtitle: Practical building blocks for intermediate guitarists.
+toplogo: true
 ---
-
-![Fretboard Foundation logo](assets/logos/logo-wide.svg)
 
 This is a free book about learning guitar,
 written for intermediate guitarists. 
