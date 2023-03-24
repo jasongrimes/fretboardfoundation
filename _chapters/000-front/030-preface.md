@@ -66,7 +66,8 @@ a "euroclassical" framework that was popular among affluent Europeans in the 18t
 
 These ideas tend to be presented as facts,
 like "the V chord wants to resolve to the I chord",
-even though they are really just elegant descriptions of one particular way of doing things that 
+even though they are really just elegant descriptions of one particular way of doing things that,
+in some cases,
 *isn't even all that common anymore*.
 
 It is common knowledge among music theorists that Western music theories of harmonic function and other euroclassical concepts are not very useful for describing modern popular music,
