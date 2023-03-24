@@ -25,6 +25,38 @@ but with techniques that often don’t translate well to other styles because of
 And both approaches promise *at best* a long and winding road toward mastery, 
 requiring years of study and a somewhat blind faith that it will lead somewhere we want to go. 
 
+### Triage is needed
+
+The approach taken in this book is different.
+It's based on an idea of "triage",
+doing the most important things first to make the best of limited time and resources.
+
+In the long run, 
+it would be ideal to learn everything.
+But life is rarely ideal,
+and the length of our run is unknown.
+
+What will happen if our studies are interrupted a few months from now,
+and we are unable to return to them for years,
+if ever?
+Will the next months of study have been well spent,
+making music we enjoy,
+building a foundation that will persist throughout our lives?
+Or will that time be essentially lost, 
+with nothing to show for it?
+
+For *right now*, 
+given the overwhelming amount there is to learn, 
+how can we make the most progress in the shortest time? 
+What’s the minimum information needed, 
+and what’s the fastest way to learn it?
+
+Obviously the answer depends,
+in part,
+on where we want to go.
+But there is a common foundation that is often required.
+This book aims to provide that foundation in a practical way. 
+
 ## A broader perspective is needed
 
 The pedagogy of Western music is somewhat insular.
@@ -60,40 +92,8 @@ Why doesn't the "blues scale" actually sound like playing the Blues?
 Because it's just one (poor) way of describing a style of music that uses tones outside of euroclassical tonality.
 
 This book tries to keep this broader perspective,
-In the hope that it both simplifies the material
+in the hope that it both simplifies the material
 and encourages others to take a broader perspective about music outside the traditional Western tonal system.
-
-### Triage is needed
-
-The approach taken in this book is different.
-It's based on an idea of "triage",
-doing the most important things first to make the best of limited time and resources.
-
-In the long run, 
-it would be ideal to learn everything.
-But life is rarely ideal,
-and the length of our run is unknown.
-
-What will happen if our studies are interrupted a few months from now,
-and we are unable to return to them for years,
-if ever?
-Will the next months of study have been well spent,
-making music we enjoy,
-building a foundation that will persist throughout our lives?
-Or will that time be essentially lost, 
-with nothing to show for it?
-
-For *right now*, 
-given the overwhelming amount there is to learn, 
-how can we make the most progress in the shortest time? 
-What’s the minimum information needed, 
-and what’s the fastest way to learn it?
-
-Obviously the answer depends,
-in part,
-on where we want to go.
-But there is a common foundation that is often required.
-This book aims to provide that foundation in a practical way. 
 
 ## Who this book is for
 
