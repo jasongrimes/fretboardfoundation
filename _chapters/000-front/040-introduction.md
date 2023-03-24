@@ -246,7 +246,7 @@ refer back to the CAGED chapter to study those particular shapes.
 ### Use for quick reference
 
 Once an overview of the topics has been acquired,
-the book is designed to be used as a quick reference.
+the book is designed to be used as a quick and fairly comprehensive reference.
 
 Any topic or diagram should be easy to find within a few "clicks" through the tables of contents,
 in order to support your own guitar studies.
