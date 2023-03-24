@@ -2,8 +2,7 @@
 title: "Fretboard Foundation: The Book"
 subtitle: Practical building blocks for intermediate guitarists. By Jason Grimes.
 slug: book
-layout: page
-class: book-page
+layout: chapter
 ---
 
 ![Fretboard Foundation logo](assets/logos/logo-wide.svg)
