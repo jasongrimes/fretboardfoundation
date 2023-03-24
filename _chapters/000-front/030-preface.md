@@ -11,7 +11,7 @@ This book exists to fill a gap I find in guitar instructional material.
 
 ### Intermediate material is needed
 
-Countless resources are available for beginners, 
+Countless resources are available for beginning guitarists, 
 and excellent materials exist for advanced musicians with a solid background in theory and practice.
 But for those in-between, the “intermediate” guitarists, 
 it can be a long and hard slog to master the instrument well enough to truly express ourselves. 
