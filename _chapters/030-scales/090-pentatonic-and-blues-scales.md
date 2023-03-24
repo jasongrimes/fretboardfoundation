@@ -95,7 +95,7 @@ The major pentatonic scale has tone-and-a-half intervals between degrees 3&#x302
 
 </div>
 
-Just as diatonic scales can be represented with two tetrachords,
+Just as diatonic scales can be represented by two tetrachords,
 pentatonic scales can be represented by two "trichords".
 The missing fourth and seventh intervals from the diatonic major scale are also shown,
 to demonstrate how their absence removes the tritone and semitones.
