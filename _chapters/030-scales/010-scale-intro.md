@@ -266,7 +266,7 @@ It's important to take the necessary time to learn a chunk thoroughly before try
 
 ### Focus on intervals, not scale shapes
 
-Don't make any effort to memorize the shapes of scales on the fretboard.
+Don't waste any effort trying to memorize the shapes of scales on the fretboard.
 
 Focus on the *intervals between the notes* instead. 
 How they sound, where to find them, what they mean.
