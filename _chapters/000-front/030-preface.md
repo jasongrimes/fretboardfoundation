@@ -2,7 +2,7 @@
 title: Preface
 slug: preface
 abstract: Why this book exists and who it's for.
-disable_toc: true
+disable_toc: false
 ---
 
 ## Why this book
@@ -57,7 +57,7 @@ on where we want to go.
 But there is a common foundation that is often required.
 This book aims to provide that foundation in a practical way. 
 
-## A broader perspective is needed
+### A broader perspective is needed
 
 The pedagogy of Western music is somewhat insular.
 
