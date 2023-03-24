@@ -72,7 +72,7 @@ in some cases,
 
 It is common knowledge among music theorists that Western music theories of harmonic function and other euroclassical concepts are not very useful for describing modern popular music,
 or even the quintessentially American tonality of the Blues,
-let alone rap or ambient styles.
+let alone styles like rap or ambient music.
 
 Then consider that most other cultures use more than the twelve tones of Western music,
 and that some have arguably more advanced and useful theoretical frameworks
