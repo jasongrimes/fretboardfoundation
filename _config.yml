@@ -20,7 +20,7 @@ latest_edition: "First Draft, 2023"
 # Set copyright: false to disable.
 copyright:
   start_year: 2022
-  url: /copyright.html
+  url: /book.html#copyright
 
 # Customize the link favicon in header. Will be {{site.baseurl}}/{{site.favicon_path}}
 favicon_path: favicon.ico
