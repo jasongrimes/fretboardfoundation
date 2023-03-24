@@ -16,7 +16,7 @@ and near the middle of a piano keyboard.
 B4 is the B above middle C,
 and B3 is the B below middle C.
 
-The lowest note on guitar is E2
+The lowest note on a guitar in standard tuning is E2
 (the open low E string),
 and the highest is around E5
 (the 12th fret on the high E string).
