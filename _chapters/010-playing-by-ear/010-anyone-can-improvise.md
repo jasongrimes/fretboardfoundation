@@ -20,8 +20,8 @@ or "without time" to prepare.
 
 Improvisation involves an element of novelty---some 
 unique expression that only we could make---but that 
-doesn't necessarily mean coming up with an entirely original composition
-(if there is such a thing).
+doesn't necessarily mean coming up with an entirely original composition,
+if there even is such a thing.
 We can play parts of tunes written by others,
 flowing from one bit to the next on a whim,
 floating on a stream of consciousness,
