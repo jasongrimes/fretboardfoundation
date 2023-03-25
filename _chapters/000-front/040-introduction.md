@@ -63,7 +63,7 @@ if we were stranded on a desert island with only the major scale
 (and a full stock of provisions),
 we might eventually reinvent diatonic harmony from first principles.
 
-[Part 3](scales.html) describes a practical and hopefully enlightening approach to scales.
+A practical and hopefully enlightening approach to scales is given in [Part 3](scales.html).
 
 ### What's not covered
 
