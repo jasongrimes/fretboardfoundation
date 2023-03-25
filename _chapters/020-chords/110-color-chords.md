@@ -36,8 +36,8 @@ Chord names follow a basic convention.
 
 - **"add"**: a non-chord tone added to a major or minor chord. Ex. Cadd9
 - **6**: Shorthand for "add6". Ex. C6 or Cm6 (aka "Cadd6" and "Cm add6")
-- **7,9,11,13**: A chord name with just a number implies a dominant chord (having a M3 and a b7). Ex. C7, C13
-- **#/b 5,9,11,13**: A dominant seventh chord with the given tones altered as specified.
+- **7,9,11,13**: An "extended" dominant seventh chord, with additional thirds stacked up to the given interval. Ex. C13 is technically `R-3-5-b7-2-4-6` (aka `R-3-5-b7-9-11-13`), but in practice some of the middle notes are usually left out.
+- **7 #/b 5,9,11,13**: A dominant seventh chord with the given tones altered as specified. 
 
 ### Compound intervals
 
