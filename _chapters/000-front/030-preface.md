@@ -78,7 +78,7 @@ Then consider that most other cultures use more than the twelve tones of Western
 and that some have arguably more advanced and useful theoretical frameworks
 (such as the Arabic "maqamat").
 In these other systems,
-Western major key harmony is treated as just one mode (the "Ionian" mode) among many.
+Western major key harmony is treated as just one mode (the "Ionian mode") among many.
 
 By simply taking a step back and realizing that Western harmony is just one framework among many---albeit 
 one that is particularly suited to Western musicians---otherwise 
