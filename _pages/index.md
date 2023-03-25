@@ -6,8 +6,8 @@ logo_top: true
 logo_bottom: true
 ---
 
-This site hosts a free book about learning guitar,
-written for intermediate guitarists. 
+This site provides free educational materials about learning guitar for intermediate guitarists,
+including the *Fretboard Foundation* book and various supporting materials.
 
 <div class="font-larger" markdown="block">
 
