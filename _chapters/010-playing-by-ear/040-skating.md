@@ -6,7 +6,7 @@ abstract: Ranging freely over the entire instrument.
 
 ## The electric ice-skating rink
 
-Once we can play a melody on both one string and across strings,
+Once we can play a melody on both a single string and across strings,
 it's natural to combine approaches and play all over the fretboard.
 We can follow a melody up and down a string,
 and then turn a corner and play across strings for awhile.
