@@ -7,6 +7,8 @@ logo_top: false
 logo_bottom: false
 ---
 
+## Summary
+
 A free book about learning guitar for intermediate guitarists.
 It aims to organize and simplify the information required for fluency on guitar,
 including playing by ear, chords and harmony, and scales and melody.
