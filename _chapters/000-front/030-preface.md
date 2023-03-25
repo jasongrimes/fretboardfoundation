@@ -64,7 +64,7 @@ The pedagogy of Western music is somewhat insular.
 Teachers tend to present material from a single theoretical perspective,
 a "euroclassical" framework that was popular among affluent Europeans in the 18th and 19th centuries.
 
-These ideas tend to be presented as facts,
+These ideas are often presented as facts,
 like "the V chord wants to resolve to the I chord",
 even though they are really just elegant descriptions of one particular way of doing things that,
 in some cases,
