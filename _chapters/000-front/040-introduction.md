@@ -50,9 +50,6 @@ To achieve fluency and command of the entire fretboard,
 we need to understand the intervals of the chords and how they harmonize together.
 That's the objective of [Part 2](chords.html).
 
-As a basis for organizing this effort,
-the "CAGED" chord shapes will be thoroughly explored.
-
 ### Scales and melody
 
 Scales are often misunderstood or misused,
@@ -66,7 +63,7 @@ if we were stranded on a desert island with only the major scale
 (and a full stock of provisions),
 we might eventually reinvent diatonic harmony from first principles.
 
-[Part 3](scales.html) describes a practical and hopefully enlightening approach to scales.
+A practical and hopefully enlightening approach to scales is given in [Part 3](scales.html).
 
 ### What's not covered
 
@@ -243,7 +240,7 @@ Later on,
 if you find you need to learn a couple more chord shapes to play in one of the major key positions,
 refer back to the CAGED chapter to study those particular shapes.
 
-### Use for quick reference
+### Quick reference
 
 Once an overview of the topics has been acquired,
 the book is designed to be used as a quick and fairly comprehensive reference,

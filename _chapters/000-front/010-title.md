@@ -7,6 +7,8 @@ logo_top: false
 logo_bottom: false
 ---
 
+## Summary
+
 A free book about learning guitar for intermediate guitarists.
 It aims to organize and simplify the information required for fluency on guitar,
 including playing by ear, chords and harmony, and scales and melody.
@@ -36,7 +38,7 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 - **["Circle of fifths"](https://commons.m.wikimedia.org/wiki/File:Circle_of_fifths_deluxe_4.svg)**
 by ["Just plain Bill"](https://en.m.wikipedia.org/wiki/User:Just_plain_Bill)
 is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
-Used in {% include chapter-link.html slug="keys" %}.
+Used in {% include chapter-link.html slug="keys" anchor="the-circle-of-fifths" %}.
 
 - **["Infobox icon"](https://commons.wikimedia.org/wiki/File:Infobox_info_icon.svg)**
 by "User:Kontos" via Wikimedia Commons is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).

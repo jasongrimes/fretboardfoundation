@@ -32,7 +32,9 @@ each key in just intonation has slightly different intervals from every other ke
 Modern instruments use "equal tempered" tuning instead,
 so every key has the exact same intervals.
 But folk music composed with just intonation often can't be reproduced properly with such instruments.
-Only instruments like the guitar which support "microtone" intervals by bending strings can approximate it.
+Only instruments like the guitar which support "microtone" intervals 
+(ex. by bending strings) 
+can approximate it.
 
 ### Major pentatonic and its modes
 
@@ -95,7 +97,7 @@ The major pentatonic scale has tone-and-a-half intervals between degrees 3&#x302
 
 </div>
 
-Just as diatonic scales can be represented with two tetrachords,
+Just as diatonic scales can be represented by two tetrachords,
 pentatonic scales can be represented by two "trichords".
 The missing fourth and seventh intervals from the diatonic major scale are also shown,
 to demonstrate how their absence removes the tritone and semitones.

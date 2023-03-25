@@ -17,7 +17,7 @@ But for those in-between, the “intermediate” guitarists,
 it can be a long and hard slog to master the instrument well enough to truly express ourselves. 
 
 Most of the material aimed at this level sorts into either classical or jazz styles. 
-Classical guitar instruction tends to focus on the precise expression of a composer's score, 
+Classical guitar instruction tends to focus on the precise expression of a composer's work, 
 with little emphasis on improvisation or creativity. 
 Jazz digs deep into improvisation and theory, 
 but with techniques that often don’t translate well to other styles because of an emphasis on dissonance and extended chords. 
@@ -54,17 +54,17 @@ and what’s the fastest way to learn it?
 Obviously the answer depends,
 in part,
 on where we want to go.
-But there is a common foundation that is often required.
-This book aims to provide that foundation in the most efficient and practical way. 
+But there is a common foundation that is generally required.
+This book aims to provide that foundation in the most practical way. 
 
-### Broader perspective is needed
+### Broad perspective is needed
 
 The pedagogy of Western music is somewhat insular.
 
 Teachers tend to present material from a single theoretical perspective,
 a "euroclassical" framework that was popular among affluent Europeans in the 18th and 19th centuries.
 
-These ideas tend to be presented as facts,
+These ideas are often presented as facts,
 like "the V chord wants to resolve to the I chord",
 even though they are really just elegant descriptions of one particular way of doing things that,
 in some cases,
@@ -76,9 +76,9 @@ let alone styles like rap or ambient music.
 
 Then consider that most other cultures use more than the twelve tones of Western music,
 and that some have arguably more advanced and useful theoretical frameworks
-(such as the Arabic maqmat).
+(such as the Arabic "maqamat").
 In these other systems,
-Western major key harmony is treated as just one mode (the Ionian mode) among many.
+Western major key harmony is treated as just one mode (the "Ionian mode") among many.
 
 By simply taking a step back and realizing that Western harmony is just one framework among many---albeit 
 one that is particularly suited to Western musicians---otherwise 
@@ -90,7 +90,7 @@ Because that's just one way of doing things,
 and most popular music does things differently.
 
 Why doesn't the "blues scale" actually sound like playing the Blues?
-Because that's just one oversimplified way of describing a style of music that uses tones from outside euroclassical tonality.
+Because it's an oversimplified way of describing a style of music that uses tones from outside euroclassical tonality.
 
 This book tries to sustain a broader perspective,
 in the hope that it both clarifies the material
