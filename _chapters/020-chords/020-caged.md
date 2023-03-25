@@ -907,35 +907,6 @@ If the perfect intonation can't be achieved without the thumb,
 bring it into play by gently pinching the back of the neck directly behind the fingers, 
 just hard enough that the frets don't buzz.
 
-<!--
-
-It's possible to fret a guitar without using the thumb at all,
-and it's a good practice to do so sometimes,
-to give the thumb a rest and to experiment with how little pressure is actually needed.
-
-When playing without the thumb,
-the whole fretting arm has to pull back gently for the fingers to press down on the strings.
-If not enough pressure is applied,
-the strings will be muted or will buzz against the frets.
-If too much pressure is applied,
-the neck will bend back slightly,
-causing the notes to bend sharp.
-
-If the perfect intonation can't be achieved without the thumb, 
-bring it into play by gently pinching the back of the neck directly behind the fingers, 
-just hard enough that the notes don't go sharp.
-Pinching too hard can cause the notes to bend sharp between the fret and the board,
-while not pinching hard enough allows the frets to buzz or the neck to bend sharp.
-
-We need to adjust the pressure from the fingers and thumb until the notes are pitched true,
-and the joints are under minimal strain.
-
-This is the point at which intonation and ergonomics are in harmony.
-The perfect grip:
-the purest tone with the least effort.
-
--->
-
 ### More on guitar ergonomics
 
 Christopher Berg’s excellent 
