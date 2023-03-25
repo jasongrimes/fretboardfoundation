@@ -804,6 +804,82 @@ The D diminished shape can be gripped with
 See {% include chapter-link.html slug="seventh-chords" %}
 for a detailed discussion of seventh chords.
 
+## Treble triads
+
+Treble triads are minimalist triad chords on the upper, "treble" strings,
+derived from core shared triads within the CAGED shapes.
+
+Treble triads are useful for quick changes,
+chord improvisation,
+and harmonizing melody lines.
+
+### First-string root treble triad
+
+The treble triad with its root on the first string is derived from the E CAGED shape.
+
+{% include figure.html
+    caption="Major treble triad with 1st-string root."
+    url="/assets/figures/caged2/treble-triad-1-maj.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="Minor treble triad with 1st-string root."
+    url="/assets/figures/caged2/treble-triad-1-min.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="Dominant seventh treble triad with 1st-string root."
+    url="/assets/figures/caged2/treble-triad-1-dom7.svg"
+    class="chord row"
+%}
+
+### Second-string root treble triad
+
+The treble triad with its root on the second string is derived from the C and D CAGED shapes.
+
+{% include figure.html
+    caption="Major treble triad with 2nd-string root."
+    url="/assets/figures/caged2/treble-triad-2-maj.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="Minor treble triad with 2nd-string root."
+    url="/assets/figures/caged2/treble-triad-2-min.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="Dominant seventh treble triad with 2nd-string root."
+    url="/assets/figures/caged2/treble-triad-2-dom7.svg"
+    class="chord row"
+%}
+
+### Third-string root treble triad
+
+The treble triad with its root on the third string is derived from the A and G CAGED shapes.
+
+{% include figure.html
+    caption="Major treble triad with 3rd-string root."
+    url="/assets/figures/caged2/treble-triad-3-maj.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="Minor treble triad with 3rd-string root."
+    url="/assets/figures/caged2/treble-triad-3-min.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="Dominant seventh treble triad with 3rd-string root."
+    url="/assets/figures/caged2/treble-triad-3-dom7.svg"
+    class="chord row"
+%}
+
+
 ## Position playing
 
 The following figures illustrate how CAGED shapes fit together on the fretboard,
