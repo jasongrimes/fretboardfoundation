@@ -35,9 +35,8 @@ figure.collapse {
     font-size: 50%;
 }
 
-.book-page .page-subtitle {
-    margin-bottom: 1em;
-}
-.book-page h1 {
-    margin: 0;
+.hero-button {
+    width: 45%;
+    margin: 2%;
+    float: left;
 }

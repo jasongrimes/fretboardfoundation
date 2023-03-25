@@ -11,7 +11,7 @@
   <rect x="87.562" y="169.798" width="27.558" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
   <rect x="327.562" y="169.798" width="27.558" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
   <rect x="357.562" y="169.798" width="27.558" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
-  <rect x="387.562" y="169.798" width="27.558" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="387.562" y="169.798" width="27.196" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
   <rect x="57.562" y="169.798" width="27.558" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
   <rect x="27.562" y="169.798" width="27.558" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
   <rect x="131.568" y="182.152" width="27.558" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
@@ -26,7 +26,7 @@
   <rect x="341.568" y="182.152" width="27.558" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
   <rect x="371.568" y="182.152" width="27.558" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
   <rect x="41.568" y="182.152" width="27.558" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
-  <rect x="402" y="182.14" width="13.853" height="9.501" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="402" y="182.14" width="12.758" height="9.501" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
   <rect x="147.401" y="194.192" width="27.558" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
   <rect x="177.401" y="194.193" width="27.558" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
   <rect x="207.401" y="194.193" width="27.558" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
@@ -38,7 +38,7 @@
   <rect x="87.401" y="194.193" width="27.558" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
   <rect x="327.401" y="194.193" width="27.558" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
   <rect x="357.401" y="194.193" width="27.558" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
-  <rect x="387.401" y="194.193" width="27.558" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="387.401" y="194.193" width="27.357" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
   <rect x="57.401" y="194.193" width="27.558" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
   <rect x="27.401" y="194.193" width="27.558" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
   <rect x="131.407" y="206.547" width="27.558" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
@@ -65,7 +65,7 @@
   <rect x="87.693" y="219.235" width="27.558" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
   <rect x="327.693" y="219.235" width="27.558" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
   <rect x="357.693" y="219.235" width="27.558" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
-  <rect x="387.693" y="219.235" width="27.558" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="387.693" y="219.235" width="27.065" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
   <rect x="57.693" y="219.235" width="27.558" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
   <rect x="27.693" y="219.235" width="27.558" height="9.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
   <circle style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);" cx="221.172" cy="199.133" r="3.024"/>
@@ -75,5 +75,5 @@
   <circle style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);" cx="222.172" cy="199.133" r="3.024" transform="matrix(1, 0, 0, 1, 134.518217, -12.098318)"/>
   <circle style="stroke: rgb(0, 0, 0); paint-order: fill; fill: rgb(255, 255, 255);" cx="101.021" cy="198.971" r="3.024"/>
   <rect x="27.426" y="182.043" width="11.552" height="9.598" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
-  <rect x="402" y="206.63" width="13.853" height="9.501" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="402" y="206.63" width="12.758" height="9.501" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
 </svg>
