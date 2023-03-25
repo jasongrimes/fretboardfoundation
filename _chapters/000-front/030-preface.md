@@ -76,7 +76,7 @@ let alone styles like rap or ambient music.
 
 Then consider that most other cultures use more than the twelve tones of Western music,
 and that some have arguably more advanced and useful theoretical frameworks
-(such as the Arabic "maqmat").
+(such as the Arabic "maqamat").
 In these other systems,
 Western major key harmony is treated as just one mode (the Ionian mode) among many.
 
