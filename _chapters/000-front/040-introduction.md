@@ -243,7 +243,7 @@ Later on,
 if you find you need to learn a couple more chord shapes to play in one of the major key positions,
 refer back to the CAGED chapter to study those particular shapes.
 
-### Use for quick reference
+### Quick reference
 
 Once an overview of the topics has been acquired,
 the book is designed to be used as a quick and fairly comprehensive reference,
