@@ -90,7 +90,7 @@ Because that's just one way of doing things,
 and most popular music does things differently.
 
 Why doesn't the "blues scale" actually sound like playing the Blues?
-Because that's just one oversimplified way of describing a style of music that uses tones from outside euroclassical tonality.
+Because it's an oversimplified way of describing a style of music that uses tones from outside euroclassical tonality.
 
 This book tries to sustain a broader perspective,
 in the hope that it both clarifies the material
