@@ -96,7 +96,7 @@ Because it's an oversimplified description of a style of music that uses tones f
 
 This book tries to sustain a broader perspective,
 in the hope that it both clarifies the material
-and encourages others to take a broader perspective about music outside the traditional Western tonal system.
+and encourages others to take a broader perspective about music outside the euroclassical tradition.
 
 ## Who this book is for
 
