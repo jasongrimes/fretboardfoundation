@@ -4,88 +4,13 @@ slug: bass
 abstract: Tie chord changes together with a smooth bass line.
 ---
 
-<!--
+The guitar is one of the few instruments that that can cover both the bass and treble registers.
 
-## 1st-string root, 6th-string bass
+When playing along with a bass or piano player,
+we can leave out the notes on low strings and play "inside" and "treble" voicings.
+But in the absence of a bass player,
+we can provide the bass line ourselves.
 
-First-string root triads have bass root notes on the sixth and fourth strings.
-For the major triad,
-I almost always play it on the upper middle strings as on the first diagram,
-and only play the first string root note as needed.
-
-{% include figure.html
-    caption="Major triad with bass, 4th-string root"
-    url="/assets/figures/bass-triads/4-maj-bass.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="Major triad with bass, 1st-string root"
-    url="/assets/figures/bass-triads/1-maj-bass.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="Minor triad with bass, 1st-string root"
-    url="/assets/figures/bass-triads/1-min-bass.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="Diminished triad with bass, 1st-string root"
-    url="/assets/figures/bass-triads/1-dim-bass.svg"
-    class="chord row"
-%}
-
-## 2nd-string root, 4th/5th-string bass
-
-Second-string root triads have bass root notes on the fourth string (above)
-and the fifth string (below).
-
-{% include figure.html
-    caption="Major triad with bass, 2nd-string root"
-    url="/assets/figures/bass-triads/2-maj-bass.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="Minor triad with bass, 2nd-string root"
-    url="/assets/figures/bass-triads/2-min-bass.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="Diminished triad with bass, 2nd-string root"
-    url="/assets/figures/bass-triads/2-dim-bass.svg"
-    class="chord row"
-%}
-
-## 3rd-string root, 5th/6th-string bass
-
-Third-string root triads have bass root notes on the fifth string (above)
-and sixth and first strings (below).
-
-{% include figure.html
-    caption="Major triad with bass, 3rd-string root"
-    url="/assets/figures/bass-triads/3-maj-bass.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="Minor triad with bass, 3rd-string root"
-    url="/assets/figures/bass-triads/3-min-bass.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="Diminished triad with bass, 3rd-string root"
-    url="/assets/figures/bass-triads/3-dim-bass.svg"
-    class="chord row"
-%}
-
-## Bass lines
-
--->
 
 Start by playing a bass note on down beats,
 in its own line that leads and complements the chords.
