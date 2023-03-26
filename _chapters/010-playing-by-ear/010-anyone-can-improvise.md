@@ -88,10 +88,12 @@ The most important trick for improvising on guitar is to lighten up about what s
 
 Rather than worry about how it will sound,
 or whether others would appreciate it,
-it is far more effective to let go and discover whatever emerges,
-like a beginner or a child.
+or whether we will live up to some expectation,
+it is far more effective to let go and allow ourselves to discover whatever happens to appear.
+
+Like a beginner, or a child.
 With curiosity, innocence, and joy, 
-and without expectations.
+and without expectation or fear.
 
 #### Quiet quiet loud loud
 
