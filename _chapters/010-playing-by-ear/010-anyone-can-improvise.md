@@ -49,12 +49,14 @@ Every practice should begin and end with the improvisation of music.
 ## The first note
 
 The first note can be literally anything. 
+
 A tune can be played in any key.
 Or we can slide up and down the string to find an exact starting pitch. 
 
 ## The next note
 
 Finding the next note is like a game. 
+
 It’s like making an educated guess. 
 We can use any information we already know to inform our guess,
 but often it’s best not to think at all and just let our fingers choose.
@@ -68,6 +70,7 @@ adjust.
 Try to pick out a short melody.
 Whatever comes first to mind,
 something simple and short. 
+
 It’s hard at first,
 random and full of wrong notes.
 But it gets easier,
