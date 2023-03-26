@@ -42,8 +42,11 @@ Chord names follow a basic convention.
 ### Compound intervals
 
 Chord intervals bigger than 7 indicate compound intervals, an octave above the simple interval.
-To focus on how the chord tones fit into the overall harmony rather than on what they are called,
-it can be helpful to think of them in terms of their simple intervals, ex. "2" rather than "9".
+
+In order to focus on how the chord tones fit together in the overall harmony,
+rather than on what they are named,
+it can be useful to think of compound intervals as reduced to their simple intervals,
+ex. "2" rather than "9".
 
 - **9** is an octave above **2**
 - **11** is an octave above **4**
