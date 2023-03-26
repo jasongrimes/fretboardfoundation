@@ -22,7 +22,8 @@ Improvisation involves an element of novelty---some
 unique expression that only we could make---but that 
 doesn't necessarily mean coming up with an entirely original composition,
 if there even is such a thing.
-We can play parts of tunes written by others,
+
+We can play parts of tunes created by others,
 flowing from one bit to the next on a whim,
 floating on a stream of consciousness,
 adding our own embellishments as we are moved to do so. 
