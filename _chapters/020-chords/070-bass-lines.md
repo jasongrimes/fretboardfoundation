@@ -10,7 +10,7 @@ The guitar is one of the few instruments that that can cover both the bass and t
 
 When playing along with a bass or piano player,
 we actually need to be careful not to play over them in the lower frequencies,
-which can cause the bass to sound blurred or muddy.
+which can cause the "low end" (of the frequency spectrum) to sound muddy or blurred.
 In those cases we
 can leave out the notes on low strings and play "inside" and "treble" voicings.
 
