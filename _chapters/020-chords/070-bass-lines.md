@@ -19,14 +19,15 @@ we can provide the bass line ourselves.
 
 ## Root note on down beats 
 
-Start by playing the root note of the chord on the down beat,
+Start by playing the root note chords on the down beat,
 before or even instead of the rest of the chord.
 
-Begin listening to the bass notes as their own line that leads and complements the chords.
+Begin hearing the bass notes as composing their own line,
+which leads and complements the chords.
 
 ## Add fifths, octaves, and approach tones 
 
-Then make the bass line more interesting by adding in the fifth. 
+Make the bass line more interesting by adding in the fifth and the octave.
 
 Smooth out the bass line by adding approach notes before the root and fifth---either 
 a chromatic tone, scale tone, or chord tone immediately above or below the target note.
