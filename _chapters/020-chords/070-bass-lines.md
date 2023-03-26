@@ -4,7 +4,7 @@ slug: bass
 abstract: Tie chord changes together with a smooth bass line.
 ---
 
-## A guitar has a built-in bass
+## A built-in bass guitar
 
 The guitar is one of the few instruments that that can cover both the bass and treble registers.
 
