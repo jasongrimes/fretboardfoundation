@@ -1,7 +1,7 @@
 ---
 title: Play across strings 
 slug: melody-one-position
-abstract: Playing a melody across the strings means navigating the guitar's tuning. 
+abstract: Playing across the strings means navigating the guitar's tuning. 
 ---
 
 ## Playing in position
