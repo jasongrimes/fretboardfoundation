@@ -35,5 +35,5 @@ a chromatic tone, scale tone, or chord tone immediately above or below the targe
 
 The book *Building Walking Bass Lines*, 
 by Ed Friedland [(1995)](references.html#friedland-1995),
-has more information about composing good bass lines.
+explains clearly and simply how to create good bass lines.
 
