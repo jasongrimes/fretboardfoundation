@@ -4,7 +4,7 @@ slug: bass
 abstract: Tie chord changes together with a smooth bass line.
 ---
 
-## A built-in bass player
+## Guitar has a built-in bass
 
 The guitar is one of the few instruments that that can cover both the bass and treble registers.
 
@@ -17,11 +17,14 @@ can leave out the notes on low strings and play "inside" and "treble" voicings.
 But in the absence of a bass player,
 we can provide the bass line ourselves.
 
+## Root note on down beats 
 
-Start by playing a bass note on down beats,
-in its own line that leads and complements the chords.
+Start by playing the root note of the chord on the down beat,
+before or even instead of the rest of the chord.
 
-Start by just playing the root note in the bass.
+Begin listening to the bass notes as their own line that leads and complements the chords.
+
+## Add fifths, octaves, and approach tones 
 
 Then make the bass line more interesting by adding in the fifth. 
 
