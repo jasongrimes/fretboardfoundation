@@ -817,7 +817,7 @@ Shapes are included for the most commonly used chords,
 major, minor, 
 and dominant seventh (although seventh chords are not actually "triads").
 
-### First-string root treble triad
+### First-string root
 
 The treble triad with its root on the first string is derived from the E CAGED shape.
 
@@ -839,7 +839,7 @@ The treble triad with its root on the first string is derived from the E CAGED s
     class="chord row"
 %}
 
-### Second-string root treble triad
+### Second-string root
 
 The treble triad with its root on the second string is derived from the C and D CAGED shapes.
 
@@ -861,7 +861,7 @@ The treble triad with its root on the second string is derived from the C and D 
     class="chord row"
 %}
 
-### Third-string root treble triad
+### Third-string root
 
 The treble triad with its root on the third string is derived from the A and G CAGED shapes.
 
@@ -884,7 +884,7 @@ The treble triad with its root on the third string is derived from the A and G C
 %}
 
 
-## Position playing
+## Major chords on entire fretboard
 
 The following figures illustrate how CAGED shapes fit together on the fretboard,
 and point the way toward playing all the chords in a given key in one position
