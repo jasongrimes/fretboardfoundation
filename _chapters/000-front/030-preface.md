@@ -17,8 +17,10 @@ But for those in-between, the “intermediate” guitarists,
 it can be a long and hard slog to master the instrument well enough to truly express ourselves. 
 
 Most of the material aimed at this level sorts into either classical or jazz styles. 
-Classical guitar instruction tends to focus on the precise expression of a composer's work, 
+
+Classical guitar instruction tends to focus on the precise performance of a composer's work, 
 with little emphasis on improvisation or creativity. 
+
 Jazz digs deep into improvisation and theory, 
 but with techniques that often don’t translate well to other styles because of an emphasis on dissonance and extended chords. 
 
