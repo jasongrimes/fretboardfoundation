@@ -17,17 +17,18 @@ can leave out the notes on low strings and play "inside" and "treble" voicings.
 But in the absence of a bass player,
 we can provide the bass line ourselves.
 
-## Root note on down beats 
+## Root note on down beats
 
-Start by playing the root note chords on the down beat,
+To begin playing bass lines on guitar,
+start by playing chord root notes on the down beat of chord changes,
 before or even instead of the rest of the chord.
 
-Begin hearing the bass notes as composing their own line,
+Hear the bass notes as comprising their own line,
 which leads and complements the chords.
 
 ## Add fifths, octaves, and approach tones 
 
-Make the bass line more interesting by adding in the fifth and the octave.
+Make the bass line more interesting by adding in the fifth and the octave in rhythmic approaches to the root.
 
 Smooth out the bass line by adding approach notes before the root and fifth---either 
 a chromatic tone, scale tone, or chord tone immediately above or below the target note.
