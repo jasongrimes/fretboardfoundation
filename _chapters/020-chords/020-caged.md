@@ -813,6 +813,10 @@ Treble triads are useful for quick changes,
 chord improvisation,
 and harmonizing melody lines.
 
+Shapes are included for the most commonly used chords,
+major, minor, 
+and dominant seventh (although seventh chords are not actually "triads").
+
 ### First-string root treble triad
 
 The treble triad with its root on the first string is derived from the E CAGED shape.
@@ -830,7 +834,7 @@ The treble triad with its root on the first string is derived from the E CAGED s
 %}
 
 {% include figure.html
-    caption="Dominant seventh treble triad with 1st-string root."
+    caption="Dominant seventh treble voicing with 1st-string root."
     url="/assets/figures/caged2/treble-triad-1-dom7.svg"
     class="chord row"
 %}
@@ -852,7 +856,7 @@ The treble triad with its root on the second string is derived from the C and D 
 %}
 
 {% include figure.html
-    caption="Dominant seventh treble triad with 2nd-string root."
+    caption="Dominant seventh treble voicing with 2nd-string root."
     url="/assets/figures/caged2/treble-triad-2-dom7.svg"
     class="chord row"
 %}
@@ -874,7 +878,7 @@ The treble triad with its root on the third string is derived from the A and G C
 %}
 
 {% include figure.html
-    caption="Dominant seventh treble triad with 3rd-string root."
+    caption="Dominant seventh treble voicing with 3rd-string root."
     url="/assets/figures/caged2/treble-triad-3-dom7.svg"
     class="chord row"
 %}
