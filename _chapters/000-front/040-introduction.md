@@ -108,7 +108,7 @@ it's the opposite.
 
 ### Intervals over notes
 
-As a result of these differences,
+Because of these differences,
 on guitar it can be efficient to study music by focusing more on intervals,
 and less on note names and staff notation.
 
