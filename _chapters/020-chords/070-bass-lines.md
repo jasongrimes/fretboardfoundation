@@ -4,10 +4,16 @@ slug: bass
 abstract: Tie chord changes together with a smooth bass line.
 ---
 
+## A built-in bass player
+
 The guitar is one of the few instruments that that can cover both the bass and treble registers.
 
 When playing along with a bass or piano player,
-we can leave out the notes on low strings and play "inside" and "treble" voicings.
+we actually need to be careful not to play over them in the lower frequencies,
+which can cause the bass to sound blurred or muddy.
+In those cases we
+can leave out the notes on low strings and play "inside" and "treble" voicings.
+
 But in the absence of a bass player,
 we can provide the bass line ourselves.
 
