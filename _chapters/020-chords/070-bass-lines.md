@@ -33,7 +33,7 @@ Make the bass line more interesting by adding in the fifth and the octave in rhy
 Smooth out the bass line by adding approach notes before the root and fifth---either 
 a chromatic tone, scale tone, or chord tone immediately above or below the target note.
 
-The book *Building Walking Bass Lines*, 
-by Ed Friedland [(1995)](references.html#friedland-1995),
-explains clearly and simply how to create good bass lines.
+For more information about creating good bass lines,
+read *Building Walking Bass Lines*, 
+by Ed Friedland [(1995)](references.html#friedland-1995).
 
