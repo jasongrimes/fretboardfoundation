@@ -34,6 +34,7 @@ Smooth out the bass line by adding approach notes before the root and fifth---ei
 a chromatic tone, scale tone, or chord tone immediately above or below the target note.
 
 For more information about creating good bass lines,
-read *Building Walking Bass Lines*, 
-by Ed Friedland [(1995)](references.html#friedland-1995).
+*Building Walking Bass Lines*, 
+by Ed Friedland [(1995)](references.html#friedland-1995),
+is a great resource.
 
