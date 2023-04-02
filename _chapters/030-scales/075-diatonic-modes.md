@@ -1,7 +1,7 @@
 ---
 title: Diatonic modes
 slug: diatonic-modes
-abstract: The seven modes of the major scale describe the tonal environments of the seven chords in a major key.
+abstract: The seven modes of the major scale describe the tonal environments of the seven diatonic chords in a major key.
 ---
 
 ## What are diatonic modes
