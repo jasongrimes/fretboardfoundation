@@ -382,13 +382,11 @@ The Locrian mode describes the harmonic environment of the
 **vii chord**.
 
 Compared to Ionian,
-in **Locrian** every interval is **flattened except the 4**. 
+in **Locrian** every degree is **flattened but the 4&#x302;**. 
 It's also the only diatonic 
 **minor** mode with a **b5**.
 
 Locrian is a disagreeable sort of mode.
-Compared to Ionian,
-it flattens every degree but the 4&#x302;.
 It's rumored to be popular among heavy metal guitarists because of its dissonance,
 but examples are hard to find.
 
