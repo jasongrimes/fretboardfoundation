@@ -381,7 +381,9 @@ and then play another F.
 The Locrian mode describes the harmonic environment of the 
 **vii chord**.
 
-**Locrian** is the only diatonic 
+Compared to Ionian,
+in **Locrian** every interval is **flattened except the 4**. 
+It's also the only diatonic 
 **minor** mode with a **b5**.
 
 Locrian is a disagreeable sort of mode.
