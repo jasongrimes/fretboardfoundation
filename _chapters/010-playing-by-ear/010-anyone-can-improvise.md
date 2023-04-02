@@ -40,8 +40,8 @@ to play the guitar with the same freedom as one might sing.
 
 We can make art without first mastering the art form. 
 The reason to study and practice music
-is to make better music.
-The music is the point,
+is to make *better* music.
+The *music* is the point,
 not the theory or the practice.
 
 Every practice should begin and end with the improvisation of music.
