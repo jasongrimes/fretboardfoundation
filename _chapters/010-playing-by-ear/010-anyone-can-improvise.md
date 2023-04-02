@@ -8,7 +8,7 @@ Anyone can make music on a guitar,
 from the first moment we hold one. 
 Even if we have no training,
 even if we have never seen a guitar in our lives,
-the guitar shows us how right away. 
+the instrument itself shows us how, right away. 
 All we need is the will to create something beautiful, 
 and an ear to listen.
 
