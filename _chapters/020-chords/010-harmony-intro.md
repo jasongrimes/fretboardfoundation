@@ -309,11 +309,11 @@ Harmonizing the natural minor scale gives the following chords:
 |:------------:|:----------:|:-------------:|:--------:|:--------------|:----------:|
 | **i**        | **Cm**     | 1-b3-5        | C-Eb-G   | R b3 5        | minor      |
 | **ii&deg;**  | **D&deg;** | 2-4-b6        | D-Fb-Ab  | R b3 b5       | diminished |
-| **III**      | **Eb**     | b3-5-b7       | Eb-G-Bb  | R b3 5        | major      |
+| **bIII**     | **Eb**     | b3-5-b7       | Eb-G-Bb  | R b3 5        | major      |
 | **iv**       | **Fm**     | 4-b6-1        | F-Ab-C   | R b3 5        | minor      |
 | **v**        | **Gm**     | 5-b7-2        | G-Bb-D   | R b3 5        | minor      |
-| **VI**       | **Ab**     | b6-1-b3       | Ab-C-Eb  | R 3 5         | major      |
-| **VII**      | **Bb**     | b7-2-4        | Bb-D-F   | R 3 5         | major      |
+| **bVI**      | **Ab**     | b6-1-b3       | Ab-C-Eb  | R 3 5         | major      |
+| **bVII**     | **Bb**     | b7-2-4        | Bb-D-F   | R 3 5         | major      |
 
 </div>
 
