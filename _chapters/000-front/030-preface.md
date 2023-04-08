@@ -109,7 +109,7 @@ The subjects in this book sound at least vaguely familiar to you.
 
 Most importantly, you want to make music on guitar, 
 with a facility and a graceful freedom that allows you to express yourself creatively,
-and produce the sounds you hear inside as directly and purely as possible. 
+and produce the sounds you hear inside as fluently as possible. 
 
 If this describes you, welcome.
 I'm glad you're here.
