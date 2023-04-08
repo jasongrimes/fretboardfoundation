@@ -101,7 +101,7 @@ and encourages others to take a broader perspective about music outside the euro
 
 ## Who this book is for
 
-If you are among the imagined audience for this book, 
+If you are among the audience imagined for this book, 
 you might describe yourself as an intermediate guitarist. 
 You can play some songs, and you know whatever you consider to be “the basics”. 
 You can play chords, and maybe some scales (or maybe not). 
