@@ -84,7 +84,7 @@ There are some tricks that can make it easier to improvise in this way.
 
 #### Beginner's mind (aka lighten up)
 
-The most important trick for improvising on guitar is to lighten up about what sounds good.
+The most important tool for improvising on any instrument is to *lighten up* about what sounds good.
 
 Rather than worry about how it will sound,
 or whether others would appreciate it,
