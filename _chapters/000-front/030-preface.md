@@ -45,12 +45,12 @@ Will the next months of study have been well spent?
 Making music we enjoy,
 building a foundation that will endure through our lives?
 Or will that time be essentially lost, 
-with nothing left to show for it.
+with nothing left to show for it?
 
 Right *now*, 
-given the overwhelming amount still unknown, 
+given the overwhelming amount unknown, 
 how can we make the most progress in the shortest time? 
-What’s the minimum we need to learn, 
+What’s the minimum to be learned next,
 and the fastest way to learn it?
 
 Obviously the answer depends,
