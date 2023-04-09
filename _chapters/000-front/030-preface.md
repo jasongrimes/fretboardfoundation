@@ -48,10 +48,10 @@ building a foundation that will endure throughout our lives?
 Or will that time be essentially lost, 
 with nothing to show for it?
 
-For *right now*, 
+*Right now*, 
 given the overwhelming amount there is to learn, 
 how can we make the most progress in the shortest time? 
-What’s the minimum information needed, 
+What’s the minimum needed, 
 and what’s the fastest way to learn it?
 
 Obviously the answer depends,
