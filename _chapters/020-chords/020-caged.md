@@ -309,6 +309,21 @@ so we can just play it like this:
 `x1333x` or `x1444x` or `x1334x`,
 muting the 1st string with the side of the third (or fourth) finger.
 
+Even more comfortably,
+the upper root note isn't particularly important,
+and can be left out,
+removing the need for a barre at all:
+`x13x4x`.
+
+Perhaps the best grip of all is the comfortable,
+lazy,
+and flexible approach that starts as `x13x4x`,
+without the barre.
+A half-hearted effort can be made to also 
+lay the third finger over onto the 3rd string,
+either stopping it to play the "R" or muting it,
+however it happens to work out.
+
 We can also just play the treble triads by themselves:
 `xx333x` and `xxx341`.
 
