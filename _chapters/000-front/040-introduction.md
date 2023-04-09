@@ -24,7 +24,7 @@ to play a bunch of songs.
 Then
 refining with scale practice.
 
-And then iterating again to improvise,
+And then iterating again and improvising,
 *improving*,
 in an intermittent upward spiral. 
 
