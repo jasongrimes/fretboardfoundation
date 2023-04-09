@@ -73,8 +73,8 @@ even though they are really just elegant descriptions of one particular way of d
 in some cases,
 *isn't even all that common anymore*.
 
-It is common knowledge among music theorists that Western music theories of harmonic function and other euroclassical concepts are not very useful for describing modern popular music,
-or even the quintessentially American tonality of the Blues,
+It is well known among music theorists that many concepts of Western harmony are not very useful for describing modern popular music,
+or even the quintessentially American sounds of the Blues,
 let alone styles like rap or ambient music.
 
 Then consider that most other cultures use more than the twelve tones of Western music,
