@@ -44,7 +44,7 @@ and we are unable to return to them for years,
 if ever?
 Will the next months of study have been well spent,
 making music we enjoy,
-building a foundation that will persist throughout our lives?
+building a foundation that will endure throughout our lives?
 Or will that time be essentially lost, 
 with nothing to show for it?
 
