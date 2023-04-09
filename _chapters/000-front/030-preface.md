@@ -48,7 +48,7 @@ Or will that time be essentially lost,
 with nothing left to show for it?
 
 Right *now*, 
-given the overwhelming amount unknown, 
+given the overwhelming amount to be known, 
 how can we make the most progress in the shortest time? 
 What’s the minimum to be learned next,
 and the fastest way to learn it?
@@ -68,7 +68,7 @@ a "euroclassical" framework that was popular among affluent Europeans in the 18t
 
 These ideas are often presented as facts,
 like "the V chord wants to resolve to the I chord",
-even though they are really just elegant descriptions of one particular way of doing things that,
+even though it's really just an elegant description of one particular way of doing things that,
 in some cases,
 *isn't even all that common anymore*.
 
