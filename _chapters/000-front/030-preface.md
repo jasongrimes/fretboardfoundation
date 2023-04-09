@@ -60,7 +60,7 @@ on where we want to go.
 But there is a common foundation that is generally required.
 This book aims to provide that foundation in the most practical way. 
 
-## Broader perspective is needed
+## Perspective is needed
 
 The pedagogy of Western music is somewhat insular.
 
