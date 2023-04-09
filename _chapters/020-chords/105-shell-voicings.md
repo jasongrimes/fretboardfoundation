@@ -27,7 +27,7 @@ and they are used as the basis for many extended and altered chords later on.
 
 ## Shell chord grips
 
-Shell voicings are given for major seventh,
+Grips are given for major seventh,
 minor seventh,
 and dominant chords,
 which are enough to cover all the diatonic chords of Western harmony.
