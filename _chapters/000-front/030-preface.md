@@ -45,7 +45,7 @@ will the next months of study have been well spent?
 Making music we enjoy,
 building a foundation that will endure through our lives?
 Or will that time be essentially lost, 
-with nothing left to show for it?
+with nothing to show for it?
 
 Right *now*, 
 given the overwhelming amount to be known, 
