@@ -4,7 +4,7 @@ slug: single-string
 abstract: The most natural way to find the next note is also the easiest way to move up and down the fretboard.
 ---
 
-The simplest way to get started with improvising
+The simplest way to start improvising
 is to play a melody up and down a single string.
 
 ## The most logical place to begin
