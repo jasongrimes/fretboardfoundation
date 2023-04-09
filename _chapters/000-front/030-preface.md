@@ -39,20 +39,19 @@ it would be ideal to learn everything.
 But life is rarely ideal,
 and the length of our run is unknown.
 
-What will happen if our studies are interrupted a few months from now,
-and we are unable to return to them for years,
-if ever?
-Will the next months of study have been well spent,
-making music we enjoy,
-building a foundation that will endure throughout our lives?
+If our studies get interrupted in a few months,
+and we are unable to return to them indefinitely,
+Will the next months of study have been well spent?
+Making music we enjoy,
+building a foundation that will endure through our lives?
 Or will that time be essentially lost, 
-with nothing to show for it?
+with nothing left to show for it.
 
-*Right now*, 
-given the overwhelming amount there is to learn, 
+Right *now*, 
+given the overwhelming amount still unknown, 
 how can we make the most progress in the shortest time? 
 What’s the minimum we need to learn, 
-and what’s the fastest way to learn it?
+and the fastest way to learn it?
 
 Obviously the answer depends,
 in part,
