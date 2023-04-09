@@ -92,7 +92,7 @@ why don't V chords in popular music follow the harmonic function of pulling home
 Because that's just one way of doing things,
 and most popular music does things differently.
 
-Why doesn't the "blues scale" actually sound like playing the Blues?
+Why doesn't the "blues scale" sound like actually playing the Blues?
 Because the Blues uses tones from outside euroclassical tonality.
 
 This book tries to sustain a broader perspective,
