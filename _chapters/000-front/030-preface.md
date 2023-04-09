@@ -76,7 +76,7 @@ It is well known among music theorists that many concepts of Western harmony are
 or even the quintessentially American sounds of the Blues,
 let alone styles like rap or ambient music.
 
-Then consider that many other cultures use more than the twelve tones of Western music,
+Then consider that many cultures use more than the twelve tones of Western music,
 and that some have arguably more advanced and useful theoretical frameworks
 (such as the Arabic "maqāmāt").
 In these other systems,
