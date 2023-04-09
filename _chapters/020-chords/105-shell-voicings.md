@@ -31,7 +31,7 @@ Grips are given for major seventh,
 minor seventh,
 and dominant chords,
 which are enough to cover all the diatonic chords of Western harmony.
-A min7 shell voicing can be played for a m7b5 chord,
+Min7 shell voicings can be played instead of m7b5,
 since it omits the fifth.
 
 Major seventh chords can sound a bit harsh at times,
