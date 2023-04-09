@@ -9,7 +9,7 @@ disable_toc: false
 
 This book exists to fill a gap I find in guitar instructional material. 
 
-### Intermediate material is needed
+## Intermediate material is needed
 
 Countless resources are available for beginning guitarists, 
 and excellent materials exist for advanced musicians with a solid background in theory and practice.
@@ -28,7 +28,7 @@ but with techniques that often don’t translate well to other styles because of
 And both approaches promise *at best* a long and winding road toward mastery, 
 requiring years of study and a somewhat blind faith that it will lead somewhere we want to go. 
 
-### Triage is needed
+## Triage is needed
 
 The approach taken in this book is different.
 It's based on an idea of "triage",
@@ -60,7 +60,7 @@ on where we want to go.
 But there is a common foundation that is generally required.
 This book aims to provide that foundation in the most practical way. 
 
-### Broader perspective is needed
+## Broader perspective is needed
 
 The pedagogy of Western music is somewhat insular.
 
