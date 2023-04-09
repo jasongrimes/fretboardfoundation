@@ -48,10 +48,10 @@ Or will that time be essentially lost,
 with nothing to show for it?
 
 Right *now*, 
-given the overwhelming amount to be known, 
-how can we do the most in the shortest time? 
+given the overwhelming amount there is to learn, 
+how can we make the most progress in the shortest time? 
 What’s the minimum we need to learn,
-and what's the fastest way to learn it?
+and the fastest way to learn it?
 
 Obviously the answer depends,
 in part,
