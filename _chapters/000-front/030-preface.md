@@ -85,7 +85,7 @@ Western harmony is treated as just one mode (the "Ionian mode") among many.
 
 By simply taking a step back and realizing that Western harmony is just one framework among many---albeit 
 one that is particularly suited to Western musicians---otherwise 
-confusing concepts can suddenly become clear.
+confusing concepts suddenly become obviously clear.
 
 For example,
 why don't V chords in popular music follow the harmonic function of pulling home to the I chord?
