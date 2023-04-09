@@ -83,7 +83,7 @@ for better sources on these topics.
 ## Studying music on guitar
 
 Over 2000 years ago,
-a Greek philosopher and mathematician names Pythagoras laid the foundations of Western music 
+a Greek philosopher and mathematician named Pythagoras laid the foundations of Western music 
 by studying the properties of vibrating strings.
 
 Today,
