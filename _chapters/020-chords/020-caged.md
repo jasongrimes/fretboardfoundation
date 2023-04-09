@@ -319,8 +319,8 @@ Perhaps the best grip of all is the comfortable,
 lazy,
 and flexible approach that starts as `x13x4x`,
 without the barre.
-A half-hearted effort can be made to also 
-lay the third finger over onto the 3rd string,
+A half-hearted effort is then made to also lay the third finger over onto the 3rd string,
+`x13(3)4x`,
 either stopping it to play the "R" or muting it,
 however it happens to work out.
 
