@@ -17,7 +17,7 @@ he wrote.
 
 "Consider the following observations:
 
-* "The simplest way to see notes is in a straight line.
+* The simplest way to see notes is in a straight line.
 * A single string *is* a straight line.
 * On a single string, there is a direct relationship between interval distance and movement in space.
 * Playing on a single string helps to eliminate two potential problems: "paralysis" (fear of movement)
