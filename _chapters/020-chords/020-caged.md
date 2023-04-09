@@ -813,9 +813,12 @@ Treble triads are useful for quick changes,
 chord improvisation,
 and harmonizing melody lines.
 
-Shapes are included for the most commonly used chords,
+Shapes are included for the most commonly used chords:
 major, minor, 
-and dominant seventh (although seventh chords are not actually "triads").
+and dominant seventh.
+
+(Though of course seventh chords are not actually "treble *triads*",
+a better term has proven elusive.)
 
 ### First-string root
 
