@@ -25,7 +25,7 @@ Then
 refining with scale practice.
 
 And then iterating again to improvise,
-*improved* each time,
+*improving*,
 in an intermittent upward spiral. 
 
 ### Playing by ear
