@@ -12,8 +12,10 @@ is to play a melody up and down a single string.
 In _The Advancing Guitarist_, 
 Mick Goodrick explained it beautifully.
 
-"Playing on a single string is absolutely the most logical place to begin on a guitar.
-Consider the following observations:
+"Playing on a single string is absolutely the most logical place to begin on a guitar,"
+he wrote.
+
+"Consider the following observations:
 
 * "The simplest way to see notes is in a straight line.
 * A single string *is* a straight line.
