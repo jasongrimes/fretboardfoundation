@@ -323,6 +323,8 @@ A half-hearted effort is then made to also lay the third finger over onto the 3r
 `x13(3)4x`,
 either stopping it to play the "R" or muting it,
 however it happens to work out.
+The base of the first finger can comfortably be laid across the 1st string as needed,
+`x13(3)4(1)`.
 
 We can also just play the treble triads by themselves:
 `xx333x` and `xxx341`.
