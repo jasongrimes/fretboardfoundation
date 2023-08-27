@@ -33,7 +33,7 @@ Copyright &copy; 2022-2023 by Jason Grimes.
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)</a>.
 
 
-##### Other copyrighted works in this book
+#####  Credits
 
 - **["Circle of fifths"](https://commons.m.wikimedia.org/wiki/File:Circle_of_fifths_deluxe_4.svg)**
 by ["Just plain Bill"](https://en.m.wikipedia.org/wiki/User:Just_plain_Bill)
