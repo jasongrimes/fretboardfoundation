@@ -1,7 +1,7 @@
 ---
 title: Color chords
 slug: color-chords
-abstract: Sixth, sus, add, extended, and altered chords can add color and more tension. 
+abstract: Sixth, sus, add, extended, and altered chords provide color and more tension. 
 ---
 
 ## About color chords
