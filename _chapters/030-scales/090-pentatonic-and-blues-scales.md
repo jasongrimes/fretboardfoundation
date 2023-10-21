@@ -270,7 +270,7 @@ Notice the relative major and minor forms:
 
 The Blues originated in the southern United States in the late 19th century,
 after the American Civil War. 
-It evolved as a combination of traditional African music brought over by slaves,
+It evolved as a combination of traditional African music transmitted by slaves,
 and the Western European tonality of their enslavers.
 
 Musicologists have long speculated that the Blues sound arises from efforts to reproduce African folk tonalities on Western instruments
