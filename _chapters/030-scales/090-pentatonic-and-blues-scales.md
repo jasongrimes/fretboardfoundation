@@ -6,11 +6,11 @@ abstract: Pentatonic scales are the most commonly used modes in the world outsid
 
 ## About pentatonic scales
 
-A pentatonic scale is a musical scale with five notes in an octave.
+A pentatonic scale is a musical scale with five notes per octave.
 
 Pentatonic scales tend to sound good over many modes and harmonies.
 They are easy to play on guitar,
-in comfortable positions having two notes per string.
+in comfortable positions with two notes per string.
 
 They're often the first scales learned by beginning guitarists.
 
@@ -23,30 +23,29 @@ The pentatonic major scale can be constructed by stacking five perfect fifths.
 
 ### Just intonation vs. equal tempered
 
-Often,
-cultures that developed pentatonic modes originally used a system of tuning called "just intonation",
+Cultures that developed pentatonic modes often used a system of tuning called "just intonation",
 in which tones occur naturally as a result of the overtone series.
 Inconveniently,
-each key in just intonation has slightly different intervals from every other key.
+in just intonation each key contains slightly different intervals than every other key.
 
 Modern instruments use "equal tempered" tuning instead,
-so every key has the exact same intervals.
-But folk music composed with just intonation often can't be reproduced properly with such instruments.
+in which every key has the exact same intervals.
+But music composed with just intonation often can't be reproduced properly on equal tempered instruments.
 Only instruments like the guitar which support "microtone" intervals 
 (ex. by bending strings) 
 can approximate it.
 
 ### Major pentatonic and its modes
 
-Like the major diatonic scale,
-the major pentatonic scale is the most commonly used pentatonic scale.
+The major pentatonic scale is the most commonly used pentatonic scale.
 
 As with any scale,
-modes can be derived from each degree of the major pentatonic scale.
+modes can be derived from each degree of the major pentatonic.
 
-Modes of the major pentatonic scale have 3 whole tone intervals (T) 
-and two tone-and-a-half intervals (TS),
+Modes of the major pentatonic scale contain 3 whole tone intervals (T),
+and two tone-and-a-half intervals (TS)
 spaced as far apart as possible.
+
 Just as diatonic modes can be identified by the location of their semitones,
 pentatonic modes can be identified by the location of their tone-and-a-half intervals.
 
