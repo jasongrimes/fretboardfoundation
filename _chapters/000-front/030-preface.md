@@ -5,7 +5,7 @@ abstract: Why this book exists and who it's for.
 disable_toc: false
 ---
 
-## Why this book
+## Why this book?
 
 This book exists to fill a gap I find in guitar instructional material. 
 
