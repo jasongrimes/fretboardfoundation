@@ -79,7 +79,7 @@ See {% include chapter-link.html slug="caged" %} for more about triad chord shap
 
 ## Intervals between strings
 
-In standard guitar tuning,
+On a guitar in standard tuning,
 the differences in pitch ("intervals") between the strings are carefully chosen as some of the most fundamental sounds in music. 
 
 The interval between a string and its neighbor to the left (except strings 2-3) is called a descending **perfect fifth**.
