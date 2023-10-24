@@ -62,12 +62,14 @@ Pentatonic scales with semitones,
 called "hemitonic",
 are a different and more dissonant beast.
 Examples include the Japanese "in" or "Sakura" pentatonic scale,
-and certain interpretations of the Blues scale,
+and certain interpretations of the blues scale
 such as the one given later in this chapter. 
 
 Pentatonic scales with semitones are less common.
 In most cases,
 when people talk about pentatonic scales they are referring to scales without semitones.
+
+### Properties of pentatonic intervals
 
 Pentatonic scales without semitones can be played using only the black keys on a piano keyboard.
 
@@ -305,7 +307,7 @@ which is then inflected as appropriate based on tonal environment and emotional 
 
 ### Pentatonic blues scale with pitch areas
 
-Here's a practical way to think of a blues scale.
+Here's one way to think of a blues scale.
 Scale degrees are labeled with generic intervals,
 which actually represent adjustable pitch areas.
 
