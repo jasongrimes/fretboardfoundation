@@ -13,7 +13,7 @@ The instrument itself shows us how, right away.
 All we need is the will to create something beautiful, 
 and an ear to listen.
 
-## What is improvisation
+## What is improvisation?
 
 Improvisation means playing off the top of our head,
 "extemporaneously",
@@ -29,7 +29,7 @@ flowing from one bit to the next on a whim,
 floating on a stream of consciousness,
 adding our own embellishments as we are moved to do so. 
 
-## Why improvise
+## Why improvise?
 
 For one thing,
 improvisation is so much fun.
