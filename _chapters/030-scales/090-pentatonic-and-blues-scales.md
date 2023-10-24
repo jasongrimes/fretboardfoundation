@@ -12,7 +12,7 @@ Pentatonic scales tend to sound good over many modes and harmonies.
 They are easy to play on guitar,
 in comfortable positions with two notes per string.
 
-They're often the first scales learned by beginning guitarists.
+Pentatonic scales are often the first scales learned by beginning guitarists.
 
 ### Ancient and universal 
 
