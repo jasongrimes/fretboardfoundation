@@ -16,6 +16,6 @@ and the fastest ways to learn them.
 
 He is a software developer by profession. 
 He considers himself fortunate to be able to do music for love and
-not money---art before commerce. 
+not money. 
 His aim is to condense, clarify, and share
-anything he's learned about music that might be useful to others. 
+the things he's learned about music that might be useful to others. 
