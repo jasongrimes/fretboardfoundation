@@ -4,7 +4,7 @@ slug: chord-melody
 abstract: Combining chord progressions, melodies, and bass lines.
 ---
 
-## What is chord melody
+## What is chord melody?
 
 Chord melody improvisation may be the richest form of expression on guitar.
 It involves freely interweaving chord progressions,
