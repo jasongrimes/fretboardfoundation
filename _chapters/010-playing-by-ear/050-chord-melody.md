@@ -15,7 +15,7 @@ like a complete solo performance rather than just a guitar part.
 
 ## Find the melody in the chords
 
-A good way to get started with chord melody is to play the chord progression delicately,
+A good way to get started with chord melody is to play a song's chord progression delicately,
 articulating each note,
 and listen for the melody in the chord tones.
 
