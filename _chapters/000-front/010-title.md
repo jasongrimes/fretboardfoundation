@@ -9,7 +9,7 @@ logo_bottom: false
 
 ## Summary
 
-A free book about learning guitar for intermediate guitarists.
+A free ebook about learning guitar for intermediate guitarists.
 Fretboard Foundation aims to organize and simplify the information required for fluency on guitar,
 including playing by ear, chords and harmony, and scales and melody.
 
