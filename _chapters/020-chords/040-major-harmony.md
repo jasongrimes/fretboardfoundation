@@ -4,7 +4,7 @@ slug: major-harmony
 abstract: The basic template of Western music.
 ---
 
-## What is a major key
+## What is a major key?
 
 The vast majority of songs in Western music are written in a major key.
 
