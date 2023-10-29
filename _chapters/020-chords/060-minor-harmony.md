@@ -52,7 +52,7 @@ Notice that in a minor key:
 
 The notes in a natural minor scale are identical to the notes in the relative major scale a minor third above it.
 For example,
-the notes and chords in A natural minor are the same as in C major.
+the notes and chords in A natural minor are the same as the notes in C major.
 
 This is a quick way to get started learning the chords in a minor key: 
 by learning a major key we get the relative minor for free.
