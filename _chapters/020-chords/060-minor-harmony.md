@@ -4,7 +4,7 @@ slug: minor-harmony
 abstract: A practical approach to minor keys. Relative major and minor, plus the euroclassical "leading tone".
 ---
 
-## What is a minor key
+## What is a minor key?
 
 Minor keys are the moody counterparts of major keys. 
 In Western music,
