@@ -75,8 +75,8 @@ Pentatonic scales without semitones can be played using only the black keys on a
 
 Comparing the major and minor pentatonic scales to the major and minor diatonic scales,
 the pentatonic scales have two fewer notes.
-They don't have the two notes that create a tritone together,
-and also create semitones with other scale degrees.
+They omit the two notes that form a tritone together,
+and which also create semitones with other scale degrees.
 In the major scale,
 it's the 4&#x302; and 7&#x302;;
 in the minor scale,
