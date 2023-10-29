@@ -94,7 +94,7 @@ and most popular music does things differently.
 Why doesn't the "blues scale" sound like actually playing the Blues?
 Because the Blues uses tones from outside euroclassical tonality.
 
-This book tries to sustain a broader perspective,
+This book attempts to sustain a broader perspective,
 in the hope that it both clarifies the material
 and encourages others to take a broader perspective about music outside the euroclassical tradition.
 
