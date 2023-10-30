@@ -57,7 +57,7 @@ Or we can slide up and down the string to find an exact starting pitch.
 Finding the next note is like a game. 
 
 It’s like making an educated guess. 
-We can use any information we already know to inform our guess,
+We can use anything we already know to inform our guess,
 but often it’s best not to think at all and just let our fingers choose.
 Then
 pause,
