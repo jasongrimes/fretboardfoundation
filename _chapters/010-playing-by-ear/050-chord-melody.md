@@ -26,10 +26,11 @@ playing chords more sparsely.
 
 ## Improvising chords
 
-"Treble triads" can be used to improvise freely with chords. 
+"Treble triads" can be used to improvise freely with chords,
+forming chords around notes from the melody.
 See {% include chapter-link.html slug="caged" %} for details.
 
-A small trick for filling out a melody on the highest pitched string
+Another little trick for filling out a melody on the high string
 is to play the first and second strings at the same fret,
 a little two-note chord called a "double stop" or "power chord".
 In most cases,
