@@ -8,8 +8,7 @@ Anyone can make music on a guitar,
 from the first moment we hold one. 
 Even if we have no training.
 Even if we have never seen a guitar in our lives.
-The instrument itself shows us how, right away.
-
+The instrument itself shows us how, right away. 
 All we need is the will to create something beautiful, 
 and an ear to listen.
 
@@ -21,8 +20,7 @@ or "without time" to prepare.
 
 Improvisation involves an element of novelty---some 
 unique expression that only we could make---but that 
-doesn't necessarily mean coming up with an entirely original composition,
-if there even is such a thing.
+doesn't mean coming up with an entirely original composition (if there even is such a thing).
 
 We can play parts of tunes created by others,
 flowing from one bit to the next on a whim,
