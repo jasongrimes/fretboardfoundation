@@ -6,7 +6,7 @@ abstract: Chord grips for movable CAGED shapes that are actually useful.
 
 ## About CAGED
 
-The CAGED system is a convenient way of thinking about "movable chord" shapes on guitar.
+The CAGED system is a convenient way of thinking about movable chord shapes on guitar.
 Movable chords are chord grips that can be played in any position up and down the neck,
 because they don't have any open strings.
 Every string is either stopped at a fret,
