@@ -15,7 +15,6 @@ chord melody, and playing by ear.
 
 But I have found it more effective to study guitar in the opposite order,
 and in short iterations rather than a long step-by-step path.
-
 First improvising by ear,
 however clumsy or imperfect,
 because making music is the whole point.
@@ -23,7 +22,6 @@ Then practicing chords and changes,
 to play a bunch of songs.
 Then
 refining with scale practice.
-
 And then iterating again and improvising,
 "*improving*",
 in an intermittent upward spiral. 
