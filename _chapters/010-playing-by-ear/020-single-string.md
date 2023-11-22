@@ -22,7 +22,7 @@ he wrote.
 * On a single string, there is a direct relationship between interval distance and movement in space.
 * Playing on a single string helps to eliminate two potential problems: "paralysis" (fear of movement)
 and "acrophobia" (fear of higher frets),
-since the entire lenth of the fingerboard is utilized from the very beginning.
+since the entire length of the fingerboard is utilized from the very beginning.
 * ...Elements of fundamental theory can be shown to a beginner in clear and simple visual and aural terms:
 intervals, scale constructions, chords, arpeggios, etc.
 The same could be said for dynamics, articulations, and timbre."
