@@ -37,7 +37,7 @@ lowering the third of a major chord by one fret makes it a minor chord.)
 Second, it leads to almost accidentally learning the most important interval shapes and sounds all over the fretboard,
 which is extremely useful for improvising and playing by ear.
 
-It's especially important to know the root notes in each chord shape,
+Of course it's especially important to know the root notes in each chord shape,
 since that's how we know where to place the chord.
 
 
