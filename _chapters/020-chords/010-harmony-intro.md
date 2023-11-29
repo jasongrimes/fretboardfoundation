@@ -439,12 +439,12 @@ The rest are defined in relation to those.
 | Degree | Name         | Description |
 |:------:|:-------------|:------------|
 | 1      | Tonic        | Tonal center, key center, note of final resolution. |
-| 2      | Supertonic   | The degree above (super) the tonic. |
+| 2      | Supertonic   | The degree a tone above (super) the tonic. |
 | 3      | Mediant      | Midway (medi) between the tonic and dominant |
 | 4      | Subdominant  | Lower (sub) dominant. A perfect fifth *below* the tonic. |
 | 5      | Dominant     | A perfect fifth above the tonic. The fifth is the dominant harmonic (i.e. the most common) in the [overtone series](glossary.html#overtone-series). |
 | 6      | Submediant   | Lower (sub) mediant, midway (medi) between the tonic and the subdominant. |
-| b7     | Subtonic     | The note below (sub) the tonic when it's a whole tone below, as in the natural minor scale. |
+| b7     | Subtonic     | The note a tone below (sub) the tonic. |
 | 7      | Leading tone | The note a semitone below the tonic, as in the major scale. It leads to the tonic. |
 
 </div>
