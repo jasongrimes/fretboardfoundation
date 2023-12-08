@@ -1,42 +1,49 @@
 figure.wide-chord {
-    width: 300px;
+  width: 300px;
 }
 figure.chord {
-    width: 150px;
+  width: 150px;
 }
 figure.uke-chord {
-    width: 100px;
+  width: 100px;
 }
 figure.string {
-    width: 100px;
+  width: 100px;
 }
 figure.string img {
-    padding-left: 25px;
-    padding-right: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
 }
 figure.staff-note {
-    width: 75px;
+  width: 75px;
 }
 /* figure.staff-note img {
     background-color: #fff; 
 } */
 
 figure.float-left {
-    float: left;
+  float: left;
 }
 figure.collapse {
-    display: table;
+  display: table;
 }
 
 .font-larger {
-    font-size: 200%;
+  font-size: 200%;
 }
 .font-smaller {
-    font-size: 50%;
+  font-size: 50%;
 }
 
 .hero-button {
-    width: 45%;
-    margin: 2%;
-    float: left;
+  width: 45%;
+  margin: 2%;
+  float: left;
+}
+
+.book-body .body-inner {
+  margin-bottom: 500px;
+}
+.page-footer {
+  height: 500px;
 }
