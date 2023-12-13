@@ -35,10 +35,14 @@ figure.collapse {
   font-size: 50%;
 }
 
+.hero-buttons {
+  text-align: center;
+}
 .hero-button {
   width: 45%;
   margin: 2%;
-  float: left;
+  max-width: 200px;
+  display: inline-block;
 }
 
 .book-body .body-inner {
