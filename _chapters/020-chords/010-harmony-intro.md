@@ -442,7 +442,7 @@ The rest are defined in relation to those.
 | 2      | Supertonic   | A whole tone above (super) the tonic. |
 | 3      | Mediant      | Midway (medi) between the tonic and dominant. |
 | 4      | Subdominant  | Lower (sub) dominant. A perfect fifth *below* the tonic. |
-| 5      | Dominant     | A perfect fifth above the tonic. So named because this interval is the dominant harmonic (i.e. the most common) in the [overtone series](glossary.html#overtone-series). |
+| 5      | Dominant     | A perfect fifth above the tonic. So named because this interval is the dominant harmonic (i.e. the most prevalent) in the [overtone series](glossary.html#overtone-series). |
 | 6      | Submediant   | Lower (sub) mediant, midway (medi) between the tonic and the subdominant. |
 | b7     | Subtonic     | A whole tone below (sub) the tonic. |
 | 7      | Leading tone | A semitone below the tonic. It "leads" to the tonic. |
