@@ -103,11 +103,6 @@ Ex. key of Db has Bb Eb Ab Db Gb
 
 Figure out notes in the natural key, and sharpen every one.
 
-Sharp keys are uncommon.
-They are impractical because they often involve "double-sharp" notes (like F##),
-which are more complicated to write and to speak.
-It's generally simpler to use the corresponding flat key instead.
-
 ## The circle of fifths
 
 {% include figure.html
