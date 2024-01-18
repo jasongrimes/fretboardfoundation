@@ -7,7 +7,7 @@ disable_toc: false
 
 ## Why this book?
 
-This book exists to fill a gap I find in guitar instructional material. 
+This is the book I always wanted to learn guitar from. It didn't exist, so eventually I just had to write it. Now I use it as the core of my ongoing music studies.
 
 ## Intermediate material is needed
 
