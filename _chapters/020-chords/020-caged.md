@@ -43,7 +43,7 @@ since that's how we know where to place the chord.
 
 ## Notation
 
-The dots in the chord diagrams that follow are labeled with the simple interval of each chord tone from the root.
+The dots in the following chord diagrams are labeled with the simple interval of each chord tone from the root.
 `R` is the root note, 
 `3` is the major third, 
 `b3` is the minor third, etc.
