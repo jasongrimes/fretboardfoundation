@@ -48,13 +48,10 @@ The dots in the chord diagrams that follow are labeled with the simple interval 
 `3` is the major third, 
 `b3` is the minor third, etc.
 
-Guitar strings are numbered from 1-6,
-with 1 being the highest pitched string and 6 the lowest.
-
 Chord fingerings are notated like this: 
 `x4312x`.
 The six symbols represent the six strings of the guitar from lowest pitch to highest, 
-6-1 from left to right,
+left to right,
 and indicate the number of the finger used to fret each string,
 or an "x" indicating the string is muted.
 Finger 1 is the index finger, 
