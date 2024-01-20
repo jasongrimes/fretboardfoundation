@@ -901,7 +901,7 @@ The treble triad with its root on the third string is derived from the A and G C
 %}
 
 
-## Major chords on entire fretboard
+## Major chords on the entire fretboard
 
 The following figures illustrate how CAGED shapes fit together on the fretboard,
 and point the way toward playing all the chords in a given key in one position
