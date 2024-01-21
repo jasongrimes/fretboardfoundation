@@ -9,7 +9,7 @@ based around the free book *Fretboard Foundation*.
 
 <div class="font-larger" markdown="block">
 
-**[The Book](book.html)**
+**[Read the Book](book.html)**
 
 **[Tools](tools.html)**
 
