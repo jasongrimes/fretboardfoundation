@@ -192,15 +192,6 @@ As a trick for finding the next scale degree on the neighboring string,
 notice that when playing the lower note with the pinkie,
 the whole tone up on the neighboring string is under the index finger. **A whole tone across strings spans four fingers/frets.** To reach the semitone instead, stretch the index finger back one fret. (**A whole tone across strings 3-2 spans only 3 fingers/frets**, ex. pinkie to middle finger.)
 
-The major third shape may already be familiar,
-since it's the shell of every major chord.
-As shown in the diagram,
-since most strings are tuned a perfect fourth apart,
-the scale degree at the same fret on the neighboring string will be 4.
-The major third is one fret lower.
-Across the third rail (strings 3-2),
-the major third is at the same fret.  
-
 ## CAGED scale forms
 
 Scales are typically taught in a variety of "forms" or "shapes", 
