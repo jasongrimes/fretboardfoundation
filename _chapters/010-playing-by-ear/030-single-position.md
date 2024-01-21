@@ -41,7 +41,7 @@ there is a slightly smaller difference in pitch between strings 2 and 3.
 
 As a trick for finding the next note up on the neighboring string,
 play the lower note with your pinkie (ex. the green dot),
-and the higher note with your index finger on the neighboring string (ex. the black dot). This space of four fingers/frets across strings is a "whole tone" interval, the distance between most of the notes in a scale. (From string 3 to string 2, it's a space of only 3 fingers, ex. pinkie to middle finger.)
+and the higher note with your index finger on the neighboring string (ex. the black dot). This **space of four fingers/frets** across strings is a **"whole tone" interval**, the distance between most of the notes in a scale. (From string 3 to string 2, it's a space of only 3 fingers, ex. pinkie to middle finger.)
 
 To get better at finding notes across strings,
 it can be helpful to study scales.
