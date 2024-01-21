@@ -188,11 +188,9 @@ and augmented one semitone when approached from the right.
     class="chord row"
 %}
 
-If it's hard to identify the jump back to the next scale degree at a glance,
-it can help to count backwards. 
-If we know where the 3 is on the neighboring string,
-the T is two frets behind it,
-and the S is one fret behind the T.
+As a trick for finding the next scale degree on the neighboring string,
+notice that when playing the lower note with the pinkie,
+the whole tone up on the neighboring string is under the index finger. A whole tone across strings spans four fingers/frets. To reach the semitone instead, stretch the index finger back one fret. (From string 3 to string 2, a whole tone spans only 3 fingers, ex. pinkie to middle finger.)
 
 The major third shape may already be familiar,
 since it's the shell of every major chord.
