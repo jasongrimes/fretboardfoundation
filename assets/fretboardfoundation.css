@@ -14,6 +14,13 @@ figure.string img {
   padding-left: 25px;
   padding-right: 25px;
 }
+figure.string-wide {
+  width: 150px;
+}
+figure.string-wide img {
+  padding-left: 50px;
+  padding-right: 50px;
+}
 figure.staff-note {
   width: 75px;
 }
