@@ -190,7 +190,7 @@ and augmented one semitone when approached from the right.
 
 As a trick for finding the next scale degree on the neighboring string,
 notice that when playing the lower note with the pinkie,
-the whole tone up on the neighboring string is under the index finger. A whole tone across strings spans four fingers/frets. To reach the semitone instead, stretch the index finger back one fret. (From string 3 to string 2, a whole tone spans only 3 fingers, ex. pinkie to middle finger.)
+the whole tone up on the neighboring string is under the index finger. **A whole tone across strings spans four fingers/frets.** To reach the semitone instead, stretch the index finger back one fret. (**A whole tone across strings 3-2 spans only 3 fingers/frets**, ex. pinkie to middle finger.)
 
 The major third shape may already be familiar,
 since it's the shell of every major chord.
