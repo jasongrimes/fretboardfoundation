@@ -39,6 +39,10 @@ there is a slightly smaller difference in pitch between strings 2 and 3.
     class="chord row"
 %}
 
+As a trick for finding the next note up on the neighboring string,
+play the lower note (ex. the green dot) with your pinkie,
+and then higher note with your index finger on the neighboring string (ex. the black dot). This is a "whole tone", the distance between most of the notes in a scale. 
+
 To get better at finding notes across strings,
 it can be helpful to study scales.
 See {% include chapter-link.html slug="scale-intro" %}.
