@@ -4,8 +4,7 @@ title: Fretboard Foundation
 subtitle: Practical building blocks for intermediate guitarists.
 ---
 
-This site provides free educational material about learning guitar for intermediate guitarists,
-based around the free book *Fretboard Foundation*.
+Free educational material about learning guitar for intermediate guitarists.
 
 <div class="font-larger" markdown="block">
 
