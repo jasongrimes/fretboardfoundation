@@ -8,7 +8,7 @@ subtitle: Practical building blocks for intermediate guitarists.
 
 **[Read the book](book.html)**
 
-**[Tools](tools.html)**
+**[Helpful tools](tools.html)**
 
 **[About this site](about.html)**
 
