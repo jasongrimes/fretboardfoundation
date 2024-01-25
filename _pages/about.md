@@ -15,7 +15,7 @@ and will remain so after it is completed.
 
 ## Contact and corrections
 
-Did you find a mistake? Do you like the book (or hate it)? I'd love to hear from you! 
+Did you find a mistake? Do you like the book (or hate it)? I'd love to hear from you.
 Please send an email to 
 [hello@fretboardfoundation.com](mailto:hello@fretboardfoundation.com),
 and I'll get back to you as soon as I can.
