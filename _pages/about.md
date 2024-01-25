@@ -15,12 +15,10 @@ and will remain so after it is completed.
 
 ## Contact and corrections
 
-Please send any corrections or other correspondence through the [GitHub issue tracker](https://github.com/jasongrimes/fretboardfoundation/issues) for this project,
-which does require a free GitHub account but which makes changes much easier to manage.
-
-Correspondence can also be sent to
-[contact@fretboardfoundation.com](mailto:contact@fretboardfoundation.com),
-but please note this address is rarely monitored.
+Did you find a mistake? Do you like the book (or hate it)? I'd love to hear from you! 
+Please send an email to 
+[hello@fretboardfoundation.com](mailto:hello@fretboardfoundation.com),
+and I'll get back to you as soon as I can.
 
 ## Technology
 
