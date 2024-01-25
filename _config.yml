@@ -40,6 +40,8 @@ bookcrumbs:
 sidebar_nav_top:
 - label: About this site
   url: /about.html
+- label: Tools
+  url: /tools.html
 
 # Links shown below the TOC in the sidebar
 sidebar_nav_bottom:
@@ -47,6 +49,8 @@ sidebar_nav_bottom:
   url: /outline.html
 - label: Privacy statement
   url: /privacy.html
+- label: Contact
+  url: /about.html#contact-and-corrections
 
 # Navigation shown at the bottom of the page
 bottom_nav:
@@ -54,6 +58,8 @@ bottom_nav:
   url: /index.html
 - label: Contents
   url: /toc.html
+- label: Tools
+  url: /tools.html
 - label: About
   url: /about.html
 - label: Privacy
