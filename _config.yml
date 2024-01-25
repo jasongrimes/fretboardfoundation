@@ -40,11 +40,12 @@ bookcrumbs:
 sidebar_nav_top:
 - label: About this site
   url: /about.html
-- label: Tools
-  url: /tools.html
+
 
 # Links shown below the TOC in the sidebar
 sidebar_nav_bottom:
+- label: Tools
+  url: /tools.html
 - label: Draft outline
   url: /outline.html
 - label: Privacy statement
