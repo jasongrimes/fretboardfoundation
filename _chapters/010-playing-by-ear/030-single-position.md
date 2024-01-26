@@ -94,7 +94,7 @@ and it's the *next* most distinguishable harmonic in the overtone series.
 Between them,
 these intervals (`R-3-5`) describe a major triad chord,
 the most common chord in Western music.
-Lowering the major third by one fret turns it into a minor triad chord, the second most common type of chord.
+Lowering the major third by one fret turns it into a minor triad, the second most common type of chord.
 
 As Bert Ligon said in *Comprehensive Technique for Jazz Musicians*, 
 the major triad consists of "the first three pitches in the overtone series 
