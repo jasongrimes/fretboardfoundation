@@ -12,7 +12,7 @@ and to evoke the same in others.
 
 Western harmony,
 which derives from the European classical music (“euroclassical”) tradition,
-provides tools to do this,
+provides tools to do this
 based on tension and release,
 consonance and dissonance,
 and shared cultural experience.
