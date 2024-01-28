@@ -26,7 +26,7 @@ The pentatonic major scale can be constructed by stacking five perfect fifths.
 Cultures that developed pentatonic modes often used a system of tuning called "just intonation",
 in which tones occur naturally as a result of the overtone series.
 Inconveniently,
-in just intonation each key contains slightly different intervals than every other key.
+in just intonation each key contains intervals that are slightly different from the intervals in every other key.
 
 Modern instruments use "equal tempered" tuning instead,
 in which every key has the exact same intervals.
