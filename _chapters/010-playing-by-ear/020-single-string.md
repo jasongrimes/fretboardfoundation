@@ -44,6 +44,8 @@ it can make music.
 Nearly everyone seems to know how to do this without training,
 to some degree.
 
+Give a rubber band to a small child, and it's a safe bet that before long, without any prompting, they will discover how to make different sounds with it.
+
 On a basic level we all know how to make music with a vibrating string.
 
 
