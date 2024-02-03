@@ -33,7 +33,7 @@ We have to think about each note as we play it,
 and slow down to give ourselves time to do so.
 See "[practice mindfully](#practicing-mindfully)" below for details.
 
-## What is a scale
+## What is a scale?
 
 A scale is an ordered collection of tones.
 
@@ -58,6 +58,7 @@ with five whole tone intervals and two semitones
 spaced as far apart as possible.
 
 ### Scale formulas
+{:.page-break-before}
 
 Scales are defined by their intervals, 
 either between degrees (**T-T-S-T-T-T-S**),
@@ -94,6 +95,7 @@ with semitones between degrees 2-b3 and 5-b6.
 </div>
 
 ## Assembling scales on one string
+{:.page-break-before}
 
 The simplest way to visualize a scale is on a single guitar string.
 The scale semitones and tones are one and two frets apart. 
@@ -123,6 +125,7 @@ with the upper tetrachord to the the *left* of the lower,
 on every pair of strings except for 2-3.
 
 Here are the two tetrachords of the major scale.
+{:.page-break-before}
 
 {% include figure.html
     caption="Major scale tetrachords"
@@ -155,6 +158,7 @@ Compared to the major scale,
 it's easy to see the melodic minor differs by having a minor third.
 
 Some common tetrachord names:
+{:.page-break-before}
 
 <div class="table-wrapper" markdown="block">
 
@@ -305,6 +309,9 @@ so they will become part of our personal style.
 
 ### Patterns and arpeggios
 
+It's worth practicing scales in the following patterns. 
+They sound good, it's more interesting than just playing ascending and descending, 
+and a lot of melodies incorporate these patterns.
 - Thirds: Ascending thirds up and down, then descending thirds up and down
 - 3-note diatonic arpeggios: ascending up and down, then descending up and down
 - Cyclical quadruplets (3123, 3213, 1321, 1231)

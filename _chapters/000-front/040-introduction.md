@@ -249,3 +249,12 @@ the book is designed to be used as a quick and fairly comprehensive reference,
 in order to support your own guitar studies.
 
 Any topic or diagram should be easy to find within a few "taps" through the tables of contents.
+
+## Additional resources
+
+In addition to this book, supplementary tools and materials are available on the Fretboard Foundation website.
+
+For example, there are software applications that provide interactive, playable, 
+editable, and audible fretboard diagrams for exploring the ideas in this book in an experiential way.
+
+See [fretboardfoundation.com/tools](https://fretboardfoundation.com/tools.html) for details.

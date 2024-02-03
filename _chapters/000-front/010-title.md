@@ -7,6 +7,8 @@ logo_top: false
 logo_bottom: false
 ---
 
+<img src="{{site.baseurl}}/assets/logos/logo-wide.svg" style="width:100%; margin-left: -3px;">
+
 ## Summary
 
 Practical music theory for intermediate guitarists.
@@ -18,7 +20,7 @@ Start reading at the {% include chapter-link.html slug="toc" %}.
 ## Version
 
 This edition: **{{ site.latest_edition }}**  
-plus revisions as of **{{ "now" | date: "%B %e, %Y" }}**.
+<span class="printable-hidden">plus revisions as of **{{ "now" | date: "%B %e, %Y" }}**.</span>
 
 The latest version of this book can always be found at
 [fretboardfoundation.com/book.html](https://fretboardfoundation.com/book.html)
@@ -28,7 +30,7 @@ All editions are available at
 
 ## Copyright
 
-Copyright &copy; 2022-2023 by Jason Grimes.
+Copyright &copy; 2022-{{ "now" | date: "%Y" }} by Jason Grimes.
 
 #####  Credits
 
@@ -37,5 +39,3 @@ by ["Just plain Bill"](https://en.m.wikipedia.org/wiki/User:Just_plain_Bill)
 is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 Used in {% include chapter-link.html slug="keys" anchor="the-circle-of-fifths" %}.
 
-- **["Infobox icon"](https://commons.wikimedia.org/wiki/File:Infobox_info_icon.svg)**
-by "User:Kontos" via Wikimedia Commons is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).

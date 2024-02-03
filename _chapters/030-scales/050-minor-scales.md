@@ -5,6 +5,7 @@ abstract: The natural minor scale, with adjustments to degrees 6 and 7 as harmon
 ---
 
 ## About minor tonality
+{:.page-break-before}
 
 ### Minor scale tones
 
@@ -50,6 +51,7 @@ it can be more helpful to think of them as one general minor scale,
 with an adjustable sixth and seventh as needed.
 
 ## Minor scales
+{:.page-break-before}
 
 ### Natural minor scale
 
@@ -65,7 +67,7 @@ the sixth diatonic mode of the major scale,
 the *Aeolian mode*.
 See {% include chapter-link.html slug="diatonic-modes" %} for details.
 
-<div class="table-wrapper" markdown="block">
+<div class="table-wrapper page-break-before" markdown="block">
 **A natural minor**
 
 | |T|S |T|T|S |T |T|
@@ -96,6 +98,7 @@ This tetrachord is sometimes called *phrygian* or *upper minor*.
 
 
 ### Harmonic minor scale 
+{:.page-break-before}
 
 The harmonic minor scale is a seven note scale 
 created by raising the seventh degree of the natural minor scale
@@ -128,6 +131,7 @@ It has a b3 and a b6.
 %}
 
 ### Melodic minor scale
+{:.page-break-before}
 
 The melodic minor scale is a seven note scale 
 created by raising the sixth degree of the harmonic minor scale,
@@ -151,7 +155,7 @@ with the various modes of melodic minor regularly used in jazz pieces.
 The melodic minor scale has a b3,
 with semitones between degrees 2-b3 and 7-1.
 
-<div class="table-wrapper" markdown="block">
+<div class="table-wrapper page-break-before" markdown="block">
 **A melodic minor**
 
 | |T|S |T|T|T |T |S|
@@ -173,6 +177,7 @@ with semitones between degrees 2-b3 and 7-1.
 %}
 
 ### Combined minor scale
+{:.page-break-before}
 
 While there are several different minor scales,
 it can be helpful to think primarily in terms of a single general minor scale,
@@ -195,6 +200,7 @@ as is the perfect fifth.
 It can be useful to learn licks and phrases with the lower tetrachord and fifth since they will work regardless of what's happening with the 6 and 7.
 
 ## Relative major and minor
+{:.page-break-before}
 
 The notes in a natural minor scale are identical to the notes in the relative major scale a minor third above it. 
 For example, the notes and chords in A natural minor are the same as in C major.
@@ -220,7 +226,7 @@ and Am is said to be the *relative minor* of C.
 
 </div>
 
-<div class="table-wrapper" markdown="block">
+<div class="table-wrapper table-wide" markdown="block">
 **C major laid over relative minor**
 
 |               | |T|T|S|T|T|T|S |T|T|S |T |T|T|S|
@@ -290,6 +296,7 @@ It can be constructive to switch perspective back and forth,
 thinking of a tone as a degree of both the minor scale and the relative major.
 
 ## C form
+{:.page-break-before}
 
 {% include figure.html
     caption="Combined minor scales in C CAGED form."
@@ -342,6 +349,7 @@ Compare the relative major and separate minor scales.
 %}
 
 ## A form
+{:.page-break-before}
 
 {% include figure.html
     caption="Combined minor scales in A CAGED form."
@@ -376,6 +384,7 @@ Compare the relative major and separate minor scales.
 %}
 
 ## G form
+{:.page-break-before}
 
 {% include figure.html
     caption="Combined minor scales in G CAGED form."
@@ -410,6 +419,7 @@ Compare the relative major and separate minor scales.
 %}
 
 ## E form
+{:.page-break-before}
 
 {% include figure.html
     caption="Combined minor scales in E CAGED form."
@@ -452,6 +462,7 @@ Compare the relative major and the separate minor scales below.
 
 
 ## D form
+{:.page-break-before}
 
 {% include figure.html
     caption="Combined minor scales in D CAGED form."
@@ -487,6 +498,9 @@ Compare the relative major and the separate minor scales below.
 
 
 ## Whole fretboard
+{:.page-break-before}
+
+The following diagrams show minor scales on the entire fretboard.
 
 {% include figure.html
     caption="Am combined minor scale on the whole fretboard with CAGED outlines."

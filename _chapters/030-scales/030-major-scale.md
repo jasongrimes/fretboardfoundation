@@ -26,6 +26,7 @@ all the major scale degrees are major or perfect intervals.
 </div>
 
 ## Assemble on one string
+{:.page-break-before}
 
 The simplest way to visualize a scale is on a single guitar string.
 The scale semitones and tones are one and two frets apart.
@@ -39,6 +40,7 @@ Here is the major scale on one string.
 %}
 
 ## Tetrachords
+{:.page-break-before}
 
 Here are the two tetrachords of the major scale.
 
@@ -136,6 +138,8 @@ and bringing the fourth finger into play as needed to enable the shift.
 It's a bit awkward at first but it feels more natural after awhile.
 
 ## Whole fretboard
+
+The following diagram shows the major scale on the entire fretboard.
 
 {% include figure.html
     caption="C major scale on whole fretboard."

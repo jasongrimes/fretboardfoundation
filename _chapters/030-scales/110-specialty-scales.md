@@ -19,7 +19,7 @@ the **flat two** and the **tone-and-a-half** interval.
 In addition to being popular in Middle Eastern music,
 Hijaz is one of the most common scales used in Flamenco.
 
-<div class="table-wrapper" markdown="block">
+<div class="table-wrapper page-break-before" markdown="block">
 **Hijaz scale**
 
 | |S |TS|S|T|S |T |T|
@@ -49,6 +49,7 @@ but it's the same as the phrygian tetrachord, `1-b2-b3-4`.
 
 
 ## Bebop
+{:.page-break-before}
 
 Bebop scales are 7-note scales with an added passing tone,
 placed so that each chord tone occurs on a downbeat.
@@ -58,7 +59,7 @@ The resulting 8-note scale allows playing fast 16th notes with all downbeats on 
 The most common bebop scale is based on the Mixolydian mode.
 This is also called the "dominant bebop scale".
 
-<div class="table-wrapper" markdown="block">
+<div class="table-wrapper page-break-before" markdown="block">
 **Mixolydian bebop scale**
 
 | |T|T|S|T|T|S |S|T|
@@ -81,6 +82,7 @@ This is also called the "dominant bebop scale".
 
 
 ## Jazz minor and its modes
+{:.page-break-before}
 
 Jazz musicians are fond of the melodic minor scale.
 
@@ -98,7 +100,7 @@ The different modes of jazz minor are also commonly used jazz scales.
 
 **Modes of jazz minor**
 
-<div class="table-wrapper" markdown="block">
+<div class="table-wrapper table-wide" markdown="block">
 
 |    |             | |T|S |T |T |T |T |S |T |S |T |T |T |T|S|
 |    |             |C|D|Eb|F |G |A |B |C |D |Eb|F |G |A |B|C|
@@ -113,6 +115,7 @@ The different modes of jazz minor are also commonly used jazz scales.
 </div>
 
 ### i: Jazz minor (melodic minor)
+{:.page-break-before}
 
 {% include figure.html
     caption="A melodic minor tetrachords on bottom strings."
@@ -127,6 +130,7 @@ The different modes of jazz minor are also commonly used jazz scales.
 %}
 
 ### ii: Dorian b2
+{:.page-break-before}
 
 Dorian b2 is also known as 
 "Phrygian #6", 
@@ -146,6 +150,7 @@ or "Phrygidorian".
 %}
 
 ### bIII: Lydian #5
+{:.page-break-before}
 
 Lydian #5 is also known as
 "Lydian augmented".
@@ -163,6 +168,7 @@ Lydian #5 is also known as
 %}
 
 ### IV: Lydian b7
+{:.page-break-before}
 
 Lydian b7 is also known as
 "Lydian dominant".
@@ -180,6 +186,7 @@ Lydian b7 is also known as
 %}
 
 ### V: Mixolydian b6
+{:.page-break-before}
 
 Mixolydian b6 is also known as
 "Melodic major",
@@ -199,6 +206,7 @@ or "Myxaeolian".
 %}
 
 ### vi: Locrian #2
+{:.page-break-before}
 
 Locrian #2 is also known as
 "Half-diminished"
@@ -217,6 +225,7 @@ or "Aeolocrian".
 %}
 
 ### vii: Altered scale
+{:.page-break-before}
 
 The altered scale is also known as
 "Super Locrian"

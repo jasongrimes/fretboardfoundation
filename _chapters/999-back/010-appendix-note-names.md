@@ -22,6 +22,7 @@ and the highest is around E5
 (the 12th fret on the high E string).
 
 ## C notes
+{:.page-break-before}
 
 {% include figure.html
     caption="C notes on fretboard in standard tuning."
@@ -50,6 +51,7 @@ and the highest is around E5
 <div style="clear: both;"></div>
 
 ## D notes
+{:.page-break-before}
 
 {% include figure.html
     caption="D notes on fretboard in standard tuning."
@@ -78,6 +80,7 @@ and the highest is around E5
 <div style="clear: both;"></div>
 
 ## E notes
+{:.page-break-before}
 
 {% include figure.html
     caption="E notes on fretboard in standard tuning."
@@ -112,6 +115,7 @@ and the highest is around E5
 <div style="clear: both;"></div>
 
 ## F notes
+{:.page-break-before}
 
 {% include figure.html
     caption="F notes on fretboard in standard tuning."
@@ -146,6 +150,7 @@ and the highest is around E5
 <div style="clear: both;"></div>
 
 ## G notes
+{:.page-break-before}
 
 {% include figure.html
     caption="G notes on fretboard in standard tuning."
@@ -180,6 +185,7 @@ and the highest is around E5
 <div style="clear: both;"></div>
 
 ## A notes
+{:.page-break-before}
 
 {% include figure.html
     caption="A notes on fretboard in standard tuning."
@@ -208,6 +214,7 @@ and the highest is around E5
 <div style="clear: both;"></div>
 
 ## B notes
+{:.page-break-before}
 
 {% include figure.html
     caption="B notes on fretboard in standard tuning."
@@ -236,6 +243,7 @@ and the highest is around E5
 <div style="clear: both;"></div>
 
 ## All natural notes
+{:.page-break-before}
 
 {% include figure.html
     caption="All natural notes on the fretboard in standard tuning."

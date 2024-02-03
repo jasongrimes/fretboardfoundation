@@ -62,3 +62,42 @@ figure.collapse {
 .page-footer {
   height: 500px;
 }
+
+.printable-only {
+  display: none;
+}
+.printable .printable-only {
+  display: inline-block;
+}
+.printable .printable-hidden {
+  display: none;
+}
+
+@media print {
+  .book .book-summary {
+    display: none;
+  }
+  .book .book-body .book-header {
+    display: none;
+  }
+  .book .book-body .page-footer {
+    display: none;
+  }
+  .book.book.with-summary .book-body,
+  .book .book-body {
+    margin: 0;
+  }
+  .book.with-summary .book-body .body-inner,
+  .book .book-body .body-inner {
+    margin: 0;
+  }
+  .book .book-body .body-inner .page-wrapper .page-inner {
+    padding: 0;
+  }
+  .book .chapter-pager {
+    display: none;
+  }
+  .book .breadcrumb {
+    display: none;
+  }
+}

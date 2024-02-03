@@ -27,6 +27,9 @@ Every pair of neighboring strings has the same relationship between their notes,
 While all other strings are tuned the same distance apart,
 there is a slightly smaller difference in pitch between strings 2 and 3.
 
+**Identical notes on neighoring strings**
+{:.no-page-break-after}
+
 {% include figure.html
     caption="Identical notes on all neighboring strings except 2-3, i.e. tuned a P4 apart."
     url="/assets/figures/playing-by-ear/neighboring-strings-P4.svg"
@@ -50,6 +53,9 @@ Major and minor "triad chords" are the most common chords used in all of Western
 There are many of these three-note triad chords around the fretboard.
 Listen and explore to find them.
 The following figures show some examples.
+
+**Common triad chord shapes**
+{:.no-page-break-after}
 
 {% include figure.html
     caption="Major triad with 3rd-string root on upper-middle strings."

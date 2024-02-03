@@ -68,54 +68,55 @@ resulting in five different positions.
 ## C shape I chord position
 
 {% include figure.html
-    caption="I chord in C shape I chord position."
+    caption="I chord in C shape I position."
     url="/assets/figures/major-harmony/C-1.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="ii chord in C shape I chord position."
+    caption="ii chord in C shape I position."
     url="/assets/figures/major-harmony/C-2.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="iii chord in C shape I chord position."
+    caption="iii chord in C shape I position."
     url="/assets/figures/major-harmony/C-3.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="IV chord in C shape I chord position."
+    caption="IV chord in C shape I position."
     url="/assets/figures/major-harmony/C-4.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="V chord in C shape I chord position."
+    caption="V chord in C shape I position."
     url="/assets/figures/major-harmony/C-5.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="vi chord in C shape I chord position."
+    caption="vi chord in C shape I position."
     url="/assets/figures/major-harmony/C-6.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="vii chord in C shape I chord position."
+    caption="vii chord in C shape I position."
     url="/assets/figures/major-harmony/C-7.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="V7 chord in C shape I chord position."
+    caption="V7 chord in C shape I position."
     url="/assets/figures/major-harmony/C-5-dom7.svg" 
     class="chord row" 
 %}
 
 ## Practicing these chords
+{:.page-break-before}
 
 ### Ascending and descending
 
@@ -250,209 +251,213 @@ or the 7&#x302; (for a richer diminished triad) as desired.
 The diminished vii is rather practical after all. 
 
 ## A shape I chord position
+{:.page-break-before}
 
 {% include figure.html
-    caption="I chord in A shape I chord position."
+    caption="I chord in A shape I position."
     url="/assets/figures/major-harmony/A-1.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="ii chord in A shape I chord position."
+    caption="ii chord in A shape I position."
     url="/assets/figures/major-harmony/A-2.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="iii chord in A shape I chord position."
+    caption="iii chord in A shape I position."
     url="/assets/figures/major-harmony/A-3.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="IV chord in A shape I chord position."
+    caption="IV chord in A shape I position."
     url="/assets/figures/major-harmony/A-4.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="V chord in A shape I chord position."
+    caption="V chord in A shape I position."
     url="/assets/figures/major-harmony/A-5.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="vi chord in A shape I chord position."
+    caption="vi chord in A shape I position."
     url="/assets/figures/major-harmony/A-6.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="vii chord in A shape I chord position."
+    caption="vii chord in A shape I position."
     url="/assets/figures/major-harmony/A-7.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="V7 chord in A shape I chord position."
+    caption="V7 chord in A shape I position."
     url="/assets/figures/major-harmony/A-5-dom7.svg" 
     class="chord row" 
 %}
 
 
 ## G shape I chord position
+{:.page-break-before}
 
 {% include figure.html
-    caption="I chord in G shape I chord position."
+    caption="I chord in G shape I position."
     url="/assets/figures/major-harmony/G-1.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="ii chord in G shape I chord position."
+    caption="ii chord in G shape I position."
     url="/assets/figures/major-harmony/G-2.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="iii chord in G shape I chord position."
+    caption="iii chord in G shape I position."
     url="/assets/figures/major-harmony/G-3.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="IV chord in G shape I chord position."
+    caption="IV chord in G shape I position."
     url="/assets/figures/major-harmony/G-4.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="V chord in G shape I chord position."
+    caption="V chord in G shape I position."
     url="/assets/figures/major-harmony/G-5.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="vi chord in G shape I chord position."
+    caption="vi chord in G shape I position."
     url="/assets/figures/major-harmony/G-6.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="vii chord in G shape I chord position."
+    caption="vii chord in G shape I position."
     url="/assets/figures/major-harmony/G-7.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="V7 chord in G shape I chord position."
+    caption="V7 chord in G shape I position."
     url="/assets/figures/major-harmony/G-5-dom7.svg" 
     class="chord row" 
 %}
 
 ## E shape I chord position
+{:.page-break-before}
 
 {% include figure.html
-    caption="I chord in E shape I chord position."
+    caption="I chord in E shape I position."
     url="/assets/figures/major-harmony/E-1.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="ii chord in E shape I chord position."
+    caption="ii chord in E shape I position."
     url="/assets/figures/major-harmony/E-2.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="iii chord in E shape I chord position."
+    caption="iii chord in E shape I position."
     url="/assets/figures/major-harmony/E-3.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="IV chord in E shape I chord position."
+    caption="IV chord in E shape I position."
     url="/assets/figures/major-harmony/E-4.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="V chord in E shape I chord position."
+    caption="V chord in E shape I position."
     url="/assets/figures/major-harmony/E-5.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="vi chord in E shape I chord position."
+    caption="vi chord in E shape I position."
     url="/assets/figures/major-harmony/E-6.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="vii chord in E shape I chord position."
+    caption="vii chord in E shape I position."
     url="/assets/figures/major-harmony/E-7.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="V7 chord in E shape I chord position."
+    caption="V7 chord in E shape I position."
     url="/assets/figures/major-harmony/E-5-dom7.svg" 
     class="chord row" 
 %}
 
 
 ## D shape I chord position
+{:.page-break-before}
 
 {% include figure.html
-    caption="I chord in D shape I chord position."
+    caption="I chord in D shape I position."
     url="/assets/figures/major-harmony/D-1.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="ii chord in D shape I chord position."
+    caption="ii chord in D shape I position."
     url="/assets/figures/major-harmony/D-2.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="iii chord in D shape I chord position."
+    caption="iii chord in D shape I position."
     url="/assets/figures/major-harmony/D-3.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="IV chord in D shape I chord position."
+    caption="IV chord in D shape I position."
     url="/assets/figures/major-harmony/D-4.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="V chord in D shape I chord position."
+    caption="V chord in D shape I position."
     url="/assets/figures/major-harmony/D-5.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="vi chord in D shape I chord position."
+    caption="vi chord in D shape I position."
     url="/assets/figures/major-harmony/D-6.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="vii chord in D shape I chord position."
+    caption="vii chord in D shape I position."
     url="/assets/figures/major-harmony/D-7.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="V7 chord in D shape I chord position."
+    caption="V7 chord in D shape I position."
     url="/assets/figures/major-harmony/D-5-dom7.svg" 
     class="chord row" 
 %}
 
-
 ## Shapes on the whole fretboard
+{:.page-break-before}
 
 {% include figure.html
     caption="I chord on whole fretboard."

@@ -57,7 +57,7 @@ the notes and chords in A natural minor are the same as the notes in C major.
 This is a quick way to get started learning the chords in a minor key: 
 by learning a major key we get the relative minor for free.
 
-<div class="table-wrapper" markdown="block">
+<div class="table-wrapper page-break-before" markdown="block">
 
 | Minor key (Am) | Chord      | Major key (C) | Major degrees | Minor degrees | Notes | Chord factors | Chord type |
 |:--------------:|:----------:|:------------:|:-------------:|:-------------:|:-----:|:--------------|:-----------|
@@ -124,83 +124,88 @@ These contortions are collectively called "melodic minor".
 
 
 ## C shape i chord position
+{:.page-break-before}
 
 {% include figure.html
-    caption="Natural minor scale in C shape i chord position"
+    caption="Natural minor scale in C shape i position"
     url="/assets/figures/minor-harmony/C-minor-scale.svg"
     class="chord row"
 %}
 
 {% include figure.html
-    caption="Relative major scale in D shape I chord position"
+    caption="Relative major scale in D shape I position"
     url="/assets/figures/minor-harmony/D-major-scale.svg"
     class="chord row"
 %}
 
 Compare these diatonic minor chords around a C shape i chord with their relative 
-[diatonic major chords in D shape I chord position](major-harmony.html#d-shape-i-chord-position).
+[diatonic major chords in D shape I position](major-harmony.html#d-shape-i-chord-position).
+
+**Minor key chords in C shape i position**
+{:.page-break-before}
 
 {% include figure.html
-    caption="i chord in C shape i chord position."
+    caption="i chord in C shape i position."
     url="/assets/figures/minor-harmony/C-i.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="ii&deg; chord in C shape i chord position."
+    caption="ii&deg; chord in C shape i position."
     url="/assets/figures/minor-harmony/C-ii.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="bIII chord in C shape i chord position."
+    caption="bIII chord in C shape i position."
     url="/assets/figures/minor-harmony/C-bIII.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="iv chord in C shape i chord position."
+    caption="iv chord in C shape i position."
     url="/assets/figures/minor-harmony/C-iv.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="v chord in C shape i chord position."
+    caption="v chord in C shape i position."
     url="/assets/figures/minor-harmony/C-v.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="bVI chord in C shape i chord position."
+    caption="bVI chord in C shape i position."
     url="/assets/figures/minor-harmony/C-bVI.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="bVII chord in C shape i chord position."
+    caption="bVII chord in C shape i position."
     url="/assets/figures/minor-harmony/C-bVII.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="vii&deg; chord in C shape i chord position."
+    caption="vii&deg; chord in C shape i position."
     url="/assets/figures/minor-harmony/C-vii-dim.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="V chord in C shape i chord position."
+    caption="V chord in C shape i position."
     url="/assets/figures/minor-harmony/C-V-maj.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="V7 chord in C shape i chord position."
+    caption="V7 chord in C shape i position."
     url="/assets/figures/minor-harmony/C-V7.svg" 
     class="chord row" 
 %}
 
 ## Practicing these chords
+{:.page-break-before}
 
 ### Play minor key songs in position
 
@@ -254,314 +259,330 @@ thinking of a chord in context of both the minor and relative major scales.
 ## A shape i chord position
 
 {% include figure.html
-    caption="Natural minor scale in A shape i chord position"
+    caption="Natural minor scale in A shape i position"
     url="/assets/figures/minor-harmony/A-minor-scale.svg"
     class="chord row"
 %}
 
 {% include figure.html
-    caption="Relative major scale in C shape I chord position"
+    caption="Relative major scale in C shape I position"
     url="/assets/figures/minor-harmony/C-major-scale.svg"
     class="chord row"
 %}
 
 Compare these diatonic minor chords around an A shape i chord with their relative 
-[diatonic major chords in C shape I chord position](major-harmony.html#c-shape-i-chord-position).
+[diatonic major chords in C shape I position](major-harmony.html#c-shape-i-chord-position).
+
+**Minor key chords in A shape i position**
+{:.page-break-before}
 
 {% include figure.html
-    caption="i chord in A shape i chord position."
+    caption="i chord in A shape i position."
     url="/assets/figures/minor-harmony/A-i.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="ii&deg; chord in A shape i chord position."
+    caption="ii&deg; chord in A shape i position."
     url="/assets/figures/minor-harmony/A-ii.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="bIII chord in A shape i chord position."
+    caption="bIII chord in A shape i position."
     url="/assets/figures/minor-harmony/A-bIII.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="iv chord in A shape i chord position."
+    caption="iv chord in A shape i position."
     url="/assets/figures/minor-harmony/A-iv.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="v chord in A shape i chord position."
+    caption="v chord in A shape i position."
     url="/assets/figures/minor-harmony/A-v.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="bVI chord in A shape i chord position."
+    caption="bVI chord in A shape i position."
     url="/assets/figures/minor-harmony/A-bVI.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="bVII chord in A shape i chord position."
+    caption="bVII chord in A shape i position."
     url="/assets/figures/minor-harmony/A-bVII.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="vii&deg; chord in A shape i chord position."
+    caption="vii&deg; chord in A shape i position."
     url="/assets/figures/minor-harmony/A-vii-dim.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="V chord in A shape i chord position."
+    caption="V chord in A shape i position."
     url="/assets/figures/minor-harmony/A-V-maj.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="V7 chord in A shape i chord position."
+    caption="V7 chord in A shape i position."
     url="/assets/figures/minor-harmony/A-V7.svg" 
     class="chord row" 
 %}
 
 ## G shape i chord position
+{:.page-break-before}
 
 {% include figure.html
-    caption="Natural minor scale in G shape i chord position"
+    caption="Natural minor scale in G shape i position"
     url="/assets/figures/minor-harmony/G-minor-scale.svg"
     class="chord row"
 %}
 
 {% include figure.html
-    caption="Relative major scale in A shape I chord position"
+    caption="Relative major scale in A shape I position"
     url="/assets/figures/minor-harmony/A-major-scale.svg"
     class="chord row"
 %}
 
 Compare these diatonic minor chords around a G shape i chord with their relative 
-[diatonic major chords in A shape I chord position](major-harmony.html#a-shape-i-chord-position).
+[diatonic major chords in A shape I position](major-harmony.html#a-shape-i-chord-position).
+
+**Minor key chords in G shape i position**
+{:.page-break-before}
 
 {% include figure.html
-    caption="i chord in G shape i chord position."
+    caption="i chord in G shape i position."
     url="/assets/figures/minor-harmony/G-i.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="ii&deg; chord in G shape i chord position."
+    caption="ii&deg; chord in G shape i position."
     url="/assets/figures/minor-harmony/G-ii.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="bIII chord in G shape i chord position."
+    caption="bIII chord in G shape i position."
     url="/assets/figures/minor-harmony/G-bIII.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="iv chord in G shape i chord position."
+    caption="iv chord in G shape i position."
     url="/assets/figures/minor-harmony/G-iv.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="v chord in G shape i chord position."
+    caption="v chord in G shape i position."
     url="/assets/figures/minor-harmony/G-v.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="bVI chord in G shape i chord position."
+    caption="bVI chord in G shape i position."
     url="/assets/figures/minor-harmony/G-bVI.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="bVII chord in G shape i chord position."
+    caption="bVII chord in G shape i position."
     url="/assets/figures/minor-harmony/G-bVII.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="vii&deg; chord in G shape i chord position."
+    caption="vii&deg; chord in G shape i position."
     url="/assets/figures/minor-harmony/G-vii-dim.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="V chord in G shape i chord position."
+    caption="V chord in G shape i position."
     url="/assets/figures/minor-harmony/G-V-maj.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="V7 chord in G shape i chord position."
+    caption="V7 chord in G shape i position."
     url="/assets/figures/minor-harmony/G-V7.svg" 
     class="chord row" 
 %}
 
 ## E shape i chord position
+{:.page-break-before}
 
 {% include figure.html
-    caption="Natural minor scale in E shape i chord position"
+    caption="Natural minor scale in E shape i position"
     url="/assets/figures/minor-harmony/E-minor-scale.svg"
     class="chord row"
 %}
 
 {% include figure.html
-    caption="Relative major scale in G shape I chord position"
+    caption="Relative major scale in G shape I position"
     url="/assets/figures/minor-harmony/G-major-scale.svg"
     class="chord row"
 %}
 
 Compare these diatonic minor chords around an E shape i chord with their relative 
-[diatonic major chords in G shape I chord position](major-harmony.html#g-shape-i-chord-position).
+[diatonic major chords in G shape I position](major-harmony.html#g-shape-i-chord-position).
+
+**Minor key chords in E shape i position**
+{:.page-break-before}
 
 {% include figure.html
-    caption="i chord in E shape i chord position."
+    caption="i chord in E shape i position."
     url="/assets/figures/minor-harmony/E-i.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="ii&deg; chord in E shape i chord position."
+    caption="ii&deg; chord in E shape i position."
     url="/assets/figures/minor-harmony/E-ii.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="bIII chord in E shape i chord position."
+    caption="bIII chord in E shape i position."
     url="/assets/figures/minor-harmony/E-bIII.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="iv chord in E shape i chord position."
+    caption="iv chord in E shape i position."
     url="/assets/figures/minor-harmony/E-iv.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="v chord in E shape i chord position."
+    caption="v chord in E shape i position."
     url="/assets/figures/minor-harmony/E-v.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="bVI chord in E shape i chord position."
+    caption="bVI chord in E shape i position."
     url="/assets/figures/minor-harmony/E-bVI.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="bVII chord in E shape i chord position."
+    caption="bVII chord in E shape i position."
     url="/assets/figures/minor-harmony/E-bVII.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="vii&deg; chord in E shape i chord position."
+    caption="vii&deg; chord in E shape i position."
     url="/assets/figures/minor-harmony/E-vii-dim.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="V chord in E shape i chord position."
+    caption="V chord in E shape i position."
     url="/assets/figures/minor-harmony/E-V-maj.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="V7 chord in E shape i chord position."
+    caption="V7 chord in E shape i position."
     url="/assets/figures/minor-harmony/E-V7.svg" 
     class="chord row" 
 %}
 
 
 ## D shape i chord position
+{:.page-break-before}
 
 {% include figure.html
-    caption="Natural minor scale in D shape i chord position"
+    caption="Natural minor scale in D shape i position"
     url="/assets/figures/minor-harmony/D-minor-scale.svg"
     class="chord row"
 %}
 
 {% include figure.html
-    caption="Relative major scale in E shape I chord position"
+    caption="Relative major scale in E shape I position"
     url="/assets/figures/minor-harmony/E-major-scale.svg"
     class="chord row"
 %}
 
 Compare these diatonic minor chords around an D shape i chord with their relative 
-[diatonic major chords in E shape I chord position](major-harmony.html#e-shape-i-chord-position).
+[diatonic major chords in E shape I position](major-harmony.html#e-shape-i-chord-position).
+
+**Minor key chords in D shape i position**
+{:.page-break-before}
 
 {% include figure.html
-    caption="i chord in D shape i chord position."
+    caption="i chord in D shape i position."
     url="/assets/figures/minor-harmony/D-i.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="ii&deg; chord in D shape i chord position."
+    caption="ii&deg; chord in D shape i position."
     url="/assets/figures/minor-harmony/D-ii.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="bIII chord in D shape i chord position."
+    caption="bIII chord in D shape i position."
     url="/assets/figures/minor-harmony/D-bIII.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="iv chord in D shape i chord position."
+    caption="iv chord in D shape i position."
     url="/assets/figures/minor-harmony/D-iv.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="v chord in D shape i chord position."
+    caption="v chord in D shape i position."
     url="/assets/figures/minor-harmony/D-v.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="bVI chord in D shape i chord position."
+    caption="bVI chord in D shape i position."
     url="/assets/figures/minor-harmony/D-bVI.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="bVII chord in D shape i chord position."
+    caption="bVII chord in D shape i position."
     url="/assets/figures/minor-harmony/D-bVII.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="vii&deg; chord in D shape i chord position."
+    caption="vii&deg; chord in D shape i position."
     url="/assets/figures/minor-harmony/D-vii-dim.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="V chord in D shape i chord position."
+    caption="V chord in D shape i position."
     url="/assets/figures/minor-harmony/D-V-maj.svg" 
     class="chord row" 
 %}
 
 {% include figure.html
-    caption="V7 chord in D shape i chord position."
+    caption="V7 chord in D shape i position."
     url="/assets/figures/minor-harmony/D-V7.svg" 
     class="chord row" 
 %}
 
 
 ## Shapes on the whole fretboard
+{:.page-break-before}
 
 {% include figure.html
     caption="i chord in minor key on whole fretboard"

@@ -94,6 +94,7 @@ it's a curated list aiming to include the most common chord grips for some of th
 %}
 
 ### add9
+{:.page-break-before}
 
 {% include figure.html
     caption="add9 chord with 5th string root."
@@ -144,6 +145,7 @@ it's a curated list aiming to include the most common chord grips for some of th
 %}
 
 ## Minor chords
+{:.page-break-before}
 
 ### Minor 6th
 
@@ -201,6 +203,7 @@ it's a curated list aiming to include the most common chord grips for some of th
 
 
 ## Suspended chords
+{:.page-break-before}
 
 Suspended chords contain no third interval,
 so they are considered neither major nor minor,
@@ -238,6 +241,7 @@ or in short riffs and flourishes.
 %}
 
 ## Dominant chords
+{:.page-break-before}
 
 ### Dominant 9th
 
@@ -274,6 +278,7 @@ or in short riffs and flourishes.
 %}
 
 ## Altered dominants
+{:.page-break-before}
 
 ### 7b5 (aka 7#11)
 
@@ -356,6 +361,7 @@ These chords are often played without the root note.
 
 
 ### 7b5#9
+{:.page-break-before}
 
 These chords are often played without the root note.
 
@@ -388,6 +394,7 @@ These chords are often played without the root note.
 %}
 
 ### 7#5#9
+{:.page-break-before}
 
 These chords are often played without the root note.
 

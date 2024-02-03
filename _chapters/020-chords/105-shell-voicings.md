@@ -93,6 +93,7 @@ See {% include chapter-link.html slug="color-chords" %} for more about substitut
 %}
 
 ## Shell chord progressions
+{:.page-break-before}
 
 ### ii-V-I cadences
 
@@ -156,6 +157,7 @@ for more information about ii-V-I cadences.
 %}
 
 ### Diatonic progressions
+{:.page-break-before}
 
 {% include figure.html
     caption="IV major seven shell voicing in diatonic progression."

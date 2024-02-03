@@ -5,6 +5,8 @@ layout: chapter
 class: references
 ---
 
+<div class="references" markdown="block">
+
 Berg, C. (1997). *Mastering Guitar Technique: Process and Essence (Classic Guitar).* Mel Bay Publications, Inc.
 [ISBN 978-1-610-65058-8](https://en.wikipedia.org/wiki/Special:BookSources?isbn=978-1-610-65058-8){:#berg-1997}.
 
@@ -41,3 +43,4 @@ Tagg, P. (2018). *Everyday Tonality II (towards a tonal theory of what most peop
 Vincent, R. (2011). *Three-Note Voicings and Beyond.* Sher Music Co.
 [ISBN 978-1-883-21766-2](https://en.wikipedia.org/wiki/Special:BookSources?isbn=978-1-883-21766-2){:#vincent-2011}.
 
+</div>

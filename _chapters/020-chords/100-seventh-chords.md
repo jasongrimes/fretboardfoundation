@@ -4,7 +4,7 @@ slug: seventh-chords
 abstract: Add a seventh interval to a triad chord to create a little tension. Introducing drop 2 and drop 3 chord voicings.
 ---
 
-## What are seventh chords
+## What are seventh chords?
 
 Seventh chords are triad chords with an additional "stacked third" on top,
 which is always some kind of seventh interval.
@@ -19,7 +19,7 @@ and a good way to add a little tension and interest to a chord.
 
 There are five types of seventh chord used in euroclassical harmony.
 
-<div class="table-wrapper" markdown="block">
+<div class="table-wrapper page-break-before" markdown="block">
 
 | Chord type             | Intervals   | Symbol (on C)               | Notes (on C) |
 |------------------------|-------------|-----------------------------|:------------:|
@@ -95,6 +95,7 @@ The closed voicings can sound "muddy",
 and opening them up can make them sound lighter and more spacious.
 
 ### Drop 3 voicing
+{:.page-break-before}
 
 {% include figure.html
     caption="6th-string root major seventh chord in drop 3 voicing."
@@ -134,6 +135,7 @@ we just need to remember a few things about drop voicings on guitar.
 These are examples of "drop 2" voicings.
 
 **Drop 2 voicings** on guitar have the following properties.
+{:.page-break-before}
 - A **5th-string** or **4th-string root**.
 - **No string skip**, on 4 contiguous strings.
 - A `R-5-7-3` voicing, the **third** factor **raised** an octave.
@@ -173,6 +175,7 @@ These are examples of "drop 2" voicings.
 %}
 
 ### A shape (drop 2)
+{:.page-break-before}
 
 {% include figure.html
     caption="Major seventh chord in A CAGED shape (drop 2 voicing)."
@@ -205,6 +208,7 @@ These are examples of "drop 2" voicings.
 %}
 
 ### D shape (drop 2)
+{:.page-break-before}
 
 {% include figure.html
     caption="Major seventh chord in D CAGED shape (drop 2 voicing)."

@@ -177,6 +177,7 @@ use it to play the secondary chords in the key of C major
 up and down the fretboard.
 
 **Practice the C minor shape with secondary chords in the key of C major:**
+{:.page-break-before}
 
 | 5th string root on fret | C Shape  | Chord |
 |:-----------------------:|:--------:|:-----:|
@@ -258,6 +259,7 @@ See {% include chapter-link.html slug="seventh-chords" %}
 for a detailed discussion of seventh chords.
 
 ## A shapes
+{:.page-break-before}
 
 ### A major shape
 
@@ -362,6 +364,7 @@ The treble triads can also be played by themselves:
 `xxx321` and `xx231x`.
 
 **Practice the A minor shape with secondary chords in the key of C major:**
+{:.page-break-before}
 
 | 5th string root on fret | A shape  | Chord |
 |:-----------------------:|:--------:|:-----:|
@@ -423,6 +426,7 @@ See {% include chapter-link.html slug="seventh-chords" %}
 for a detailed discussion of seventh chords.
 
 ## G shapes
+{:.page-break-before}
 
 ### G major shape
 
@@ -509,6 +513,7 @@ The G diminished shape can be gripped as
 `1xx324` or `2xx314`.
 
 **Practice G shapes with harmonized triads in the key of C major:**
+{:.page-break-before}
 
 | 6th string root on fret | G shape  | Chord |
 |:-----------------------:|:--------:|:-----:|
@@ -550,6 +555,7 @@ See {% include chapter-link.html slug="seventh-chords" %}
 for a detailed discussion of seventh chords.
 
 ## E shapes
+{:.page-break-before}
 
 ### E major shape
 
@@ -591,6 +597,7 @@ muting the 2nd string,
 as `1x43x2`.
 
 **Practice the E shape with primary chords in the key of C major:**
+{:.page-break-before}
 
 | 6th string root on fret | E shape  | Chord |
 |:-----------------------:|:--------:|:-----:|
@@ -687,6 +694,7 @@ See {% include chapter-link.html slug="seventh-chords" %}
 for a detailed discussion of seventh chords.
 
 ## D shapes
+{:.page-break-before}
 
 ### D major shape
 
@@ -737,6 +745,7 @@ especially when leading to another chord with a nearby bass note,
 as when playing a D shape V chord leading to a G shape I chord.
 
 **Practice the D shape with primary chords in the key of C major:**
+{:.page-break-before}
 
 | 4th string root on fret | D shape  | Chord |
 |:-----------------------:|:--------:|:-----:|
@@ -766,6 +775,7 @@ typically gripped as `xx1342`.
 | 2                       | minor    | Em    |
 
 ### D diminished shape
+{:.page-break-before}
 
 {% include figure.html
     caption="D diminished shape."
@@ -857,6 +867,7 @@ The treble triad with its root on the first string is derived from the E CAGED s
 %}
 
 ### Second-string root
+{:.page-break-before}
 
 The treble triad with its root on the second string is derived from the C and D CAGED shapes.
 
@@ -902,6 +913,7 @@ The treble triad with its root on the third string is derived from the A and G C
 
 
 ## Major chords on the entire fretboard
+{:.page-break-before}
 
 The following figures illustrate how CAGED shapes fit together on the fretboard,
 and point the way toward playing all the chords in a given key in one position
@@ -938,6 +950,7 @@ see {% include chapter-link.html slug="major-harmony" %}.
 %}
 
 ## Ergonomics
+{:.page-break-before}
 
 Some of the CAGED chord shapes are awkward or even impossible to play completely.
 Some CAGED grips,

@@ -56,6 +56,7 @@ Order of flats: B E A D G C F (the inverse, descending fifths)
 Mnemonic: *Battle Ends And Down Goes Charles' Father*
 
 ## Notes in each key
+{:.page-break-before}
 
 <div class="table-wrapper" markdown="block">
 
@@ -76,7 +77,7 @@ Mnemonic: *Battle Ends And Down Goes Charles' Father*
 </div>
 
 ## Finding the sharp/flat notes in a key
-
+{:.page-break-before}
 
 ### Natural keys 
 
@@ -104,6 +105,7 @@ Ex. key of Db has Bb Eb Ab Db Gb
 Figure out notes in the natural key, and sharpen every one.
 
 ## The circle of fifths
+{:.page-break-before}
 
 {% include figure.html
     caption="Circle of fifths, by 'Just plain Bill' on Wikipedia. See copyright page for details."

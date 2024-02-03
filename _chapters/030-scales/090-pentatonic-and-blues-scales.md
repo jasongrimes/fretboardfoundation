@@ -103,6 +103,9 @@ pentatonic scales can be represented by two "trichords".
 The missing fourth and seventh intervals from the diatonic major scale are also shown,
 to demonstrate how their absence removes the tritone and semitones.
 
+**C major pentatonic scale and its trichords on the fretboard**
+{:.page-break-before}
+
 {% include figure.html
     caption="C major pentatonic scale on 5th string."
     url="/assets/figures/pentatonic/C-major-5.svg"
@@ -120,6 +123,7 @@ starting from Db.
 
 
 ### Minor pentatonic scale
+{:.page-break-before}
 
 The minor pentatonic scale has tone-and-a-half intervals between degrees 1&#x302;-b3&#x302; and 5&#x302;-b7&#x302;.
 
@@ -147,6 +151,7 @@ The minor pentatonic scale can be played with just the black keys on a piano key
 starting from Bb.
 
 ### Relative major and minor
+{:.page-break-before}
 
 Like the natural minor (Aeolian) mode of the major scale,
 the minor pentatonic mode is a major sixth above, 
@@ -164,6 +169,9 @@ It's also the fifth mode of the major pentatonic scale.
 
 </div>
 
+**C major and relative A minor pentatonic scales on the fretboard**
+{:.page-break-before}
+
 {% include figure.html
     caption="C major pentatonic scale on 5th string."
     url="/assets/figures/pentatonic/C-major-5-offset.svg"
@@ -177,6 +185,7 @@ It's also the fifth mode of the major pentatonic scale.
 %}
 
 ### C form
+{:.page-break-before}
 
 {% include figure.html
     caption="Major pentatonic scale in C CAGED form."
@@ -213,6 +222,7 @@ Notice the relative major and minor forms:
 - The A minor form is the same as the C major form (above).
 
 ### G form
+{:.page-break-before}
 
 {% include figure.html
     caption="Major pentatonic scale in G CAGED form."
@@ -249,6 +259,7 @@ Notice the relative major and minor forms:
 - The E minor form is the same as the G major form (above).
 
 ### D form
+{:.page-break-before}
 
 {% include figure.html
     caption="Major pentatonic scale in D CAGED form."

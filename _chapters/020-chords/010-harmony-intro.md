@@ -61,7 +61,7 @@ the hero goes on an adventure,
 is victorious in a decisive crisis, 
 and comes home transformed.
 
-## Intervals: the building blocks
+## Intervals: the building blocks 
 
 Intervals are the basic building blocks of harmony.
 
@@ -144,6 +144,9 @@ See ["tone" in the glossary](glossary.html#tone) for details.
 
 This table shows the names of intervals based on how many semitones they contain,
 i.e. how many frets they span on one string.
+
+**Intervals on the fretboard**
+{:.no-page-break-after}
 
 <div class="table-wrapper" markdown="block">
 

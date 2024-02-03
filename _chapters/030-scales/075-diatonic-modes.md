@@ -4,7 +4,7 @@ slug: diatonic-modes
 abstract: The seven modes of the major scale describe the tonal environments of the seven diatonic chords in a major key.
 ---
 
-## What are diatonic modes
+## What are diatonic modes?
 
 The diatonic modes are the seven rotations of the major scale, 
 each starting at a different degree of the major scale 
@@ -43,7 +43,7 @@ A mnemonic to help remember the modes is "I Don't Punch Like Mohammed A-Li".
 
 **Modes of the major scale**
 
-<div class="table-wrapper" markdown="block">
+<div class="table-wrapper table-wide" markdown="block">
 
 |            | |T|T|S |T |T|T |S |T |T|S |T |T |T|S|
 |            |C|D|E|F |G |A|B |C |D |E|F |G |A |B|C|
@@ -119,6 +119,7 @@ The Ionian mode should be memorized.
 It allows us to immediately identify the interval between any two notes up to an octave apart on the fretboard.
 
 ### vi: Aeolian - minor
+{:.page-break-before}
 
 {% include figure.html
     caption="A Aeolian tetrachords relative to C major on bottom strings."
@@ -188,6 +189,7 @@ assemble the tetrachord on the 5th and 6th strings starting from the root of the
 and then play another Am.
 
 ## ii: Dorian
+{:.page-break-before}
 
 {% include figure.html
     caption="D Dorian tetrachords relative to C major on bottom strings."
@@ -228,6 +230,7 @@ assemble the tetrachord on the 5th and 6th strings starting from the root of the
 and then play another Dm.
 
 ## iii: Phrygian
+{:.page-break-before}
 
 {% include figure.html
     caption="E Phrygian tetrachords relative to C major on bottom strings."
