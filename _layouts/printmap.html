@@ -1,0 +1,6 @@
+{% for pg in site.chapters -%}
+{%- capture url -%}{% include chapter-vars.html id=pg.id %}{% unless chapter_is_draft %}{{ pg.url | remove_first: '/' -}}{% endunless %}{%- endcapture %}
+{%- capture sitemap_url %}{{ url|strip }}{% endcapture -%}
+{%- if sitemap_url.size > 0 %}{{ sitemap_url }}
+{% endif %}
+{%- endfor %}

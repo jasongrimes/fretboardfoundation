@@ -1,0 +1,69 @@
+.page-break-before {
+  break-before: page;
+}
+.no-page-break-after {
+  break-after: avoid;
+}
+
+.heading-chapter-title {
+  break-before: page;
+  string-set: chapter-title content(text);
+}
+.heading-part {
+  break-before: right;
+}
+.printable .figure.chord {
+  width: 145px;
+}
+
+.printable .table-wide td {
+  padding: 0.5em;
+}
+h1, h2, h3, h4 {
+  break-after: avoid;
+}
+figure {
+  break-inside: avoid;
+}
+figcaption {
+  break-inside: avoid;
+}
+
+@page {
+  @top-left {
+    content: "Fretboard Foundation";
+    font-style: italic;
+  }
+  @top-right {
+    content: string(chapter-title);
+    font-style: italic;
+  }
+  @bottom-center {
+    content: counter(page);
+  }
+} 
+@page:first {
+  @top-left {
+    content: none;
+  }
+  @top-right {
+    content: none;
+  }
+  @bottom-center {
+    content: none;
+  }
+}
+@page:blank {
+  @top-right {
+    content: none;
+  }
+} 
+
+.toc-chapters-full li a::before {
+  content: target-counter(attr(href), page);
+  float: right;
+  color: #666;
+}
+.toc-chapters-full li a {
+  width: 100%;
+}

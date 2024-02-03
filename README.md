@@ -61,6 +61,41 @@ Then connect to it from a mobile or other device on the same network using the I
 
 For example: http://10.0.0.10:4000
 
+# Generating the printable single-page version
+
+## Update the edition version
+
+Edit `_config.yml` and set `latest_edition` to the name of the new edition.
+
+Update [_pages/editions.md] with a link to the new edition.
+
+## Render the PDF
+
+Use the `bin/bookbinder` utiltity to compile all of the rendered HTML chapters into a single file 
+and modify all the HTML links and anchor tags accordingly.
+Then wrap it in the printable header and footer (printable-head.html and printable-footer.html).
+(Note that `bookbinder` is compiled for Apple Silicon. To use it on other architectures,
+see https://github.com/jasongrimes/bookbinder.)
+
+    cd _site
+    ../bin/bookbinder $(<printmap.txt) >printable-inner.html && \
+      cat printable-head.html printable-inner.html printable-footer.html >../printable.html
+
+Then open the printable file http://localhost:4000/printable.html in a web browser,
+and proofread the rendered preview. Make sure that pagination looks good throughout.
+If needed, add or remove page breaks by appending the following helper classes in appropriate places in the markdown:
+`{:.page-break-before}` and `{:.no-page-break-after}`.
+
+When it looks good, print it via the browser and select "Save as PDF". 
+(Note that as of this writing, 
+there's a bug in Chrome on Mac that prevents the pagination from rendering properly, 
+but it works when using Safari or Firefox.)
+
+Save the PDF file to `pdf/Fretboard-Foundation-YYYY-MM-DD.pdf`,
+and also copy it over the existing `pdf/Fretboard-Foundation.pdf`.
+
+## Tag the new version in Git and deploy
+
 # Generating offline site 
 
 ## With jekyll
