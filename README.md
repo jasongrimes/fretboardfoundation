@@ -67,13 +67,15 @@ For example: http://10.0.0.10:4000
 
 Edit `_config.yml` and set `latest_edition` to the name of the new edition.
 
-Update [_pages/editions.md] with a link to the new edition.
+Update `_pages/editions.md` with a link to the new edition.
 
 ## Render the PDF
 
+Generate the site locally as described above.
+
 Use the `bin/bookbinder` utiltity to compile all of the rendered HTML chapters into a single file 
 and modify all the HTML links and anchor tags accordingly.
-Then wrap it in the printable header and footer (printable-head.html and printable-footer.html).
+Then wrap it in the printable header and footer (`printable-head.html` and `printable-footer.html`).
 (Note that `bookbinder` is compiled for Apple Silicon. To use it on other architectures,
 see https://github.com/jasongrimes/bookbinder.)
 
