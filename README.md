@@ -92,7 +92,7 @@ there's a bug in Chrome on Mac that prevents the pagination from rendering prope
 but it works when using Safari or Firefox.)
 
 Save the PDF file to `pdf/Fretboard-Foundation-YYYY-MM-DD.pdf`,
-and also copy it over the existing `pdf/Fretboard-Foundation.pdf`.
+and also copy it over the existing `pdf/Fretboard Foundation.pdf`.
 
 ## Tag the new version in Git and deploy
 

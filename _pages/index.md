@@ -8,6 +8,8 @@ subtitle: Practical building blocks for intermediate guitarists.
 
 **[Read the book](book.html)**
 
+**[Download PDF](pdf/Fretboard Foundation.pdf)**
+
 **[Helpful tools](tools.html)**
 
 **[About this site](about.html)**
