@@ -66,8 +66,7 @@ For example: http://10.0.0.10:4000
 ## Update the edition version
 
 Edit `_config.yml` and set `latest_edition` to the name of the new edition.
-
-Update `_pages/editions.md` with a link to the new edition.
+(This will appear on the title page.)
 
 ## Render the PDF
 
@@ -95,6 +94,10 @@ but it works when using Safari or Firefox.)
 
 Save the PDF file to `pdf/Fretboard-Foundation-YYYY-MM-DD.pdf`,
 and also copy it over the existing `pdf/Fretboard Foundation.pdf`.
+
+## Update the list of editions
+
+Update `_pages/editions.md` with a link to the new edition.
 
 ## Tag a new release in GitHub
 
