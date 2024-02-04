@@ -94,7 +94,12 @@ but it works when using Safari or Firefox.)
 Save the PDF file to `pdf/Fretboard-Foundation-YYYY-MM-DD.pdf`,
 and also copy it over the existing `pdf/Fretboard Foundation.pdf`.
 
-## Tag the new version in Git and deploy
+## Tag a new release in GitHub
+
+Commit and push the changes to GitHub. 
+Then create a new release for the new edition on the GitHub website,
+following the existing naming convention at 
+https://github.com/jasongrimes/fretboardfoundation/releases
 
 # Generating offline site 
 
