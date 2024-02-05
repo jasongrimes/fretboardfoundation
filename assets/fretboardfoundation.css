@@ -59,6 +59,7 @@ figure.collapse {
 .book-body .body-inner .page-wrapper .page-inner {
   padding-bottom: 40px;
 }
+
 .page-footer {
   height: 200px;
 }
@@ -100,4 +101,11 @@ figure.collapse {
   .book .breadcrumb {
     display: none;
   }
+}
+
+.book-body .body-inner .page-wrapper .page-inner.homepage {
+  padding-bottom: 0;
+}
+.page-inner.homepage .markdown-section .font-larger p {
+  margin-bottom: 0.5em;
 }
