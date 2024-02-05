@@ -92,7 +92,7 @@
               {% endif %}
               &copy;
               {% if copyright_start_year and copyright_start_year != latest_year %}
-                {{ copyright_start_year }}-{% endif %}
+                {{ copyright_start_year }}-{% endif -%}
               {{ latest_year }}
               {{ site.author }}
               {% if site.copyright.url %}
