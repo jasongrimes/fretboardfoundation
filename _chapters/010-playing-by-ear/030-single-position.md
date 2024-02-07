@@ -27,7 +27,7 @@ Every pair of neighboring strings has the same relationship between their notes,
 While all other strings are tuned the same distance apart,
 there is a slightly smaller difference in pitch between strings 2 and 3.
 
-**Identical notes on neighoring strings**
+**Identical notes on neighboring strings**
 {:.no-page-break-after}
 
 {% include figure.html
