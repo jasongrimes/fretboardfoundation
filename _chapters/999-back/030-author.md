@@ -15,7 +15,7 @@ he likes to think he has some insight into the most practical things worth knowi
 and the fastest ways to learn them.
 
 He is a software developer by profession. 
-He considers himself fortunate to be able to do music for love and
+He considers himself fortunate to be able to play music for love and
 not money. 
-His aim is to condense, clarify, and share freely
+His aim is to condense, clarify, and freely share
 the things he's learned about music that might be useful to others. 
