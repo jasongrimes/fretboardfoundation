@@ -17,5 +17,5 @@ and the fastest ways to learn them.
 He is a software developer by profession. 
 He considers himself fortunate to be able to play music for love and
 not money. 
-His aim is to condense, clarify, and freely share
+His aim is to condense, clarify, and share
 the things he's learned about music that might be useful to others. 
