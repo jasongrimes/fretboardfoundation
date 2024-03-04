@@ -63,7 +63,7 @@ because scales are the simple patterns that underlie almost all music.
 In theory,
 if we were stranded on a desert island with only the major scale
 (and a full stock of provisions),
-we might eventually reinvent diatonic harmony from first principles.
+we might eventually reinvent tonal harmony from first principles.
 
 A practical and hopefully enlightening approach to scales is given in [Part 3](scales.html).
 
