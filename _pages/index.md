@@ -85,11 +85,11 @@ Fretboard Foundation was created to provide a better way.
 
 ## Try the Fretboard Foundation approach
 
-To get started, you can read the book now:
+To get started now, you can read the book for free today:
 **[Online](book.html)**
 |
 **[PDF](pdf/Fretboard Foundation.pdf)**
 
-**Coming soon**: Step-by-step self-paced courses, and one-on-one private lessons. 
+**Coming soon**: In the near future you'll be able to get step-by-step self-paced courses and one-on-one private lessons from this site. 
 
 Send an email to [hello@fretboardfoundation.com](mailto:hello@fretboardfoundation.com) to learn more.
