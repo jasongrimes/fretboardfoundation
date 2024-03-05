@@ -59,7 +59,7 @@ The traditional approach to music education hasn’t changed much since the clas
 
 ### It was meant to produce human machines
 
-The object of music education was to produce finely tuned human machines who could perform note-for-note renditions of scores written by a handful of composers who somehow had access to the mysterious creative process. 
+The original object of traditional music education was to produce finely tuned human machines who could perform note-for-note renditions of scores written by a handful of composers who somehow had access to the mysterious creative process. 
 
 Because there was no audio recording technology at the time, musicians were trained to be essentially human record players. 
 
