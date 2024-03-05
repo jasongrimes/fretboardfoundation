@@ -79,7 +79,7 @@ But traditional music education is not very helpful for this. In the early stage
 
 Many potentially talented artists are turned off by the dry and boring educational process, and give up before they are able to express themselves on the instrument. 
 
-And many musicians who have been trained the traditional way are very good at site reading scores and performing someone else’s music, but find themselves unable to jam, improvise creatively, or play even simple melodies by ear.
+And many musicians who have been trained the traditional way are very good at sight reading scores and performing someone else’s music, but find themselves unable to jam, improvise creatively, or play even simple melodies by ear.
 
 Fretboard Foundation was created to provide a better way.
 
