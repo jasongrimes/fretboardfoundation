@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Fretboard Foundation
-subtitle: A practical approach to fluency and creativity on guitar.
+subtitle: Learn to play guitar creatively and fluently.
 class: homepage
 ---
 
