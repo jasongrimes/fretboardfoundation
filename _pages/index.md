@@ -71,7 +71,11 @@ It was work, not play. It was never meant to be fun.
 
 ### We don't need human record players anymore
 
-Times have changed. Today, if we want to hear some music, it only takes a couple clicks on Spotify or YouTube to play almost any song at any moment. We don’t depend on talented musicians to reproduce it for us in person. Musicians no longer need to be human record players. The object of music education can be different now.
+Times have changed. 
+
+Today, if we want to hear some music, it only takes a couple clicks on Spotify or YouTube to play almost any song at any moment. We don’t depend on talented musicians to reproduce it for us in person. Musicians no longer need to be human record players. 
+
+The object of music education can be different now.
 
 ### Creative artists are  ill-suited by the traditional method
 
