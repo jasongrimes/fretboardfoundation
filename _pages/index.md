@@ -23,9 +23,9 @@ I'm Jason Grimes.
 I created the Fretboard Foundation method because after decades of study, I was never happy with the traditional method of guitar teaching. 
 
 Though I searched for most of my life, I could never find a straightforward explanation of the core knowledge that was obviously possessed by those I considered masters of the art. They would share bits and pieces of wisdom,
-but it was always incomplete and left a tremendous amount unsaid.  
+but it was always incomplete and left a tremendous amount unsaid.  It had yet to be analyzed and distilled into an accessible method. 
 
-It had yet to be analyzed and distilled into an accessible method. So eventually I assembled it myself.
+So eventually I assembled it myself.
 
 ## What’s different about Fretboard Foundation?
 
