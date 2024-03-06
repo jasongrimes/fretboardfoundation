@@ -29,7 +29,8 @@ All editions are available at
 
 ## Copyright
 
-Copyright &copy; 2022-{{ "now" | date: "%Y" }} by Jason Grimes.
+Copyright &copy; 2022-{{ "now" | date: "%Y" }} by Jason Grimes. 
+All rights reserved.
 
 #####  Credits
 
