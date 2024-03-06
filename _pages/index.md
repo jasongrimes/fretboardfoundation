@@ -12,7 +12,7 @@ class: homepage
 
 ## A novel approach to learning guitar
 
-The Fretboard Foundation method is the fastest way to learn the most fun and fulfilling kinds of guitar playing: improvisation, soloing, jamming with others, chord melody, and playing by ear. 
+This is the fastest way to learn the most fun and fulfilling kinds of guitar playing: improvisation, soloing, jamming with others, chord melody, and playing by ear. 
 
 It’s also the most thorough way to master Western tonal harmony on the fretboard.
 
