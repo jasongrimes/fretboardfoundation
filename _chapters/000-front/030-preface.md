@@ -7,7 +7,11 @@ disable_toc: false
 
 ## Why this book?
 
-This is the book I always wanted to learn guitar from. It didn't exist, so eventually I just had to write it. Now I use it as the core of my ongoing music studies.
+This is the book I always wanted to learn guitar from, but I could never find. 
+
+Eventually I decided I had to write it myself, distilled from my analysis of those I consider masters of the art. 
+
+Now I use it as the basis for my ongoing music studies.
 
 ## Intermediate material is needed
 
