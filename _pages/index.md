@@ -89,7 +89,7 @@ Today, if we want to hear some music, it only takes a couple clicks on Spotify o
 
 The object of music education can be different now.
 
-### Creative artists are  ill-suited by the traditional method
+### Creative artists are  ill-served by traditional methods
 
 Today, the best reason to play music is to express ourselves creatively. To move others, and ourselves, and produce profound shared experiences. To create art, and to have fun.
 
