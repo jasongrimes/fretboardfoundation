@@ -6,9 +6,9 @@ class: homepage
 ---
 
 **Read the book:**
-**[Online](book.html)**
+**[Free on the web](book.html)**
 |
-**[PDF](pdf/Fretboard Foundation.pdf)**
+**[Buy PDF](pdf/Fretboard Foundation.pdf)**
 
 ## A novel approach to learning guitar
 
