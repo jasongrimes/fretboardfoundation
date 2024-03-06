@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Fretboard Foundation
-subtitle: Practical building blocks for creative guitar.
+subtitle: A practical approach to fluency and creativity on guitar.
 class: homepage
 ---
 
