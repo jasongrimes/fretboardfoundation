@@ -40,7 +40,7 @@ We should not assume that you have years to dedicate to an assembly line method,
 
 Instead, Fretboard Foundation gets you playing music you like _today_, and then a little bit better music tomorrow, and a little better every day after.
 Until life inevitably gets in the way, and you need to take a break for a while.
-Then in the future, you can pick up more or less where you left off, and continue your journey.
+Then in the future, you can pick up more or less where you left off, and continue on your journey.
 
 ### Master Western harmony from the fundamentals
 
