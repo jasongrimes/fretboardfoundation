@@ -47,7 +47,7 @@ It's based on the idea of _triage_: doing the most important things first to mak
 
 In the long run, it would be ideal to learn everything. But life is rarely ideal, and the length of our run is unknown.
 
-We should not assume that you have years to dedicate to an assembly line method, with dull but carefully planned practice routines every day, step after boring step, until months or years later you are ready to play music you actually like.
+We should not assume that you have years to dedicate to an assembly line method, with dull but carefully planned practice routines every day, step after boring step, until months or years later you are able to play music you actually like.
 
 Instead, Fretboard Foundation gets you playing music you like _today_, and then a little bit better music tomorrow, and a little better every day after.
 Until life inevitably gets in the way, and you need to take a break for a while.
