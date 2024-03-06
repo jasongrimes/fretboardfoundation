@@ -23,7 +23,8 @@ I created Fretboard Foundation because after decades of study, I had grown deepl
 And though I searched for most of my life, I could never find a straightforward explanation of the core knowledge that was obviously possessed by those I considered masters of the art. They would share bits and pieces of wisdom,
 but it was always incomplete and left a tremendous amount unsaid.  It had yet to be analyzed and distilled into an accessible method. 
 
-So eventually I assembled it myself.
+Eventually, I assembled it myself.
+The result is Fretboard Foundation.
 
 ## What’s different about Fretboard Foundation?
 
