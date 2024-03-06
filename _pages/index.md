@@ -101,7 +101,7 @@ And many musicians who have been trained the traditional way are very good at si
 
 Fretboard Foundation was created to provide a better way.
 
-## Try the Fretboard Foundation approach
+## Try Fretboard Foundation today
 
 To get started now, you can read the Fretboard Foundation book today:  
 **[Read free on the web](book.html)**
