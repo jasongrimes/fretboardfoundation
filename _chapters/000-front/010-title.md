@@ -22,10 +22,10 @@ This edition: **{{ site.latest_edition }}**
 <span class="printable-hidden">plus revisions as of **{{ "now" | date: "%B %e, %Y" }}**.</span>
 
 The latest version of this book can always be found at
-[fretboardfoundation.com/book.html](https://fretboardfoundation.com/book.html)
+[fretboardfoundation.com/book](https://fretboardfoundation.com/book)
 
 All editions are available at 
-[fretboardfoundation.com/editions.html](https://fretboardfoundation.com/editions.html)
+[fretboardfoundation.com/editions](https://fretboardfoundation.com/editions)
 
 ## Copyright
 
