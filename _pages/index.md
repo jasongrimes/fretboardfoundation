@@ -71,7 +71,7 @@ While it’s truly amazing to see and hear the achievements of highly skilled cl
 
 Times have changed. Today, if we want to hear some music, it only takes a couple clicks on Spotify or YouTube to play almost any song at any moment. We don’t depend on talented musicians to reproduce it for us in person. Musicians no longer need to be human record players. The object of music education can be different now.
 
-### It's not suited to training creative artists
+### Creative artists are  ill-suited by the traditional method
 
 Today, the best reason to play music is to express ourselves creatively. To move others, and ourselves, and produce profound shared experiences. To create art, and to have fun.
 
