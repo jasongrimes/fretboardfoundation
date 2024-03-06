@@ -65,7 +65,9 @@ Because there was no audio recording technology at the time, musicians were trai
 
 ### It was never meant to be fun
 
-While it’s truly amazing to see and hear the achievements of highly skilled classical musicians, the training that produced them was exhausting and even brutal. It was never meant to be fun.
+While it’s truly amazing to see and hear the achievements of highly skilled classical musicians, the training that produced them was exhausting and even brutal. 
+
+It was work, not play. It was never meant to be fun.
 
 ### We don't need human record players anymore
 
