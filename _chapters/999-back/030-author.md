@@ -5,7 +5,7 @@ abstract: Jason Grimes is just some guy who plays guitar.
 disable_toc: true
 ---
 
-Jason Grimes has been playing guitar off and on for over 30 years. 
+Jason Grimes has been playing guitar for over 30 years. 
 He's self-taught and likes to do things his own way. 
 He enjoys improvising, studying, and analyzing things from multiple perspectives. 
 
