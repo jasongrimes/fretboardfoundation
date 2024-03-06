@@ -20,7 +20,7 @@ The Fretboard Foundation method is the fastest way to learn the most fun and ful
 
 For starters, Fretboard Foundation gets you jamming along with music you enjoy within the _first minutes_ of your very first lesson.
 
-The objective of this method is to learn to _create music_;
+The object of this method is to learn to _create music_;
 to express yourself creatively on the guitar.
 To play by ear, and improvise guitar solos, and even to play chord melody, starting at the very beginning of your studies.
 
