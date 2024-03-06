@@ -18,7 +18,7 @@ It’s also the most thorough way to master Western tonal harmony on the fretboa
 
 ## Why this method?
 
-I'm Jason Grimes. 
+I'm Jason Grimes. I've been studying music and playing guitar for over 30 years.
 
 I created the Fretboard Foundation method because after decades of study, I was never happy with the traditional method of guitar teaching. 
 
