@@ -96,7 +96,7 @@ To get started now, you can read the book for free today:
 |
 **[PDF](pdf/Fretboard Foundation.pdf)**
 
-**Coming soon**: In the near future you'll be able to get step-by-step self-paced courses and one-on-one private lessons from this site.
+**Coming soon**: In the near future this site will provide step-by-step self-paced courses, live workshops, and one-on-one private lessons.
 
 Follow me on social media for updates:
 <div style="margin-bottom: 5px; margin-left: 0;">
@@ -106,4 +106,4 @@ Follow me on social media for updates:
 <a href="https://x.com/fretboardfound" title="X / Twitter" target="_blank" rel="noreferrer"><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-x" width="24" height="24" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M4 4l11.733 16h4.267l-11.733 -16z" /><path d="M4 20l6.768 -6.768m2.46 -2.46l6.772 -6.772" /></svg></a>
 </div>
 
-Send an email to [hello@fretboardfoundation.com](mailto:hello@fretboardfoundation.com) to learn more.
+Contact me at [hello@fretboardfoundation.com](mailto:hello@fretboardfoundation.com) for more information.
