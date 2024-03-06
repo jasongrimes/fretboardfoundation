@@ -104,10 +104,12 @@ Fretboard Foundation was created to provide a better way.
 
 ## Try the Fretboard Foundation approach
 
-To get started now, you can read the book for free today:
-**[Online](book.html)**
+To get started now, you can read the Fretboard Foundation book today:  
+**[Read free on the web](book.html)**
 |
-**[PDF](pdf/Fretboard Foundation.pdf)**
+**[Buy PDF](pdf/Fretboard Foundation.pdf)**
+
+The book is a complete manual, but it does not provide a step-by-step method.
 
 **Coming soon**: In the near future this site will provide step-by-step self-paced courses, live workshops, and one-on-one private lessons.
 
