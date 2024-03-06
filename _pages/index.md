@@ -14,7 +14,7 @@ class: homepage
 
 Fretboard Foundation is the fastest way to learn the most fulfilling kinds of guitar playing: improvisation, soloing, jamming with others, chord melody, and playing by ear. 
 
-It’s also the most thorough way to master Western tonal harmony on the fretboard.
+It’s also the most thorough way to master Western harmony on the fretboard.
 
 ## Why this method?
 
