@@ -55,7 +55,7 @@ and gradually expanded upon as you achieve more and more fluency.
 
 ### It's outdated
 
-The traditional approach to music education hasn’t changed much since the classical period over 200 years ago. The rise of the formal concert hall in the 19th century, and the dawn of the Industrial Age, turned playing music into a profession, and music teaching into a kind of vocational training. 
+The traditional approach to music education hasn’t changed much since the Classical period over 200 years ago. The rise of the formal concert hall in the 19th century, and the dawn of the Industrial Age, turned playing music into a profession, and music teaching into a kind of vocational training. 
 
 ### It was meant to produce human machines
 
