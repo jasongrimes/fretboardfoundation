@@ -11,7 +11,6 @@ logo_bottom: false
 
 ## Summary
 
-Practical music theory for intermediate guitarists.
 Fretboard Foundation aims to organize and simplify the information required for fluency on guitar,
 including playing by ear, chords and harmony, and scales and melody.
 
