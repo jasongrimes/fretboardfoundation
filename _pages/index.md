@@ -69,15 +69,13 @@ While it’s truly amazing to see and hear the achievements of highly skilled cl
 
 It was work, not play. It was never meant to be fun.
 
-### We don't need human record players anymore
-
 Times have changed. 
 
 Today, if we want to hear some music, it only takes a couple clicks on Spotify or YouTube to play almost any song at any moment. We don’t depend on talented musicians to reproduce it for us in person. Musicians no longer need to be human record players. 
 
 The object of music education can be different now.
 
-### Creative artists are  ill-served by traditional methods
+### It doesn't suit creative artists 
 
 Today, the best reason to play music is to express ourselves creatively. To move others, and ourselves, and produce profound shared experiences. To create art, and to have fun.
 
