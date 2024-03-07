@@ -12,7 +12,7 @@ class: homepage
 
 ## A novel approach to learning guitar
 
-Learn to **jam fluently** on guitar by **mindful listening** and internalized **fretboard harmony**.
+Learn to **jam fluently** on guitar by **mindful listening** and mastering **fretboard harmony**.
 
 Fretboard Foundation is the fastest way to learn the most fulfilling kinds of guitar playing: improvisation, soloing, jamming with others, chord melody, and playing by ear. 
 
