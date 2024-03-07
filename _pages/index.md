@@ -46,8 +46,6 @@ If your guitar studies get interrupted in a few months and you need to take a br
 
 *Right now*, given the overwhelming amount there is to learn, how can you make the most progress in the shortest time? What’s the minimum you need to learn, and the fastest way to learn it?
 
-That's what the Fretboard Foundation method is for. 
-
 ### Master Western harmony from the fundamentals
 
 After you have begun to develop your ear and your taste by creating real music you enjoy, 
@@ -55,7 +53,7 @@ Fretboard Foundation begins to introduce fundamental concepts of Western harmony
 
 They are incorporated in the simplest and most practical forms at first,
 in such a way that you can actually use them to create even better music,
-and gradually expanded upon as you achieve more and more fluency.
+and gradually expanded upon as you achieve greater and greater fluency.
 
 ## What’s wrong with traditional guitar teaching?
 
