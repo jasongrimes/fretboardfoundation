@@ -79,7 +79,7 @@ It was work, not play. It was never meant to be fun.
 
 Today, the best reason to play music is to express ourselves creatively. To move others, and ourselves, and produce profound shared experiences. To create art, and to have fun.
 
-But traditional music education is not very helpful for this. In the early stages especially, it is just not very fun. And in the end, after all that effort, it often doesn’t get us much closer to creativity or self-expression, either. 
+But traditional music education is not very helpful for this. Especially in the early stages, it is just not very fun. And in the end, after all that effort, it doesn’t get us much closer to creativity or self-expression, either. 
 
 Many potentially talented artists are turned off by the dry and boring educational process, and give up before they are able to express themselves on the instrument. 
 
