@@ -36,13 +36,15 @@ rather than by a boring "no pain, no gain" teaching method that promises fun som
 Fretboard Foundation introduces guitar skills in a different and more useful order than they are taught in traditional methods.
 It's based on the idea of _triage_: doing the most important things first to make the best of limited time and resources.
 
-In the long run, it would be ideal to learn everything. But life is rarely ideal, and the length of our run is unknown.
-
 We should not assume that you have years to dedicate to an assembly line method, with dull but carefully planned practice routines every day, step after boring step, until months or years later you are able to play music you actually like.
 
-Instead, Fretboard Foundation gets you playing music you like _today_, and then a little bit better music tomorrow, and a little better every day after.
-Until life inevitably gets in the way, and you need to take a break for a while.
-Then later on you can pick up more or less where you left off, and continue on your journey.
+In the long run, it would be ideal to learn everything. But life is rarely ideal, and the length of our run is unknown.
+
+If your studies get interrupted in a few months and you need to take a break for awhile, will the next months of study have been well spent? Making music you enjoy, building a foundation that will endure throughout your life? Or will that time be essentially lost, with nothing to show for it?
+
+*Right now*, given the overwhelming amount there is to learn, how can you make the most progress in the shortest time? What’s the minimum you need to learn, and the fastest way to learn it?
+
+That's what the Fretboard Foundation method is for. 
 
 ### Master Western harmony from the fundamentals
 
