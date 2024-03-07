@@ -45,7 +45,7 @@ sidebar_nav_top:
 # Links shown below the TOC in the sidebar
 sidebar_nav_bottom:
 - label: Download PDF
-  url: pdf/Fretboard%20Foundation.pdf
+  url: https://fretboardfoundation.ck.page/book-pdf
 - label: Tools
   url: /tools.html
 - label: Draft outline
