@@ -40,7 +40,7 @@ We should not assume that you have years to dedicate to an assembly line method,
 
 In the long run, it would be ideal to learn everything. But life is rarely ideal, and the length of our run is unknown.
 
-If your studies get interrupted in a few months and you need to take a break for awhile, will the next months of study have been well spent? Making music you enjoy, building a foundation that will endure throughout your life? Or will that time be essentially lost, with nothing to show for it?
+If your guitar studies get interrupted in a few months and you need to take a break for awhile, will the next months of effort have been well spent? Making music you enjoy, building a foundation that will endure throughout your life? Or will that time be essentially lost, with nothing to show for it?
 
 *Right now*, given the overwhelming amount there is to learn, how can you make the most progress in the shortest time? What’s the minimum you need to learn, and the fastest way to learn it?
 
