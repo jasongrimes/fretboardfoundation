@@ -16,16 +16,6 @@ Fretboard Foundation is the fastest way to learn the most fulfilling kinds of gu
 
 It’s also the most thorough way to master Western harmony on the fretboard.
 
-## Why this method?
-
-I created Fretboard Foundation because after decades of study, I had grown deeply unsatisfied with the traditional method of guitar teaching. 
-
-And though I searched for most of my life, I could never find a straightforward explanation of the core knowledge that was obviously possessed by those I considered masters of the art. They would share bits and pieces of wisdom,
-but it was always incomplete and left a tremendous amount unsaid.  It had yet to be analyzed and distilled into an accessible method. 
-
-Eventually, I assembled it myself.
-The result is Fretboard Foundation.
-
 ## What’s different about Fretboard Foundation?
 
 ### Get good enough to jam, right away
