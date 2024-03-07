@@ -59,7 +59,7 @@ and gradually expanded upon as you achieve greater and greater fluency.
 
 The traditional approach to music education hasn’t changed much since the Classical period over 200 years ago. The rise of the formal concert hall in the 19th century, and the dawn of the Industrial Age, turned playing music into a profession, and music teaching into a kind of vocational training. 
 
-Because there was no audio recording technology at the time, musicians were trained to be essentially human record players. 
+Because there was no audio recording technology at the time, musicians were trained to essentially be human record players. 
 
 Times have changed. 
 
