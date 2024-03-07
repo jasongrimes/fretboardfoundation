@@ -48,8 +48,8 @@ That's what the Fretboard Foundation method is for.
 
 ### Master Western harmony from the fundamentals
 
-After you have begun to develop your ear and your taste by creating real music that you enjoy,
-the Fretboard Foundation begins to introduce fundamental concepts of Western harmony and more advanced guitar skills.
+After you have begun to develop your ear and your taste by creating real music you enjoy, 
+Fretboard Foundation begins to introduce fundamental concepts of Western harmony and more advanced guitar skills.
 
 They are incorporated in the simplest and most practical forms at first,
 in such a way that you can actually use them to create even better music,
