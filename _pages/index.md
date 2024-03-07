@@ -59,8 +59,6 @@ and gradually expanded upon as you achieve more and more fluency.
 
 The traditional approach to music education hasn’t changed much since the Classical period over 200 years ago. The rise of the formal concert hall in the 19th century, and the dawn of the Industrial Age, turned playing music into a profession, and music teaching into a kind of vocational training. 
 
-### It was meant to produce human machines
-
 The object of traditional music education was to produce finely tuned human machines who could perform note-for-note renditions of scores written by a handful of composers who somehow had access to the mysterious creative process. 
 
 Because there was no audio recording technology at the time, musicians were trained to be essentially human record players. 
