@@ -5,10 +5,10 @@ subtitle: Learn to play guitar with creativity and fluency.
 class: homepage
 ---
 
-**Get the book:**. 
-**[Read free on the web](book.html)**
+**Get the book, for free!**. 
+**[Read on the web](book.html)**
 |
-**[Download PDF](pdf/Fretboard Foundation.pdf)**
+**[Download PDF](https://fretboardfoundation.ck.page/book-pdf)**
 
 ## A novel approach to learning guitar
 
@@ -89,10 +89,10 @@ Fretboard Foundation was created to provide a better way.
 
 ## Try Fretboard Foundation
 
-To get started now, you can read the Fretboard Foundation book today:  
-**[Read free on the web](book.html)**
+To get started now, you can read the free Fretboard Foundation book today:  
+**[Read on the web](book.html)**
 |
-**[Download PDF](pdf/Fretboard Foundation.pdf)**
+**[Download PDF](https://fretboardfoundation.ck.page/book-pdf)**
 
 The book is a complete manual, but it does not provide a step-by-step method.
 
