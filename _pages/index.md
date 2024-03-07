@@ -59,21 +59,19 @@ and gradually expanded upon as you achieve more and more fluency.
 
 The traditional approach to music education hasn’t changed much since the Classical period over 200 years ago. The rise of the formal concert hall in the 19th century, and the dawn of the Industrial Age, turned playing music into a profession, and music teaching into a kind of vocational training. 
 
-The object of traditional music education was to produce finely tuned human machines who could perform note-for-note renditions of scores written by a handful of composers who somehow had access to the mysterious creative process. 
-
 Because there was no audio recording technology at the time, musicians were trained to be essentially human record players. 
-
-### It was never meant to be fun
-
-While it’s truly amazing to see and hear the achievements of highly skilled classical musicians, the training that produced them was exhausting and even brutal. 
-
-It was work, not play. It was never meant to be fun.
 
 Times have changed. 
 
 Today, if we want to hear some music, it only takes a couple clicks on Spotify or YouTube to play almost any song at any moment. We don’t depend on talented musicians to reproduce it for us in person. Musicians no longer need to be human record players. 
 
-The object of music education can be different now.
+### It was never meant to be fun
+
+The object of traditional music education was to produce finely tuned human machines who could perform note-for-note renditions of scores written by a handful of composers who somehow had access to the mysterious creative process. 
+
+While it’s truly amazing to see and hear the achievements of highly skilled classical musicians, the training that produced them was exhausting and even brutal. 
+
+It was work, not play. It was never meant to be fun.
 
 ### It doesn't suit creative artists 
 
