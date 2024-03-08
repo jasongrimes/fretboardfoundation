@@ -24,9 +24,6 @@ This edition: **{{ site.latest_edition }}**
 The latest version of this book can always be found at
 [fretboardfoundation.com/book](https://fretboardfoundation.com/book)
 
-All editions are available at 
-[fretboardfoundation.com/editions](https://fretboardfoundation.com/editions)
-
 ## Copyright
 
 Copyright &copy; 2022-{{ "now" | date: "%Y" }} by Jason Grimes. 
