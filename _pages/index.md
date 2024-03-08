@@ -96,7 +96,7 @@ To get started now, you can read the free Fretboard Foundation book today:
 
 The book is a complete manual, but it does not provide a step-by-step method.
 
-### Coming soon
+### Lessons coming soon
 
 I'm currently preparing step-by-step self-paced courses, free short video lessons, and live workshops. One-on-one private lessons will also be available.
 
