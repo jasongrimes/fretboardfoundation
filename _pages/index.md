@@ -100,7 +100,7 @@ I'm currently creating step-by-step self-paced courses, free short video lessons
 
 ### Get notified of updates
 
-Subscribe to the Fretboard Foundation newsletter to be notified when new learning materials are available (unsubscribe at any time):
+Subscribe to the Fretboard Foundation newsletter below to get notified when new learning materials are available. (Unsubscribe at any time.)
 
 <!-- ConvertKit Newsletter Subscribe form -->
 <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
