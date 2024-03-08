@@ -36,7 +36,7 @@ rather than by a boring "no pain, no gain" teaching method that promises fun som
 Fretboard Foundation introduces guitar skills in a different and more useful order than they are taught in traditional methods.
 It's based on the idea of _triage_: doing the most important things first to make the best of limited time and resources.
 
-We should not assume that you have years to dedicate to an assembly line method, with dull but carefully planned practice routines every day, step after boring step, until months or years later you are able to play music you actually like.
+We should not assume that you have years to dedicate to an assembly line method, with dull but carefully planned practice routines, step after boring step, until months or years later you may finally be able to play music you actually like.
 
 In the long run, it would be ideal to learn everything. But life is rarely ideal, and the length of our run is unknown.
 
