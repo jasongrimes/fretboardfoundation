@@ -96,7 +96,9 @@ The book is a complete manual, but it does not provide a step-by-step method.
 
 **Coming soon**, this site will provide step-by-step self-paced courses, live workshops, and one-on-one private lessons.
 
-Subscribe to the Fretboard Foundation newsletter to be notified when courses are available (unsubscribe at any time):
+### Get notified of updates
+
+Subscribe to the Fretboard Foundation newsletter to be notified when new learning materials are available (unsubscribe at any time):
 
 <!-- ConvertKit Newsletter Subscribe form -->
 <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
