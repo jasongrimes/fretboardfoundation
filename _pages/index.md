@@ -5,7 +5,7 @@ subtitle: Learn to play guitar with creativity and fluency.
 class: homepage
 ---
 
-**Get the book, for free!**  
+**Get the 200+ page book, for free!**  
 **[Read on the web](book.html)**
 |
 **[Download PDF](https://fretboardfoundation.ck.page/book-pdf)**
