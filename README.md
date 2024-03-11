@@ -176,3 +176,29 @@ downloadLink.href = svgUrl;
 downloadLink.download = filename;
 $("#output")[0].after(downloadLink);
 ```
+
+# Generating bulk redirect list to change book site domain name
+
+- Build the site offline using instructions above.
+- `cd _site`
+- Make redirects for chapters and pages
+
+```
+cat sitemap.txt | sed 's/^https\:\/\///' | awk '{ print "https://" $1 "," "https://book." $1 }' > redirect-pages.csv
+```
+
+- Manually edit the redirects to remove:
+  - privacy.html
+  - index.html
+  - editions.html
+- Manually add to redirects:
+  - Add at top (make sure it's a **302** (temporary) redirect): `https://fretboardfoundation.com/,https://book.fretboardfoundation.com,302`
+  - `https://fretboardfoundation.com/book,https://book.fretboardfoundation.com/book.html`
+
+If it's ever needed, make redirects for figures as follows.
+(It's not needed because we only need to redirect the pages that could have been bookmarked or indexed by search engines.
+Once redirected, the locally hosted images work.)
+
+```
+find ./assets/figures -type f  | sed 's/^\.//' | awk '{ print "https://fretboardfoundation" $1 "," "https://book.fretboardfoundation.com" $1 }' > redirect-figures.csv
+```
