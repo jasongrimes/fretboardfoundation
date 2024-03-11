@@ -3,18 +3,22 @@
 This is the source code for a book I’m slowly writing called
 _Fretboard Foundation: Practical building blocks for intermediate guitarists_, hosted at [fretboardfoundation.com](https://fretboardfoundation.com).
 
-The website is rendered into static HTML with [Jekyll](https://jekyllrb.com/) via [GitHub Pages](https://pages.github.com/), 
+The website is rendered into static HTML with [Jekyll](https://jekyllrb.com/) via [GitHub Pages](https://pages.github.com/),
 using a custom Jekyll theme I created to support a proper book format and my preferred workflow
 ([jekyll-chapterbook](https://github.com/jasongrimes/jekyll-chapterbook)).
+
+## Copyright
+
+Copyright &copy; 2022-2024 by Jason Grimes.
 
 ## Style guide
 
 See [Journal of Music Theory Style Guide](https://www.dukeupress.edu/Assets/Downloads/JMT_sg.pdf).
 
 ### Citation style
- 
-* [APA style](https://www.scribbr.com/citing-sources/citation-styles/#apa)
-* [APA citation generator](https://www.scribbr.com/apa-citation-generator/)
+
+- [APA style](https://www.scribbr.com/citing-sources/citation-styles/#apa)
+- [APA citation generator](https://www.scribbr.com/apa-citation-generator/)
 
 ### Adding references and citations
 
@@ -28,7 +32,7 @@ Install versions to match https://pages.github.com/versions/
 
 Install RVM https://rvm.io/
 
-Install the _same version of Ruby used by GitHub pages_, 
+Install the _same version of Ruby used by GitHub pages_,
 and then the jekyll gem.
 
     rvm install ruby-2.7.4
@@ -72,7 +76,7 @@ Edit `_config.yml` and set `latest_edition` to the name of the new edition.
 
 Generate the site locally as described above.
 
-Use the `bin/bookbinder` utiltity to compile all of the rendered HTML chapters into a single file 
+Use the `bin/bookbinder` utiltity to compile all of the rendered HTML chapters into a single file
 and modify all the HTML links and anchor tags accordingly.
 Then wrap it in the printable header and footer (`printable-head.html` and `printable-footer.html`).
 (Note that `bookbinder` is compiled for Apple Silicon. To use it on other architectures,
@@ -87,9 +91,9 @@ and proofread the rendered preview. Make sure that pagination looks good through
 If needed, add or remove page breaks by appending the following helper classes in appropriate places in the markdown:
 `{:.page-break-before}` and `{:.no-page-break-after}`.
 
-When it looks good, print it via the browser and select "Save as PDF". 
-(Note that as of this writing, 
-there's a bug in Chrome on Mac that prevents the pagination from rendering properly, 
+When it looks good, print it via the browser and select "Save as PDF".
+(Note that as of this writing,
+there's a bug in Chrome on Mac that prevents the pagination from rendering properly,
 but it works when using Safari or Firefox.)
 
 Save the PDF file to `pdf/Fretboard-Foundation-YYYY-MM-DD.pdf`,
@@ -101,12 +105,12 @@ Update `_pages/editions.md` with a link to the new edition.
 
 ## Tag a new release in GitHub
 
-Commit and push the changes to GitHub. 
+Commit and push the changes to GitHub.
 Then create a new release for the new edition on the GitHub website,
-following the existing naming convention at 
+following the existing naming convention at
 https://github.com/jasongrimes/fretboardfoundation/releases
 
-# Generating offline site 
+# Generating offline site
 
 ## With jekyll
 
@@ -131,38 +135,44 @@ https://github.com/jasongrimes/fretboardfoundation/releases
 https://jsfiddle.net/m2kjgLbs/
 
 ```javascript
-const note = 'C/4';
-const filename = 'note-C4.svg';
+const note = "C/4";
+const filename = "note-C4.svg";
 
 // Create a VexFlow renderer attached to the DIV element with id="output".
 const { Factory, StaveNote } = Vex.Flow;
-const vf = new Factory({renderer: { 
-  elementId: 'output', 
-  width: 80, 
-  height: 130 
-}});
+const vf = new Factory({
+  renderer: {
+    elementId: "output",
+    width: 80,
+    height: 130,
+  },
+});
 // Create a guitar staff, displaced down one octave
-vf.System().addStave({voices:[vf.EasyScore().voice([
-	new StaveNote({ 
-    keys: [note], 
-    duration: "w", 
-    octave_shift: -1
+vf.System()
+  .addStave({
+    voices: [
+      vf.EasyScore().voice([
+        new StaveNote({
+          keys: [note],
+          duration: "w",
+          octave_shift: -1,
+        }),
+      ]),
+    ],
   })
-])]})
-.addClef('treble', 'default', '8vb');
+  .addClef("treble", "default", "8vb");
 vf.draw();
 
 // Hack to append a download link for the generated SVG
-const svgData = $('#output')[0].innerHTML.replace('<svg ', '<svg xmlns="http://www.w3.org/2000/svg" ');
-const svgBlob = new Blob([svgData], {type:"image/svg+xml;charset=utf-8"});
+const svgData = $("#output")[0].innerHTML.replace(
+  "<svg ",
+  '<svg xmlns="http://www.w3.org/2000/svg" '
+);
+const svgBlob = new Blob([svgData], { type: "image/svg+xml;charset=utf-8" });
 const svgUrl = URL.createObjectURL(svgBlob);
 const downloadLink = document.createElement("a");
-downloadLink.innerText = 'Download';
+downloadLink.innerText = "Download";
 downloadLink.href = svgUrl;
 downloadLink.download = filename;
-$('#output')[0].after(downloadLink);
+$("#output")[0].after(downloadLink);
 ```
-
-# Copyright
-
-Copyright &copy; 2022-2023 by Jason Grimes.
