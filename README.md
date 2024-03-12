@@ -106,11 +106,11 @@ Then create a new release for the new edition on the GitHub website,
 following the existing naming convention at
 https://github.com/jasongrimes/fretboardfoundation/releases
 
-Upload the PDF file to the github release page as an artifact.
+Upload the PDF file to the github release form as a binary.
 
 ## Update the PDF download forms at ConvertKit
 
-
+Update the download file for each individual form at ConvertKit that sends the PDF.
 
 # Generating offline site
 
