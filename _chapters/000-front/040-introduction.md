@@ -251,11 +251,8 @@ Any topic or diagram should be easy to find within a few "taps" through the tabl
 
 ## Additional resources
 
-Since this book does not provide a step-by-step method,
-it might be helpful to combine it with other forms of study.
-
 The Fretboard Foundation website offers a variety of additional resources,
-including step-by-step courses, free tutorial videos and articles, private lessons,
+including self-paced courses, free tutorial videos and articles, private lessons,
 and software applications for exploring the ideas in this book in an experiential way.
 
 See [fretboardfoundation.com](https://fretboardfoundation.com) for more information.
