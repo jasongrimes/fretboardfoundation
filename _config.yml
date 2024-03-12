@@ -38,35 +38,38 @@ bookcrumbs:
 
 # Links shown above the TOC in the sidebar
 sidebar_nav_top:
-- label: About this site
-  url: /about.html
-
+  - label: Fretboard Foundation home
+    url: https://fretboardfoundation.com
+  - label: Book website
+    url: /index.html
+  - label: Download PDF
+    url: https://fretboardfoundation.ck.page/book-pdf
 
 # Links shown below the TOC in the sidebar
 sidebar_nav_bottom:
-- label: Download PDF
-  url: https://fretboardfoundation.ck.page/book-pdf
-- label: Tools
-  url: /tools.html
-- label: Draft outline
-  url: /outline.html
-- label: Privacy statement
-  url: /privacy.html
-- label: Contact
-  url: /about.html#contact-and-corrections
+  - label: About
+    url: /about.html
+  - label: Tools
+    url: /tools.html
+  - label: Privacy statement
+    url: /privacy.html
+  - label: Contact
+    url: /about.html#contact-and-corrections
 
 # Navigation shown at the bottom of the page
 bottom_nav:
-- label: Home
-  url: /index.html
-- label: Contents
-  url: /toc.html
-- label: Tools
-  url: /tools.html
-- label: About
-  url: /about.html
-- label: Privacy
-  url: /privacy.html
+  - label: Fretboard Foundation
+    url: https://fretboardfoundation.com
+  - label: Book
+    url: /index.html
+  - label: Contents
+    url: /toc.html
+  - label: Tools
+    url: /tools.html
+  - label: About
+    url: /about.html
+  - label: Privacy
+    url: /privacy.html
 
 # Whether to show chapter headings as a table of contents at the top of each chapter page.
 # Override in page front matter with disable_toc: true
@@ -82,7 +85,7 @@ sidebar_toc:
   h_min: 2
   h_max: 3
 
-# 
+#
 # End navigation menus
 #
 
@@ -93,7 +96,7 @@ github_edit:
 
 # Custom CSS
 extra_css:
-    - assets/fretboardfoundation.css
+  - assets/fretboardfoundation.css
 
 # Chapters can be hidden from navigation by adding ".draft" to the index at the start of their filename.
 # (For example, rename 010-introduction.md to 010.draft-introduction.md)
@@ -101,10 +104,6 @@ extra_css:
 # To make the drafts appear in the navigation in development environments,
 # set show_drafts_in_dev to true.
 show_drafts_in_dev: false
-
-
-
-
 
 exclude:
   - _drafts
@@ -116,7 +115,7 @@ incremental: false
 regenerate: true
 
 plugins:
-#  - jekyll-feed
+  #  - jekyll-feed
   - jekyll-readme-index
 #  - jemoji
 
@@ -128,8 +127,7 @@ collections:
     permalink: /:slug:output_ext
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "chapters"
     values:
@@ -137,15 +135,15 @@ defaults:
       permalink: /:slug:output_ext
 
 # Markdown render engine.
-markdown:         kramdown
+markdown: kramdown
 kramdown:
-  auto_ids:               true
-  input:                  GFM
-  math_engine:            mathjax
-  smart_quotes:           lsquo,rsquo,ldquo,rdquo
-  toc_levels:             1..6
-  syntax_highlighter:     rouge
+  auto_ids: true
+  input: GFM
+  math_engine: mathjax
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  toc_levels: 1..6
+  syntax_highlighter: rouge
   syntax_highlighter_opts:
-    guess_lang:           true
+    guess_lang: true
 syntax_highlighter_style: colorful
-markdown_ext:     markdown,mkdown,mkdn,mkd,md
+markdown_ext: markdown,mkdown,mkdn,mkd,md
