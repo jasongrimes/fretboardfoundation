@@ -38,7 +38,7 @@ bookcrumbs:
 
 # Links shown above the TOC in the sidebar
 sidebar_nav_top:
-  - label: Fretboard Foundation home
+  - label: Beyond the book
     url: https://fretboardfoundation.com
   - label: Book website
     url: /index.html
@@ -58,16 +58,12 @@ sidebar_nav_bottom:
 
 # Navigation shown at the bottom of the page
 bottom_nav:
-  - label: Fretboard Foundation
+  - label: Home
     url: https://fretboardfoundation.com
   - label: Book
     url: /index.html
   - label: Contents
     url: /toc.html
-  - label: Tools
-    url: /tools.html
-  - label: About
-    url: /about.html
   - label: Privacy
     url: /privacy.html
 
