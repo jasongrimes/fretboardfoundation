@@ -7,13 +7,13 @@ abstract: An overview of the topics ahead and how to use this book.
 ## An overview of the ideas in this book
 
 If this was a step-by-step guitar method,
-it might be organized in reverse.
-First it might teach scales,
+it would traditionally be organized in reverse.
+First it would teach notes and scales,
 then how to assemble the scales into chords,
-and finally improvisation, 
+and finally improvisation,
 chord melody, and playing by ear.
 
-But I have found it more effective to study guitar in the opposite order,
+But I have found it more useful to study guitar in the opposite order,
 and in short iterations rather than a long step-by-step path.
 First improvising by ear,
 however clumsy or imperfect,
@@ -23,8 +23,8 @@ to play a bunch of songs.
 Then
 refining with scale practice.
 And then iterating again and improvising,
-"*improving*",
-in an intermittent upward spiral. 
+"_improving_",
+like a spiral rising ever upward.
 
 ### Playing by ear
 
@@ -34,7 +34,7 @@ though "tuning" might be a better word for it.
 Listening, making adjustments, and listening again,
 in a feedback loop until the tone suits our taste.
 Without this fundamental habit,
-it's hard to make music. 
+it's hard to make music.
 
 The simplest way to practice using our ears,
 and arguably the simplest way to play a guitar at all,
@@ -81,7 +81,7 @@ for better sources on these topics.
 ## Studying music on guitar
 
 Over 2000 years ago,
-a Greek philosopher and mathematician named Pythagoras laid the foundations of Western music 
+a Greek philosopher and mathematician named Pythagoras laid the foundations of Western music
 by studying the properties of vibrating strings.
 
 Today,
@@ -99,10 +99,10 @@ so on guitar it's less important to devote equal practice to all 12 keys.
 It's more useful to have C major down cold than to be partially fluent in many keys.
 
 Musical staff notation is not as well suited to guitar as it is to other instruments like piano,
-in part because on guitar 
+in part because on guitar
 the exact same pitch can be found at multiple places on the fretboard.
 
-On a fretboard, 
+On a fretboard,
 intervals are the same shape in every key,
 but notes are hard to identify.
 On a piano keyboard,
@@ -119,7 +119,7 @@ That's the approach taken in this book.
 ## How to learn
 
 Master guitar educator Christopher Berg wrote an invaluable book that must be mentioned here:
-*Practicing Music by Design: Historic Virtuosi on Peak Performance*
+_Practicing Music by Design: Historic Virtuosi on Peak Performance_
 [(2019)](references.html#berg-2019).
 He reviewed "peak performance" literature
 about research into the development of expert skill,
@@ -150,7 +150,7 @@ Trying to learn more than 5-7 new things at a time will result in learning none 
 
 ### Slow practice
 
-Contemporary neuroscience research and the "old masters" seem to agree that 
+Contemporary neuroscience research and the "old masters" seem to agree that
 **the slower we practice,
 the faster we advance**.
 
@@ -184,7 +184,7 @@ Studies show that repeatedly practicing the same thing over and over is actually
 Instead of mindless repetition,
 a more effective approach is to analyze a particular subject and practice it from multiple angles.
 
-Varying rhythm, dynamics, accents, 
+Varying rhythm, dynamics, accents,
 and articulation
 keeps practice interesting,
 helps to solve technical problems,
@@ -192,8 +192,7 @@ improves the ability to effect musical nuance,
 and trains us to make sophisticated adjustments in real time to adapt to unexpected circumstances.
 
 The appearance of fluid grace by expert performers
-is a sort of illusion created by these skillful micro-adjustments and compensations. 
-
+is a sort of illusion created by these skillful micro-adjustments and compensations.
 
 ## How to use this book
 
@@ -201,7 +200,7 @@ This book does not provide a step-by-step method for learning guitar.
 It's more of an encyclopedia.
 Or maybe a grimoire.
 
-### Skimming 
+### Skimming
 
 This book is designed to be "skimmed".
 
@@ -212,7 +211,7 @@ That's "skimming" the chapter.
 
 The headings throughout the text are written as an outline,
 intended to be readable on their own,
-as a summary of the text. 
+as a summary of the text.
 This makes it easy to take in an overview by quickly skimming tables of contents and chapter texts.
 
 ### Get an overview
@@ -252,9 +251,11 @@ Any topic or diagram should be easy to find within a few "taps" through the tabl
 
 ## Additional resources
 
-In addition to this book, supplementary tools and materials are available on the Fretboard Foundation website.
+Since this book does not provide a step-by-step method,
+it might be helpful to combine it with other forms of study.
 
-For example, there are software applications that provide interactive, playable, 
-editable, and audible fretboard diagrams for exploring the ideas in this book in an experiential way.
+The Fretboard Foundation website offers a variety of additional resources,
+including step-by-step courses, free tutorial videos and articles, private lessons,
+and software applications for exploring the ideas in this book in an experiential way.
 
-See [fretboardfoundation.com/tools](https://fretboardfoundation.com/tools.html) for details.
+See [fretboardfoundation.com](https://fretboardfoundation.com) for more information.
