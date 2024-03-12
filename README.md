@@ -96,7 +96,7 @@ When it looks good, print it via the browser and select "Save as PDF".
 there's a bug in Chrome on Mac that prevents the pagination from rendering properly,
 but it works when using Safari or Firefox.)
 
-Save the PDF file to your local system as `Fretboard Foundation v2.pdf`
+Save the PDF file to your local system as `Fretboard-Foundation-v2.pdf`
 (replace `v2` with the current version/edition number).
 
 ## Tag a new release in GitHub
