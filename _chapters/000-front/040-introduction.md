@@ -75,7 +75,7 @@ Rhythm.
 
 Guitar basics.
 
-See {% include chapter-link.html slug="references" %}
+See {% include chapter-link.html slug="references" %} and [fretboardfoundation.com](https://fretboardfoundation.com)
 for better sources on these topics.
 
 ## Studying music on guitar
