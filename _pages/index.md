@@ -11,7 +11,7 @@ class: homepage
 
 **[Read on the web](book.html)**
 
-**[Download PDF](https://fretboardfoundation.ck.page/book-pdf)**
+**[Download PDF](https://pages.fretboardfoundation.com/pdf)**
 
 </div>
 
