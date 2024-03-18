@@ -15,9 +15,8 @@ They would share bits and pieces of wisdom,
 but it was always incomplete,
 and left a tremendous amount unsaid.
 It had yet to be analyzed and distilled into an accessible method.
-Eventually, I assembled it myself.
 
-Now I use it as the basis for my teaching and ongoing music study.
+Eventually, I assembled it myself. Now I use it as the basis for my ongoing music study and teaching.
 
 ## Intermediate material is needed
 
