@@ -506,19 +506,20 @@ and serve as archetypes of the chord functions.
 * **Subdominant** IV (4-6-1) is away from home,
   sharing only one note with the I,
   but stable,
-  being a major triad and having no leading tone.
+  being a major triad and having no leading tone. The 4&#x302; is a dissonant semitone away from the 3. 
 * **Dominant** V (5-7-2) is away from home,
   sharing only one note in common with the I.
-  It is also dissonant,
-  because it has the leading tone (7&#x302;).
+  It is more dissonant than the Subdominant,
+  because it has both the 4&#x302; *and* the leading tone (7&#x302;), which are both a semitone aeay from a Tonic chord tone *and* a tritone away from each other. 
   Consequently we "want" it to resolve to the 1&#x302; (the root of the tonic).
 
 The remaining chords sort into functions by similarity:
 * **Tonic** vi (6-1-3) and sometimes iii (3-5-7) are close to home,
-  sharing two notes with the I.
+  sharing two notes with the I 
+   and having no 4&#x302;.
   (The iii does have the leading tone (7) however, 
   so in some cases it can act more as a dominant than a tonic.)
-* **Subdominant** ii (2-4-6) is away from home,
+* **Subdominant** ii (2-4-6) is away from home, having a 4&#x302;,
   sharing no notes with I and one note with vi and iii;
   and it is close to the IV (sharing two notes with no dissonant intervals).
 * **Dominant** vii&deg; (7-2-4) is tense, 
