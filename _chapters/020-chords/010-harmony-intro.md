@@ -509,7 +509,7 @@ and serve as archetypes of the chord functions.
   being a major triad and having no leading tone. The 4&#x302; is a dissonant semitone away from the 3&#x302; in the tonic. 
 * **Dominant** V (5-7-2) is away from home,
   sharing only one note in common with the I.
-  It is more dissonant than the Subdominant,
+  It is more dissonant than the subdominant,
   because it has both the 4&#x302; *and* the leading tone (7&#x302;), which are both a dissonant semitone away from tonic chord tones *and* a tritone away from each other. 
   Consequently we "want" it to resolve to the 1&#x302; (the root of the tonic).
 
