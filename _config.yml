@@ -52,7 +52,7 @@ sidebar_nav_bottom:
   - label: Tools
     url: /tools.html
   - label: Privacy statement
-    url: /privacy.html
+    url: https://fretboardfoundation.com/privacy/
   - label: Contact
     url: /about.html#contact-and-corrections
 
@@ -65,7 +65,7 @@ bottom_nav:
   - label: Contents
     url: /toc.html
   - label: Privacy
-    url: /privacy.html
+    url: https://fretboardfoundation.com/privacy/
 
 # Whether to show chapter headings as a table of contents at the top of each chapter page.
 # Override in page front matter with disable_toc: true
