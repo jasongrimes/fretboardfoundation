@@ -96,7 +96,7 @@ distinguish between two [notes](#note), *[tonal](#tonal) or otherwise*, sounded 
 
 - **tonal**{:#tonal}: (1) any music which has the properties of a [tone](#tone).
 (2) Confusingly, but commonly,
-"tonal" sometimes refers to music that has a [tonic](#tonic).
+"tonal" often refers to music that has a [tonic](#tonic).
 Philip Tagg makes a convincing argument that this usage,
 in addition to causing confusion by obscuring the fact that there are other ways of doing things,
 is chauvinist and biased against tonal idioms not used in the euroclassical or jazz canons
