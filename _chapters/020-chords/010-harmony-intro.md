@@ -116,8 +116,11 @@ This makes them sound highly consonant.
 #### Major and minor
 
 The *quality* of the remaining, 
-non-perfect interval numbers are called "major" or "minor",
-which is determined by how many "semitones" or frets they span.
+non-perfect interval numbers are called "major" or "minor". 
+
+"Major" intervals are the intervals that comprise the "major scale" (described later). 
+
+"Minor" intervals are one fret below (or one "semitone" below) the major ones.
 
 #### Semitones, tones, and frets 
 
