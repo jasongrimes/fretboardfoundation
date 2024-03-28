@@ -199,8 +199,9 @@ A chord is a group of two or more notes sounded together.
 In most Western music, 
 chords are constructed by "stacking thirds".
 
-Stacking thirds refers to adding successive intervals of a third until the chord has as many notes as we want it to.
-Another way to think of stacking thirds is adding *every other* note in a scale. 
+Stacking thirds means adding successive intervals of a third until the chord has as many notes as we want it to.
+
+Another way to think of stacking thirds is adding *every other* note in a scale. (And another way to say "every other note" is "every third note". Get it?)
 
 Building chords from stacked thirds is called "tertian harmony",
 which is the most common type of harmony in Western music.
