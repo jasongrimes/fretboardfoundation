@@ -95,7 +95,7 @@ For one thing,
 on guitar it's easier to play the same tune in different keys,
 known as "transposition".
 Different keys can often be played with the same fingerings at a different fret,
-so on guitar it's less important to devote equal practice to all 12 keys.
+so on guitar it's less important to devote equal practice to all keys.
 It's more useful to have C major down cold than to be partially fluent in many keys.
 
 Musical staff notation is not as well suited to guitar as it is to other instruments like piano,
