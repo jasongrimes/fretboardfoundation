@@ -175,8 +175,7 @@ and visualizing ourselves playing it,
 allows us to practice in a pure and focused way,
 without the distractions of physical reality.
 
-As with all of these techniques,
-incorporating visualization into practice is reported to dramatically increase the speed of learning.
+Incorporating visualization into practice is reported to dramatically increase the speed of learning.
 
 ### Variety in repetition
 
