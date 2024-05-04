@@ -93,7 +93,7 @@ The perfect fifth is the most common musical sound in the world
 (partly because it is the dominant harmonic in the "[overtone series](glossary.html#overtone-series)",
 a natural phenomenon of acoustics).
 
-The interval between the 3rd and 2nd string is called a "**major third**".
+The interval between the 2nd and 3rd string is called a "**major third**".
 It's arguably the most important sound in Western harmony,
 and it's the *next* most distinguishable harmonic in the overtone series.
 
