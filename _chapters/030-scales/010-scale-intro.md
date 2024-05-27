@@ -112,6 +112,31 @@ The scale semitones and tones are one and two frets apart.
     class="chord row"
 %}
 
+## Assembling scales across strings
+
+Assembling a scale across strings requires knowing where to find semitone and whole tone intervals on neighboring strings.
+
+Remember that the intervals between all strings are the same (a perfect fourth),
+except the interval between strings 2-3 (the "third rail") is one semitone smaller (a major third).
+
+When interval shapes cross the third rail between strings 2-3, the *higher* pitched note is pushed *forward* by one fret (ex. when ascending). When descending, another way to think about it is that the *lower* pitched note is pushed *back* by one fret. 
+
+{% include figure.html
+    caption="Semitone and whole tone on neighboring strings."
+    url="/assets/figures/major-scale/neighboring-st.svg"
+    class="chord row"
+%}
+
+{% include figure.html
+    caption="Intervals on neighboring strings."
+    url="/assets/figures/major-scale/neighboring-intervals.svg"
+    class="chord row"
+%}
+
+As a trick for finding the next scale degree on the neighboring string,
+notice that when playing the lower note with the pinkie,
+the whole tone up on the neighboring string is under the index finger. **A whole tone across strings spans four fingers.** To reach the semitone instead, stretch the index finger back one fret. (**A whole tone across strings 3-2 spans only 3 fingers**, ex. pinkie to middle finger.)
+
 ## Tetrachords
 
 A 7-note scale with the tonic repeated at the octave
@@ -169,31 +194,6 @@ Some common tetrachord names:
 |lydian        |T-T-T    |1-2-3-#4 |C-D-E-F# |
 
 </div>
-
-## Assembling scales across strings
-
-Assembling a scale across strings requires knowing where to find semitone and whole tone intervals on neighboring strings.
-
-Remember that the intervals between all strings are the same (a perfect fourth),
-except the interval between strings 2-3 (the "third rail") is one semitone smaller (a major third).
-
-When interval shapes cross the third rail between strings 2-3, the *higher* pitched note is pushed *forward* by one fret (ex. when ascending). When descending, another way to think about it is that the *lower* pitched note is pushed *back* by one fret. 
-
-{% include figure.html
-    caption="Semitone and whole tone on neighboring strings."
-    url="/assets/figures/major-scale/neighboring-st.svg"
-    class="chord row"
-%}
-
-{% include figure.html
-    caption="Intervals on neighboring strings."
-    url="/assets/figures/major-scale/neighboring-intervals.svg"
-    class="chord row"
-%}
-
-As a trick for finding the next scale degree on the neighboring string,
-notice that when playing the lower note with the pinkie,
-the whole tone up on the neighboring string is under the index finger. **A whole tone across strings spans four fingers.** To reach the semitone instead, stretch the index finger back one fret. (**A whole tone across strings 3-2 spans only 3 fingers**, ex. pinkie to middle finger.)
 
 ## CAGED scale forms
 
