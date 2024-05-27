@@ -173,7 +173,7 @@ Some common tetrachord names:
 ## Assembling scales across strings
 
 Assembling a scale across strings requires knowing where to find semitone and whole tone intervals on neighboring strings.
-Remember the intervals are the same between all strings (a perfect fourth),
+Remember that the intervals are the same between all strings (a perfect fourth),
 except the "third rail" major third interval between strings 2-3.
 
 When interval shapes cross the third rail, the *higher* pitched note is pushed *forward* by one fret (when ascending). When descending, another way to think about it is that the *lower* pitched note is pushed *back* by one fret. 
