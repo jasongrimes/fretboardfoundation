@@ -137,6 +137,26 @@ As a trick for finding the next scale degree on the neighboring string,
 notice that when playing the lower note with the little finger,
 the whole tone up on the neighboring string is under the index finger. **A whole tone across strings spans four fingers.** To reach the semitone instead, stretch the index finger back one fret. (**A whole tone across strings 3-2 spans only 3 fingers**, ex. little finger to middle finger.)
 
+## CAGED scale forms
+
+Scales are typically taught in a variety of "forms" or "shapes", 
+with different teachers using different forms having often contradictory names.
+
+This book focuses on scale forms based around CAGED chord shapes. 
+This is practical because it integrates with the chords we are actually playing, 
+and we gradually develop an understanding and muscle memory for chords and scales blended together. 
+This blended intuition helps things flow when improvising.
+
+Anchoring scales on CAGED roots also results in a clear and obvious way to name scale forms, 
+like "C form" or "A form", 
+rather than using ambiguous terms like "form 1" or "position 5-2".
+
+To assemble a scale on a CAGED form,
+put the first note of the scale on the lowest root of one of the CAGED chord shapes,
+and assemble the scale across the strings without moving the hand out of position.
+
+See {% include chapter-link.html slug="caged" %} for more on CAGED chord shapes.
+
 ## Tetrachords
 
 A 7-note scale with the tonic repeated at the octave
@@ -194,26 +214,6 @@ Some common tetrachord names:
 |lydian        |T-T-T    |1-2-3-#4 |C-D-E-F# |
 
 </div>
-
-## CAGED scale forms
-
-Scales are typically taught in a variety of "forms" or "shapes", 
-with different teachers using different forms having often contradictory names.
-
-This book focuses on scale forms based around CAGED chord shapes. 
-This is practical because it integrates with the chords we are actually playing, 
-and we gradually develop an understanding and muscle memory for chords and scales blended together. 
-This blended intuition helps things flow when improvising.
-
-Anchoring scales on CAGED roots also results in a clear and obvious way to name scale forms, 
-like "C form" or "A form", 
-rather than using ambiguous terms like "form 1" or "position 5-2".
-
-To assemble a scale on a CAGED form,
-put the first note of the scale on the lowest root of one of the CAGED chord shapes,
-and assemble the scale across the strings without moving the hand out of position.
-
-See {% include chapter-link.html slug="caged" %} for more on CAGED chord shapes.
 
 ## Practicing scales
 
