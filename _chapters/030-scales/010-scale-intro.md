@@ -68,7 +68,7 @@ or by the location of semitones (ex. semitones at **3-4** and **7-1**).
 For example, 
 the *major scale* is a seven note diatonic scale 
 with semitones between degrees 3-4 and 7-1.
-Canonically, all the major scale degrees are major or perfect intervals. 
+By definition, all the major scale degrees are major or perfect intervals. 
 
 **Major scale intervals**
 
