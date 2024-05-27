@@ -119,7 +119,7 @@ Assembling a scale across strings requires knowing where to find semitone and wh
 Remember that the intervals between all strings are the same (a perfect fourth),
 except the interval between strings 2-3 (the "third rail") is one semitone smaller (a major third).
 
-When interval shapes cross the "third rail" between strings 2-3, the *higher* pitched note is pushed *forward* by one fret (ex. when ascending). When descending, another way to think about it is that the *lower* pitched note is pushed *back* by one fret. 
+When interval shapes cross the "third rail" between strings 2-3, the *higher* pitched note is pushed *forward* by one fret. When descending, another way to think about it is that the *lower* pitched note is pushed *back* by one fret. 
 
 {% include figure.html
     caption="Semitone and whole tone on neighboring strings."
