@@ -61,9 +61,9 @@ spaced as far apart as possible.
 {:.page-break-before}
 
 Scales are defined by their intervals, 
-either between degrees (**T-T-S-T-T-T-S**),
-from the tonic (**1-2-3-4-5-6-7** or **1-2-b3-4-5-b6-b7**),
-or by the location of semitones (semitones at **3-4** and **7-1**).
+either between degrees (ex. **T-T-S-T-T-T-S**),
+from the tonic (ex. **1-2-3-4-5-6-7** or **1-2-b3-4-5-b6-b7**),
+or by the location of semitones (ex. semitones at **3-4** and **7-1**).
 
 For example, 
 the *major scale* is a seven note diatonic scale 
