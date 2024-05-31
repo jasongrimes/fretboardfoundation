@@ -507,7 +507,7 @@ These are the "primary chords",
 and serve as archetypes of the chord functions.
 
 * **Tonic** I (1-3-5) is home.
-* **Subdominant** IV (4-6-1) is away from home, but it does include the 1&#x302.
+* **Subdominant** IV (4-6-1) is away from home, but it does include the 1&#x302;.
   It is stable,
   being a major triad and having no leading tone. The 4&#x302; is a dissonant semitone away from the 3&#x302; in the tonic. 
 * **Dominant** V (5-7-2) is away from home.
@@ -528,7 +528,6 @@ The remaining chords sort into functions by similarity:
   (the 7&#x302; and 4&#x302; scale degrees).
   It has the leading tone as its root,
   pulling to the tonic.
-
 ### V-I cadence
 
 A defining characteristic of most euroclassical and jazz music is the use of "cadences",
