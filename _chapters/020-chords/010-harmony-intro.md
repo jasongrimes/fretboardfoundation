@@ -507,15 +507,12 @@ These are the "primary chords",
 and serve as archetypes of the chord functions.
 
 * **Tonic** I (1-3-5) is home.
-* **Subdominant** IV (4-6-1) is away from home,
-  sharing only one note with the I,
-  but stable,
+* **Subdominant** IV (4-6-1) is away from home, but it does include the 1&#x302.
+  It is stable,
   being a major triad and having no leading tone. The 4&#x302; is a dissonant semitone away from the 3&#x302; in the tonic. 
-* **Dominant** V (5-7-2) is away from home,
-  sharing only one note in common with the I.
+* **Dominant** V (5-7-2) is away from home.
   It is more dissonant than the subdominant,
-  because it has both the 4&#x302; *and* the leading tone (7&#x302;), which are both a dissonant semitone away from tonic chord tones *and* a tritone away from each other. 
-  Consequently we "want" it to resolve to the 1&#x302; (the root of the tonic).
+  because it has the leading tone (7&#x302;), and it contains the dissonant tritone between the 4&#x302; and 7&#x302;. The 7&#x302; and 4&#x302; are each a dissonant semitone away from tonic chord tones, so we "want" them to resolve to the 1&#x302; and 3&#x302; in the I chord.
 
 The remaining chords sort into functions by similarity:
 * **Tonic** vi (6-1-3) and sometimes iii (3-5-7) are close to home,
