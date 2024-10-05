@@ -231,7 +231,7 @@ Notice the relative major and minor forms:
 %}
 
 {% include figure.html
-    caption="Minor pentatonic scale in A CAGED form."
+    caption="Minor pentatonic scale in G CAGED form."
     url="/assets/figures/pentatonic/G-minor.svg"
     class="chord row"
 %}
