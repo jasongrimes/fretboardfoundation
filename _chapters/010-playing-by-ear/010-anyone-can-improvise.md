@@ -25,7 +25,8 @@ doesn't mean coming up with an entirely original composition (if there even is s
 We can play parts of existing tunes,
 flowing from one bit to the next on a whim,
 floating on a stream of consciousness,
-adding our own embellishments as we are moved to do so. 
+adding our own embellishments as we are moved to do so, 
+and discovering new melodies by accident ("mistakes").
 
 ## Why improvise?
 
