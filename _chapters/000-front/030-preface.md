@@ -91,8 +91,8 @@ In these other systems,
 Western harmony is treated as just one mode (the "Ionian mode") among many.
 
 By simply taking a step back and realizing that Western harmony is just one framework among many---albeit
-one that is particularly suited to Western musicians---otherwise
-confusing concepts suddenly become clear,
+one that is particularly suited to Western musicians---concepts that seemed
+confusing suddenly become clear,
 even obvious.
 
 For example,
