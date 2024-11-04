@@ -7,6 +7,9 @@ abstract: The most natural way to find the next note is also the easiest way to 
 The simplest way to start improvising a melody
 is to play up and down a single string.
 
+This also addresses a common complaint intermediate guitarists: that they don't know how to play up and down the fretboard, 
+feeling stuck in position around scale patterns.
+
 ## The most logical place to begin
 
 In _The Advancing Guitarist_, 
