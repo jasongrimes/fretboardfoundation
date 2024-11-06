@@ -528,6 +528,8 @@ The remaining chords sort into functions by similarity:
   (the 7&#x302; and 4&#x302; scale degrees).
   It has the leading tone as its root,
   pulling to the tonic.
+
+
 ### V-I cadence
 
 A defining characteristic of most euroclassical and jazz music is the use of "cadences",
