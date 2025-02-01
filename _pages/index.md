@@ -18,7 +18,7 @@ class: homepage
 <span class="font-larger" markdown="block">
 **[Beyond the book](https://fretboardfoundation.com)**  
 </span>
-Get step-by-step courses, free lesson videos and articles, study tools, and more.
+Get step-by-step courses, free lesson videos, study tools, articles, and more.
 
 <div style="margin-bottom: 50px;"></div>
 <div></div>
