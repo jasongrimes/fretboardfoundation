@@ -7,7 +7,7 @@ class: homepage
 
 <div class="font-larger" markdown="block">
 
-**Get the 200+ page ebook, for free!**
+**Get the 200+ page ebook, for free.**
 
 **[Read on the web](book.html)**
 
@@ -18,7 +18,7 @@ class: homepage
 <span class="font-larger" markdown="block">
 **[Beyond the book](https://fretboardfoundation.com)**  
 </span>
-Get step-by-step courses, free tutorial videos and articles, private lessons, and more.
+Get step-by-step courses, free lesson videos and articles, study tools, and more.
 
 <div style="margin-bottom: 50px;"></div>
 <div></div>
