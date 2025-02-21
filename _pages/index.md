@@ -5,7 +5,7 @@ subtitle: Practical building-blocks for intermediate guitarists.
 class: homepage
 ---
 
-<div class="font-larger" markdown="block">
+<div style="font-size: 16px;" markdown="block">
 
 **Get the 200+ page ebook, for free.**
 
