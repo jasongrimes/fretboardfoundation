@@ -5,7 +5,7 @@ subtitle: Practical building-blocks for intermediate guitarists.
 class: homepage
 ---
 
-<div style="font-size: 20px;" markdown="block">
+<div style="font-size: 22px;" markdown="block">
 
 **Get the 200+ page ebook, for free.**
 
@@ -15,7 +15,7 @@ class: homepage
 
 </div>
 
-<span class="font-larger" markdown="block">
+<span style="font-size: 22px;" markdown="block">
 **[Beyond the book](https://fretboardfoundation.com)**  
 </span>
 Get step-by-step courses, free lesson videos, study tools, articles, and more.
