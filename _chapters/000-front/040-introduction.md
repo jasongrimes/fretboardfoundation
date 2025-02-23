@@ -251,7 +251,7 @@ Any topic or diagram should be easy to find within a few "taps" through the tabl
 ## Additional resources
 
 The Fretboard Foundation website offers a variety of additional resources,
-including self-paced courses, free tutorial videos and articles, private lessons,
-and software applications for exploring the ideas in this book in an experiential way.
+including self-paced courses, free tutorial videos and articles,
+and software tools for exploring the ideas in this book in an experiential way.
 
 See [fretboardfoundation.com](https://fretboardfoundation.com) for more information.
