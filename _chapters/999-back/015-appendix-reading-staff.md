@@ -15,7 +15,7 @@ we need to acquire a minimal ability to read music for guitar.
 
 Fortunately, in most cases this just means being able to decipher the notes on the staff and locate them on the fretboard.
 Reading rhythms is a bit harder,
-but it's not strictly necessary in order to extract the basic melodic ideas,
+but it's not strictly necessary in order to extract the basic melodic and harmonic ideas,
 so it won't be covered here.
 
 ## The staff and clef
