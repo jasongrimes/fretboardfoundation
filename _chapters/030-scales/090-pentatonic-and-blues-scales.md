@@ -82,7 +82,7 @@ it's the 4&#x302; and 7&#x302;;
 in the minor scale,
 it's the 2&#x302; and b6&#x302;.
 
-The absence of the two most dissonant intervals in Western music make these pentatonic scales highly consonant.
+The absence of the two most dissonant intervals in Western music make these pentatonic scales especially consonant.
 
 ## Major and minor pentatonic
 
