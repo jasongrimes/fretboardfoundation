@@ -301,10 +301,10 @@ This added tone is often called a "blue note".
 But this is an oversimplification,
 and playing the scale that way does not really sound like the Blues.
 
-A more practical way to view the blues scale is as a series of flexible "pitch areas",
+It can be more practical to view the blues scale as a series of flexible "pitch areas",
 rather than as specific notes.
 
-There are three main pitch areas in the blues:
+The blues often uses three main pitch areas:
 
 - Between 2&#x302; and 3&#x302; (spanning both major and minor thirds)
 - Between 4&#x302; and 5&#x302; (or more specifically, 4&#x302;-#4&#x302; and b5&#x302;-5&#x302;)
