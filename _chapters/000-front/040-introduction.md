@@ -56,7 +56,7 @@ That's the objective of [Part 2](chords.html).
 
 Scales are often misunderstood or misused,
 to the extent that some guitar players avoid them entirely,
-while others memorize and repetitively practice arcane shapes with little understanding or melody.
+while others memorize and repetitively practice arcane shapes with little understanding or musicality.
 
 This is unfortunate,
 because scales are the simple patterns that underlie almost all music.
