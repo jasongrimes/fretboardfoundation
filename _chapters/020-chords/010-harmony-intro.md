@@ -340,7 +340,7 @@ Sometimes a song changes key one or more times,
 to add interest.
 
 A song in one key can be played in another key,
-and it will sound the same to all known listeners,
+and it will sound the same to all humans,
 but at an overall higher or lower pitch.
 Changing the key of a song is called "transposing" it to another key.
 
