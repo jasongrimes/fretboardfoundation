@@ -614,7 +614,7 @@ as `1x43x2`.
 %}
 
 The E minor shape is essentially the same as the G minor shape,
-except gripped from below rather than above.
+except gripped from ahead rather than behind.
 
 This shape is commonly played as a barre chord,
 `134111`. 
