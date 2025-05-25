@@ -120,7 +120,7 @@ non-perfect interval numbers are called "major" or "minor".
 
 "Major" intervals are the intervals that comprise the "major scale" (described later). 
 
-"Minor" intervals are one fret below (or one "semitone" below) the major ones.
+"Minor" intervals are one fret behind (or one "semitone" below) the major ones.
 
 #### Semitones, tones, and frets 
 
