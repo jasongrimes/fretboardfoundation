@@ -514,7 +514,7 @@ Compare these diatonic minor chords around an E shape i chord with their relativ
     class="chord row"
 %}
 
-Compare these diatonic minor chords around an D shape i chord with their relative 
+Compare these diatonic minor chords around a D shape i chord with their relative 
 [diatonic major chords in E shape I position](major-harmony.html#e-shape-i-chord-position).
 
 **Minor key chords in D shape i position**
