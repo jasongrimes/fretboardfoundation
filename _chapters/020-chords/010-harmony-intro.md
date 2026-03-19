@@ -581,7 +581,7 @@ degree 7&#x302; is a major seventh, and so on.
 To find a major third interval on the fretboard,
 imagine the lower note is the tonic of a major scale,
 and find the 3&#x302;. 
-The minor intervals are a fret below the major ones. 
+The minor intervals are one fret behind the major ones. 
 
 See {% include chapter-link.html slug="major-scale" %}
 for more information.
