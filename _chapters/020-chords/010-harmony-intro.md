@@ -312,7 +312,7 @@ Harmonizing the natural minor scale gives the following chords:
 
 <div class="table-wrapper" markdown="block">
 
-| Chord        | In C       | Scale degrees | In C     | Chord factors | Chord type |
+| Chord        | In Cm      | Scale degrees | In C     | Chord factors | Chord type |
 |:------------:|:----------:|:-------------:|:--------:|:--------------|:----------:|
 | **i**        | **Cm**     | 1-b3-5        | C-Eb-G   | R b3 5        | minor      |
 | **ii&deg;**  | **D&deg;** | 2-4-b6        | D-Fb-Ab  | R b3 b5       | diminished |
