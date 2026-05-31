@@ -42,8 +42,8 @@ sidebar_nav_top:
     url: https://fretboardfoundation.com
   - label: Book website
     url: /index.html
-  - label: Download PDF
-    url: https://pages.fretboardfoundation.com/pdf
+#  - label: Download PDF
+#    url: https://pages.fretboardfoundation.com/pdf
 
 # Links shown below the TOC in the sidebar
 sidebar_nav_bottom:
