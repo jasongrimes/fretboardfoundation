@@ -7,18 +7,12 @@ class: homepage
 
 <div style="font-size: 22px;" markdown="block">
 
-**Get the 200+ page ebook, for free.**
-
-**[Read on the web](book.html)**
-
-**[Download PDF](https://fretboardfoundation.com/L/tmr)**
+**New: [Free guitar lessons](https://fretboardfoundation.com/lessons?l=tmy)** covering the book material in an interactive format can be found on the [Fretboard Foundation](https://fretboardfoundation.com?l=tmx) website.
 
 </div>
 
-<span style="font-size: 22px;" markdown="block">
-**[Beyond the book](https://fretboardfoundation.com)**  
-</span>
-Get step-by-step courses, free lesson videos, study tools, articles, and more.
+Read the free 200+ page ebook: **[Read on the web](book.html) - [Download PDF](https://fretboardfoundation.com/book/pdf?l=tmr)**
+
 
 <div style="margin-bottom: 50px;"></div>
 <div></div>
